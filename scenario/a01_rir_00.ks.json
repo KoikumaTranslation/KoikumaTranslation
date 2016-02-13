@@ -1,1 +1,2140 @@
-{"names":[319,243,273,262,256,321,241],"strings":[{"original":"$eye"},{"original":"$lip"},{"original":"$lipアルル"},{"original":"$lipタマ"},{"original":"$lip優"},{"original":"$lip咲莉"},{"original":"$lip梨々愛"},{"original":"$lip雅妃"},{"original":"*end"},{"original":"*gameend_scnsel"},{"original":"*start"},{"original":"0"},{"original":"1000"},{"original":"1500"},{"original":"2000"},{"original":"300"},{"original":"3000"},{"original":"900"},{"original":"99a3c8893082f2269fcef3e6c8c63420"},{"original":"@"},{"original":"@+10"},{"original":"@+100"},{"original":"@+60"},{"original":"@-10"},{"original":"@-100"},{"original":"@-30"},{"original":"MoveAction"},{"original":"RandomAction"},{"original":"RandomFlipAction"},{"original":"SinAction"},{"original":"a01_rir_00.ks"},{"original":"a01_rir_01.ks"},{"original":"acdec"},{"original":"arle_0473"},{"original":"bg"},{"original":"bg09a_x"},{"original":"bgm"},{"original":"bgm15"},{"original":"bgm_BGM15"},{"original":"both"},{"original":"cg_question_mark"},{"original":"cg_sweat_mark"},{"original":"cg_アルル.stand"},{"original":"cg_タマ.stand"},{"original":"cg_リリア.stand"},{"original":"cg_優.stand"},{"original":"cg_咲莉.stand"},{"original":"cg_雅妃.stand"},{"original":"character"},{"original":"crossfade"},{"original":"del"},{"original":"doBoxBlur"},{"original":"emiri_0522"},{"original":"emo_梨々愛"},{"original":"emotion"},{"original":"env"},{"original":"envupdate"},{"original":"eval"},{"original":"exit"},{"original":"eye"},{"original":"eyeflipdisable"},{"original":"f.sceneview"},{"original":"init"},{"original":"left"},{"original":"light"},{"original":"meswinload"},{"original":"miyabi_0642"},{"original":"msgchange"},{"original":"msgoff"},{"original":"new"},{"original":"opacity"},{"original":"order"},{"original":"page"},{"original":"pretrans"},{"original":"question_mark"},{"original":"riria_0699"},{"original":"riria_0700"},{"original":"riria_0701"},{"original":"riria_0702"},{"original":"riria_0703"},{"original":"riria_0704"},{"original":"riria_0705"},{"original":"riria_0706"},{"original":"riria_0707"},{"original":"riria_0708"},{"original":"riria_0709"},{"original":"riria_0710"},{"original":"riria_0711"},{"original":"riria_0712"},{"original":"riria_0713"},{"original":"riria_0714"},{"original":"riria_0715"},{"original":"riria_0716"},{"original":"riria_0717"},{"original":"riria_0718"},{"original":"riria_0719"},{"original":"riria_0720"},{"original":"riria_0721"},{"original":"riria_0722"},{"original":"riria_0723"},{"original":"riria_0724"},{"original":"riria_0725"},{"original":"riria_0726"},{"original":"riria_0727"},{"original":"riria_0728"},{"original":"riria_0729"},{"original":"riria_0730"},{"original":"riria_0731"},{"original":"riria_0732"},{"original":"riria_0733"},{"original":"riria_0734"},{"original":"riria_0735"},{"original":"riria_0736"},{"original":"riria_0737"},{"original":"riria_0738"},{"original":"riria_0739"},{"original":"riria_0740"},{"original":"riria_0741"},{"original":"riria_0742"},{"original":"rotate"},{"original":"se"},{"original":"seセクシー"},{"original":"se浜辺の音"},{"original":"stage"},{"original":"start.ks"},{"original":"stopaction"},{"original":"storage"},{"original":"sweat_mark"},{"original":"tama_0450"},{"original":"tama_0451"},{"original":"target"},{"original":"trans"},{"original":"update"},{"original":"visvalue"},{"original":"wait"},{"original":"xpos"},{"original":"ypos"},{"original":"yu_0490"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[51]},{"original":"「あ、あのね、蓮くん\u2026\u2026」","lines":[21]},{"original":"「あ、梨々愛」","lines":[133]},{"original":"「あぁ、そうだな！」","lines":[102]},{"original":"「あぁ、約束だ」","lines":[54]},{"original":"「あぁ、言ってたけど？」","lines":[97]},{"original":"「あとあとあと、蓮くんとボートに乗ってみたいなぁ～！」","lines":[89]},{"original":"「あのね、凛ちゃんが言ってたんだけど\u2015\u2015」","lines":[126]},{"original":"「あー！　梨々姉、ずるい！」","lines":[112]},{"original":"「いい子じゃない？　そんなことはないと思うが」","lines":[113]},{"original":"「いつでも抜け駆けのことを、考えてる悪い子です」","lines":[81]},{"original":"「いやいやいや、どうしてそういう話になるんだよ\u2026\u2026」","lines":[14,45]},{"original":"「うげげげげげげげげげげげげげ」","lines":[122]},{"original":"「うん、そうだね」","lines":[136]},{"original":"「うんっ♪」","lines":[24]},{"original":"「うんまぁ、ちょっと休憩かな」","lines":[128]},{"original":"「えええっ？」","lines":[77]},{"original":"「え？　ママを？」","lines":[62]},{"original":"「お、おう\u2026\u2026」","lines":[47]},{"original":"「おいおい勝手に亡き者にするな\u2026\u2026」","lines":[31]},{"original":"「お邪魔しまーっす♪　にへへ、蓮くんのお隣♪」","lines":[29]},{"original":"「お隣、失礼してもよろしいですます？」","lines":[94]},{"original":"「かき氷って\u2026\u2026なんか、めっちゃ普通だな\u2026\u2026」","lines":[93]},{"original":"「かき氷を食べる！」","lines":[75]},{"original":"「けど？」","lines":[42]},{"original":"「これも全部タマちゃんのおかげなんだなぁ」","lines":[30]},{"original":"「ご自由にどうぞ」","lines":[59]},{"original":"「さっき言った海がすごい楽しいって言うのはね\u2026\u2026えとぉ、そのぉ\u2026\u2026」","lines":[88]},{"original":"「じゃあじゃあ、今度来たとき何しよっかなぁ～！」","lines":[28]},{"original":"「じゃあわたしも蓮くんと一緒に休憩しよーっと！」","lines":[68]},{"original":"「そういえばそんなこともあったっけか」","lines":[38]},{"original":"「そうかそうか、よかったよかった」","lines":[43]},{"original":"「そうそう、タマちゃんのおかげだよ」","lines":[131]},{"original":"「それじゃあ、もう十分に休憩はしたよね？」","lines":[39]},{"original":"「それなら連れてきた甲斐があったというものだ」","lines":[109]},{"original":"「それはそれで楽しいからいいよ！」","lines":[91]},{"original":"「だからわたしね、蓮くんと海でやってみたいことがあるんだよ～！」","lines":[78]},{"original":"「だって、俺たち寮で暮らし始めたから顔を合わせる機会が減っちゃっただろ？」","lines":[37]},{"original":"「だって、海で遊ぶのってすごく楽しいもん！」","lines":[115]},{"original":"「だって、蓮くんを誰にも取られたくないって気持ちは一番強いもん\u2026\u2026」","lines":[124]},{"original":"「って、まるでもう今日が終わったみたいな言い方だよ！」","lines":[130]},{"original":"「でも、一応休憩という名目なんだから\u2026\u2026！」","lines":[72]},{"original":"「でも、今度は二人っきりで海に来たいね」","lines":[96]},{"original":"「な、なるほど」","lines":[104]},{"original":"「なぁ梨々愛、ここで問題点が一つある」","lines":[36]},{"original":"「なんだか嬉しそうだな」","lines":[32]},{"original":"「にへにへ♪」","lines":[11]},{"original":"「ふぅ\u2026\u2026」","lines":[80]},{"original":"「ぶー\u2026\u2026もしかして蓮くんはママの水着が見たいの\u2026\u2026？」","lines":[92]},{"original":"「ほう、例えば？」","lines":[86]},{"original":"「ま、梨々愛が嫌だって言うなら二人でいいか」","lines":[67]},{"original":"「またこうやって、子供の頃みたいに蓮くんと海にこれて良かったなぁって思ってるのですよ、にへへ」","lines":[95]},{"original":"「むしろそれがいいの！」","lines":[135]},{"original":"「よし！　行くぞ、梨々愛！」","lines":[101]},{"original":"「よーし蓮くん！　じゃあ、約束ね！」","lines":[73]},{"original":"「れ、蓮くんが嫌じゃなければ、だけど\u2026\u2026」","lines":[87]},{"original":"「わぁい！　やったー！」","lines":[53]},{"original":"「わたし、さっき海が楽しいって言ったでしょ\u2026\u2026？」","lines":[46]},{"original":"「わたしたち、タマちゃんのことは忘れないよ\u2026\u2026！」","lines":[125]},{"original":"「わたしはまだまだ遊ぶつもりだよ！」","lines":[52]},{"original":"「ん？　どうした？」","lines":[44]},{"original":"「バハムートさまさまだな」","lines":[90]},{"original":"「今度ここを使うとき、事前に言っておいてくれればいろいろ用意してくれるって！」","lines":[120]},{"original":"「今日は楽しかったな」","lines":[106]},{"original":"「他のやつらも一緒に付いてくるだろうな、たぶん」","lines":[134]},{"original":"「休憩はこれくらいにして遊ぶか！」","lines":[76]},{"original":"「個人的には、怜香さんも誘ったらどうかなぁとは思ってたりするんだけどさ」","lines":[20]},{"original":"「別に元気なわけじゃないと思うんだけど\u2026\u2026」","lines":[74]},{"original":"「別に嫌じゃないけど\u2015\u2015」","lines":[129]},{"original":"「別に抜け駆けってわけじゃ\u2026\u2026あるけど\u2026\u2026！」","lines":[105]},{"original":"「問題点？」","lines":[79]},{"original":"「怜香さんも心配してそうだし、親孝行的な感じで」","lines":[127]},{"original":"「抜け駆けはずるい」","lines":[110]},{"original":"「梨々愛は純粋でいい子だな、よしよし」","lines":[15]},{"original":"「相変わらずタマちゃんは元気だな」","lines":[61]},{"original":"「蓮くんと一緒だから、すごく楽しいんだよ\u2026\u2026？」","lines":[60]},{"original":"「蓮くんと一緒だからって\u2026\u2026ことだからね\u2026\u2026？」","lines":[111]},{"original":"「蓮くんによしよしされるのは好きだけど、別にわたしはいい子でもなんでもないのですよ」","lines":[23]},{"original":"「蓮くんはお疲れ？？」","lines":[40]},{"original":"「蓮くんは何もしてないよ\u2026\u2026」","lines":[55]},{"original":"「蓮くんは分かってなさそうだから言うけどね、言わせてもらうけどね\u2026\u2026」","lines":[132]},{"original":"「蓮さんたちもこっちで一緒に遊びましょう\u2026\u2026！」","lines":[114]},{"original":"「虎視眈眈って感じなのですよ、ええ、はい」","lines":[83]},{"original":"うーむ、怜香さんの水着かぁ\u2026\u2026！","lines":[66]},{"original":"こういうのは、すごくドキッとするな\u2026\u2026。","lines":[100]},{"original":"そういうのって、すごく楽しそうだ。","lines":[34]},{"original":"そして、切って貼り付けたみたいなニコニコ笑顔の梨々愛。","lines":[117]},{"original":"その原因が俺にあるのだけれど\u2026\u2026。","lines":[138]},{"original":"その際、俺は自然と梨々愛の手を握りしめていた。","lines":[108]},{"original":"それで今日みたいな騒がしい感じになるだろう。","lines":[118]},{"original":"そんな俺は梨々愛になんて言えばいいのだろうか\u2026\u2026？","lines":[70]},{"original":"そんな機会もめっきり減った気がする。","lines":[71]},{"original":"だからこそ、俺もこうして海にこれて良かったと思う。","lines":[103]},{"original":"と、言っておきながら疑問に思うことが一つだけあった。","lines":[50]},{"original":"なんだか、だんだんと心配になってきたぞ\u2026\u2026。","lines":[33]},{"original":"ひょっこりと俺の隣に梨々愛がやってくる。","lines":[99]},{"original":"ぷかぷかと波に揺られ、時間を忘れる。","lines":[48]},{"original":"まぁ、あの状態なら似たようなものだが。","lines":[27]},{"original":"まさに嬉しい悲鳴ってやつだな。","lines":[84]},{"original":"むむむっ！　怜香さんの水着！　うむむっ！","lines":[18]},{"original":"やっぱり、体力的はそれなりにあるのだろうか。","lines":[132]},{"original":"アルル"},{"original":"アルル.stand","lines":[14,45]},{"original":"タマ"},{"original":"タマ.stand","lines":[16]},{"original":"タマちゃんは変わらず元気に鳴き続けていた。","lines":[98]},{"original":"ボートで沖に出たら気持ち良さそうだなぁ。"},{"original":"リリア.stand","lines":[63]},{"original":"上目使いでこちらを覗いてくる梨々愛。","lines":[123]},{"original":"二人で海を見つめながら改めてしみじみとそう思う。","lines":[58]},{"original":"何か言いにくいこともであるのだろうか\u2026\u2026？","lines":[69]},{"original":"俺の両親が家を開けることが増えてからというもの\u2015\u2015","lines":[13]},{"original":"俺は吐息を付き、木陰で少々の休憩を。","lines":[137]},{"original":"俺は立ち上がって走り出す。"},{"original":"側面手上"},{"original":"側面手下","lines":[127]},{"original":"優"},{"original":"優.stand"},{"original":"出右"},{"original":"出奥"},{"original":"出左","lines":[119]},{"original":"励ましたり、応援するのは変だしなぁ\u2026\u2026。","lines":[126]},{"original":"咲莉"},{"original":"咲莉.stand","lines":[19]},{"original":"子供は風の子って言うしさ。","lines":[25]},{"original":"寮の面々のノリに合わせていると疲れる。","lines":[12]},{"original":"少しはしゃぎ疲れた。","lines":[82]},{"original":"怜香さんの水着かぁ\u2026\u2026。"},{"original":"手上"},{"original":"手下","lines":[64]},{"original":"改まってそういうことを言われるとなんだか照れくさい。","lines":[49]},{"original":"日が暮れるまでにカムバックできるだろうか\u2026\u2026？","lines":[65]},{"original":"普段はなんてことない感じで梨々愛に接しているけれど\u2015\u2015","lines":[20,23,28,29,31,32,37,40,43,46,51,53,55,59,60,61,67,72,73,75,77,80,87,88,89,90,91,93,95,97,101,105,109,111,113,114,115,122,124,125,128,129,130,136]},{"original":"梨々愛","lines":[22]},{"original":"梨々愛がひょこひょこと近づいてくる。","lines":[56]},{"original":"梨々愛が赤面させてもじもじとしている。","lines":[41]},{"original":"梨々愛の言う通りである。","lines":[116]},{"original":"梨々愛もいろいろと大変だなぁ\u2026\u2026。","lines":[26]},{"original":"楽しいけど、疲れる。","lines":[35]},{"original":"楽しさみたいなものが全面的に表れていた。","lines":[85]},{"original":"正直な話、タマちゃんの水着よりは見たいかなぁ\u2026\u2026！"},{"original":"正面手上"},{"original":"正面手下","lines":[17]},{"original":"歳は食ってるけど、見た目は若いからなぁ。"},{"original":"水着"},{"original":"消"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口怒１:汗無::頬１"},{"original":"眉怒１:目Ａ悲１:口怒１:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬２"},{"original":"眉怒１:目Ａ驚１:口怒１:汗無::頬１"},{"original":"眉悲１:目悲２:口笑１:汗無::頬１"},{"original":"眉悲１:目Ａ照２:口笑１:汗無::頬２"},{"original":"眉悲１:目Ａ笑１:口悲１:汗無::頬２"},{"original":"眉悲１:目Ａ笑１:口悲１:汗無::頬３"},{"original":"眉悲１:目Ａ笑１:口笑１:汗無::頬２"},{"original":"眉悲２:目Ａ悲２:口悲２:汗無::頬２"},{"original":"眉悲２:目Ａ照２:口悲２:汗無::頬２"},{"original":"眉照１:目Ａ照１:口照１:汗無::頬１"},{"original":"眉照１:目Ａ照１:口照１:汗無::頬２"},{"original":"眉照２:目Ａ照２:口照２:汗無::頬２"},{"original":"眉照２:目Ａ照２:口照２:汗無::頬３"},{"original":"眉照２:目Ａ笑１:口照２:汗無::頬３"},{"original":"眉笑１:目悲２:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ照１:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬２"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬２"},{"original":"眉笑１:目Ａ驚１:口笑１:汗無::頬２"},{"original":"眉笑２:目Ａ悲１:口悲１:汗無::頬２"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬１"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬２"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬３"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬２","lines":[57]},{"original":"瞳は泳いで、あっちこっちに視線が行っている。","lines":[107]},{"original":"簡単に俺たちを二人で海には行かせてくれないだろう。","lines":[121]},{"original":"結局、俺の絞り出した答えはありきたりな言葉だった。","lines":[11,15,21,24,30,36,38,39,42,44,47,52,54,62,68,74,76,78,79,81,86,92,94,96,102,104,106,110,112,120,133,134,135]},{"original":"蓮","lines":[0,141]},{"original":"隣、空いてる？","lines":[131]},{"original":"雅妃"},{"original":"雅妃.stand"},{"original":"零距離"}],"name":30,"lines":[{"type":3,"title":320},{"subtype":0,"type":5},{"name":319,"type":2},{"name":243,"type":2},{"name":273,"type":2},{"name":262,"type":2},{"name":256,"type":2},{"name":321,"type":2},{"name":241,"type":2},{"subtype":0,"type":5},{"label":10,"type":6},{"name":319,"text":187,"type":1},{"text":266,"type":0},{"text":252,"type":0},{"name":243,"text":152,"type":1},{"name":319,"text":214,"type":1},{"text":245,"type":0},{"text":283,"type":0},{"text":240,"type":0},{"text":264,"type":0},{"name":273,"text":207,"type":1},{"name":319,"text":142,"type":1},{"text":274,"type":0},{"name":273,"text":218,"type":1},{"name":319,"text":155,"type":1},{"text":265,"type":0},{"text":278,"type":0},{"text":238,"type":0},{"name":273,"text":169,"type":1},{"name":273,"text":161,"type":1},{"name":319,"text":166,"type":1},{"name":273,"text":160,"type":1},{"name":273,"text":186,"type":1},{"text":235,"type":0},{"text":226,"type":0},{"text":279,"type":0},{"name":319,"text":185,"type":1},{"name":273,"text":178,"type":1},{"name":319,"text":171,"type":1},{"name":319,"text":174,"type":1},{"name":273,"text":219,"type":1},{"text":276,"type":0},{"name":319,"text":165,"type":1},{"name":273,"text":172,"type":1},{"name":319,"text":201,"type":1},{"name":243,"text":152,"type":1},{"name":273,"text":198,"type":1},{"name":319,"text":159,"type":1},{"text":237,"type":0},{"text":271,"type":0},{"text":234,"type":0},{"name":273,"text":141,"type":1},{"name":319,"text":200,"type":1},{"name":273,"text":197,"type":1},{"name":319,"text":145,"type":1},{"name":273,"text":220,"type":1},{"text":275,"type":0},{"text":316,"type":0},{"text":250,"type":0},{"name":273,"text":167,"type":1},{"name":273,"text":216,"type":1},{"name":273,"text":215,"type":1},{"name":319,"text":158,"type":1},{"text":248,"type":0},{"text":270,"type":0},{"text":272,"type":0},{"text":224,"type":0},{"name":273,"text":191,"type":1},{"name":319,"text":170,"type":1},{"text":251,"type":0},{"text":231,"type":0},{"text":232,"type":0},{"name":273,"text":182,"type":1},{"name":273,"text":195,"type":1},{"name":319,"text":208,"type":1},{"name":273,"text":164,"type":1},{"name":319,"text":206,"type":1},{"name":273,"text":157,"type":1},{"name":319,"text":177,"type":1},{"name":319,"text":211,"type":1},{"name":273,"text":188,"type":1},{"name":319,"text":151,"type":1},{"text":267,"type":0},{"text":223,"type":0},{"text":239,"type":0},{"text":280,"type":0},{"name":319,"text":190,"type":1},{"name":273,"text":196,"type":1},{"name":273,"text":168,"type":1},{"name":273,"text":147,"type":1},{"name":273,"text":202,"type":1},{"name":273,"text":176,"type":1},{"name":319,"text":189,"type":1},{"name":273,"text":163,"type":1},{"name":319,"text":162,"type":1},{"name":273,"text":192,"type":1},{"name":319,"text":183,"type":1},{"name":273,"text":146,"type":1},{"text":246,"type":0},{"text":236,"type":0},{"text":225,"type":0},{"name":273,"text":194,"type":1},{"name":319,"text":144,"type":1},{"text":233,"type":0},{"name":319,"text":184,"type":1},{"name":273,"text":210,"type":1},{"name":319,"text":204,"type":1},{"text":317,"type":0},{"text":229,"type":0},{"name":273,"text":175,"type":1},{"name":319,"text":213,"type":1},{"name":273,"text":217,"type":1},{"name":319,"text":149,"type":1},{"name":273,"text":150,"type":1},{"name":273,"text":222,"type":1},{"name":273,"text":179,"type":1},{"text":277,"type":0},{"text":227,"type":0},{"text":230,"type":0},{"text":261,"type":0},{"name":319,"text":203,"type":1},{"text":318,"type":0},{"name":273,"text":153,"type":1},{"text":249,"type":0},{"name":273,"text":180,"type":1},{"name":273,"text":199,"type":1},{"name":262,"text":148,"type":1},{"name":256,"text":212,"type":1},{"name":273,"text":156,"type":1},{"name":273,"text":209,"type":1},{"name":273,"text":181,"type":1},{"name":321,"text":173,"type":1},{"name":241,"text":221,"type":1},{"name":319,"text":143,"type":1},{"name":319,"text":205,"type":1},{"name":319,"text":193,"type":1},{"name":273,"text":154,"type":1},{"text":253,"type":0},{"text":228,"type":0},{"storage":30,"label":8,"type":7},{"subtype":0,"type":5},{"type":3,"title":320},{"subtype":0,"type":5},{"label":8,"type":6},{"storage":31,"label":10,"type":7}],"labels":{"8":143,"10":10}}
+{
+  "names": [
+    319,
+    243,
+    273,
+    262,
+    256,
+    321,
+    241
+  ],
+  "strings": [
+    {
+      "original": "$eye"
+    },
+    {
+      "original": "$lip"
+    },
+    {
+      "original": "$lipアルル"
+    },
+    {
+      "original": "$lipタマ"
+    },
+    {
+      "original": "$lip優"
+    },
+    {
+      "original": "$lip咲莉"
+    },
+    {
+      "original": "$lip梨々愛"
+    },
+    {
+      "original": "$lip雅妃"
+    },
+    {
+      "original": "*end"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "0"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "1500"
+    },
+    {
+      "original": "2000"
+    },
+    {
+      "original": "300"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "900"
+    },
+    {
+      "original": "99a3c8893082f2269fcef3e6c8c63420"
+    },
+    {
+      "original": "@"
+    },
+    {
+      "original": "@+10"
+    },
+    {
+      "original": "@+100"
+    },
+    {
+      "original": "@+60"
+    },
+    {
+      "original": "@-10"
+    },
+    {
+      "original": "@-100"
+    },
+    {
+      "original": "@-30"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "RandomAction"
+    },
+    {
+      "original": "RandomFlipAction"
+    },
+    {
+      "original": "SinAction"
+    },
+    {
+      "original": "a01_rir_00.ks"
+    },
+    {
+      "original": "a01_rir_01.ks"
+    },
+    {
+      "original": "acdec"
+    },
+    {
+      "original": "arle_0473"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg09a_x"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm15"
+    },
+    {
+      "original": "bgm_BGM15"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cg_question_mark"
+    },
+    {
+      "original": "cg_sweat_mark"
+    },
+    {
+      "original": "cg_アルル.stand"
+    },
+    {
+      "original": "cg_タマ.stand"
+    },
+    {
+      "original": "cg_リリア.stand"
+    },
+    {
+      "original": "cg_優.stand"
+    },
+    {
+      "original": "cg_咲莉.stand"
+    },
+    {
+      "original": "cg_雅妃.stand"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "emiri_0522"
+    },
+    {
+      "original": "emo_梨々愛"
+    },
+    {
+      "original": "emotion"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eye"
+    },
+    {
+      "original": "eyeflipdisable"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "left"
+    },
+    {
+      "original": "light"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "miyabi_0642"
+    },
+    {
+      "original": "msgchange"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "opacity"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "pretrans"
+    },
+    {
+      "original": "question_mark"
+    },
+    {
+      "original": "riria_0699"
+    },
+    {
+      "original": "riria_0700"
+    },
+    {
+      "original": "riria_0701"
+    },
+    {
+      "original": "riria_0702"
+    },
+    {
+      "original": "riria_0703"
+    },
+    {
+      "original": "riria_0704"
+    },
+    {
+      "original": "riria_0705"
+    },
+    {
+      "original": "riria_0706"
+    },
+    {
+      "original": "riria_0707"
+    },
+    {
+      "original": "riria_0708"
+    },
+    {
+      "original": "riria_0709"
+    },
+    {
+      "original": "riria_0710"
+    },
+    {
+      "original": "riria_0711"
+    },
+    {
+      "original": "riria_0712"
+    },
+    {
+      "original": "riria_0713"
+    },
+    {
+      "original": "riria_0714"
+    },
+    {
+      "original": "riria_0715"
+    },
+    {
+      "original": "riria_0716"
+    },
+    {
+      "original": "riria_0717"
+    },
+    {
+      "original": "riria_0718"
+    },
+    {
+      "original": "riria_0719"
+    },
+    {
+      "original": "riria_0720"
+    },
+    {
+      "original": "riria_0721"
+    },
+    {
+      "original": "riria_0722"
+    },
+    {
+      "original": "riria_0723"
+    },
+    {
+      "original": "riria_0724"
+    },
+    {
+      "original": "riria_0725"
+    },
+    {
+      "original": "riria_0726"
+    },
+    {
+      "original": "riria_0727"
+    },
+    {
+      "original": "riria_0728"
+    },
+    {
+      "original": "riria_0729"
+    },
+    {
+      "original": "riria_0730"
+    },
+    {
+      "original": "riria_0731"
+    },
+    {
+      "original": "riria_0732"
+    },
+    {
+      "original": "riria_0733"
+    },
+    {
+      "original": "riria_0734"
+    },
+    {
+      "original": "riria_0735"
+    },
+    {
+      "original": "riria_0736"
+    },
+    {
+      "original": "riria_0737"
+    },
+    {
+      "original": "riria_0738"
+    },
+    {
+      "original": "riria_0739"
+    },
+    {
+      "original": "riria_0740"
+    },
+    {
+      "original": "riria_0741"
+    },
+    {
+      "original": "riria_0742"
+    },
+    {
+      "original": "rotate"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "seセクシー"
+    },
+    {
+      "original": "se浜辺の音"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "stopaction"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "sweat_mark"
+    },
+    {
+      "original": "tama_0450"
+    },
+    {
+      "original": "tama_0451"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "yu_0490"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "「あ、あのね、蓮くん……」",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "「あ、梨々愛」",
+      "lines": [
+        133
+      ]
+    },
+    {
+      "original": "「あぁ、そうだな！」",
+      "lines": [
+        102
+      ]
+    },
+    {
+      "original": "「あぁ、約束だ」",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "「あぁ、言ってたけど？」",
+      "lines": [
+        97
+      ]
+    },
+    {
+      "original": "「あとあとあと、蓮くんとボートに乗ってみたいなぁ～！」",
+      "lines": [
+        89
+      ]
+    },
+    {
+      "original": "「あのね、凛ちゃんが言ってたんだけど――」",
+      "lines": [
+        126
+      ]
+    },
+    {
+      "original": "「あー！　梨々姉、ずるい！」",
+      "lines": [
+        112
+      ]
+    },
+    {
+      "original": "「いい子じゃない？　そんなことはないと思うが」",
+      "lines": [
+        113
+      ]
+    },
+    {
+      "original": "「いつでも抜け駆けのことを、考えてる悪い子です」",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "「いやいやいや、どうしてそういう話になるんだよ……」",
+      "lines": [
+        14,
+        45
+      ]
+    },
+    {
+      "original": "「うげげげげげげげげげげげげげ」",
+      "lines": [
+        122
+      ]
+    },
+    {
+      "original": "「うん、そうだね」",
+      "lines": [
+        136
+      ]
+    },
+    {
+      "original": "「うんっ♪」",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "「うんまぁ、ちょっと休憩かな」",
+      "lines": [
+        128
+      ]
+    },
+    {
+      "original": "「えええっ？」",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "「え？　ママを？」",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "「お、おう……」",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "「おいおい勝手に亡き者にするな……」",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "「お邪魔しまーっす♪　にへへ、蓮くんのお隣♪」",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "「お隣、失礼してもよろしいですます？」",
+      "lines": [
+        94
+      ]
+    },
+    {
+      "original": "「かき氷って……なんか、めっちゃ普通だな……」",
+      "lines": [
+        93
+      ]
+    },
+    {
+      "original": "「かき氷を食べる！」",
+      "lines": [
+        75
+      ]
+    },
+    {
+      "original": "「けど？」",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "「これも全部タマちゃんのおかげなんだなぁ」",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "「ご自由にどうぞ」",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "「さっき言った海がすごい楽しいって言うのはね……えとぉ、そのぉ……」",
+      "lines": [
+        88
+      ]
+    },
+    {
+      "original": "「じゃあじゃあ、今度来たとき何しよっかなぁ～！」",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "「じゃあわたしも蓮くんと一緒に休憩しよーっと！」",
+      "lines": [
+        68
+      ]
+    },
+    {
+      "original": "「そういえばそんなこともあったっけか」",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "「そうかそうか、よかったよかった」",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "「そうそう、タマちゃんのおかげだよ」",
+      "lines": [
+        131
+      ]
+    },
+    {
+      "original": "「それじゃあ、もう十分に休憩はしたよね？」",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "「それなら連れてきた甲斐があったというものだ」",
+      "lines": [
+        109
+      ]
+    },
+    {
+      "original": "「それはそれで楽しいからいいよ！」",
+      "lines": [
+        91
+      ]
+    },
+    {
+      "original": "「だからわたしね、蓮くんと海でやってみたいことがあるんだよ～！」",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "「だって、俺たち寮で暮らし始めたから顔を合わせる機会が減っちゃっただろ？」",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "「だって、海で遊ぶのってすごく楽しいもん！」",
+      "lines": [
+        115
+      ]
+    },
+    {
+      "original": "「だって、蓮くんを誰にも取られたくないって気持ちは一番強いもん……」",
+      "lines": [
+        124
+      ]
+    },
+    {
+      "original": "「って、まるでもう今日が終わったみたいな言い方だよ！」",
+      "lines": [
+        130
+      ]
+    },
+    {
+      "original": "「でも、一応休憩という名目なんだから……！」",
+      "lines": [
+        72
+      ]
+    },
+    {
+      "original": "「でも、今度は二人っきりで海に来たいね」",
+      "lines": [
+        96
+      ]
+    },
+    {
+      "original": "「な、なるほど」",
+      "lines": [
+        104
+      ]
+    },
+    {
+      "original": "「なぁ梨々愛、ここで問題点が一つある」",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "「なんだか嬉しそうだな」",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "「にへにへ♪」",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "「ふぅ……」",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "「ぶー……もしかして蓮くんはママの水着が見たいの……？」",
+      "lines": [
+        92
+      ]
+    },
+    {
+      "original": "「ほう、例えば？」",
+      "lines": [
+        86
+      ]
+    },
+    {
+      "original": "「ま、梨々愛が嫌だって言うなら二人でいいか」",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "「またこうやって、子供の頃みたいに蓮くんと海にこれて良かったなぁって思ってるのですよ、にへへ」",
+      "lines": [
+        95
+      ]
+    },
+    {
+      "original": "「むしろそれがいいの！」",
+      "lines": [
+        135
+      ]
+    },
+    {
+      "original": "「よし！　行くぞ、梨々愛！」",
+      "lines": [
+        101
+      ]
+    },
+    {
+      "original": "「よーし蓮くん！　じゃあ、約束ね！」",
+      "lines": [
+        73
+      ]
+    },
+    {
+      "original": "「れ、蓮くんが嫌じゃなければ、だけど……」",
+      "lines": [
+        87
+      ]
+    },
+    {
+      "original": "「わぁい！　やったー！」",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "「わたし、さっき海が楽しいって言ったでしょ……？」",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "「わたしたち、タマちゃんのことは忘れないよ……！」",
+      "lines": [
+        125
+      ]
+    },
+    {
+      "original": "「わたしはまだまだ遊ぶつもりだよ！」",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "「ん？　どうした？」",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "「バハムートさまさまだな」",
+      "lines": [
+        90
+      ]
+    },
+    {
+      "original": "「今度ここを使うとき、事前に言っておいてくれればいろいろ用意してくれるって！」",
+      "lines": [
+        120
+      ]
+    },
+    {
+      "original": "「今日は楽しかったな」",
+      "lines": [
+        106
+      ]
+    },
+    {
+      "original": "「他のやつらも一緒に付いてくるだろうな、たぶん」",
+      "lines": [
+        134
+      ]
+    },
+    {
+      "original": "「休憩はこれくらいにして遊ぶか！」",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "「個人的には、怜香さんも誘ったらどうかなぁとは思ってたりするんだけどさ」",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "「別に元気なわけじゃないと思うんだけど……」",
+      "lines": [
+        74
+      ]
+    },
+    {
+      "original": "「別に嫌じゃないけど――」",
+      "lines": [
+        129
+      ]
+    },
+    {
+      "original": "「別に抜け駆けってわけじゃ……あるけど……！」",
+      "lines": [
+        105
+      ]
+    },
+    {
+      "original": "「問題点？」",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "「怜香さんも心配してそうだし、親孝行的な感じで」",
+      "lines": [
+        127
+      ]
+    },
+    {
+      "original": "「抜け駆けはずるい」",
+      "lines": [
+        110
+      ]
+    },
+    {
+      "original": "「梨々愛は純粋でいい子だな、よしよし」",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "「相変わらずタマちゃんは元気だな」",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "「蓮くんと一緒だから、すごく楽しいんだよ……？」",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "「蓮くんと一緒だからって……ことだからね……？」",
+      "lines": [
+        111
+      ]
+    },
+    {
+      "original": "「蓮くんによしよしされるのは好きだけど、別にわたしはいい子でもなんでもないのですよ」",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "「蓮くんはお疲れ？？」",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "「蓮くんは何もしてないよ……」",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "「蓮くんは分かってなさそうだから言うけどね、言わせてもらうけどね……」",
+      "lines": [
+        132
+      ]
+    },
+    {
+      "original": "「蓮さんたちもこっちで一緒に遊びましょう……！」",
+      "lines": [
+        114
+      ]
+    },
+    {
+      "original": "「虎視眈眈って感じなのですよ、ええ、はい」",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "うーむ、怜香さんの水着かぁ……！",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "こういうのは、すごくドキッとするな……。",
+      "lines": [
+        100
+      ]
+    },
+    {
+      "original": "そういうのって、すごく楽しそうだ。",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "そして、切って貼り付けたみたいなニコニコ笑顔の梨々愛。",
+      "lines": [
+        117
+      ]
+    },
+    {
+      "original": "その原因が俺にあるのだけれど……。",
+      "lines": [
+        138
+      ]
+    },
+    {
+      "original": "その際、俺は自然と梨々愛の手を握りしめていた。",
+      "lines": [
+        108
+      ]
+    },
+    {
+      "original": "それで今日みたいな騒がしい感じになるだろう。",
+      "lines": [
+        118
+      ]
+    },
+    {
+      "original": "そんな俺は梨々愛になんて言えばいいのだろうか……？",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "そんな機会もめっきり減った気がする。",
+      "lines": [
+        71
+      ]
+    },
+    {
+      "original": "だからこそ、俺もこうして海にこれて良かったと思う。",
+      "lines": [
+        103
+      ]
+    },
+    {
+      "original": "と、言っておきながら疑問に思うことが一つだけあった。",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "なんだか、だんだんと心配になってきたぞ……。",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "ひょっこりと俺の隣に梨々愛がやってくる。",
+      "lines": [
+        99
+      ]
+    },
+    {
+      "original": "ぷかぷかと波に揺られ、時間を忘れる。",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "まぁ、あの状態なら似たようなものだが。",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "まさに嬉しい悲鳴ってやつだな。",
+      "lines": [
+        84
+      ]
+    },
+    {
+      "original": "むむむっ！　怜香さんの水着！　うむむっ！",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "やっぱり、体力的はそれなりにあるのだろうか。",
+      "lines": [
+        132
+      ]
+    },
+    {
+      "original": "アルル"
+    },
+    {
+      "original": "アルル.stand",
+      "lines": [
+        14,
+        45
+      ]
+    },
+    {
+      "original": "タマ"
+    },
+    {
+      "original": "タマ.stand",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "タマちゃんは変わらず元気に鳴き続けていた。",
+      "lines": [
+        98
+      ]
+    },
+    {
+      "original": "ボートで沖に出たら気持ち良さそうだなぁ。"
+    },
+    {
+      "original": "リリア.stand",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "上目使いでこちらを覗いてくる梨々愛。",
+      "lines": [
+        123
+      ]
+    },
+    {
+      "original": "二人で海を見つめながら改めてしみじみとそう思う。",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "何か言いにくいこともであるのだろうか……？",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "俺の両親が家を開けることが増えてからというもの――",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "俺は吐息を付き、木陰で少々の休憩を。",
+      "lines": [
+        137
+      ]
+    },
+    {
+      "original": "俺は立ち上がって走り出す。"
+    },
+    {
+      "original": "側面手上"
+    },
+    {
+      "original": "側面手下",
+      "lines": [
+        127
+      ]
+    },
+    {
+      "original": "優"
+    },
+    {
+      "original": "優.stand"
+    },
+    {
+      "original": "出右"
+    },
+    {
+      "original": "出奥"
+    },
+    {
+      "original": "出左",
+      "lines": [
+        119
+      ]
+    },
+    {
+      "original": "励ましたり、応援するのは変だしなぁ……。",
+      "lines": [
+        126
+      ]
+    },
+    {
+      "original": "咲莉"
+    },
+    {
+      "original": "咲莉.stand",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "子供は風の子って言うしさ。",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "寮の面々のノリに合わせていると疲れる。",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "少しはしゃぎ疲れた。",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "怜香さんの水着かぁ……。"
+    },
+    {
+      "original": "手上"
+    },
+    {
+      "original": "手下",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "改まってそういうことを言われるとなんだか照れくさい。",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "日が暮れるまでにカムバックできるだろうか……？",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "普段はなんてことない感じで梨々愛に接しているけれど――",
+      "lines": [
+        20,
+        23,
+        28,
+        29,
+        31,
+        32,
+        37,
+        40,
+        43,
+        46,
+        51,
+        53,
+        55,
+        59,
+        60,
+        61,
+        67,
+        72,
+        73,
+        75,
+        77,
+        80,
+        87,
+        88,
+        89,
+        90,
+        91,
+        93,
+        95,
+        97,
+        101,
+        105,
+        109,
+        111,
+        113,
+        114,
+        115,
+        122,
+        124,
+        125,
+        128,
+        129,
+        130,
+        136
+      ]
+    },
+    {
+      "original": "梨々愛",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "梨々愛がひょこひょこと近づいてくる。",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "梨々愛が赤面させてもじもじとしている。",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "梨々愛の言う通りである。",
+      "lines": [
+        116
+      ]
+    },
+    {
+      "original": "梨々愛もいろいろと大変だなぁ……。",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "楽しいけど、疲れる。",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "楽しさみたいなものが全面的に表れていた。",
+      "lines": [
+        85
+      ]
+    },
+    {
+      "original": "正直な話、タマちゃんの水着よりは見たいかなぁ……！"
+    },
+    {
+      "original": "正面手上"
+    },
+    {
+      "original": "正面手下",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "歳は食ってるけど、見た目は若いからなぁ。"
+    },
+    {
+      "original": "水着"
+    },
+    {
+      "original": "消"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ悲１:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉怒１:目Ａ驚１:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ照２:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口悲１:汗無::頬３"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目Ａ悲２:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目Ａ照２:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ照１:口照１:汗無::頬１"
+    },
+    {
+      "original": "眉照１:目Ａ照１:口照１:汗無::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ照２:口照２:汗無::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ照２:口照２:汗無::頬３"
+    },
+    {
+      "original": "眉照２:目Ａ笑１:口照２:汗無::頬３"
+    },
+    {
+      "original": "眉笑１:目悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ照１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目Ａ驚１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉笑２:目Ａ悲１:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬３"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬２",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "瞳は泳いで、あっちこっちに視線が行っている。",
+      "lines": [
+        107
+      ]
+    },
+    {
+      "original": "簡単に俺たちを二人で海には行かせてくれないだろう。",
+      "lines": [
+        121
+      ]
+    },
+    {
+      "original": "結局、俺の絞り出した答えはありきたりな言葉だった。",
+      "lines": [
+        11,
+        15,
+        21,
+        24,
+        30,
+        36,
+        38,
+        39,
+        42,
+        44,
+        47,
+        52,
+        54,
+        62,
+        68,
+        74,
+        76,
+        78,
+        79,
+        81,
+        86,
+        92,
+        94,
+        96,
+        102,
+        104,
+        106,
+        110,
+        112,
+        120,
+        133,
+        134,
+        135
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        0,
+        141
+      ]
+    },
+    {
+      "original": "隣、空いてる？",
+      "lines": [
+        131
+      ]
+    },
+    {
+      "original": "雅妃"
+    },
+    {
+      "original": "雅妃.stand"
+    },
+    {
+      "original": "零距離"
+    }
+  ],
+  "name": 30,
+  "lines": [
+    {
+      "type": 3,
+      "title": 320
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 319,
+      "type": 2
+    },
+    {
+      "name": 243,
+      "type": 2
+    },
+    {
+      "name": 273,
+      "type": 2
+    },
+    {
+      "name": 262,
+      "type": 2
+    },
+    {
+      "name": 256,
+      "type": 2
+    },
+    {
+      "name": 321,
+      "type": 2
+    },
+    {
+      "name": 241,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 10,
+      "type": 6
+    },
+    {
+      "name": 319,
+      "text": 187,
+      "type": 1
+    },
+    {
+      "text": 266,
+      "type": 0
+    },
+    {
+      "text": 252,
+      "type": 0
+    },
+    {
+      "name": 243,
+      "text": 152,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 214,
+      "type": 1
+    },
+    {
+      "text": 245,
+      "type": 0
+    },
+    {
+      "text": 283,
+      "type": 0
+    },
+    {
+      "text": 240,
+      "type": 0
+    },
+    {
+      "text": 264,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 207,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 142,
+      "type": 1
+    },
+    {
+      "text": 274,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 218,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 155,
+      "type": 1
+    },
+    {
+      "text": 265,
+      "type": 0
+    },
+    {
+      "text": 278,
+      "type": 0
+    },
+    {
+      "text": 238,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 161,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 166,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 160,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 186,
+      "type": 1
+    },
+    {
+      "text": 235,
+      "type": 0
+    },
+    {
+      "text": 226,
+      "type": 0
+    },
+    {
+      "text": 279,
+      "type": 0
+    },
+    {
+      "name": 319,
+      "text": 185,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 178,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 171,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 174,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 219,
+      "type": 1
+    },
+    {
+      "text": 276,
+      "type": 0
+    },
+    {
+      "name": 319,
+      "text": 165,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 172,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 201,
+      "type": 1
+    },
+    {
+      "name": 243,
+      "text": 152,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 198,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 159,
+      "type": 1
+    },
+    {
+      "text": 237,
+      "type": 0
+    },
+    {
+      "text": 271,
+      "type": 0
+    },
+    {
+      "text": 234,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 141,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 200,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 197,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 145,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 220,
+      "type": 1
+    },
+    {
+      "text": 275,
+      "type": 0
+    },
+    {
+      "text": 316,
+      "type": 0
+    },
+    {
+      "text": 250,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 167,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 216,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 215,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 158,
+      "type": 1
+    },
+    {
+      "text": 248,
+      "type": 0
+    },
+    {
+      "text": 270,
+      "type": 0
+    },
+    {
+      "text": 272,
+      "type": 0
+    },
+    {
+      "text": 224,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 191,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 170,
+      "type": 1
+    },
+    {
+      "text": 251,
+      "type": 0
+    },
+    {
+      "text": 231,
+      "type": 0
+    },
+    {
+      "text": 232,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 182,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 195,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 208,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 164,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 206,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 157,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 177,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 211,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 188,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 151,
+      "type": 1
+    },
+    {
+      "text": 267,
+      "type": 0
+    },
+    {
+      "text": 223,
+      "type": 0
+    },
+    {
+      "text": 239,
+      "type": 0
+    },
+    {
+      "text": 280,
+      "type": 0
+    },
+    {
+      "name": 319,
+      "text": 190,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 196,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 168,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 147,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 202,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 176,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 189,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 163,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 162,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 192,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 183,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 146,
+      "type": 1
+    },
+    {
+      "text": 246,
+      "type": 0
+    },
+    {
+      "text": 236,
+      "type": 0
+    },
+    {
+      "text": 225,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 194,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 144,
+      "type": 1
+    },
+    {
+      "text": 233,
+      "type": 0
+    },
+    {
+      "name": 319,
+      "text": 184,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 210,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 204,
+      "type": 1
+    },
+    {
+      "text": 317,
+      "type": 0
+    },
+    {
+      "text": 229,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 175,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 213,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 217,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 149,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 150,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 222,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 179,
+      "type": 1
+    },
+    {
+      "text": 277,
+      "type": 0
+    },
+    {
+      "text": 227,
+      "type": 0
+    },
+    {
+      "text": 230,
+      "type": 0
+    },
+    {
+      "text": 261,
+      "type": 0
+    },
+    {
+      "name": 319,
+      "text": 203,
+      "type": 1
+    },
+    {
+      "text": 318,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 153,
+      "type": 1
+    },
+    {
+      "text": 249,
+      "type": 0
+    },
+    {
+      "name": 273,
+      "text": 180,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 199,
+      "type": 1
+    },
+    {
+      "name": 262,
+      "text": 148,
+      "type": 1
+    },
+    {
+      "name": 256,
+      "text": 212,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 156,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 209,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 181,
+      "type": 1
+    },
+    {
+      "name": 321,
+      "text": 173,
+      "type": 1
+    },
+    {
+      "name": 241,
+      "text": 221,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 143,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 205,
+      "type": 1
+    },
+    {
+      "name": 319,
+      "text": 193,
+      "type": 1
+    },
+    {
+      "name": 273,
+      "text": 154,
+      "type": 1
+    },
+    {
+      "text": 253,
+      "type": 0
+    },
+    {
+      "text": 228,
+      "type": 0
+    },
+    {
+      "storage": 30,
+      "label": 8,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 320
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 8,
+      "type": 6
+    },
+    {
+      "storage": 31,
+      "label": 10,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "8": 143,
+    "10": 10
+  }
+}

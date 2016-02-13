@@ -1,1 +1,2354 @@
-{"names":[266,343],"strings":[{"original":"$eye"},{"original":"$lip"},{"original":"$lipアルル","lines":[63]},{"original":"%153;「さんっ！！！」"},{"original":"*end"},{"original":"*gameend_omake"},{"original":"*gameend_scnsel"},{"original":"*start"},{"original":"0"},{"original":"1"},{"original":"1000"},{"original":"2000"},{"original":"300"},{"original":"3000"},{"original":"4b3c82acccbeef177580d2173a2a422a"},{"original":"500"},{"original":"@"},{"original":"@+100"},{"original":"MoveAction"},{"original":"RandomAction"},{"original":"RandomFlipAction"},{"original":"SinAction"},{"original":"[stopaction]"},{"original":"arle_2389"},{"original":"arle_2390"},{"original":"arle_2391"},{"original":"arle_2392"},{"original":"arle_2393"},{"original":"arle_2394"},{"original":"arle_2395"},{"original":"arle_2396"},{"original":"arle_2397"},{"original":"arle_2398"},{"original":"arle_2399"},{"original":"arle_2400"},{"original":"arle_2401"},{"original":"arle_2402"},{"original":"arle_2403"},{"original":"arle_2407"},{"original":"arle_2408"},{"original":"arle_2409"},{"original":"arle_2410"},{"original":"arle_2411"},{"original":"arle_2412"},{"original":"arle_2413"},{"original":"arle_2414"},{"original":"arle_2415"},{"original":"arle_2416"},{"original":"arle_2417"},{"original":"arle_2418"},{"original":"arle_2419"},{"original":"arle_2420"},{"original":"arle_2421"},{"original":"arle_2422"},{"original":"arle_2423"},{"original":"arle_2424"},{"original":"arle_2425"},{"original":"arle_2426"},{"original":"arle_2427"},{"original":"arle_2428"},{"original":"arle_2429"},{"original":"arle_2430"},{"original":"arle_2431"},{"original":"arle_2432"},{"original":"arle_2433"},{"original":"bg"},{"original":"bg05a"},{"original":"bg20a"},{"original":"bg99a"},{"original":"bgm"},{"original":"bgm03"},{"original":"bgm05"},{"original":"bgm07"},{"original":"bgm08"},{"original":"bgm_BGM03"},{"original":"bgm_BGM05"},{"original":"bgm_BGM07"},{"original":"bgm_BGM08"},{"original":"both"},{"original":"cg_question_mark"},{"original":"cg_アルル.stand"},{"original":"cg_集中線"},{"original":"character"},{"original":"crossfade"},{"original":"d01_aru_14.ks"},{"original":"del"},{"original":"delayrun"},{"original":"doBoxBlur"},{"original":"emo_アルル"},{"original":"emotion"},{"original":"endrecollection"},{"original":"env"},{"original":"envupdate"},{"original":"eval"},{"original":"exit"},{"original":"eye"},{"original":"eyeflipdisable"},{"original":"f.sceneview"},{"original":"fade"},{"original":"init"},{"original":"layer"},{"original":"left"},{"original":"line"},{"original":"map27b"},{"original":"meswinload"},{"original":"msgchange"},{"original":"msgoff"},{"original":"new"},{"original":"opacity"},{"original":"order"},{"original":"page"},{"original":"pretrans"},{"original":"question_mark"},{"original":"rotate"},{"original":"se"},{"original":"seギャグ走りの音"},{"original":"seバサッ"},{"original":"stage"},{"original":"start.ks"},{"original":"stop"},{"original":"stopaction"},{"original":"storage"},{"original":"sync"},{"original":"tag"},{"original":"tagname"},{"original":"target"},{"original":"time"},{"original":"trans"},{"original":"true"},{"original":"universal"},{"original":"update"},{"original":"visvalue"},{"original":"w26"},{"original":"wait"},{"original":"xpos"},{"original":"ypos"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[118]},{"original":"\u2026\u2026イカンイカン。","lines":[117]},{"original":"「\u2026\u2026\u2026\u2026\u2026\u2026」","lines":[111]},{"original":"「\u2026\u2026\u2026\u2026」","lines":[140]},{"original":"「\u2026\u2026そうだよ」","lines":[104]},{"original":"「あ\u2026\u2026おしっこに\u2026\u2026ちょっとお手洗いに行ってきてもいいですかってことです\u2026\u2026」","lines":[36]},{"original":"「あ、あぅぅぅぅ\u2026\u2026」","lines":[73]},{"original":"「あ、そういうこと\u2026\u2026」","lines":[105]},{"original":"「ああ\u2026\u2026なんだびっくりした\u2026\u2026」","lines":[97]},{"original":"「あの、蓮さん\u2026\u2026」","lines":[31]},{"original":"「あわわわわわわ\u2026\u2026」","lines":[62]},{"original":"「いち\u2026\u2026にの\u2026\u2026」","lines":[138]},{"original":"「いやぁ、これはぁ\u2026\u2026ははは\u2026\u2026」","lines":[52]},{"original":"「いやあああああああああああああああああああっ！！！！」","lines":[35]},{"original":"「いわゆるミミズみたいなものかな」","lines":[53]},{"original":"「うーん\u2026\u2026ちょっと調子乗りすぎたか」","lines":[70]},{"original":"「えっ！？」","lines":[99]},{"original":"「おしっこしてもいいですか\u2026\u2026？」","lines":[50]},{"original":"「きゃああああああああああああああああああああああああああああああああっ！？？！？！？！」","lines":[64]},{"original":"「きゃっ！？」","lines":[44]},{"original":"「こ、こんなうねうねしてるもの、触れません\u2026\u2026！」","lines":[29]},{"original":"「こちらが海釣りのエサになります」","lines":[34]},{"original":"「これはゴカイっていう虫エサだね」","lines":[43]},{"original":"「これを針にザクザクッと」"},{"original":"「さんっ！！！」","lines":[58]},{"original":"「しゅびゅーん！　って遠くに飛ばすやつですよね！」","lines":[91]},{"original":"「じゃあ、このままで！」","lines":[27]},{"original":"「じゃあさっそく始めようか」","lines":[48]},{"original":"「じゃあ俺が針に刺すからアルルは釣るだけでいい？」","lines":[71]},{"original":"「せっかく脱ぎたい気持ちを抑制できてたのに\u2026\u2026」","lines":[20]},{"original":"「そうじゃなくて」","lines":[59]},{"original":"「そうそう」","lines":[11]},{"original":"「そうです。その釣りです」","lines":[22]},{"original":"「そっちでもなくて」","lines":[145]},{"original":"「そのすごい釣竿で私のこと釣りたいですか\u2026\u2026？」","lines":[108]},{"original":"「その間、釣竿を見ておいてください」","lines":[51]},{"original":"「そんなもの持ってこっちこないでくださいいいいいいいいいいいいいいいいっ！！！」","lines":[83]},{"original":"「たしかにそうかもしれないけどさ\u2026\u2026」","lines":[123]},{"original":"「ただいまですー」","lines":[137]},{"original":"「だ、だって\u2026\u2026そんなに大きく膨らませちゃってるんですもん\u2026\u2026」","lines":[68]},{"original":"「だ、大丈夫！？　針でケガしなかった！？」","lines":[13]},{"original":"「だから、その、釣りってしたことがなくて」","lines":[124]},{"original":"「って、あれ\u2026\u2026？？」","lines":[18]},{"original":"「で、なんでアルルは水着？」","lines":[57]},{"original":"「では気を取り直して釣りを再開していこう」","lines":[49]},{"original":"「と思わせてほらほらー、動物好きならこういうのにも慣れないとー」","lines":[89]},{"original":"「どうしてもダメって言うなら着ますけど\u2026\u2026」","lines":[77]},{"original":"「どうせですから、全部脱いじゃってもいいですか？」","lines":[67]},{"original":"「な、なんという[とらぶｒｕ,2]お約束展開\u2026\u2026！」"},{"original":"「な、なんというお約束展開\u2026\u2026！」"},{"original":"「な、なんというとらぶru展開\u2026\u2026！」","lines":[14]},{"original":"「なるほどなぁ」","lines":[76]},{"original":"「はぁ\u2026\u2026水着がないとやっぱり開放的でいいですね\u2026\u2026」","lines":[28]},{"original":"「はい！」","lines":[100]},{"original":"「はい？」","lines":[23]},{"original":"「まぁ\u2026\u2026服装はなんでもいいか」","lines":[45]},{"original":"「まぁ女の子にはつらいかな」","lines":[47]},{"original":"「む、無理ですー\u2026\u2026！　絶対無理ですー\u2026\u2026！」","lines":[17]},{"original":"「よし、じゃあ今日は釣りをしよう」","lines":[109]},{"original":"「りょーかい」","lines":[153]},{"original":"「れ、蓮さん\u2026\u2026きゃっ\u2026\u2026」","lines":[33]},{"original":"「れ、蓮さん\u2026\u2026？　こ、これはなんですか\u2026\u2026？」","lines":[126]},{"original":"「れ、蓮さんの釣竿\u2026\u2026」","lines":[125]},{"original":"「ん？　どうかした？」","lines":[98]},{"original":"「ん？」","lines":[136]},{"original":"「アルル\u2026\u2026いつの間にそんな下ネタを我が物に\u2026\u2026」","lines":[81]},{"original":"「アルル\u2026\u2026ここで脱ぐのはいかがなものかと\u2026\u2026」","lines":[152]},{"original":"「アルルっ\u2026\u2026！」","lines":[32]},{"original":"「アルル？　どうかした？」","lines":[130]},{"original":"「アルル？　別に釣竿は何もないみたいだけど？」","lines":[78]},{"original":"「ダメ」","lines":[149]},{"original":"「俺、アルルのこと釣りたい」","lines":[61]},{"original":"「俺も久々だから失敗するかもだけど\u2026\u2026ちょっと見てて」","lines":[46]},{"original":"「俺も最初は無理だったけどようは慣れだよ」","lines":[106]},{"original":"「別にいいよ、行ってらっしゃい」","lines":[90]},{"original":"「別にダメじゃないけど\u2026\u2026」","lines":[21]},{"original":"「包帯の方が良かったでしょうか？」","lines":[69]},{"original":"「大丈夫じゃないかもです\u2026\u2026」","lines":[82]},{"original":"「大丈夫ですよ、今日は誰も寮にいませんから\u2026\u2026」","lines":[88]},{"original":"「私\u2026\u2026裸が好きですから\u2026\u2026」","lines":[107]},{"original":"「私お手洗い行ってきます」","lines":[12]},{"original":"「私って、裏エジプトの出身じゃないですか」","lines":[150]},{"original":"「私も蓮さんの釣竿、ほしいです\u2026\u2026」","lines":[144]},{"original":"「蓮さん\u2026\u2026そのぉ\u2026\u2026」","lines":[8]},{"original":"「蓮さんって釣りをしたことありますか？」","lines":[72]},{"original":"「蓮さんのせいで開放的な気分になっちゃいました\u2026\u2026！」","lines":[139]},{"original":"「蓮さんの釣竿\u2026\u2026もしかして、私の裸でこんなになっちゃったんですか\u2026\u2026？」","lines":[87]},{"original":"「裸じゃ、ダメですか\u2026\u2026？」","lines":[19]},{"original":"「裸の方が良かったでしょうか？」","lines":[131]},{"original":"「違います\u2026\u2026そっちの釣竿です\u2026\u2026」","lines":[10]},{"original":"「釣り？　フィッシングのこと？」","lines":[143]},{"original":"いつの間にかテントを張ってしまうのも無理はない。","lines":[128]},{"original":"いや、釣竿に反応は何もなかった。","lines":[37]},{"original":"うねうねうね！","lines":[79]},{"original":"うん、裸に関しては俺の言うことを聞くような子じゃないよね。","lines":[103]},{"original":"おしっこしてもいいですか\u2026\u2026\u2026\u2026？","lines":[102]},{"original":"おしっこしてもいいですか\u2026\u2026？","lines":[101]},{"original":"おしっこしてもいいですか。","lines":[116]},{"original":"けど\u2026\u2026もじもじするアルル可愛かったなぁ\u2026\u2026（２回目）。","lines":[96]},{"original":"けれども、潮風が心地良いから苦ではない。","lines":[120]},{"original":"これじゃ余計に悶々しちゃうじゃないか\u2026\u2026。","lines":[42]},{"original":"しかも、めっちゃヌメヌメしてるしね。","lines":[122]},{"original":"しばらくすると\u2015\u2015","lines":[0,159]},{"original":"すご～いつりざお","lines":[65]},{"original":"すぽーん！","lines":[84]},{"original":"そして、こんなところを通る人もいない。","lines":[132]},{"original":"そっち。","lines":[54]},{"original":"その後、部屋に閉じこもってしまったアルルに謝り倒し。","lines":[147]},{"original":"それってつまり、エッチってことだよな\u2026\u2026。","lines":[25]},{"original":"それを彩るかのようなフリルのビキニ。","lines":[119]},{"original":"ただでさえアルルが裸で悶々としているのに\u2026\u2026。","lines":[114]},{"original":"ちょっぴり期待してしまった自分がいた。","lines":[134]},{"original":"ちんこだった。","lines":[113]},{"original":"てっきりここでおっぱじめるのかと思ったぞ\u2026\u2026。","lines":[142]},{"original":"でも、裸になられると興奮しちゃうよなぁ。","lines":[56]},{"original":"でも慌てるアルル可愛かったなぁ。","lines":[38]},{"original":"と、箱の中で蠢いているゴカイたち。","lines":[6]},{"original":"とある休日のとある日。","lines":[74]},{"original":"とにかくケガがなくて良かった。","lines":[92]},{"original":"とアルルは無邪気に微笑む。","lines":[85]},{"original":"なるほど。じゃあ裸になっても問題ないな。","lines":[146]},{"original":"なんてことを言いだすのだろうか。","lines":[86]},{"original":"なんて考えるわけがない。","lines":[41]},{"original":"にゅるにゅるにゅる！","lines":[39]},{"original":"にょろにょろにょろ！","lines":[112]},{"original":"はぁ、それにしてもびっくりした\u2026\u2026。","lines":[80]},{"original":"もう下も脱いじゃってるし。","lines":[121]},{"original":"もんもんもんもん。","lines":[8,11,12,13,19,21,28,31,33,36,44,47,50,51,52,58,64,69,71,72,76,77,82,87,88,89,91,97,99,104,107,108,123,124,126,131,137,139,144,145,150,153]},{"original":"アルル"},{"original":"アルル.stand","lines":[110]},{"original":"アルルがお花を摘みにこの場から離れた。","lines":[133]},{"original":"アルルが指を差したのは俺の股間だった。","lines":[156]},{"original":"アルルという名の大物が。","lines":[141]},{"original":"アルルと結ばれてから結構時間は経過している。","lines":[66]},{"original":"アルルの　水着が　釣れた！","lines":[24]},{"original":"アルルの健康的な小麦色の肌。","lines":[7]},{"original":"アルルの部屋で一緒になってゴロゴロしていると。","lines":[148]},{"original":"アルルはずいぶんとエロくなったなぁ\u2026\u2026。","lines":[151]},{"original":"アルルは可愛いなぁ（本日３度目）。","lines":[15]},{"original":"アルルは釣りをしたことがない。"},{"original":"ラベル0"},{"original":"ラベル1"},{"original":"ラベル2","lines":[40]},{"original":"一般的には気持ち悪いと呼ばれる生物に分類されるはず。","lines":[16]},{"original":"今この瞬間、今日すべきことが決定した。","lines":[155]},{"original":"俺のすごい釣竿によって大物が釣れた。","lines":[30]},{"original":"俺はアルルにエサが詰まった箱を見せる。"},{"original":"側面手上"},{"original":"側面手下","lines":[94]},{"original":"全裸のアルルに悶々としながらもまったりと釣りを。","lines":[55]},{"original":"出てきもらうのに２時間かかった。"},{"original":"出右","lines":[129]},{"original":"別に獲物がかかったというわけじゃないみたいだ。","lines":[26]},{"original":"可愛いは正義だって素晴らスィー人も言ってたし。","lines":[93]},{"original":"可愛い彼女からのそんな頼みを断れるはずがなかった。","lines":[135]},{"original":"悶々しているうちにテントを張っていた竿だった。","lines":[154]},{"original":"本日の釣りの成果。"},{"original":"正面手上"},{"original":"正面手下"},{"original":"水着","lines":[127]},{"original":"獲物が引っかかったか\u2026\u2026！？"},{"original":"眉ギャグ怒:目ギャグ泣:口ギャグ怒:汗無::頬１"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ驚:汗無::頬１"},{"original":"眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１"},{"original":"眉悲１:目悲２:口悲１:汗無::頬１"},{"original":"眉悲１:目悲２:口悲１:汗無::頬２"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬２"},{"original":"眉悲１:目Ａ笑１:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ笑１:口悲２:汗無::頬１"},{"original":"眉悲１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉悲２:目悲２:口悲２:汗無::頬２"},{"original":"眉悲２:目閉:口悲１:汗無::頬２"},{"original":"眉悲２:目閉:口悲２:汗無::頬１"},{"original":"眉悲２:目閉:口悲２:汗無::頬２"},{"original":"眉悲２:目Ａ悲１:口悲２:汗無::頬２"},{"original":"眉悲２:目Ａ照２:口悲２:汗無::頬２"},{"original":"眉悲２:目Ａ笑１:口悲１:汗無::頬２"},{"original":"眉悲２:目Ａ笑１:口悲２:汗無::頬２"},{"original":"眉悲２:目Ａ笑１:口笑１:汗無::頬２"},{"original":"眉悲２:目Ａ驚１:口悲２:汗無::頬１"},{"original":"眉泣１:目Ａ驚１:口泣１:汗無::頬１"},{"original":"眉照１:目笑２:口笑１:汗無::頬２"},{"original":"眉照１:目閉:口悲１:汗無::頬２"},{"original":"眉照１:目閉:口悲２:汗無::頬２"},{"original":"眉照１:目Ａ照２:口悲１:汗無::頬２"},{"original":"眉照１:目Ａ照２:口悲２:汗無::頬２"},{"original":"眉照１:目Ａ照２:口照２:汗無::頬２"},{"original":"眉照１:目Ａ笑１:口悲２:汗無::頬２"},{"original":"眉照１:目Ａ笑１:口笑１:汗無::頬２"},{"original":"眉照１:目Ａ笑１:口笑２:汗無::頬２"},{"original":"眉笑１:目笑２:口笑１:汗無::頬１"},{"original":"眉笑１:目笑２:口笑２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口悲２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉笑２:目笑２:口笑１:汗無::頬１"},{"original":"眉笑２:目笑２:口笑２:汗無::頬１"},{"original":"眉笑２:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口悲２:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬２","lines":[95]},{"original":"真夏の太陽は俺たちを容赦なく照りつけてくる。"},{"original":"私服包帯","lines":[9]},{"original":"突然アルルがそんなことを言う。","lines":[10,14,17,18,20,22,23,27,29,32,34,35,43,45,46,48,49,53,57,59,61,62,63,67,68,70,73,78,81,83,90,98,100,105,106,109,111,117,125,130,136,138,140,149,152]},{"original":"蓮"},{"original":"裸"},{"original":"近距離","lines":[60]},{"original":"釣りの基本中の基本だ。","lines":[75]},{"original":"釣り針って刺さるとかなり危ないからなぁ。"},{"original":"集中線","lines":[115]},{"original":"非常に残念である。"}],"name":84,"lines":[{"type":3,"title":241},{"subtype":0,"type":5},{"name":266,"type":2},{"name":343,"type":2},{"subtype":0,"type":5},{"label":7,"type":6},{"text":255,"type":0},{"text":274,"type":0},{"name":266,"text":222,"type":1},{"text":342,"type":0},{"name":343,"text":228,"type":1},{"name":266,"text":170,"type":1},{"name":266,"text":219,"type":1},{"name":266,"text":179,"type":1},{"name":343,"text":189,"type":1},{"text":277,"type":0},{"text":282,"type":0},{"name":343,"text":196,"type":1},{"name":343,"text":181,"type":1},{"name":266,"text":226,"type":1},{"name":343,"text":168,"type":1},{"name":266,"text":214,"type":1},{"name":343,"text":171,"type":1},{"name":343,"text":193,"type":1},{"text":273,"type":0},{"text":247,"type":0},{"text":291,"type":0},{"name":343,"text":165,"type":1},{"name":266,"text":191,"type":1},{"name":343,"text":159,"type":1},{"text":284,"type":0},{"name":266,"text":148,"type":1},{"name":343,"text":206,"type":1},{"name":266,"text":199,"type":1},{"name":343,"text":160,"type":1},{"name":343,"text":152,"type":1},{"name":266,"text":144,"type":1},{"text":231,"type":0},{"text":254,"type":0},{"text":262,"type":0},{"text":281,"type":0},{"text":261,"type":0},{"text":239,"type":0},{"name":343,"text":161,"type":1},{"name":266,"text":158,"type":1},{"name":343,"text":194,"type":1},{"name":343,"text":211,"type":1},{"name":266,"text":195,"type":1},{"name":343,"text":166,"type":1},{"name":343,"text":183,"type":1},{"name":266,"text":156,"type":1},{"name":266,"text":174,"type":1},{"name":266,"text":151,"type":1},{"name":343,"text":153,"type":1},{"text":245,"type":0},{"text":288,"type":0},{"text":253,"type":0},{"name":343,"text":182,"type":1},{"name":266,"text":163,"type":1},{"name":343,"text":169,"type":1},{"text":346,"type":0},{"name":343,"text":210,"type":1},{"name":343,"text":149,"type":1},{"name":343,"text":3,"type":1},{"name":266,"text":157,"type":1},{"text":242,"type":0},{"text":272,"type":0},{"name":343,"text":186,"type":1},{"name":343,"text":178,"type":1},{"name":266,"text":215,"type":1},{"name":343,"text":154,"type":1},{"name":266,"text":167,"type":1},{"name":266,"text":223,"type":1},{"name":343,"text":145,"type":1},{"text":256,"type":0},{"text":347,"type":0},{"name":266,"text":190,"type":1},{"name":266,"text":185,"type":1},{"name":343,"text":208,"type":1},{"text":232,"type":0},{"text":264,"type":0},{"name":343,"text":204,"type":1},{"name":266,"text":216,"type":1},{"name":343,"text":175,"type":1},{"text":243,"type":0},{"text":258,"type":0},{"text":260,"type":0},{"name":266,"text":225,"type":1},{"name":266,"text":217,"type":1},{"name":266,"text":184,"type":1},{"name":343,"text":213,"type":1},{"name":266,"text":164,"type":1},{"text":257,"type":0},{"text":292,"type":0},{"text":287,"type":0},{"text":340,"type":0},{"text":237,"type":0},{"name":266,"text":147,"type":1},{"name":343,"text":202,"type":1},{"name":266,"text":155,"type":1},{"name":343,"text":192,"type":1},{"text":235,"type":0},{"text":234,"type":0},{"text":233,"type":0},{"name":266,"text":143,"type":1},{"name":343,"text":146,"type":1},{"name":343,"text":212,"type":1},{"name":266,"text":218,"type":1},{"name":266,"text":173,"type":1},{"name":343,"text":197,"type":1},{"text":268,"type":0},{"name":343,"text":141,"type":1},{"text":263,"type":0},{"text":251,"type":0},{"text":249,"type":0},{"text":349,"type":0},{"text":236,"type":0},{"name":343,"text":140,"type":1},{"text":139,"type":0},{"text":248,"type":0},{"text":238,"type":0},{"text":265,"type":0},{"text":240,"type":0},{"name":266,"text":176,"type":1},{"name":266,"text":180,"type":1},{"name":343,"text":201,"type":1},{"name":266,"text":200,"type":1},{"text":298,"type":0},{"text":230,"type":0},{"text":290,"type":0},{"name":343,"text":207,"type":1},{"name":266,"text":227,"type":1},{"text":244,"type":0},{"text":269,"type":0},{"text":250,"type":0},{"text":293,"type":0},{"name":343,"text":203,"type":1},{"name":266,"text":177,"type":1},{"name":343,"text":150,"type":1},{"name":266,"text":224,"type":1},{"name":343,"text":142,"type":1},{"text":271,"type":0},{"text":252,"type":0},{"text":229,"type":0},{"name":266,"text":221,"type":1},{"name":266,"text":172,"type":1},{"text":259,"type":0},{"text":246,"type":0},{"text":275,"type":0},{"name":343,"text":209,"type":1},{"name":266,"text":220,"type":1},{"text":276,"type":0},{"name":343,"text":205,"type":1},{"name":266,"text":198,"type":1},{"text":294,"type":0},{"text":283,"type":0},{"text":270,"type":0},{"storage":84,"label":4,"type":7},{"subtype":0,"type":5},{"type":3,"title":241},{"subtype":0,"type":5},{"label":4,"type":6},{"storage":118,"label":5,"type":7}],"labels":{"4":161,"7":5}}
+{
+  "names": [
+    266,
+    343
+  ],
+  "strings": [
+    {
+      "original": "$eye"
+    },
+    {
+      "original": "$lip"
+    },
+    {
+      "original": "$lipアルル",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "%153;「さんっ！！！」"
+    },
+    {
+      "original": "*end"
+    },
+    {
+      "original": "*gameend_omake"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "0"
+    },
+    {
+      "original": "1"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "2000"
+    },
+    {
+      "original": "300"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "4b3c82acccbeef177580d2173a2a422a"
+    },
+    {
+      "original": "500"
+    },
+    {
+      "original": "@"
+    },
+    {
+      "original": "@+100"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "RandomAction"
+    },
+    {
+      "original": "RandomFlipAction"
+    },
+    {
+      "original": "SinAction"
+    },
+    {
+      "original": "[stopaction]"
+    },
+    {
+      "original": "arle_2389"
+    },
+    {
+      "original": "arle_2390"
+    },
+    {
+      "original": "arle_2391"
+    },
+    {
+      "original": "arle_2392"
+    },
+    {
+      "original": "arle_2393"
+    },
+    {
+      "original": "arle_2394"
+    },
+    {
+      "original": "arle_2395"
+    },
+    {
+      "original": "arle_2396"
+    },
+    {
+      "original": "arle_2397"
+    },
+    {
+      "original": "arle_2398"
+    },
+    {
+      "original": "arle_2399"
+    },
+    {
+      "original": "arle_2400"
+    },
+    {
+      "original": "arle_2401"
+    },
+    {
+      "original": "arle_2402"
+    },
+    {
+      "original": "arle_2403"
+    },
+    {
+      "original": "arle_2407"
+    },
+    {
+      "original": "arle_2408"
+    },
+    {
+      "original": "arle_2409"
+    },
+    {
+      "original": "arle_2410"
+    },
+    {
+      "original": "arle_2411"
+    },
+    {
+      "original": "arle_2412"
+    },
+    {
+      "original": "arle_2413"
+    },
+    {
+      "original": "arle_2414"
+    },
+    {
+      "original": "arle_2415"
+    },
+    {
+      "original": "arle_2416"
+    },
+    {
+      "original": "arle_2417"
+    },
+    {
+      "original": "arle_2418"
+    },
+    {
+      "original": "arle_2419"
+    },
+    {
+      "original": "arle_2420"
+    },
+    {
+      "original": "arle_2421"
+    },
+    {
+      "original": "arle_2422"
+    },
+    {
+      "original": "arle_2423"
+    },
+    {
+      "original": "arle_2424"
+    },
+    {
+      "original": "arle_2425"
+    },
+    {
+      "original": "arle_2426"
+    },
+    {
+      "original": "arle_2427"
+    },
+    {
+      "original": "arle_2428"
+    },
+    {
+      "original": "arle_2429"
+    },
+    {
+      "original": "arle_2430"
+    },
+    {
+      "original": "arle_2431"
+    },
+    {
+      "original": "arle_2432"
+    },
+    {
+      "original": "arle_2433"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg05a"
+    },
+    {
+      "original": "bg20a"
+    },
+    {
+      "original": "bg99a"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm03"
+    },
+    {
+      "original": "bgm05"
+    },
+    {
+      "original": "bgm07"
+    },
+    {
+      "original": "bgm08"
+    },
+    {
+      "original": "bgm_BGM03"
+    },
+    {
+      "original": "bgm_BGM05"
+    },
+    {
+      "original": "bgm_BGM07"
+    },
+    {
+      "original": "bgm_BGM08"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cg_question_mark"
+    },
+    {
+      "original": "cg_アルル.stand"
+    },
+    {
+      "original": "cg_集中線"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "d01_aru_14.ks"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "delayrun"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "emo_アルル"
+    },
+    {
+      "original": "emotion"
+    },
+    {
+      "original": "endrecollection"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eye"
+    },
+    {
+      "original": "eyeflipdisable"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "fade"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "layer"
+    },
+    {
+      "original": "left"
+    },
+    {
+      "original": "line"
+    },
+    {
+      "original": "map27b"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "msgchange"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "opacity"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "pretrans"
+    },
+    {
+      "original": "question_mark"
+    },
+    {
+      "original": "rotate"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "seギャグ走りの音"
+    },
+    {
+      "original": "seバサッ"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "stop"
+    },
+    {
+      "original": "stopaction"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "sync"
+    },
+    {
+      "original": "tag"
+    },
+    {
+      "original": "tagname"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "true"
+    },
+    {
+      "original": "universal"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "w26"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        118
+      ]
+    },
+    {
+      "original": "……イカンイカン。",
+      "lines": [
+        117
+      ]
+    },
+    {
+      "original": "「………………」",
+      "lines": [
+        111
+      ]
+    },
+    {
+      "original": "「…………」",
+      "lines": [
+        140
+      ]
+    },
+    {
+      "original": "「……そうだよ」",
+      "lines": [
+        104
+      ]
+    },
+    {
+      "original": "「あ……おしっこに……ちょっとお手洗いに行ってきてもいいですかってことです……」",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "「あ、あぅぅぅぅ……」",
+      "lines": [
+        73
+      ]
+    },
+    {
+      "original": "「あ、そういうこと……」",
+      "lines": [
+        105
+      ]
+    },
+    {
+      "original": "「ああ……なんだびっくりした……」",
+      "lines": [
+        97
+      ]
+    },
+    {
+      "original": "「あの、蓮さん……」",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "「あわわわわわわ……」",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "「いち……にの……」",
+      "lines": [
+        138
+      ]
+    },
+    {
+      "original": "「いやぁ、これはぁ……ははは……」",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "「いやあああああああああああああああああああっ！！！！」",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "「いわゆるミミズみたいなものかな」",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "「うーん……ちょっと調子乗りすぎたか」",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "「えっ！？」",
+      "lines": [
+        99
+      ]
+    },
+    {
+      "original": "「おしっこしてもいいですか……？」",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "「きゃああああああああああああああああああああああああああああああああっ！？？！？！？！」",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "「きゃっ！？」",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "「こ、こんなうねうねしてるもの、触れません……！」",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "「こちらが海釣りのエサになります」",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "「これはゴカイっていう虫エサだね」",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "「これを針にザクザクッと」"
+    },
+    {
+      "original": "「さんっ！！！」",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "「しゅびゅーん！　って遠くに飛ばすやつですよね！」",
+      "lines": [
+        91
+      ]
+    },
+    {
+      "original": "「じゃあ、このままで！」",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "「じゃあさっそく始めようか」",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "「じゃあ俺が針に刺すからアルルは釣るだけでいい？」",
+      "lines": [
+        71
+      ]
+    },
+    {
+      "original": "「せっかく脱ぎたい気持ちを抑制できてたのに……」",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "「そうじゃなくて」",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "「そうそう」",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "「そうです。その釣りです」",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "「そっちでもなくて」",
+      "lines": [
+        145
+      ]
+    },
+    {
+      "original": "「そのすごい釣竿で私のこと釣りたいですか……？」",
+      "lines": [
+        108
+      ]
+    },
+    {
+      "original": "「その間、釣竿を見ておいてください」",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "「そんなもの持ってこっちこないでくださいいいいいいいいいいいいいいいいっ！！！」",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "「たしかにそうかもしれないけどさ……」",
+      "lines": [
+        123
+      ]
+    },
+    {
+      "original": "「ただいまですー」",
+      "lines": [
+        137
+      ]
+    },
+    {
+      "original": "「だ、だって……そんなに大きく膨らませちゃってるんですもん……」",
+      "lines": [
+        68
+      ]
+    },
+    {
+      "original": "「だ、大丈夫！？　針でケガしなかった！？」",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "「だから、その、釣りってしたことがなくて」",
+      "lines": [
+        124
+      ]
+    },
+    {
+      "original": "「って、あれ……？？」",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "「で、なんでアルルは水着？」",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "「では気を取り直して釣りを再開していこう」",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "「と思わせてほらほらー、動物好きならこういうのにも慣れないとー」",
+      "lines": [
+        89
+      ]
+    },
+    {
+      "original": "「どうしてもダメって言うなら着ますけど……」",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "「どうせですから、全部脱いじゃってもいいですか？」",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "「な、なんという[とらぶｒｕ,2]お約束展開……！」"
+    },
+    {
+      "original": "「な、なんというお約束展開……！」"
+    },
+    {
+      "original": "「な、なんというとらぶru展開……！」",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "「なるほどなぁ」",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "「はぁ……水着がないとやっぱり開放的でいいですね……」",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "「はい！」",
+      "lines": [
+        100
+      ]
+    },
+    {
+      "original": "「はい？」",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "「まぁ……服装はなんでもいいか」",
+      "lines": [
+        45
+      ]
+    },
+    {
+      "original": "「まぁ女の子にはつらいかな」",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "「む、無理ですー……！　絶対無理ですー……！」",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "「よし、じゃあ今日は釣りをしよう」",
+      "lines": [
+        109
+      ]
+    },
+    {
+      "original": "「りょーかい」",
+      "lines": [
+        153
+      ]
+    },
+    {
+      "original": "「れ、蓮さん……きゃっ……」",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "「れ、蓮さん……？　こ、これはなんですか……？」",
+      "lines": [
+        126
+      ]
+    },
+    {
+      "original": "「れ、蓮さんの釣竿……」",
+      "lines": [
+        125
+      ]
+    },
+    {
+      "original": "「ん？　どうかした？」",
+      "lines": [
+        98
+      ]
+    },
+    {
+      "original": "「ん？」",
+      "lines": [
+        136
+      ]
+    },
+    {
+      "original": "「アルル……いつの間にそんな下ネタを我が物に……」",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "「アルル……ここで脱ぐのはいかがなものかと……」",
+      "lines": [
+        152
+      ]
+    },
+    {
+      "original": "「アルルっ……！」",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "「アルル？　どうかした？」",
+      "lines": [
+        130
+      ]
+    },
+    {
+      "original": "「アルル？　別に釣竿は何もないみたいだけど？」",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "「ダメ」",
+      "lines": [
+        149
+      ]
+    },
+    {
+      "original": "「俺、アルルのこと釣りたい」",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "「俺も久々だから失敗するかもだけど……ちょっと見てて」",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "「俺も最初は無理だったけどようは慣れだよ」",
+      "lines": [
+        106
+      ]
+    },
+    {
+      "original": "「別にいいよ、行ってらっしゃい」",
+      "lines": [
+        90
+      ]
+    },
+    {
+      "original": "「別にダメじゃないけど……」",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "「包帯の方が良かったでしょうか？」",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "「大丈夫じゃないかもです……」",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "「大丈夫ですよ、今日は誰も寮にいませんから……」",
+      "lines": [
+        88
+      ]
+    },
+    {
+      "original": "「私……裸が好きですから……」",
+      "lines": [
+        107
+      ]
+    },
+    {
+      "original": "「私お手洗い行ってきます」",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "「私って、裏エジプトの出身じゃないですか」",
+      "lines": [
+        150
+      ]
+    },
+    {
+      "original": "「私も蓮さんの釣竿、ほしいです……」",
+      "lines": [
+        144
+      ]
+    },
+    {
+      "original": "「蓮さん……そのぉ……」",
+      "lines": [
+        8
+      ]
+    },
+    {
+      "original": "「蓮さんって釣りをしたことありますか？」",
+      "lines": [
+        72
+      ]
+    },
+    {
+      "original": "「蓮さんのせいで開放的な気分になっちゃいました……！」",
+      "lines": [
+        139
+      ]
+    },
+    {
+      "original": "「蓮さんの釣竿……もしかして、私の裸でこんなになっちゃったんですか……？」",
+      "lines": [
+        87
+      ]
+    },
+    {
+      "original": "「裸じゃ、ダメですか……？」",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "「裸の方が良かったでしょうか？」",
+      "lines": [
+        131
+      ]
+    },
+    {
+      "original": "「違います……そっちの釣竿です……」",
+      "lines": [
+        10
+      ]
+    },
+    {
+      "original": "「釣り？　フィッシングのこと？」",
+      "lines": [
+        143
+      ]
+    },
+    {
+      "original": "いつの間にかテントを張ってしまうのも無理はない。",
+      "lines": [
+        128
+      ]
+    },
+    {
+      "original": "いや、釣竿に反応は何もなかった。",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "うねうねうね！",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "うん、裸に関しては俺の言うことを聞くような子じゃないよね。",
+      "lines": [
+        103
+      ]
+    },
+    {
+      "original": "おしっこしてもいいですか…………？",
+      "lines": [
+        102
+      ]
+    },
+    {
+      "original": "おしっこしてもいいですか……？",
+      "lines": [
+        101
+      ]
+    },
+    {
+      "original": "おしっこしてもいいですか。",
+      "lines": [
+        116
+      ]
+    },
+    {
+      "original": "けど……もじもじするアルル可愛かったなぁ……（２回目）。",
+      "lines": [
+        96
+      ]
+    },
+    {
+      "original": "けれども、潮風が心地良いから苦ではない。",
+      "lines": [
+        120
+      ]
+    },
+    {
+      "original": "これじゃ余計に悶々しちゃうじゃないか……。",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "しかも、めっちゃヌメヌメしてるしね。",
+      "lines": [
+        122
+      ]
+    },
+    {
+      "original": "しばらくすると――",
+      "lines": [
+        0,
+        159
+      ]
+    },
+    {
+      "original": "すご～いつりざお",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "すぽーん！",
+      "lines": [
+        84
+      ]
+    },
+    {
+      "original": "そして、こんなところを通る人もいない。",
+      "lines": [
+        132
+      ]
+    },
+    {
+      "original": "そっち。",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "その後、部屋に閉じこもってしまったアルルに謝り倒し。",
+      "lines": [
+        147
+      ]
+    },
+    {
+      "original": "それってつまり、エッチってことだよな……。",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "それを彩るかのようなフリルのビキニ。",
+      "lines": [
+        119
+      ]
+    },
+    {
+      "original": "ただでさえアルルが裸で悶々としているのに……。",
+      "lines": [
+        114
+      ]
+    },
+    {
+      "original": "ちょっぴり期待してしまった自分がいた。",
+      "lines": [
+        134
+      ]
+    },
+    {
+      "original": "ちんこだった。",
+      "lines": [
+        113
+      ]
+    },
+    {
+      "original": "てっきりここでおっぱじめるのかと思ったぞ……。",
+      "lines": [
+        142
+      ]
+    },
+    {
+      "original": "でも、裸になられると興奮しちゃうよなぁ。",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "でも慌てるアルル可愛かったなぁ。",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "と、箱の中で蠢いているゴカイたち。",
+      "lines": [
+        6
+      ]
+    },
+    {
+      "original": "とある休日のとある日。",
+      "lines": [
+        74
+      ]
+    },
+    {
+      "original": "とにかくケガがなくて良かった。",
+      "lines": [
+        92
+      ]
+    },
+    {
+      "original": "とアルルは無邪気に微笑む。",
+      "lines": [
+        85
+      ]
+    },
+    {
+      "original": "なるほど。じゃあ裸になっても問題ないな。",
+      "lines": [
+        146
+      ]
+    },
+    {
+      "original": "なんてことを言いだすのだろうか。",
+      "lines": [
+        86
+      ]
+    },
+    {
+      "original": "なんて考えるわけがない。",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "にゅるにゅるにゅる！",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "にょろにょろにょろ！",
+      "lines": [
+        112
+      ]
+    },
+    {
+      "original": "はぁ、それにしてもびっくりした……。",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "もう下も脱いじゃってるし。",
+      "lines": [
+        121
+      ]
+    },
+    {
+      "original": "もんもんもんもん。",
+      "lines": [
+        8,
+        11,
+        12,
+        13,
+        19,
+        21,
+        28,
+        31,
+        33,
+        36,
+        44,
+        47,
+        50,
+        51,
+        52,
+        58,
+        64,
+        69,
+        71,
+        72,
+        76,
+        77,
+        82,
+        87,
+        88,
+        89,
+        91,
+        97,
+        99,
+        104,
+        107,
+        108,
+        123,
+        124,
+        126,
+        131,
+        137,
+        139,
+        144,
+        145,
+        150,
+        153
+      ]
+    },
+    {
+      "original": "アルル"
+    },
+    {
+      "original": "アルル.stand",
+      "lines": [
+        110
+      ]
+    },
+    {
+      "original": "アルルがお花を摘みにこの場から離れた。",
+      "lines": [
+        133
+      ]
+    },
+    {
+      "original": "アルルが指を差したのは俺の股間だった。",
+      "lines": [
+        156
+      ]
+    },
+    {
+      "original": "アルルという名の大物が。",
+      "lines": [
+        141
+      ]
+    },
+    {
+      "original": "アルルと結ばれてから結構時間は経過している。",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "アルルの　水着が　釣れた！",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "アルルの健康的な小麦色の肌。",
+      "lines": [
+        7
+      ]
+    },
+    {
+      "original": "アルルの部屋で一緒になってゴロゴロしていると。",
+      "lines": [
+        148
+      ]
+    },
+    {
+      "original": "アルルはずいぶんとエロくなったなぁ……。",
+      "lines": [
+        151
+      ]
+    },
+    {
+      "original": "アルルは可愛いなぁ（本日３度目）。",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "アルルは釣りをしたことがない。"
+    },
+    {
+      "original": "ラベル0"
+    },
+    {
+      "original": "ラベル1"
+    },
+    {
+      "original": "ラベル2",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "一般的には気持ち悪いと呼ばれる生物に分類されるはず。",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "今この瞬間、今日すべきことが決定した。",
+      "lines": [
+        155
+      ]
+    },
+    {
+      "original": "俺のすごい釣竿によって大物が釣れた。",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "俺はアルルにエサが詰まった箱を見せる。"
+    },
+    {
+      "original": "側面手上"
+    },
+    {
+      "original": "側面手下",
+      "lines": [
+        94
+      ]
+    },
+    {
+      "original": "全裸のアルルに悶々としながらもまったりと釣りを。",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "出てきもらうのに２時間かかった。"
+    },
+    {
+      "original": "出右",
+      "lines": [
+        129
+      ]
+    },
+    {
+      "original": "別に獲物がかかったというわけじゃないみたいだ。",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "可愛いは正義だって素晴らスィー人も言ってたし。",
+      "lines": [
+        93
+      ]
+    },
+    {
+      "original": "可愛い彼女からのそんな頼みを断れるはずがなかった。",
+      "lines": [
+        135
+      ]
+    },
+    {
+      "original": "悶々しているうちにテントを張っていた竿だった。",
+      "lines": [
+        154
+      ]
+    },
+    {
+      "original": "本日の釣りの成果。"
+    },
+    {
+      "original": "正面手上"
+    },
+    {
+      "original": "正面手下"
+    },
+    {
+      "original": "水着",
+      "lines": [
+        127
+      ]
+    },
+    {
+      "original": "獲物が引っかかったか……！？"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ泣:口ギャグ怒:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ驚:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目悲２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目悲２:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目悲２:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目閉:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目閉:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目閉:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目Ａ悲１:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目Ａ照２:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目Ａ笑１:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目Ａ笑１:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目Ａ笑１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目Ａ驚１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉泣１:目Ａ驚１:口泣１:汗無::頬１"
+    },
+    {
+      "original": "眉照１:目笑２:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目閉:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目閉:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ照２:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ照２:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ照２:口照２:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ笑１:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ笑１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ笑１:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬２",
+      "lines": [
+        95
+      ]
+    },
+    {
+      "original": "真夏の太陽は俺たちを容赦なく照りつけてくる。"
+    },
+    {
+      "original": "私服包帯",
+      "lines": [
+        9
+      ]
+    },
+    {
+      "original": "突然アルルがそんなことを言う。",
+      "lines": [
+        10,
+        14,
+        17,
+        18,
+        20,
+        22,
+        23,
+        27,
+        29,
+        32,
+        34,
+        35,
+        43,
+        45,
+        46,
+        48,
+        49,
+        53,
+        57,
+        59,
+        61,
+        62,
+        63,
+        67,
+        68,
+        70,
+        73,
+        78,
+        81,
+        83,
+        90,
+        98,
+        100,
+        105,
+        106,
+        109,
+        111,
+        117,
+        125,
+        130,
+        136,
+        138,
+        140,
+        149,
+        152
+      ]
+    },
+    {
+      "original": "蓮"
+    },
+    {
+      "original": "裸"
+    },
+    {
+      "original": "近距離",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "釣りの基本中の基本だ。",
+      "lines": [
+        75
+      ]
+    },
+    {
+      "original": "釣り針って刺さるとかなり危ないからなぁ。"
+    },
+    {
+      "original": "集中線",
+      "lines": [
+        115
+      ]
+    },
+    {
+      "original": "非常に残念である。"
+    }
+  ],
+  "name": 84,
+  "lines": [
+    {
+      "type": 3,
+      "title": 241
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 266,
+      "type": 2
+    },
+    {
+      "name": 343,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 7,
+      "type": 6
+    },
+    {
+      "text": 255,
+      "type": 0
+    },
+    {
+      "text": 274,
+      "type": 0
+    },
+    {
+      "name": 266,
+      "text": 222,
+      "type": 1
+    },
+    {
+      "text": 342,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 228,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 170,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 219,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 179,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 189,
+      "type": 1
+    },
+    {
+      "text": 277,
+      "type": 0
+    },
+    {
+      "text": 282,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 196,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 181,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 226,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 168,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 214,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 171,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 193,
+      "type": 1
+    },
+    {
+      "text": 273,
+      "type": 0
+    },
+    {
+      "text": 247,
+      "type": 0
+    },
+    {
+      "text": 291,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 165,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 191,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 159,
+      "type": 1
+    },
+    {
+      "text": 284,
+      "type": 0
+    },
+    {
+      "name": 266,
+      "text": 148,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 206,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 199,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 160,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 152,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 144,
+      "type": 1
+    },
+    {
+      "text": 231,
+      "type": 0
+    },
+    {
+      "text": 254,
+      "type": 0
+    },
+    {
+      "text": 262,
+      "type": 0
+    },
+    {
+      "text": 281,
+      "type": 0
+    },
+    {
+      "text": 261,
+      "type": 0
+    },
+    {
+      "text": 239,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 161,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 158,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 194,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 211,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 195,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 166,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 183,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 156,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 174,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 151,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 153,
+      "type": 1
+    },
+    {
+      "text": 245,
+      "type": 0
+    },
+    {
+      "text": 288,
+      "type": 0
+    },
+    {
+      "text": 253,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 182,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 163,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "text": 346,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 210,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 149,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 3,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 157,
+      "type": 1
+    },
+    {
+      "text": 242,
+      "type": 0
+    },
+    {
+      "text": 272,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 186,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 178,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 215,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 154,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 167,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 223,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 145,
+      "type": 1
+    },
+    {
+      "text": 256,
+      "type": 0
+    },
+    {
+      "text": 347,
+      "type": 0
+    },
+    {
+      "name": 266,
+      "text": 190,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 185,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 208,
+      "type": 1
+    },
+    {
+      "text": 232,
+      "type": 0
+    },
+    {
+      "text": 264,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 204,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 216,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 175,
+      "type": 1
+    },
+    {
+      "text": 243,
+      "type": 0
+    },
+    {
+      "text": 258,
+      "type": 0
+    },
+    {
+      "text": 260,
+      "type": 0
+    },
+    {
+      "name": 266,
+      "text": 225,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 217,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 184,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 213,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 164,
+      "type": 1
+    },
+    {
+      "text": 257,
+      "type": 0
+    },
+    {
+      "text": 292,
+      "type": 0
+    },
+    {
+      "text": 287,
+      "type": 0
+    },
+    {
+      "text": 340,
+      "type": 0
+    },
+    {
+      "text": 237,
+      "type": 0
+    },
+    {
+      "name": 266,
+      "text": 147,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 202,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 155,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 192,
+      "type": 1
+    },
+    {
+      "text": 235,
+      "type": 0
+    },
+    {
+      "text": 234,
+      "type": 0
+    },
+    {
+      "text": 233,
+      "type": 0
+    },
+    {
+      "name": 266,
+      "text": 143,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 146,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 212,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 218,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 173,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 197,
+      "type": 1
+    },
+    {
+      "text": 268,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 141,
+      "type": 1
+    },
+    {
+      "text": 263,
+      "type": 0
+    },
+    {
+      "text": 251,
+      "type": 0
+    },
+    {
+      "text": 249,
+      "type": 0
+    },
+    {
+      "text": 349,
+      "type": 0
+    },
+    {
+      "text": 236,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 140,
+      "type": 1
+    },
+    {
+      "text": 139,
+      "type": 0
+    },
+    {
+      "text": 248,
+      "type": 0
+    },
+    {
+      "text": 238,
+      "type": 0
+    },
+    {
+      "text": 265,
+      "type": 0
+    },
+    {
+      "text": 240,
+      "type": 0
+    },
+    {
+      "name": 266,
+      "text": 176,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 180,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 201,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 200,
+      "type": 1
+    },
+    {
+      "text": 298,
+      "type": 0
+    },
+    {
+      "text": 230,
+      "type": 0
+    },
+    {
+      "text": 290,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 207,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 227,
+      "type": 1
+    },
+    {
+      "text": 244,
+      "type": 0
+    },
+    {
+      "text": 269,
+      "type": 0
+    },
+    {
+      "text": 250,
+      "type": 0
+    },
+    {
+      "text": 293,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 203,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 177,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 150,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 224,
+      "type": 1
+    },
+    {
+      "name": 343,
+      "text": 142,
+      "type": 1
+    },
+    {
+      "text": 271,
+      "type": 0
+    },
+    {
+      "text": 252,
+      "type": 0
+    },
+    {
+      "text": 229,
+      "type": 0
+    },
+    {
+      "name": 266,
+      "text": 221,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 172,
+      "type": 1
+    },
+    {
+      "text": 259,
+      "type": 0
+    },
+    {
+      "text": 246,
+      "type": 0
+    },
+    {
+      "text": 275,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 209,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 220,
+      "type": 1
+    },
+    {
+      "text": 276,
+      "type": 0
+    },
+    {
+      "name": 343,
+      "text": 205,
+      "type": 1
+    },
+    {
+      "name": 266,
+      "text": 198,
+      "type": 1
+    },
+    {
+      "text": 294,
+      "type": 0
+    },
+    {
+      "text": 283,
+      "type": 0
+    },
+    {
+      "text": 270,
+      "type": 0
+    },
+    {
+      "storage": 84,
+      "label": 4,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 241
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 4,
+      "type": 6
+    },
+    {
+      "storage": 118,
+      "label": 5,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "4": 161,
+    "7": 5
+  }
+}

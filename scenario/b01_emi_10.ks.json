@@ -1,1 +1,1974 @@
-{"names":[318,270,276,249],"strings":[{"original":"$eye"},{"original":"$lip"},{"original":"$lipアルル"},{"original":"$lip咲莉"},{"original":"$lip梨々愛"},{"original":"*end"},{"original":"*gameend_omake"},{"original":"*gameend_scnsel"},{"original":"*start"},{"original":"1000"},{"original":"1500"},{"original":"2000"},{"original":"300"},{"original":"3000"},{"original":"500"},{"original":"900"},{"original":"@"},{"original":"@+100"},{"original":"@-100"},{"original":"MoveAction"},{"original":"RandomAction"},{"original":"RandomFlipAction"},{"original":"SinAction"},{"original":"acdec"},{"original":"angry_mark"},{"original":"arle_0500"},{"original":"arle_0501"},{"original":"arle_0502"},{"original":"b01_emi_10.ks"},{"original":"bg"},{"original":"bg03a"},{"original":"bg99a"},{"original":"bgm"},{"original":"bgm03"},{"original":"bgm04"},{"original":"bgm06"},{"original":"bgm07"},{"original":"bgm08"},{"original":"bgm_BGM03"},{"original":"bgm_BGM04"},{"original":"bgm_BGM06"},{"original":"bgm_BGM07"},{"original":"bgm_BGM08"},{"original":"both"},{"original":"cg_angry_mark"},{"original":"cg_アルル.stand"},{"original":"cg_リリア.stand"},{"original":"cg_咲莉.stand"},{"original":"character"},{"original":"crossfade"},{"original":"d4baf3613c74fe92e0f812aa439840d5"},{"original":"del"},{"original":"delayrun"},{"original":"doBoxBlur"},{"original":"emiri_2323"},{"original":"emiri_2324"},{"original":"emiri_2325"},{"original":"emiri_2326"},{"original":"emiri_2327"},{"original":"emiri_2328"},{"original":"emiri_2329"},{"original":"emiri_2330"},{"original":"emiri_2331"},{"original":"emiri_2332"},{"original":"emiri_2333"},{"original":"emiri_2334"},{"original":"emiri_2335"},{"original":"emiri_2336"},{"original":"emiri_2337"},{"original":"emiri_2338"},{"original":"emiri_2339"},{"original":"emiri_2340"},{"original":"emiri_2341"},{"original":"emiri_2342"},{"original":"emiri_2343"},{"original":"emiri_2344"},{"original":"emiri_2345"},{"original":"emiri_2346"},{"original":"emiri_2347"},{"original":"emiri_2348"},{"original":"emiri_2349"},{"original":"emiri_2350"},{"original":"emiri_2351"},{"original":"emiri_2352"},{"original":"emiri_2353"},{"original":"emiri_2354"},{"original":"emiri_2355"},{"original":"emiri_2356"},{"original":"emiri_2357"},{"original":"emiri_2358"},{"original":"emiri_2359"},{"original":"emiri_2360"},{"original":"emiri_2361"},{"original":"emiri_2362"},{"original":"emiri_2363"},{"original":"emiri_2364"},{"original":"emiri_2365"},{"original":"emiri_2366"},{"original":"emo_咲莉"},{"original":"emotion"},{"original":"endrecollection"},{"original":"env"},{"original":"envupdate"},{"original":"ev"},{"original":"eval"},{"original":"event"},{"original":"exit"},{"original":"eye"},{"original":"eyeflipdisable"},{"original":"f.sceneview"},{"original":"flipx"},{"original":"init"},{"original":"left"},{"original":"map27b"},{"original":"meswinload"},{"original":"msgoff"},{"original":"new"},{"original":"opacity"},{"original":"order"},{"original":"page"},{"original":"pretrans"},{"original":"riria_2354"},{"original":"riria_2355"},{"original":"riria_2356"},{"original":"riria_2357"},{"original":"riria_2358"},{"original":"riria_2359"},{"original":"riria_2360"},{"original":"rotate"},{"original":"se"},{"original":"seキラキラー"},{"original":"seギャグ走りの音"},{"original":"se心音グサッ"},{"original":"se環境音紙ペラ"},{"original":"stage"},{"original":"start.ks"},{"original":"stop"},{"original":"stopaction"},{"original":"storage"},{"original":"sync"},{"original":"target"},{"original":"time"},{"original":"top"},{"original":"trans"},{"original":"true"},{"original":"universal"},{"original":"update"},{"original":"visvalue"},{"original":"vlstop"},{"original":"wait"},{"original":"xpos"},{"original":"ypos"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[107]},{"original":"「\u2026\u2026\u2026\u2026」","lines":[35]},{"original":"「\u2026\u2026お兄ちゃんは、どうしてあたしにアイドルなんかやらせたいの？」","lines":[109]},{"original":"「あ、おい！？　咲！？」","lines":[43]},{"original":"「あ、それってあたしもすごく興味あるかも！」","lines":[51]},{"original":"「あたし、もう一回アイドルやってみてもいいよ？」","lines":[44]},{"original":"「あたしも、お兄ちゃんとそういうとこで、そういう衣装でえっちしてみたいかも！」"},{"original":"「あのぉ\u2026\u2026」","lines":[66]},{"original":"「ありきたりすぎだよ～！」","lines":[41]},{"original":"「い、いいじゃないか\u2026\u2026！」","lines":[37]},{"original":"「いやいや、そんなわけないだろ」","lines":[73]},{"original":"「う、うん、分かった\u2026\u2026」","lines":[96]},{"original":"「うぅぅぅ\u2026\u2026」","lines":[88]},{"original":"「うぅぅぅ\u2026\u2026よりによって梨々姉に見られるなんて\u2026\u2026」","lines":[99]},{"original":"「うぅ～～～\u2026\u2026穴があったら埋まりたいよぉ～～～\u2026\u2026！」","lines":[40]},{"original":"「うわぁ\u2026\u2026お兄ちゃん最低\u2026\u2026」","lines":[106]},{"original":"「うん\u2026\u2026何をしているかはよく分かんなかったけど、すごく可愛いかった\u2026\u2026！」","lines":[68]},{"original":"「う～ん、そうだねぇ～\u2026\u2026」","lines":[85]},{"original":"「え、えーっとぉ～\u2026\u2026」","lines":[50]},{"original":"「お兄ちゃんがどーしてもって言うなら\u2026\u2026」","lines":[70]},{"original":"「お兄ちゃんではなく、お兄たんにしてみたらどうかね？」","lines":[86]},{"original":"「お兄ちゃんのみんな～！　から、かな？」","lines":[60]},{"original":"「お兄ちゃんのみんな～！」","lines":[27]},{"original":"「お兄ちゃんのロリコン！」","lines":[103]},{"original":"「か、棺桶ならありますけどぉ\u2026\u2026」","lines":[14]},{"original":"「きゃーーーーーーーーーーー！？」","lines":[74]},{"original":"「きゅぴぴぴぴぴ～ん☆」","lines":[22]},{"original":"「ぎゃーーーーーーーーーーー！？」","lines":[87]},{"original":"「さ、最初っから全部じゃん！」","lines":[38]},{"original":"「じゃあ、どうして\u2026\u2026？」","lines":[67]},{"original":"「じゃあ、どうすればいいの、プロデューサー\u2026\u2026？」","lines":[78]},{"original":"「じゃあ行くよ、お兄たん？」","lines":[81]},{"original":"「じー\u2026\u2026っ！（どきどきどきどき）」","lines":[71]},{"original":"「それと、もっとインパクトがほしいよね～」","lines":[91]},{"original":"「それとこれとは話が別っ！」","lines":[97]},{"original":"「そんな咲ちゃんにお願いがあるんだけど\u2026\u2026」","lines":[15]},{"original":"「ちょっとお兄ちゃん！　そんなもの持ち出さないでよ！」","lines":[64]},{"original":"「というか\u2026\u2026これ、恥ずかしすぎ\u2026\u2026」","lines":[92]},{"original":"「な、なんか、いろいろとごめんなさい\u2026\u2026」","lines":[33]},{"original":"「ない」","lines":[23]},{"original":"「は、恥ずかしいんだから読まないでよ！　もう！」","lines":[10]},{"original":"「ほら、このエミリアちゃんの雑誌」","lines":[36]},{"original":"「まさか\u2026\u2026お金が欲しい、とか？」","lines":[62]},{"original":"「またまたお兄ちゃんたちのハートを、%D$vl1;エミの[ラブアロー,1]弓矢でキュンキュンさせちゃうゾ☆」"},{"original":"「またまたお兄ちゃんたちのハートを、エミのラブアローでキュンキュンさせちゃうゾ☆」"},{"original":"「またまたお兄ちゃんたちのハートを、エミの弓矢でキュンキュンさせちゃうゾ☆」","lines":[105]},{"original":"「も、もしかしてアルも全部見てたの\u2026\u2026？」","lines":[108]},{"original":"「もうイヤーーーーーーーーーーーー！！」","lines":[32]},{"original":"「もう一回アイドルとしてデビューしてみる気はない？」","lines":[115]},{"original":"「や！」","lines":[56]},{"original":"「よし、さっそくデビューのための戦略を考えよう」","lines":[104]},{"original":"「ア、アル！？」","lines":[114]},{"original":"「アイドルじゃなくてグラドルならどうだろうか？」","lines":[9]},{"original":"「アイドルのあたし？　急にどうしたのお兄ちゃん？」","lines":[54]},{"original":"「イモドル始めました」","lines":[65]},{"original":"「エミちゃん、そんなんじゃ全然ダメだよ～！」","lines":[39]},{"original":"「エミちゃんって、俺の彼女なんスよって言いたい」","lines":[77]},{"original":"「エミのラブアローは絶対必中なんだからね☆」","lines":[63]},{"original":"「ズッキュン☆」","lines":[90]},{"original":"「デビューしたら全国で放送されるのに今さらだろ？」","lines":[46]},{"original":"「ペカ☆」","lines":[79]},{"original":"「ラブアローシュゥゥゥゥゥゥゥゥゥゥっ！」","lines":[28]},{"original":"「ロリコンって\u2026\u2026イモコンと言ってほしいな\u2026\u2026」","lines":[98]},{"original":"「一回でいいから、わたしのこと\u2026\u2026お姉たんって呼んでほしいなぁ\u2026\u2026？」","lines":[76]},{"original":"「世界中のお兄たんはぁ、エミのと・り・こ♪」","lines":[21]},{"original":"「世界中のお兄ちゃんたちはエミの虜♪」","lines":[16]},{"original":"「他の人たちに見られちゃったらどうするの！？」","lines":[8]},{"original":"「俺、アイドルの咲が見たいなぁ」","lines":[95]},{"original":"「全然恥ずかしくなんかないよっ！」","lines":[55]},{"original":"「冷やし中華みたいに言わないでよ」","lines":[26]},{"original":"「可愛いんだからいいじゃん」","lines":[94]},{"original":"「大丈夫だよ咲ちゃん！　すごく可愛かったよ？」","lines":[17]},{"original":"「大丈夫大丈夫。今日、寮にいるのは俺たちだけだろ」","lines":[89]},{"original":"「恥ずかしすぎて、もう生きていけないよぉ\u2026\u2026」","lines":[57]},{"original":"「戦略\u2026\u2026？」","lines":[42]},{"original":"「控え室とかで、キャピキャピした衣装のままエッチとかしてみたいんだ\u2026\u2026！」","lines":[61]},{"original":"「新世代の愛の天使、エミリアちゃんが帰ってきたよぉ～↑」","lines":[45]},{"original":"「最低だな\u2026\u2026！」","lines":[84]},{"original":"「梨々姉！？　い、いつから見てたの！？」","lines":[75]},{"original":"「泣き虫甘えん坊、%D$vl1;お兄たんたちの妹エミだよぉ～↑↑↑」"},{"original":"「泣き虫甘えん坊、お兄たんたちの妹エミだよぉ～↑↑↑」","lines":[80]},{"original":"「超エキサイティンッ！！」","lines":[83]},{"original":"いつの間にかそこに梨々愛がいた。","lines":[52]},{"original":"お互いの利害は一致した。","lines":[47]},{"original":"お互い最低だった。","lines":[53]},{"original":"こうして咲は再びアイドルの道を歩むことに。","lines":[72]},{"original":"この男、ノリノリである。","lines":[20]},{"original":"そして、俺たちはリビングでだらだらしていた。","lines":[101]},{"original":"それ以上やると咲が立ち直れなくなってしまう。","lines":[13]},{"original":"そんな発言の発端はこの雑誌が原因だった。","lines":[69]},{"original":"ちなみにプロデューサーというのは俺のことだ。","lines":[18]},{"original":"とある休日の今日。","lines":[58]},{"original":"というわけで\u2015\u2015","lines":[49]},{"original":"とにかく最低だった。","lines":[12]},{"original":"アイドルの咲が見たい\u2026\u2026。","lines":[102,103,106]},{"original":"アルル"},{"original":"アルル.stand","lines":[29]},{"original":"イモコンとは。","lines":[30]},{"original":"イモートコンプレックスの略である。"},{"original":"ラベル0"},{"original":"リリア.stand","lines":[19]},{"original":"他の人たちは用事やらで出かけてしまった。","lines":[31]},{"original":"俗に言うシスコンと同じ意味だ。","lines":[11]},{"original":"俺は前に咲が見せてくれた雑誌を広げる。"},{"original":"側面手上"},{"original":"側面手下"},{"original":"出下"},{"original":"出右下"},{"original":"出右遅"},{"original":"出左"},{"original":"出左下"},{"original":"出左遅","lines":[34]},{"original":"即答だった。","lines":[59]},{"original":"咲がデビューした場合の自己紹介を考えることにした。","lines":[110]},{"original":"咲が全力疾走でどこかへ行ってしまった。","lines":[93]},{"original":"咲の剣幕に思わず謝罪してしまう俺。","lines":[9,14,15,16,22,23,27,33,35,36,38,40,43,44,46,50,51,55,57,60,61,62,63,64,67,73,74,75,76,77,78,79,84,87,88,89,91,96,99,104,105,107,108,115]},{"original":"咲莉"},{"original":"咲莉.stand","lines":[0,118]},{"original":"妹ドル","lines":[113]},{"original":"後日。"},{"original":"手上"},{"original":"手下","lines":[81,85,86,94,95,97,98]},{"original":"梨々愛","lines":[100]},{"original":"梨々愛よ、それは追い打ちだ\u2026\u2026。"},{"original":"正面手上"},{"original":"正面手下"},{"original":"眉ギャグ怒:目ギャグ怒:口ギャグ怒:汗無::頬２"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬２"},{"original":"眉ギャグ笑:目ギャグ笑:口ギャグ笑:汗無::頬１"},{"original":"眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬２"},{"original":"眉ギャグ驚:目Ａ驚１:口ギャグ驚:汗無::頬１"},{"original":"眉怒１:目ギャグ驚:口ギャグ驚:汗無::頬１"},{"original":"眉怒１:目悲２:口怒１:汗無::頬１"},{"original":"眉怒１:目悲２:口悲１:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口怒２:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口悲１:汗無::頬２"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉怒２:目Ａ怒２:口怒２:汗無::頬１"},{"original":"眉怒２:目Ａ怒２:口怒２:汗無::頬２"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬２"},{"original":"眉悲１:目Ａ照２:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ照２:口照１:汗無::頬１"},{"original":"眉悲２:目Ａ悲２:口悲１:汗無::頬２"},{"original":"眉悲２:目Ａ悲２:口悲２:汗無::頬２"},{"original":"眉照１:目Ａ照１:口照１:汗無::頬２"},{"original":"眉照１:目Ａ照１:口照１:汗照１::頬２"},{"original":"眉照２:目Ａ照２:口照２:汗無::頬２"},{"original":"眉笑１:目悲２:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ悲１:口笑１:汗無::頬２"},{"original":"眉笑１:目Ａ悲１:口笑２:汗無::頬１"},{"original":"眉笑１:目Ａ照２:口笑１:汗無::頬２"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑２:目Ａ笑２:口照１:汗無::頬２"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬１"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬２"},{"original":"眉驚１:目Ａ驚１:口悲１:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬２","lines":[48]},{"original":"私利私欲というか、なんというか\u2026\u2026。"},{"original":"私服"},{"original":"種族有","lines":[111]},{"original":"結局、咲が再びアイドルになることはなかった。","lines":[8,10,17,21,26,28,32,37,39,41,42,45,54,56,65,66,68,70,71,80,90,92,109,114]},{"original":"蓮","lines":[112]},{"original":"誠に残念である。","lines":[82]},{"original":"誰もいないはずのリビング。"},{"original":"近距離","lines":[25]},{"original":"雑誌を取り上げられてしまった。","lines":[24]},{"original":"顔を紅潮させて慌てる咲。","lines":[102]},{"original":"？？？"}],"name":28,"lines":[{"type":3,"title":272},{"subtype":0,"type":5},{"name":318,"type":2},{"name":270,"type":2},{"name":276,"type":2},{"name":249,"type":2},{"subtype":0,"type":5},{"label":8,"type":6},{"name":318,"text":221,"type":1},{"name":270,"text":207,"type":1},{"name":318,"text":195,"type":1},{"text":257,"type":0},{"text":248,"type":0},{"text":243,"type":0},{"name":270,"text":179,"type":1},{"name":270,"text":190,"type":1},{"name":270,"text":220,"type":1},{"name":318,"text":226,"type":1},{"text":245,"type":0},{"text":255,"type":0},{"text":241,"type":0},{"name":318,"text":219,"type":1},{"name":270,"text":181,"type":1},{"name":270,"text":194,"type":1},{"text":323,"type":0},{"text":322,"type":0},{"name":318,"text":224,"type":1},{"name":270,"text":177,"type":1},{"name":318,"text":216,"type":1},{"text":251,"type":0},{"text":252,"type":0},{"text":256,"type":0},{"name":318,"text":202,"type":1},{"name":270,"text":193,"type":1},{"text":266,"type":0},{"name":270,"text":156,"type":1},{"name":270,"text":196,"type":1},{"name":318,"text":164,"type":1},{"name":270,"text":183,"type":1},{"name":318,"text":210,"type":1},{"name":270,"text":169,"type":1},{"name":318,"text":163,"type":1},{"name":318,"text":229,"type":1},{"name":270,"text":158,"type":1},{"name":270,"text":160,"type":1},{"name":318,"text":231,"type":1},{"name":270,"text":214,"type":1},{"text":238,"type":0},{"text":314,"type":0},{"text":247,"type":0},{"name":270,"text":173,"type":1},{"name":270,"text":159,"type":1},{"text":237,"type":0},{"text":239,"type":0},{"name":318,"text":208,"type":1},{"name":270,"text":223,"type":1},{"name":318,"text":204,"type":1},{"name":270,"text":228,"type":1},{"text":246,"type":0},{"text":267,"type":0},{"name":270,"text":176,"type":1},{"name":270,"text":230,"type":1},{"name":270,"text":197,"type":1},{"name":270,"text":212,"type":1},{"name":270,"text":191,"type":1},{"name":318,"text":209,"type":1},{"name":318,"text":162,"type":1},{"name":270,"text":184,"type":1},{"name":318,"text":171,"type":1},{"text":244,"type":0},{"name":318,"text":174,"type":1},{"name":318,"text":187,"type":1},{"text":240,"type":0},{"name":270,"text":165,"type":1},{"name":270,"text":180,"type":1},{"name":270,"text":233,"type":1},{"name":270,"text":218,"type":1},{"name":270,"text":211,"type":1},{"name":270,"text":185,"type":1},{"name":270,"text":215,"type":1},{"name":318,"text":235,"type":1},{"name":276,"text":186,"type":1},{"text":320,"type":0},{"text":236,"type":0},{"name":270,"text":232,"type":1},{"name":276,"text":172,"type":1},{"name":276,"text":175,"type":1},{"name":270,"text":182,"type":1},{"name":270,"text":167,"type":1},{"name":270,"text":227,"type":1},{"name":318,"text":213,"type":1},{"name":270,"text":188,"type":1},{"name":318,"text":192,"type":1},{"text":269,"type":0},{"name":276,"text":225,"type":1},{"name":276,"text":222,"type":1},{"name":270,"text":166,"type":1},{"name":276,"text":189,"type":1},{"name":276,"text":217,"type":1},{"name":270,"text":168,"type":1},{"text":277,"type":0},{"text":242,"type":0},{"name":249,"text":324,"type":1},{"name":249,"text":178,"type":1},{"name":270,"text":205,"type":1},{"name":270,"text":200,"type":1},{"name":249,"text":170,"type":1},{"name":270,"text":155,"type":1},{"name":270,"text":201,"type":1},{"name":318,"text":157,"type":1},{"text":268,"type":0},{"text":317,"type":0},{"text":319,"type":0},{"text":273,"type":0},{"name":318,"text":206,"type":1},{"name":270,"text":203,"type":1},{"storage":28,"label":5,"type":7},{"subtype":0,"type":5},{"type":3,"title":272},{"subtype":0,"type":5},{"label":5,"type":6},{"storage":135,"label":6,"type":7}],"labels":{"5":120,"8":7}}
+{
+  "names": [
+    318,
+    270,
+    276,
+    249
+  ],
+  "strings": [
+    {
+      "original": "$eye"
+    },
+    {
+      "original": "$lip"
+    },
+    {
+      "original": "$lipアルル"
+    },
+    {
+      "original": "$lip咲莉"
+    },
+    {
+      "original": "$lip梨々愛"
+    },
+    {
+      "original": "*end"
+    },
+    {
+      "original": "*gameend_omake"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "1500"
+    },
+    {
+      "original": "2000"
+    },
+    {
+      "original": "300"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "500"
+    },
+    {
+      "original": "900"
+    },
+    {
+      "original": "@"
+    },
+    {
+      "original": "@+100"
+    },
+    {
+      "original": "@-100"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "RandomAction"
+    },
+    {
+      "original": "RandomFlipAction"
+    },
+    {
+      "original": "SinAction"
+    },
+    {
+      "original": "acdec"
+    },
+    {
+      "original": "angry_mark"
+    },
+    {
+      "original": "arle_0500"
+    },
+    {
+      "original": "arle_0501"
+    },
+    {
+      "original": "arle_0502"
+    },
+    {
+      "original": "b01_emi_10.ks"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg03a"
+    },
+    {
+      "original": "bg99a"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm03"
+    },
+    {
+      "original": "bgm04"
+    },
+    {
+      "original": "bgm06"
+    },
+    {
+      "original": "bgm07"
+    },
+    {
+      "original": "bgm08"
+    },
+    {
+      "original": "bgm_BGM03"
+    },
+    {
+      "original": "bgm_BGM04"
+    },
+    {
+      "original": "bgm_BGM06"
+    },
+    {
+      "original": "bgm_BGM07"
+    },
+    {
+      "original": "bgm_BGM08"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cg_angry_mark"
+    },
+    {
+      "original": "cg_アルル.stand"
+    },
+    {
+      "original": "cg_リリア.stand"
+    },
+    {
+      "original": "cg_咲莉.stand"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "d4baf3613c74fe92e0f812aa439840d5"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "delayrun"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "emiri_2323"
+    },
+    {
+      "original": "emiri_2324"
+    },
+    {
+      "original": "emiri_2325"
+    },
+    {
+      "original": "emiri_2326"
+    },
+    {
+      "original": "emiri_2327"
+    },
+    {
+      "original": "emiri_2328"
+    },
+    {
+      "original": "emiri_2329"
+    },
+    {
+      "original": "emiri_2330"
+    },
+    {
+      "original": "emiri_2331"
+    },
+    {
+      "original": "emiri_2332"
+    },
+    {
+      "original": "emiri_2333"
+    },
+    {
+      "original": "emiri_2334"
+    },
+    {
+      "original": "emiri_2335"
+    },
+    {
+      "original": "emiri_2336"
+    },
+    {
+      "original": "emiri_2337"
+    },
+    {
+      "original": "emiri_2338"
+    },
+    {
+      "original": "emiri_2339"
+    },
+    {
+      "original": "emiri_2340"
+    },
+    {
+      "original": "emiri_2341"
+    },
+    {
+      "original": "emiri_2342"
+    },
+    {
+      "original": "emiri_2343"
+    },
+    {
+      "original": "emiri_2344"
+    },
+    {
+      "original": "emiri_2345"
+    },
+    {
+      "original": "emiri_2346"
+    },
+    {
+      "original": "emiri_2347"
+    },
+    {
+      "original": "emiri_2348"
+    },
+    {
+      "original": "emiri_2349"
+    },
+    {
+      "original": "emiri_2350"
+    },
+    {
+      "original": "emiri_2351"
+    },
+    {
+      "original": "emiri_2352"
+    },
+    {
+      "original": "emiri_2353"
+    },
+    {
+      "original": "emiri_2354"
+    },
+    {
+      "original": "emiri_2355"
+    },
+    {
+      "original": "emiri_2356"
+    },
+    {
+      "original": "emiri_2357"
+    },
+    {
+      "original": "emiri_2358"
+    },
+    {
+      "original": "emiri_2359"
+    },
+    {
+      "original": "emiri_2360"
+    },
+    {
+      "original": "emiri_2361"
+    },
+    {
+      "original": "emiri_2362"
+    },
+    {
+      "original": "emiri_2363"
+    },
+    {
+      "original": "emiri_2364"
+    },
+    {
+      "original": "emiri_2365"
+    },
+    {
+      "original": "emiri_2366"
+    },
+    {
+      "original": "emo_咲莉"
+    },
+    {
+      "original": "emotion"
+    },
+    {
+      "original": "endrecollection"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "ev"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "event"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eye"
+    },
+    {
+      "original": "eyeflipdisable"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "flipx"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "left"
+    },
+    {
+      "original": "map27b"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "opacity"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "pretrans"
+    },
+    {
+      "original": "riria_2354"
+    },
+    {
+      "original": "riria_2355"
+    },
+    {
+      "original": "riria_2356"
+    },
+    {
+      "original": "riria_2357"
+    },
+    {
+      "original": "riria_2358"
+    },
+    {
+      "original": "riria_2359"
+    },
+    {
+      "original": "riria_2360"
+    },
+    {
+      "original": "rotate"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "seキラキラー"
+    },
+    {
+      "original": "seギャグ走りの音"
+    },
+    {
+      "original": "se心音グサッ"
+    },
+    {
+      "original": "se環境音紙ペラ"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "stop"
+    },
+    {
+      "original": "stopaction"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "sync"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "top"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "true"
+    },
+    {
+      "original": "universal"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "vlstop"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        107
+      ]
+    },
+    {
+      "original": "「…………」",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "「……お兄ちゃんは、どうしてあたしにアイドルなんかやらせたいの？」",
+      "lines": [
+        109
+      ]
+    },
+    {
+      "original": "「あ、おい！？　咲！？」",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "「あ、それってあたしもすごく興味あるかも！」",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "「あたし、もう一回アイドルやってみてもいいよ？」",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "「あたしも、お兄ちゃんとそういうとこで、そういう衣装でえっちしてみたいかも！」"
+    },
+    {
+      "original": "「あのぉ……」",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "「ありきたりすぎだよ～！」",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "「い、いいじゃないか……！」",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "「いやいや、そんなわけないだろ」",
+      "lines": [
+        73
+      ]
+    },
+    {
+      "original": "「う、うん、分かった……」",
+      "lines": [
+        96
+      ]
+    },
+    {
+      "original": "「うぅぅぅ……」",
+      "lines": [
+        88
+      ]
+    },
+    {
+      "original": "「うぅぅぅ……よりによって梨々姉に見られるなんて……」",
+      "lines": [
+        99
+      ]
+    },
+    {
+      "original": "「うぅ～～～……穴があったら埋まりたいよぉ～～～……！」",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "「うわぁ……お兄ちゃん最低……」",
+      "lines": [
+        106
+      ]
+    },
+    {
+      "original": "「うん……何をしているかはよく分かんなかったけど、すごく可愛いかった……！」",
+      "lines": [
+        68
+      ]
+    },
+    {
+      "original": "「う～ん、そうだねぇ～……」",
+      "lines": [
+        85
+      ]
+    },
+    {
+      "original": "「え、えーっとぉ～……」",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "「お兄ちゃんがどーしてもって言うなら……」",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "「お兄ちゃんではなく、お兄たんにしてみたらどうかね？」",
+      "lines": [
+        86
+      ]
+    },
+    {
+      "original": "「お兄ちゃんのみんな～！　から、かな？」",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "「お兄ちゃんのみんな～！」",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "「お兄ちゃんのロリコン！」",
+      "lines": [
+        103
+      ]
+    },
+    {
+      "original": "「か、棺桶ならありますけどぉ……」",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "「きゃーーーーーーーーーーー！？」",
+      "lines": [
+        74
+      ]
+    },
+    {
+      "original": "「きゅぴぴぴぴぴ～ん☆」",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "「ぎゃーーーーーーーーーーー！？」",
+      "lines": [
+        87
+      ]
+    },
+    {
+      "original": "「さ、最初っから全部じゃん！」",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "「じゃあ、どうして……？」",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "「じゃあ、どうすればいいの、プロデューサー……？」",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "「じゃあ行くよ、お兄たん？」",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "「じー……っ！（どきどきどきどき）」",
+      "lines": [
+        71
+      ]
+    },
+    {
+      "original": "「それと、もっとインパクトがほしいよね～」",
+      "lines": [
+        91
+      ]
+    },
+    {
+      "original": "「それとこれとは話が別っ！」",
+      "lines": [
+        97
+      ]
+    },
+    {
+      "original": "「そんな咲ちゃんにお願いがあるんだけど……」",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "「ちょっとお兄ちゃん！　そんなもの持ち出さないでよ！」",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "「というか……これ、恥ずかしすぎ……」",
+      "lines": [
+        92
+      ]
+    },
+    {
+      "original": "「な、なんか、いろいろとごめんなさい……」",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "「ない」",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "「は、恥ずかしいんだから読まないでよ！　もう！」",
+      "lines": [
+        10
+      ]
+    },
+    {
+      "original": "「ほら、このエミリアちゃんの雑誌」",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "「まさか……お金が欲しい、とか？」",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "「またまたお兄ちゃんたちのハートを、%D$vl1;エミの[ラブアロー,1]弓矢でキュンキュンさせちゃうゾ☆」"
+    },
+    {
+      "original": "「またまたお兄ちゃんたちのハートを、エミのラブアローでキュンキュンさせちゃうゾ☆」"
+    },
+    {
+      "original": "「またまたお兄ちゃんたちのハートを、エミの弓矢でキュンキュンさせちゃうゾ☆」",
+      "lines": [
+        105
+      ]
+    },
+    {
+      "original": "「も、もしかしてアルも全部見てたの……？」",
+      "lines": [
+        108
+      ]
+    },
+    {
+      "original": "「もうイヤーーーーーーーーーーーー！！」",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "「もう一回アイドルとしてデビューしてみる気はない？」",
+      "lines": [
+        115
+      ]
+    },
+    {
+      "original": "「や！」",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "「よし、さっそくデビューのための戦略を考えよう」",
+      "lines": [
+        104
+      ]
+    },
+    {
+      "original": "「ア、アル！？」",
+      "lines": [
+        114
+      ]
+    },
+    {
+      "original": "「アイドルじゃなくてグラドルならどうだろうか？」",
+      "lines": [
+        9
+      ]
+    },
+    {
+      "original": "「アイドルのあたし？　急にどうしたのお兄ちゃん？」",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "「イモドル始めました」",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "「エミちゃん、そんなんじゃ全然ダメだよ～！」",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "「エミちゃんって、俺の彼女なんスよって言いたい」",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "「エミのラブアローは絶対必中なんだからね☆」",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "「ズッキュン☆」",
+      "lines": [
+        90
+      ]
+    },
+    {
+      "original": "「デビューしたら全国で放送されるのに今さらだろ？」",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "「ペカ☆」",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "「ラブアローシュゥゥゥゥゥゥゥゥゥゥっ！」",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "「ロリコンって……イモコンと言ってほしいな……」",
+      "lines": [
+        98
+      ]
+    },
+    {
+      "original": "「一回でいいから、わたしのこと……お姉たんって呼んでほしいなぁ……？」",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "「世界中のお兄たんはぁ、エミのと・り・こ♪」",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "「世界中のお兄ちゃんたちはエミの虜♪」",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "「他の人たちに見られちゃったらどうするの！？」",
+      "lines": [
+        8
+      ]
+    },
+    {
+      "original": "「俺、アイドルの咲が見たいなぁ」",
+      "lines": [
+        95
+      ]
+    },
+    {
+      "original": "「全然恥ずかしくなんかないよっ！」",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "「冷やし中華みたいに言わないでよ」",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "「可愛いんだからいいじゃん」",
+      "lines": [
+        94
+      ]
+    },
+    {
+      "original": "「大丈夫だよ咲ちゃん！　すごく可愛かったよ？」",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "「大丈夫大丈夫。今日、寮にいるのは俺たちだけだろ」",
+      "lines": [
+        89
+      ]
+    },
+    {
+      "original": "「恥ずかしすぎて、もう生きていけないよぉ……」",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "「戦略……？」",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "「控え室とかで、キャピキャピした衣装のままエッチとかしてみたいんだ……！」",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "「新世代の愛の天使、エミリアちゃんが帰ってきたよぉ～↑」",
+      "lines": [
+        45
+      ]
+    },
+    {
+      "original": "「最低だな……！」",
+      "lines": [
+        84
+      ]
+    },
+    {
+      "original": "「梨々姉！？　い、いつから見てたの！？」",
+      "lines": [
+        75
+      ]
+    },
+    {
+      "original": "「泣き虫甘えん坊、%D$vl1;お兄たんたちの妹エミだよぉ～↑↑↑」"
+    },
+    {
+      "original": "「泣き虫甘えん坊、お兄たんたちの妹エミだよぉ～↑↑↑」",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "「超エキサイティンッ！！」",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "いつの間にかそこに梨々愛がいた。",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "お互いの利害は一致した。",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "お互い最低だった。",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "こうして咲は再びアイドルの道を歩むことに。",
+      "lines": [
+        72
+      ]
+    },
+    {
+      "original": "この男、ノリノリである。",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "そして、俺たちはリビングでだらだらしていた。",
+      "lines": [
+        101
+      ]
+    },
+    {
+      "original": "それ以上やると咲が立ち直れなくなってしまう。",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "そんな発言の発端はこの雑誌が原因だった。",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "ちなみにプロデューサーというのは俺のことだ。",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "とある休日の今日。",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "というわけで――",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "とにかく最低だった。",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "アイドルの咲が見たい……。",
+      "lines": [
+        102,
+        103,
+        106
+      ]
+    },
+    {
+      "original": "アルル"
+    },
+    {
+      "original": "アルル.stand",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "イモコンとは。",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "イモートコンプレックスの略である。"
+    },
+    {
+      "original": "ラベル0"
+    },
+    {
+      "original": "リリア.stand",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "他の人たちは用事やらで出かけてしまった。",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "俗に言うシスコンと同じ意味だ。",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "俺は前に咲が見せてくれた雑誌を広げる。"
+    },
+    {
+      "original": "側面手上"
+    },
+    {
+      "original": "側面手下"
+    },
+    {
+      "original": "出下"
+    },
+    {
+      "original": "出右下"
+    },
+    {
+      "original": "出右遅"
+    },
+    {
+      "original": "出左"
+    },
+    {
+      "original": "出左下"
+    },
+    {
+      "original": "出左遅",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "即答だった。",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "咲がデビューした場合の自己紹介を考えることにした。",
+      "lines": [
+        110
+      ]
+    },
+    {
+      "original": "咲が全力疾走でどこかへ行ってしまった。",
+      "lines": [
+        93
+      ]
+    },
+    {
+      "original": "咲の剣幕に思わず謝罪してしまう俺。",
+      "lines": [
+        9,
+        14,
+        15,
+        16,
+        22,
+        23,
+        27,
+        33,
+        35,
+        36,
+        38,
+        40,
+        43,
+        44,
+        46,
+        50,
+        51,
+        55,
+        57,
+        60,
+        61,
+        62,
+        63,
+        64,
+        67,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        84,
+        87,
+        88,
+        89,
+        91,
+        96,
+        99,
+        104,
+        105,
+        107,
+        108,
+        115
+      ]
+    },
+    {
+      "original": "咲莉"
+    },
+    {
+      "original": "咲莉.stand",
+      "lines": [
+        0,
+        118
+      ]
+    },
+    {
+      "original": "妹ドル",
+      "lines": [
+        113
+      ]
+    },
+    {
+      "original": "後日。"
+    },
+    {
+      "original": "手上"
+    },
+    {
+      "original": "手下",
+      "lines": [
+        81,
+        85,
+        86,
+        94,
+        95,
+        97,
+        98
+      ]
+    },
+    {
+      "original": "梨々愛",
+      "lines": [
+        100
+      ]
+    },
+    {
+      "original": "梨々愛よ、それは追い打ちだ……。"
+    },
+    {
+      "original": "正面手上"
+    },
+    {
+      "original": "正面手下"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ怒:口ギャグ怒:汗無::頬２"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬２"
+    },
+    {
+      "original": "眉ギャグ笑:目ギャグ笑:口ギャグ笑:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬２"
+    },
+    {
+      "original": "眉ギャグ驚:目Ａ驚１:口ギャグ驚:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目ギャグ驚:口ギャグ驚:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目悲２:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目悲２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉怒２:目Ａ怒２:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉怒２:目Ａ怒２:口怒２:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ照２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ照２:口照１:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目Ａ悲２:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目Ａ悲２:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ照１:口照１:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ照１:口照１:汗照１::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ照２:口照２:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ悲１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目Ａ悲１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ照２:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口照１:汗無::頬２"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬２",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "私利私欲というか、なんというか……。"
+    },
+    {
+      "original": "私服"
+    },
+    {
+      "original": "種族有",
+      "lines": [
+        111
+      ]
+    },
+    {
+      "original": "結局、咲が再びアイドルになることはなかった。",
+      "lines": [
+        8,
+        10,
+        17,
+        21,
+        26,
+        28,
+        32,
+        37,
+        39,
+        41,
+        42,
+        45,
+        54,
+        56,
+        65,
+        66,
+        68,
+        70,
+        71,
+        80,
+        90,
+        92,
+        109,
+        114
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        112
+      ]
+    },
+    {
+      "original": "誠に残念である。",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "誰もいないはずのリビング。"
+    },
+    {
+      "original": "近距離",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "雑誌を取り上げられてしまった。",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "顔を紅潮させて慌てる咲。",
+      "lines": [
+        102
+      ]
+    },
+    {
+      "original": "？？？"
+    }
+  ],
+  "name": 28,
+  "lines": [
+    {
+      "type": 3,
+      "title": 272
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 318,
+      "type": 2
+    },
+    {
+      "name": 270,
+      "type": 2
+    },
+    {
+      "name": 276,
+      "type": 2
+    },
+    {
+      "name": 249,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 8,
+      "type": 6
+    },
+    {
+      "name": 318,
+      "text": 221,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 207,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 195,
+      "type": 1
+    },
+    {
+      "text": 257,
+      "type": 0
+    },
+    {
+      "text": 248,
+      "type": 0
+    },
+    {
+      "text": 243,
+      "type": 0
+    },
+    {
+      "name": 270,
+      "text": 179,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 190,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 220,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 226,
+      "type": 1
+    },
+    {
+      "text": 245,
+      "type": 0
+    },
+    {
+      "text": 255,
+      "type": 0
+    },
+    {
+      "text": 241,
+      "type": 0
+    },
+    {
+      "name": 318,
+      "text": 219,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 181,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 194,
+      "type": 1
+    },
+    {
+      "text": 323,
+      "type": 0
+    },
+    {
+      "text": 322,
+      "type": 0
+    },
+    {
+      "name": 318,
+      "text": 224,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 177,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 216,
+      "type": 1
+    },
+    {
+      "text": 251,
+      "type": 0
+    },
+    {
+      "text": 252,
+      "type": 0
+    },
+    {
+      "text": 256,
+      "type": 0
+    },
+    {
+      "name": 318,
+      "text": 202,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 193,
+      "type": 1
+    },
+    {
+      "text": 266,
+      "type": 0
+    },
+    {
+      "name": 270,
+      "text": 156,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 196,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 164,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 183,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 210,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 163,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 229,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 158,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 160,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 231,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 214,
+      "type": 1
+    },
+    {
+      "text": 238,
+      "type": 0
+    },
+    {
+      "text": 314,
+      "type": 0
+    },
+    {
+      "text": 247,
+      "type": 0
+    },
+    {
+      "name": 270,
+      "text": 173,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 159,
+      "type": 1
+    },
+    {
+      "text": 237,
+      "type": 0
+    },
+    {
+      "text": 239,
+      "type": 0
+    },
+    {
+      "name": 318,
+      "text": 208,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 223,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 204,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 228,
+      "type": 1
+    },
+    {
+      "text": 246,
+      "type": 0
+    },
+    {
+      "text": 267,
+      "type": 0
+    },
+    {
+      "name": 270,
+      "text": 176,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 230,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 197,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 212,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 191,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 209,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 162,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 184,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 171,
+      "type": 1
+    },
+    {
+      "text": 244,
+      "type": 0
+    },
+    {
+      "name": 318,
+      "text": 174,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 187,
+      "type": 1
+    },
+    {
+      "text": 240,
+      "type": 0
+    },
+    {
+      "name": 270,
+      "text": 165,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 180,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 233,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 218,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 211,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 185,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 215,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 235,
+      "type": 1
+    },
+    {
+      "name": 276,
+      "text": 186,
+      "type": 1
+    },
+    {
+      "text": 320,
+      "type": 0
+    },
+    {
+      "text": 236,
+      "type": 0
+    },
+    {
+      "name": 270,
+      "text": 232,
+      "type": 1
+    },
+    {
+      "name": 276,
+      "text": 172,
+      "type": 1
+    },
+    {
+      "name": 276,
+      "text": 175,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 182,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 167,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 227,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 213,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 188,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 192,
+      "type": 1
+    },
+    {
+      "text": 269,
+      "type": 0
+    },
+    {
+      "name": 276,
+      "text": 225,
+      "type": 1
+    },
+    {
+      "name": 276,
+      "text": 222,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 166,
+      "type": 1
+    },
+    {
+      "name": 276,
+      "text": 189,
+      "type": 1
+    },
+    {
+      "name": 276,
+      "text": 217,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 168,
+      "type": 1
+    },
+    {
+      "text": 277,
+      "type": 0
+    },
+    {
+      "text": 242,
+      "type": 0
+    },
+    {
+      "name": 249,
+      "text": 324,
+      "type": 1
+    },
+    {
+      "name": 249,
+      "text": 178,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 205,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 200,
+      "type": 1
+    },
+    {
+      "name": 249,
+      "text": 170,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 155,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 201,
+      "type": 1
+    },
+    {
+      "name": 318,
+      "text": 157,
+      "type": 1
+    },
+    {
+      "text": 268,
+      "type": 0
+    },
+    {
+      "text": 317,
+      "type": 0
+    },
+    {
+      "text": 319,
+      "type": 0
+    },
+    {
+      "text": 273,
+      "type": 0
+    },
+    {
+      "name": 318,
+      "text": 206,
+      "type": 1
+    },
+    {
+      "name": 270,
+      "text": 203,
+      "type": 1
+    },
+    {
+      "storage": 28,
+      "label": 5,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 272
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 5,
+      "type": 6
+    },
+    {
+      "storage": 135,
+      "label": 6,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "5": 120,
+    "8": 7
+  }
+}

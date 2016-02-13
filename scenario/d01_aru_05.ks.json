@@ -1,1 +1,7782 @@
-{"names":[1021,806,868,825,896,886,887,888,842,820],"strings":[{"original":"$eye"},{"original":"$lip"},{"original":"$lipアルル"},{"original":"$lipタマ"},{"original":"$lip凛"},{"original":"$lip怜香"},{"original":"*dummy1"},{"original":"*dummy2"},{"original":"*endescene1"},{"original":"*endescene2"},{"original":"*gameend_scnsel"},{"original":"*start"},{"original":"*start2"},{"original":"*startscene2"},{"original":"0"},{"original":"1"},{"original":"100"},{"original":"1000"},{"original":"2000"},{"original":"300"},{"original":"3000"},{"original":"5"},{"original":"500"},{"original":"@"},{"original":"@+100"},{"original":"@-100"},{"original":"MoveAction"},{"original":"RandomAction"},{"original":"RandomFlipAction"},{"original":"SinAction"},{"original":"[stopaction]"},{"original":"angry_mark"},{"original":"arle_1257"},{"original":"arle_1258"},{"original":"arle_1259"},{"original":"arle_1260"},{"original":"arle_1261"},{"original":"arle_1263"},{"original":"arle_1265"},{"original":"arle_1266"},{"original":"arle_1267"},{"original":"arle_1268"},{"original":"arle_1269"},{"original":"arle_1270"},{"original":"arle_1271"},{"original":"arle_1272"},{"original":"arle_1273"},{"original":"arle_1274"},{"original":"arle_1275"},{"original":"arle_1277"},{"original":"arle_1278"},{"original":"arle_1279"},{"original":"arle_1280"},{"original":"arle_1281"},{"original":"arle_1282"},{"original":"arle_1283"},{"original":"arle_1284"},{"original":"arle_1285"},{"original":"arle_1286"},{"original":"arle_1287"},{"original":"arle_1288"},{"original":"arle_1289"},{"original":"arle_1290"},{"original":"arle_1291"},{"original":"arle_1292"},{"original":"arle_1293"},{"original":"arle_1294"},{"original":"arle_1295"},{"original":"arle_1296"},{"original":"arle_1297"},{"original":"arle_1298"},{"original":"arle_1299"},{"original":"arle_1301"},{"original":"arle_1302"},{"original":"arle_1303"},{"original":"arle_1304"},{"original":"arle_1305"},{"original":"arle_1306"},{"original":"arle_1307"},{"original":"arle_1308"},{"original":"arle_1309"},{"original":"arle_1310"},{"original":"arle_1311"},{"original":"arle_1312"},{"original":"arle_1313"},{"original":"arle_1314"},{"original":"arle_1315"},{"original":"arle_1316"},{"original":"arle_1317"},{"original":"arle_1318"},{"original":"arle_1319"},{"original":"arle_1320"},{"original":"arle_1321"},{"original":"arle_1322"},{"original":"arle_1323"},{"original":"arle_1324"},{"original":"arle_1325"},{"original":"arle_1326"},{"original":"arle_1327"},{"original":"arle_1328"},{"original":"arle_1329"},{"original":"arle_1330"},{"original":"arle_1331"},{"original":"arle_1332"},{"original":"arle_1333"},{"original":"arle_1334"},{"original":"arle_1335"},{"original":"arle_1336"},{"original":"arle_1337"},{"original":"arle_1338"},{"original":"arle_1339"},{"original":"arle_1340"},{"original":"arle_1341"},{"original":"arle_1342"},{"original":"arle_1343"},{"original":"arle_1344"},{"original":"arle_1345"},{"original":"arle_1346"},{"original":"arle_1347"},{"original":"arle_1348"},{"original":"arle_1349"},{"original":"arle_1350"},{"original":"arle_1351"},{"original":"arle_1352"},{"original":"arle_1353"},{"original":"arle_1354"},{"original":"arle_1355"},{"original":"arle_1356"},{"original":"arle_1357"},{"original":"arle_1358"},{"original":"arle_1359"},{"original":"arle_1360"},{"original":"arle_1361"},{"original":"arle_1362"},{"original":"arle_1363"},{"original":"arle_1364"},{"original":"arle_1365"},{"original":"arle_1366"},{"original":"arle_1367"},{"original":"bg"},{"original":"bg08a"},{"original":"bg11a"},{"original":"bg16a"},{"original":"bg20a"},{"original":"bgm"},{"original":"bgm03"},{"original":"bgm05"},{"original":"bgm06"},{"original":"bgm07"},{"original":"bgm08"},{"original":"bgm09"},{"original":"bgm13"},{"original":"bgm_BGM03"},{"original":"bgm_BGM05"},{"original":"bgm_BGM06"},{"original":"bgm_BGM07"},{"original":"bgm_BGM08"},{"original":"bgm_BGM09"},{"original":"bgm_BGM13"},{"original":"black"},{"original":"both"},{"original":"cg_angry_mark"},{"original":"cg_ev_aru05a"},{"original":"cg_ev_aru05b"},{"original":"cg_ev_aru05c"},{"original":"cg_ev_aru05d"},{"original":"cg_ev_aru10e"},{"original":"cg_ev_aru10f"},{"original":"cg_exclamation_mark"},{"original":"cg_ic_92"},{"original":"cg_ic_93"},{"original":"cg_question_mark"},{"original":"cg_wh"},{"original":"cg_アルル.stand"},{"original":"cg_ケルベロス.stand"},{"original":"cg_ゴメ.stand"},{"original":"cg_タマ.stand"},{"original":"cg_凛.stand"},{"original":"cg_怜香.stand"},{"original":"character"},{"original":"crossfade"},{"original":"d01_aru_05.ks"},{"original":"d01_aru_06.ks"},{"original":"del"},{"original":"delayrun"},{"original":"doBoxBlur"},{"original":"e81ef8535848563bdca6307725f524ad"},{"original":"emo_アルル"},{"original":"emo_凛"},{"original":"emotion"},{"original":"endrecollection"},{"original":"env"},{"original":"envupdate"},{"original":"ev"},{"original":"ev_aru05a"},{"original":"ev_aru05b"},{"original":"ev_aru05c"},{"original":"ev_aru05d"},{"original":"ev_aru10e"},{"original":"ev_aru10f"},{"original":"eval"},{"original":"event"},{"original":"exclamation_mark"},{"original":"exit"},{"original":"eye"},{"original":"eyecatch"},{"original":"eyeflipdisable"},{"original":"f.sceneview"},{"original":"facemask"},{"original":"femA_0001"},{"original":"femA_0002"},{"original":"femA_0003"},{"original":"femA_0004"},{"original":"femA_0005"},{"original":"femA_0006"},{"original":"femB_0001"},{"original":"femB_0002"},{"original":"femB_0003"},{"original":"femB_0004"},{"original":"femB_0005"},{"original":"femC_0001"},{"original":"femC_0002"},{"original":"femC_0003"},{"original":"femC_0004"},{"original":"femC_0005"},{"original":"gome_0089"},{"original":"gome_0090"},{"original":"gome_0091"},{"original":"gome_0092"},{"original":"gome_0093"},{"original":"ic_92"},{"original":"ic_93"},{"original":"init"},{"original":"layer"},{"original":"left"},{"original":"map27b"},{"original":"meswinload"},{"original":"msgchange"},{"original":"msgoff"},{"original":"msgwin"},{"original":"new"},{"original":"opacity"},{"original":"order"},{"original":"originx"},{"original":"originy"},{"original":"page"},{"original":"pochi_0059"},{"original":"pretrans"},{"original":"question_mark"},{"original":"reika_0219"},{"original":"reika_0220"},{"original":"reika_0221"},{"original":"reika_0222"},{"original":"reika_0223"},{"original":"reika_0224"},{"original":"reika_0225"},{"original":"reika_0226"},{"original":"reika_0227"},{"original":"reika_0228"},{"original":"reika_0229"},{"original":"reika_0230"},{"original":"reika_0232"},{"original":"reika_0233"},{"original":"reika_0234"},{"original":"reika_0235"},{"original":"rin_0156"},{"original":"rin_0157"},{"original":"rin_0158"},{"original":"rin_0159"},{"original":"rin_0160"},{"original":"rin_0161"},{"original":"rin_0162"},{"original":"rin_0163"},{"original":"rin_0164"},{"original":"rin_0165"},{"original":"rin_0166"},{"original":"rin_0167"},{"original":"rin_0168"},{"original":"rin_0169"},{"original":"rin_0170"},{"original":"rin_0171"},{"original":"rin_0172"},{"original":"rin_0173"},{"original":"rin_0174"},{"original":"rin_0175"},{"original":"rin_0176"},{"original":"rin_0177"},{"original":"rin_0178"},{"original":"rin_0179"},{"original":"rin_0180"},{"original":"rin_0181"},{"original":"rin_0182"},{"original":"rin_0183"},{"original":"rin_0184"},{"original":"rin_0185"},{"original":"rin_0186"},{"original":"rin_0187"},{"original":"rin_0188"},{"original":"rin_0189"},{"original":"rin_0190"},{"original":"rin_0191"},{"original":"rin_0192"},{"original":"rin_0193"},{"original":"rin_0194"},{"original":"rin_0195"},{"original":"rin_0196"},{"original":"rin_0197"},{"original":"rotate"},{"original":"se"},{"original":"se携帯を切る音"},{"original":"se携帯電話のコール音"},{"original":"se環境音部屋ドアノック激"},{"original":"se環境音部屋ドア開"},{"original":"sf.replay_aru_03"},{"original":"sf.replay_aru_04"},{"original":"stage"},{"original":"start.ks"},{"original":"stop"},{"original":"stopaction"},{"original":"storage"},{"original":"sync"},{"original":"tag"},{"original":"tagname"},{"original":"tama_0551"},{"original":"tama_0552"},{"original":"tama_0553"},{"original":"tama_0554"},{"original":"tama_0555"},{"original":"tama_0556"},{"original":"tama_0557"},{"original":"tama_0558"},{"original":"tama_0559"},{"original":"tama_0560"},{"original":"tama_0561"},{"original":"tama_0562"},{"original":"tama_0563"},{"original":"tama_0564"},{"original":"tama_0565"},{"original":"tama_0566"},{"original":"tama_0567"},{"original":"target"},{"original":"thlabel_endescene1"},{"original":"thlabel_endescene2"},{"original":"thlabel_startscene2"},{"original":"time"},{"original":"trans"},{"original":"true"},{"original":"universal"},{"original":"update"},{"original":"visvalue"},{"original":"wait"},{"original":"wh"},{"original":"xpos"},{"original":"ypos"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[468]},{"original":"\u2026\u2026あれは会話として成立してるのか？","lines":[31]},{"original":"\u2026\u2026いやでも意識しちゃって。","lines":[504]},{"original":"\u2026\u2026いや冷静に考えたら全然惜しくないな、ゴメってクジラだし。","lines":[481]},{"original":"\u2026\u2026さすがに冗談だよね？　でもマ族だし\u2026\u2026。","lines":[417]},{"original":"\u2026\u2026すみません怜香さん。全然健全じゃなかったです。","lines":[25]},{"original":"\u2026\u2026その、えっちを。","lines":[282]},{"original":"\u2026\u2026でも増えすぎたデスハムの対応と出店の空きかぁ。","lines":[259]},{"original":"\u2026\u2026ほんと、なにやってんだあの人\u2026\u2026。","lines":[131]},{"original":"\u2026\u2026ん？　そう言えば最近も動物でいろいろ騒動があったような\u2026\u2026。","lines":[285]},{"original":"\u2026\u2026デスハムと出店？","lines":[233]},{"original":"\u2026\u2026便秘なのかな。","lines":[558]},{"original":"\u2026\u2026凛ちゃんのあの言い方、気づいてるっぽいな。","lines":[341]},{"original":"\u2026\u2026改めて言うのは恥ずかしいから止めておこう。","lines":[9]},{"original":"「\u2026\u2026\u2026\u2026」","lines":[22]},{"original":"「\u2026\u2026あぁ、しちゃったな」","lines":[15]},{"original":"「\u2026\u2026うん」","lines":[452]},{"original":"「\u2026\u2026それに、蓮さんと一緒にお店をやってるっていうのが、その」","lines":[28]},{"original":"「\u2026\u2026ってかあのーアルルさん\u2026\u2026そういうこと言われるとわたくし\u2026\u2026」","lines":[159]},{"original":"「\u2026\u2026なにかね凛ちゃん」","lines":[262]},{"original":"「\u2026\u2026は？」","lines":[553]},{"original":"「\u2026\u2026ふむふむ、なるほどなるほど」","lines":[360]},{"original":"「\u2026\u2026もう、仕方のない人ですね\u2026\u2026」","lines":[284]},{"original":"「\u2026\u2026ん？」","lines":[386]},{"original":"「\u2026\u2026アルルのバニー姿、いいね\u2026\u2026」」","lines":[13]},{"original":"「\u2026\u2026アルル？」","lines":[220]},{"original":"「\u2026\u2026何が？」","lines":[174]},{"original":"「\u2026\u2026俺、入れないよね？」","lines":[162]},{"original":"「『スケコマシ　ジゴロウ』みたいな感じですかね」","lines":[163]},{"original":"「『リリー＝アネンネチャン』みたいな感じか」","lines":[197]},{"original":"「あ、あはは\u2026\u2026そうみたい、ですね」","lines":[408]},{"original":"「あ、いらっしゃいませー♪」","lines":[484]},{"original":"「あ、そうなんですか。ザンネーン」","lines":[499]},{"original":"「あ、ゴメちゃん♪」","lines":[111]},{"original":"「あ。そうそう、大変なことになってるの！」","lines":[325]},{"original":"「あ。それと、凛ちゃんも来てくれるそうです。今日はシフトがお休みだからって」","lines":[20]},{"original":"「あぁ、おはようアルル」","lines":[298]},{"original":"「あぁ、ちょっとね。上手くいけば二つとも解決しそう」","lines":[278]},{"original":"「あぁ、なんでも実家の都合とかで。おかげで店が一軒パーだ、パー」","lines":[45]},{"original":"「あぁ。分かるよ、なんとなく」","lines":[269]},{"original":"「ああ、蓮。助かった。それにアルルも」","lines":[447]},{"original":"「あいよ」","lines":[332]},{"original":"「あうぅ。そんなすぐに肯定しなくても\u2026\u2026」","lines":[394]},{"original":"「あうぅー。恥ずかしいです\u2026\u2026」","lines":[457]},{"original":"「あっ、いけないいけない。ぽわーっとしちゃいました」","lines":[429]},{"original":"「あっ、は、はい！　ただいま行きまーす！」","lines":[355]},{"original":"「あとできっちりとお話しましょうね蓮さん」","lines":[478]},{"original":"「あとは留守電機能ですね」","lines":[299]},{"original":"「あとアルルと凛ちゃんにも手伝ってほしいんだけどいいかな？」","lines":[207]},{"original":"「あの、先生」","lines":[224]},{"original":"「あの、蓮さん」","lines":[237]},{"original":"「あのー、センパイ、アルル」","lines":[328]},{"original":"「あはは、そうですね。私もアルバイトの経験はありませんから」","lines":[125]},{"original":"「あはは、まさかー。しげるは増えないですよ」","lines":[548]},{"original":"「ありがとう、さすが凛ちゃん」","lines":[173]},{"original":"「ありがとうございます。いやー、ご面倒をおかけします」","lines":[507]},{"original":"「あれ？　今この子しゃべらなかった？」","lines":[541]},{"original":"「あー\u2026\u2026」","lines":[250]},{"original":"「い、いいえ、なんでもないのです\u2026\u2026」","lines":[270]},{"original":"「い、いいえ！　可愛い動物たちですから」","lines":[381]},{"original":"「い、いらっしゃいませー！　喫茶ハムナクトラへ！」","lines":[366]},{"original":"「い、息が荒くないですか？」","lines":[304]},{"original":"「いえいえ。ポンコツ寮の寮監補佐として働くだけです」","lines":[395]},{"original":"「いやいやー、似合ってるぞアルル」","lines":[27]},{"original":"「いやはや、昨日は誠にご迷惑を\u2026\u2026」","lines":[369]},{"original":"「いやもちろん冗談だよ？」","lines":[239]},{"original":"「いやー、そうじゃなくてですね。実はデスがですね」","lines":[351]},{"original":"「いや冗談です嘘ですジョークです」","lines":[140]},{"original":"「う、うん、分かった！」","lines":[89]},{"original":"「う、うん。今開けるね」","lines":[551]},{"original":"「う、うん。少しのぼせちゃっただけだから\u2026\u2026」","lines":[442]},{"original":"「うぅ\u2026\u2026すみません、もう一回作ってもらってもいいでしょうか\u2026\u2026」","lines":[77]},{"original":"「うおう、びっくりした\u2026\u2026」","lines":[274]},{"original":"「うちの学園が毎年夏祭りに協賛として出ていることは知ってるな？」","lines":[42]},{"original":"「うん\u2026\u2026」","lines":[472]},{"original":"「うん、すっごいヤバい！」","lines":[347]},{"original":"「うん。それでちょっと聞きたいんだけど」","lines":[398]},{"original":"「うん。可愛いよ」","lines":[550]},{"original":"「えぇっ？　大丈夫なのアルル？」","lines":[308]},{"original":"「えっと\u2026\u2026お店にいるものは」","lines":[456]},{"original":"「えへへ\u2026\u2026」","lines":[399]},{"original":"「えへへ\u2026\u2026少し恥ずかしいですけど、着てよかったです」","lines":[153]},{"original":"「えへへ♪　他の人に見られたくない、だって」","lines":[85]},{"original":"「えへへ、わかる？」","lines":[450]},{"original":"「えへへ。大変ですけど、楽しいです」","lines":[294]},{"original":"「えろい喫茶店はいつか計画しますので今回は健全なのでお願いします」","lines":[144]},{"original":"「えー」","lines":[145]},{"original":"「えーじゃないの」","lines":[248]},{"original":"「えーっと、これは、ですね。デスなのです」","lines":[118]},{"original":"「えーっと、だから、その、アレ、アレが増えてて、だーって」","lines":[361]},{"original":"「えーと、コスプレは\u2026\u2026%D$vl1;そうですね、好きかは分かりませんけど興味はあります」"},{"original":"「えーと、コスプレは\u2026\u2026そうですね、好きかは分かりませんけど興味はあります」","lines":[508]},{"original":"「えーまさかー」","lines":[383]},{"original":"「おお\u2026\u2026！」","lines":[95]},{"original":"「おはよう」","lines":[12]},{"original":"「おはようございます、蓮さん」","lines":[93]},{"original":"「おはようアルル。それにセンパイもおはようございます」","lines":[94]},{"original":"「おはよう凛ちゃん」","lines":[436]},{"original":"「お待たせしましたー！　オーダーのオムライにゃあああっ！？」","lines":[477]},{"original":"「お手はもちろん、お留守番を任せることだって出来るんですよ」","lines":[227]},{"original":"「お部屋に帰って、さっきの続きしませんか？」","lines":[572]},{"original":"「お願いしまぁす\u2026\u2026もう、つらいんです\u2026\u2026」","lines":[490]},{"original":"「かく言う吾もまた、その欲求を抑えきれん\u2026\u2026」","lines":[449]},{"original":"「がんばってるな、アルル」","lines":[464]},{"original":"「きゃー！　なにこの子！　ちょ、ヤバくない！？」","lines":[194]},{"original":"「ぎぬああぁああぁぁぁあぁぁぁぁぁ！！」","lines":[16]},{"original":"「くすくす。まだ寝ぼけてますね」","lines":[339]},{"original":"「くすくす。私も蓮さんと付き合い長いですからね」","lines":[552]},{"original":"「くんくん、すんすん」","lines":[451]},{"original":"「こういうの新鮮で、ドキドキして\u2015\u2015」","lines":[432]},{"original":"「こっちも注文お願いしまーす！」","lines":[532]},{"original":"「このままじゃいろいろまずい」","lines":[475]},{"original":"「このデスハ\u2015\u2015ハムハムはですねー」","lines":[465]},{"original":"「このハムスターかーわーいーいー」","lines":[510]},{"original":"「この子ちょっと鳴き声が特殊なんで」","lines":[49]},{"original":"「これからも頑張って、ポンコツを治していこうな」","lines":[50]},{"original":"「これだけ幸せなら、ポンコツでもいいですよー」","lines":[501]},{"original":"「これなんだっけ、テレビで見たことある」","lines":[247]},{"original":"「これはどういうことでしょうか竜泉寺先生」","lines":[321]},{"original":"「これを機に動物好きな人がいっぱい来てくれると嬉しいです」","lines":[105]},{"original":"「さすがジゴロオブ天然ですねーセンパイは」","lines":[345]},{"original":"「さてアルル。実は君に重大な役割がある」","lines":[382]},{"original":"「さーさー、ペットと触れ合って行ってくださーい！　にゃおー♪」","lines":[124]},{"original":"「しげるでも増えたの？」","lines":[538]},{"original":"「じ、実は\u2026\u2026服がさっきから擦れてしまって\u2026\u2026」","lines":[151]},{"original":"「じゃあちょっとだけ我慢します」","lines":[557]},{"original":"「じゃあセンパイ、アルルのことくれぐれもお願いします」","lines":[158]},{"original":"「じー」","lines":[466]},{"original":"「すっっっっっっごいヤーバーイー」","lines":[365]},{"original":"「すぴー、ぷすー」","lines":[483]},{"original":"「すみませんお客様。その子はリストに入ってないので」","lines":[428]},{"original":"「すみませーん、注文いいですかー？」","lines":[363]},{"original":"「せっかくだし何でもやってみない？　レッツコスプレ！」","lines":[214]},{"original":"「せんせー、ボクもボクもー」","lines":[534]},{"original":"「そ、それもあるんですが\u2026\u2026」","lines":[229]},{"original":"「そうしましょう、そうしましょう」","lines":[176]},{"original":"「そこで入れるくらい俺もはっちゃけられたらなー」","lines":[514]},{"original":"「そそそそそそそーなんですよっ」","lines":[228]},{"original":"「そっちの方がよっぽど健全だな」","lines":[238]},{"original":"「そっとしとこう凛ちゃん。俺たちに出来るのはそれくらいだ」","lines":[143]},{"original":"「その前にアルルは服を着てな？」","lines":[189]},{"original":"「それでは一度電話してもらって中の様子を実況中継してもらったほうがいいです」","lines":[276]},{"original":"「それで催し物に参加する予定だった学生が居たのだが、急に転校してしまったんだ」","lines":[110]},{"original":"「それで凛ちゃん、どうしたの？」","lines":[421]},{"original":"「それにしてもいいね、アルル＆バニィ」","lines":[272]},{"original":"「それにしても夏祭りの件もあるのに頭の痛い\u2026\u2026」","lines":[290]},{"original":"「それはエロいやつか」","lines":[166]},{"original":"「それは無理でーす」","lines":[331]},{"original":"「それは知ってる」","lines":[349]},{"original":"「それは知ってるから大丈夫」","lines":[57]},{"original":"「それもそっか。俺もみんなのご飯作らないといけないし」","lines":[374]},{"original":"「それももう更衣室に用意してあるよ」","lines":[267]},{"original":"「それよりもデスハムをどうするか\u2026\u2026」","lines":[164]},{"original":"「それより凛ちゃん、俺の靴下一緒に探してくれない？」","lines":[330]},{"original":"「そんなことないですよ？　私結構おっちょこちょいですから」","lines":[44]},{"original":"「そんな感じです♪」","lines":[403]},{"original":"「ただ\u2026\u2026」","lines":[491]},{"original":"「ただ単に発情してるだけじゃないかそれ」","lines":[404]},{"original":"「ただ？」","lines":[51]},{"original":"「だめだめ、俺もちゃんとアルルといちゃつきたいし」","lines":[133]},{"original":"「だーかーにゃぁー！」","lines":[120]},{"original":"「だーって？」","lines":[556]},{"original":"「ちょうどお客さんも少なくなってきたしゆっくり楽しんできてよ」","lines":[323]},{"original":"「ですね、ですね！」","lines":[58]},{"original":"「でも、もうちょっとだけ\u2015\u2015」","lines":[333]},{"original":"「でもそんなところも含めてアルルだし」","lines":[38]},{"original":"「でもですね、前とは少し違うんです」","lines":[329]},{"original":"「でもアルルは愛想いいし器用だし、すぐ慣れそう」","lines":[327]},{"original":"「でも助かったー。接客経験がある人がいた方が何かと安心だし」","lines":[215]},{"original":"「というか天の救いたるセンパイとアルルを呼んできたのがボクなのです、えへん」","lines":[172]},{"original":"「というわけで、女子トイレまでやってきたわけですが」","lines":[181]},{"original":"「とりあえず、私が行って来ましょうか？」","lines":[139]},{"original":"「とりあえずアルル、女子トイレまで来て」","lines":[533]},{"original":"「とりあえずオスとメスをわけて離そう」","lines":[115]},{"original":"「とりあえずトランクスはいていい？　答えは聞かないけど」","lines":[545]},{"original":"「とりあえず今いろいろよろしくない状況なので」","lines":[528]},{"original":"「ど、どーしましょ\u2026\u2026」","lines":[350]},{"original":"「な、なんで知ってるんです\u2026\u2026？」","lines":[273]},{"original":"「なにかあったんですか？」","lines":[362]},{"original":"「ならオッケー」","lines":[301]},{"original":"「なら凛ちゃんに確認してもらっていい？」","lines":[196]},{"original":"「なんかすごいやばそうなんだけど」","lines":[185]},{"original":"「なんで」","lines":[348]},{"original":"「なんでしょうか？　あ、３サイズですか？」","lines":[291]},{"original":"「なんでエロいやつにするんですか」","lines":[358]},{"original":"「なんで丁寧語？」","lines":[423]},{"original":"「なんとなくゴメっぽいセリフですね、それ」","lines":[406]},{"original":"「なんとなく嬉しいセリフだ\u2026\u2026女の子としてどうかと思うけど」","lines":[40]},{"original":"「なんと申しますか、前はビリビリビリーってきて、おっかなビックリだったんですけど」","lines":[511]},{"original":"「ね、ね？　そうだよねゴメちゃん！」","lines":[288]},{"original":"「ねぇ怜香さん。その出店ってなんでもいいんですか？」","lines":[467]},{"original":"「ね！　ね！　ヤバいよねー！」","lines":[433]},{"original":"「は、はーい！」","lines":[266]},{"original":"「はぁ\u2026\u2026。まあ、いい」","lines":[571]},{"original":"「はぁ、はぁ、蓮さぁん\u2026\u2026」","lines":[54]},{"original":"「はぁー\u2026\u2026でも、朝になっちゃったから、起きないとですね」","lines":[313]},{"original":"「はぁ～。考えましたね、蓮さん」","lines":[26]},{"original":"「はあぁ\u2026\u2026今も蓮さんのが中に入っているような感じがします\u2026\u2026」","lines":[540]},{"original":"「はぃ\u2026\u2026それに、この子たちを見ていたら\u2026\u2026」","lines":[14]},{"original":"「はい、あなたのアルルです♪」","lines":[209]},{"original":"「はい、アルルです。おはようございます」","lines":[302]},{"original":"「はい、分かりました」","lines":[517]},{"original":"「はいはい、じゃあこの白いのは回収しますねー」","lines":[346]},{"original":"「はい？　重大な役割、ですか？」","lines":[364]},{"original":"「はぅぅ。なんかテンション高いです\u2026\u2026」","lines":[445]},{"original":"「はわわ～。大忙しです～」","lines":[544]},{"original":"「はーい、なにかご用でしょうかー？」","lines":[249]},{"original":"「は？」","lines":[263]},{"original":"「ひぃいいぃぃぃいいいぃいっ！！」","lines":[512]},{"original":"「ふなあぁぁぁぁ」","lines":[315]},{"original":"「ふれあいペット喫茶ですかぁ。それも気に入った子をお持ち帰りできる\u2026\u2026」","lines":[277]},{"original":"「へー、なんとも急な話ですね」","lines":[479]},{"original":"「へー」","lines":[513]},{"original":"「へーそうなんだー」","lines":[502]},{"original":"「ほらあれだよ、セイウチ！」","lines":[326]},{"original":"「ほんとに？　来たらちゃんとお礼言わないと」","lines":[167]},{"original":"「まぁそりゃそうだよね」","lines":[309]},{"original":"「まず机と椅子と、あと看板と\u2026\u2026」","lines":[420]},{"original":"「まだ彼女になったわけじゃないけどね」","lines":[260]},{"original":"「まったく、学生の指標たる教師がなんたるザマだ」","lines":[161]},{"original":"「もう人の名前みたいになってるな」","lines":[539]},{"original":"「もしかしてムラムラしちゃった？」","lines":[90]},{"original":"「や、ちょっと待ってアルル\u2015\u2015」","lines":[35]},{"original":"「やめてくれ、これ以上俺の理性を刺激しないで！」","lines":[80]},{"original":"「り、凛ちゃん！？」","lines":[521]},{"original":"「れ、蓮さぁぁぁん！」","lines":[482]},{"original":"「わたしはこのワンコが気に入ったなー」","lines":[17]},{"original":"「ん、アルル\u2026\u2026？」","lines":[522]},{"original":"「ん？　アルルの声だよな、さっきの」","lines":[535]},{"original":"「ん？」","lines":[402]},{"original":"「アルルが喜んでくれて良かった」","lines":[357]},{"original":"「アルルさんは、こ、コスプレはお好きですか？」","lines":[573]},{"original":"「アルルの好きなようにしていいから何でも言って」","lines":[354]},{"original":"「アルルはコスプレは好き？」","lines":[271]},{"original":"「アルルは出来た子だな」","lines":[368]},{"original":"「アルルを見ると発作が起きるようになったんだ」","lines":[119]},{"original":"「アレが増えてて？」","lines":[134]},{"original":"「アレが増えてるんにゃってばー！」","lines":[458]},{"original":"「オーダーお願いします！　アイスコーヒー２つ、抹茶パフェ１\u2015\u2015」","lines":[488]},{"original":"「ゴメ、居たのか」","lines":[160]},{"original":"「ジゴロー」","lines":[359]},{"original":"「ジト目にならないで。アルルに似合うのは笑顔だから」","lines":[418]},{"original":"「センパイ、自分の彼女だからってえっちぃ目で見すぎですよー」","lines":[187]},{"original":"「センパイはせんせーの電話番号知ってますか？」","lines":[175]},{"original":"「センパイへのサービスです。喜んで入っちゃってください」","lines":[141]},{"original":"「センパイも一緒にお願いします！」","lines":[212]},{"original":"「タマちゃんでこれならアルルはお札に印刷される人に選ばれるよ」","lines":[56]},{"original":"「ダメですよ。動物たちにごはんをあげないといけないですし」","lines":[240]},{"original":"「デスガデスネ？　なにそれ、外国の食べ物？」","lines":[546]},{"original":"「デスハムをオスとメスでわけてほしいんだけどお願い出来る？」","lines":[106]},{"original":"「デスヨネー」","lines":[485]},{"original":"「ハッハッハッハッハ！」","lines":[243]},{"original":"「ハムちゃん？」","lines":[338]},{"original":"「バレた？」","lines":[473]},{"original":"「ヤバいですよねー」","lines":[500]},{"original":"「ヤバっ、なにこの子！　ちょー可愛い！」","lines":[476]},{"original":"「ヤンチャな子が多い種族なんですけど、聞き分けがいいことで有名なんです」","lines":[547]},{"original":"「了解です、任せてください」","lines":[306]},{"original":"「了解です」","lines":[165]},{"original":"「人の俺より嗅覚がいいとかそういう便利設定とかでさ」","lines":[41]},{"original":"「今は、ふわぁっ\u2026\u2026とするっていうか、幸せっていうか」","lines":[186]},{"original":"「今タマせんせーが中にいるんですけどかなりヤバい状況なので」","lines":[203]},{"original":"「今トイレの前にいるんだけどさっき叫んでたよね？」","lines":[55]},{"original":"「今日も休みだし、だらだら二度寝しちゃう？」","lines":[555]},{"original":"「他ならぬ友達のピンチ、ここはボクがやっておくね」","lines":[305]},{"original":"「任せる。あとで概要をまとめて連絡しろ」","lines":[297]},{"original":"「何かいい案でも思いつたんですか？」","lines":[268]},{"original":"「何か手伝えることありますか？」","lines":[443]},{"original":"「作るくらい別にいいよ。凛ちゃんに怪我がなくてよかった」","lines":[289]},{"original":"「例えば喫茶店とかでも？」","lines":[334]},{"original":"「俺はそんなアルルだからこそ好きだよ」","lines":[549]},{"original":"「俺はアルルが調子悪いみたいだからちょっと休ませてくる」","lines":[455]},{"original":"「俺もアルルと一緒だから楽しいぞ」","lines":[375]},{"original":"「俺もウェイターの準備があるからまたあとで」","lines":[293]},{"original":"「健全か。それでもお前は男か？　ちゃんと付いてんのか？」","lines":[440]},{"original":"「傷は浅いぞ、生きて国の土を踏むんだろ！」","lines":[543]},{"original":"「凛ちゃん、エマージェンシーだ」","lines":[135]},{"original":"「凛ちゃん凛ちゃん。素が出てるよ」","lines":[142]},{"original":"「分かった」","lines":[148]},{"original":"「分かってくれ、アルルの裸を他の人に見られたくないんだ」","lines":[373]},{"original":"「分かりました\u2026\u2026服はどこにあるんですか？」","lines":[376]},{"original":"「分かりました。では、またあとで」","lines":[487]},{"original":"「分かる、分かるぞ。ムチムチなオナゴに着いて行きたい欲求\u2026\u2026」","lines":[506]},{"original":"「吾を愛でよ」","lines":[226]},{"original":"「大丈夫だ、俺もだ」","lines":[32]},{"original":"「大丈夫です！」","lines":[438]},{"original":"「大丈夫凛ちゃんっ？」","lines":[112]},{"original":"「大変って何が？」","lines":[372]},{"original":"「奥に簡易の更衣室を用意したからそこで着替えて」","lines":[314]},{"original":"「安直と言ったら安直だけどね」","lines":[183]},{"original":"「少し待ったほうがよいかと」","lines":[405]},{"original":"「布面積が少ないので、あんまりごわごわしないですけど」","lines":[245]},{"original":"「待ってアルル！　扉に近寄っちゃダメ\u2015\u2015」","lines":[496]},{"original":"「後のことは心配するな、骨は拾ってやる」","lines":[43]},{"original":"「恥ずかしいんですけど、もっと触れていたい、って思うような」","lines":[303]},{"original":"「悪巧みを思いついた顔をしてるな」","lines":[127]},{"original":"「惜しいの？」","lines":[126]},{"original":"「惜しい！」","lines":[422]},{"original":"「我、悟りの極みに至り」","lines":[495]},{"original":"「戦乱の世に向かう。見送ってくれるな戦友よ」","lines":[21]},{"original":"「昨日は、その\u2026\u2026しちゃいましたね、蓮さん」","lines":[292]},{"original":"「普通の健全な喫茶店です」","lines":[400]},{"original":"「最初は私には大人っぽくて似合わないなーなんて思ってたんですけど\u2026\u2026」","lines":[367]},{"original":"「最近アルルアレルギー、略してアルルギーにかかってさ」","lines":[397]},{"original":"「本当ですか？」","lines":[322]},{"original":"「来てくれるよ、きっと」","lines":[337]},{"original":"「格好いいこと言っても騙されませんからね」","lines":[316]},{"original":"「楽しそうですね！　私、こういうの初めてなんでドキドキします」","lines":[470]},{"original":"「気に入っていただけましたか？」","lines":[19]},{"original":"「目が覚めました？」","lines":[136]},{"original":"「相変わらず不思議ミステリーな耳と尻尾だなぁ」","lines":[401]},{"original":"「着てみると楽しいです」","lines":[275]},{"original":"「知ってますよ、ウチの学園の名前が書いてある提灯見たことりますし」","lines":[188]},{"original":"「知ってる知ってる」","lines":[225]},{"original":"「私とっても恥ずかしいです」","lines":[34]},{"original":"「私なんて朝から蓮さんが隣にいて、もうムラムラしっぱなしですから！」","lines":[300]},{"original":"「私は大丈夫ですけど\u2026\u2026凛ちゃんのシフト次第ですね」","lines":[261]},{"original":"「若干申し訳ないのです\u2026\u2026」","lines":[149,335]},{"original":"「蓮さん\u2026\u2026」","lines":[407]},{"original":"「蓮さんに見られてると思うと少しムラムラしちゃいますね」","lines":[576]},{"original":"「蓮さんのおち○ぽぉ、くださぁい\u2026\u2026」","lines":[446]},{"original":"「蓮さんオーダーお願いしますっ」","lines":[439]},{"original":"「衛生兵えぇ！　衛生兵えぇえぇぇ！　メディィィィック！」","lines":[39]},{"original":"「違う？」","lines":[529]},{"original":"「非常に教育上よろしくない光景だなこれ」","lines":[182]},{"original":"「頼んでもいい？」","lines":[190]},{"original":"「？　まぁ凛ちゃんがそう言うなら」","lines":[415]},{"original":"「Ｇｏｏｄ\u2026\u2026」","lines":[526]},{"original":"「Ｏｈ\u2026\u2026」","lines":[6]},{"original":"「Ｚｚｚ」","lines":[154]},{"original":"「～♪」","lines":[232]},{"original":"『うぎゃあああ！　止まらないのですよーーーーーー！！』","lines":[221]},{"original":"『うわわわわわ！　いっぱい出たのですーーー！？』","lines":[216]},{"original":"『おお、よくやったのです！　ご褒美に\u2015\u2015』","lines":[241]},{"original":"『おほおおおおお！！　ま、まだ出るのです！？　もりもり！』","lines":[242]},{"original":"『こ、このデスハムがああああぁああぁぁあぁぁぁぁなのです！！』","lines":[211]},{"original":"『これもタマの日頃の行いがいいおかげですねー』","lines":[208]},{"original":"『その声はアルルちゃんですか？』","lines":[210]},{"original":"『ちょおおおおどいいところに来たのですよ！　まさに天の救いなのです！』","lines":[219]},{"original":"『ひぃいいぃぃぃ！　また増えたのです！』","lines":[201]},{"original":"『もしもし蓮ちゃんですか？！』","lines":[88]},{"original":"『アルル、とりあえず開けてよ！　大変なんだって！』","lines":[79]},{"original":"『アルルー！　居るー！？　居るなら開けてー！』","lines":[100]},{"original":"『キャー！　二人ともなにしてるのー！？』とかあるんじゃあ？","lines":[204]},{"original":"『チッ、聞いてやがりましたか』","lines":[202]},{"original":"『今忙しーですから、あとにするのです！』","lines":[86]},{"original":"『分かる分かるー』","lines":[84]},{"original":"『昨晩はお楽しみでしたねーーー！！』","lines":[102]},{"original":"あ、普段からアルルと仲がいい凛ちゃんはアルルの脱ぎクセを知ってるから気にしないのか。","lines":[561]},{"original":"あとでバイト先に行ってバイトの賃金を上げろーってデモるから。","lines":[116]},{"original":"あとアルル、相手が凛ちゃんだからってちゃんと服を着て。","lines":[179]},{"original":"あの二人なら『なんで私がしてる時に覗きに来てくれないの！』とか言ってくる。","lines":[378]},{"original":"あの衣装を見たら恥ずかしがるだろうなぁ。","lines":[218]},{"original":"あまり聞きたくない音が聞こえてきた。","lines":[279]},{"original":"あーあ、みたいに肩をすくめる怜香さん。","lines":[37]},{"original":"いや、なんか終わり際に、余計ムラムラするようになったとか言ってたような？","lines":[87]},{"original":"いやいやもう見られなくてもバレてるし、普通に会話してるし。","lines":[519]},{"original":"いやクジラか？　どっちでもいいや。","lines":[223]},{"original":"うわぁ\u2026\u2026朝から聞きたくない音、聞いちゃったなぁ。","lines":[283]},{"original":"うーん\u2026\u2026いったいどうしたら\u2026\u2026。","lines":[138]},{"original":"えっと、ズボンはベッドのすぐ下、と。","lines":[97]},{"original":"え？　なんで凛ちゃんは何も反応しないの？","lines":[509]},{"original":"おいおいおい、あいつマジか。マジなのか。","lines":[474]},{"original":"おお、しかも馴染んでる。ヤバい。","lines":[471]},{"original":"おっと、女性客の中にアルルが飛び込んでいった！","lines":[393]},{"original":"お店がいかにもファンシーな感じだからだろうか、お客さんも女性客だらけで安心だし。","lines":[324]},{"original":"お祭前ということもあってかアルルも興奮した様子。","lines":[412]},{"original":"きゅっと締まったウェストをカバーするバニースーツ。","lines":[171]},{"original":"ぐ、偶然だよね\u2026\u2026？","lines":[424]},{"original":"ぐふっ。アレと一緒にされるのは嫌だ\u2026\u2026。","lines":[99]},{"original":"こういう時って『じゃあなら私もー！』っていやそれはないけど。","lines":[387]},{"original":"これが俺の秘策だった。","lines":[317]},{"original":"これなら大量に増えたデスハムと空いた出店の二つを解決できる。","lines":[390]},{"original":"これなら脱げないし人の視線を意識せざるを得ない。","lines":[107]},{"original":"これは完全に気づいてる。","lines":[518]},{"original":"これ以上こいつを野放しにしてたら全世界のアザラシに迷惑がかかる。","lines":[310]},{"original":"こんなことするの初めてだけど、やるからには全力を尽くさないとな。","lines":[83]},{"original":"こんな格好を見れば誰でも昨晩はお楽しみでエンジョイ＆エキサイティングだったのが分かる。","lines":[425]},{"original":"さてさて。俺もいつまでもアルルを眺めてるワケにもいかんな。","lines":[380]},{"original":"さてと、俺も着替えよう。","lines":[130]},{"original":"しげるじゃないとしたらなんだ？　ゴメ？　ポチ？","lines":[156]},{"original":"しばらくはこの案で行こう。","lines":[11]},{"original":"すこーしずつ意識が浮上していく。","lines":[480]},{"original":"すごいなデスハム。そんな能力も持ってるんだ。","lines":[463]},{"original":"するとペットふれあい喫茶としての本来の様子になってきた。","lines":[24]},{"original":"そうだな、したんだよな。俺とアルルが。","lines":[312]},{"original":"そう思いながら必要なものをリストアップしていった。","lines":[578]},{"original":"そう言うと俺を押し倒した。","lines":[152]},{"original":"そう言ってクローゼットのところまで行った。","lines":[389]},{"original":"そこでコスプレをさせて人前で接客させるのだ。","lines":[414]},{"original":"そしてうさ耳。","lines":[385]},{"original":"そしてなにより\u2026\u2026。","lines":[562]},{"original":"そしてアルルを抱えて裏へと戻った。","lines":[123]},{"original":"そしてトランクスまで手が届かない。","lines":[525]},{"original":"そしてホールへ戻った俺が見たのは。","lines":[157]},{"original":"そして靴下が見当たらない。","lines":[18]},{"original":"そっか。昨日はそのままアルルの部屋で寝ちゃったんだ。","lines":[353]},{"original":"そのことに少しだけショックを受けつつ。","lines":[460]},{"original":"その姿が俺には輝いて見えた。","lines":[410]},{"original":"その姿を下から上まで眺める。","lines":[492]},{"original":"そもそもお前メスだろ。","lines":[236]},{"original":"そもそも凛ちゃんは俺たちを呼んでどうしたかったんだ\u2026\u2026。","lines":[469]},{"original":"それとも何か暗号化されてるのか。","lines":[287]},{"original":"それにこれならアルルも\u2026\u2026。","lines":[343]},{"original":"そんなアルルと夜を一緒にする関係になるとは思わなかった。","lines":[256]},{"original":"ただ親戚と言っても見た目はあんなのじゃなくて普通に可愛い。","lines":[36]},{"original":"だけどそうか\u2026\u2026となるとアルルの体質はあんまり改善されてないのか。","lines":[379]},{"original":"だけど頑張ってくれ、これはアルルのためなんだ！","lines":[213]},{"original":"だってこの人授業休んで新作ゲーム買いに並ぶんだよ？","lines":[494]},{"original":"だとしてもアルルは渡さないがな！","lines":[318]},{"original":"ちなみにデスハムはマ族だけど人間の傍にずっといると普通のハムスターになるらしい。","lines":[180]},{"original":"ちなみに凛ちゃんに呼ばれたのは学園だったのでみんな制服だ。","lines":[170]},{"original":"ちなみに靴下はアルルのベッド（棺）の中に入ってた。","lines":[413]},{"original":"ちょっと胸が足りないけど、そこがなんとなくグッとくる。","lines":[416]},{"original":"ちょっと鼻血が出そうだ。","lines":[391]},{"original":"つまりいきなり裸にはなれない！","lines":[199]},{"original":"でもここまで来たからには仕方ない、覚悟を決めよう。","lines":[342]},{"original":"でもほんとに長い付き合いになるよなぁ。","lines":[258]},{"original":"でもデスハムの繁殖力を侮っていてあの結果\u2026\u2026というのが今回のオチ。","lines":[109]},{"original":"でも分の悪い賭けをしたいお年頃な俺だった。","lines":[497]},{"original":"というかゴメはどうなんだろう、女の子にウケるのかな。","lines":[505]},{"original":"というかマジか\u2026\u2026あいつって可愛いのか\u2026\u2026。","lines":[295]},{"original":"というか健全なのを言ってなんでここまで言われないといけないんだろう\u2026\u2026。","lines":[524]},{"original":"とにかく急いで助けに行かなきゃ。","lines":[206]},{"original":"とりあえずアルルたちに聞こえるようにスピーカーモードに変更。","lines":[441]},{"original":"とりあえず大丈夫そうだった。","lines":[520]},{"original":"とりあえず奥に引っ込んでおいてもらおう。","lines":[91]},{"original":"と止めるまもなくフルオープン。","lines":[252]},{"original":"と言ってもタマちゃんの自業自得だから仕方ないけど。","lines":[104]},{"original":"なんだ、それなら納得。","lines":[523]},{"original":"なんだろう、めんどくさいお客？","lines":[493]},{"original":"なんだ？　可愛い女の子を好きになるのには性別も種族も関係ないってか？","lines":[96]},{"original":"なんて普通に挨拶しちゃったけど。","lines":[352]},{"original":"なんでさっきの好き云々は信じてくれなくてこっちはすぐに真に受けるんだ\u2026\u2026。","lines":[320]},{"original":"なんという便利設定！","lines":[307]},{"original":"はぁー肩が凝るわぁと首をコキコキ鳴らしながら教室を出て行く怜香さんを見送って。","lines":[531]},{"original":"ほら案の定、お母さんが『あれなにしてるのー？』って聞かれて苦笑いだ。","lines":[82]},{"original":"ま、まずい\u2026\u2026。","lines":[344]},{"original":"まぁ、それはともかく。","lines":[128]},{"original":"まぁあの辺の連中が増えたのか。","lines":[108]},{"original":"まぁ最初に声かけられた時点でバレてるってわかってたけど。","lines":[113]},{"original":"むしろ今この状況が大変すぎるけども。","lines":[489]},{"original":"もうこいつが突然現れても何も思わなくなってきた。","lines":[577]},{"original":"もう我慢できない。","lines":[103]},{"original":"もしかすると俺もただ脱いだだけだと思ってるのかも。","lines":[101]},{"original":"もしくは何も反応できなくて固まるとか。","lines":[392]},{"original":"もちろんなりそうだったら絶対に止める！","lines":[48]},{"original":"もっと触れていたいって思う。","lines":[132]},{"original":"よし、トランクスゲット！","lines":[155]},{"original":"よし。とりあえず説得成功だ。","lines":[9,12,14,16,19,21,26,32,34,38,40,41,43,44,50,54,56,58,80,85,89,94,110,119,125,135,140,144,149,151,153,154,181,197,207,209,224,225,227,229,243,270,297,300,302,313,315,316,321,323,325,328,330,332,335,337,339,346,348,350,355,358,360,361,364,366,373,376,381,394,397,399,400,401,403,405,407,408,429,433,445,446,450,451,452,456,457,458,470,473,475,476,477,478,499,510,511,514,521,528,534,538,540,551,571,572,576]},{"original":"アルル"},{"original":"アルル.stand","lines":[0,62,565]},{"original":"アルル、バニー化プロジェクト","lines":[59]},{"original":"アルルがそう言って甘えてこようとしたときだった。","lines":[121]},{"original":"アルルと揃って首を傾げる。","lines":[192]},{"original":"アルルに目線で問いかけるも『さあ？』と返ってくるだけだった。","lines":[411]},{"original":"アルルのほっそりとした足を包み込む網タイツ。","lines":[516]},{"original":"アルルの努力に涙を禁じ得ない俺だった。","lines":[184]},{"original":"アルルの申し出をありがたく受けようとするが、凛ちゃんがストップを入れる。","lines":[150]},{"original":"アルルの表情がぱっと明るくなる。","lines":[542]},{"original":"アルルも発って情しちゃったわけか。","lines":[230]},{"original":"ウキウキしているアルルと一緒に部屋に戻ろうとする。","lines":[92]},{"original":"ガチャ。"},{"original":"ケルベロス.stand","lines":[487,490,495,506,512]},{"original":"ゴメ"},{"original":"ゴメ.stand","lines":[498]},{"original":"ゴメはペタンペタンとヒレを鳴らなしながら歩み（？）寄っていく。","lines":[296]},{"original":"サキュバスらしいと言えばサキュバスらしいのかも知れないけど。","lines":[231]},{"original":"スピーカーからは、まだタマちゃんの声が聞こえてきていた。","lines":[194,201,202,204,208,210,211,216,219,221,232,241,242,248,250,261,263]},{"original":"タマ"},{"original":"タマ.stand","lines":[217]},{"original":"タマちゃんが何かを言おうとした時、スピーカーの向こうからゾワゾワゾワゾワと。","lines":[264]},{"original":"タマちゃんって確か竜のマ族なんだよね？","lines":[244]},{"original":"タマちゃんの一言（というか叫び声）にアルルが反応する。","lines":[255]},{"original":"タマちゃんや凛ちゃんが『デスデス』と言ってたのはデスハムスターのこと。","lines":[453]},{"original":"チラっと上目遣いで見てくる。","lines":[527]},{"original":"デスハムが交尾を始めていた。","lines":[191]},{"original":"トイレに居る人に電話して実況してもらうってどんな状況？","lines":[434]},{"original":"トコトコトコ。","lines":[76]},{"original":"ドンドンドン！","lines":[515]},{"original":"ナイスフォロー、ナイスガッツアルル！","lines":[430]},{"original":"バタバタバタバタ！","lines":[177]},{"original":"バレた後が怖すぎる。","lines":[461]},{"original":"ピークを過ぎると少しずつ店内が落ち着き始めた。","lines":[33]},{"original":"ベッドの中で小さな拳を作ってガッツポーズ。","lines":[377]},{"original":"ペコリと頭を下げて奥へ歩いて行くアルルの背中を見守る。","lines":[485]},{"original":"ポチ","lines":[486]},{"original":"ポチは尻尾を全力で振っていた。","lines":[222]},{"original":"モリモリモリモリ！"},{"original":"ラベル0"},{"original":"ラベル1","lines":[311]},{"original":"上手く出来たらアルルの体質も改善できるかもしれないし。","lines":[388]},{"original":"人前で服を着ることを苦手とするアルル。","lines":[265]},{"original":"今の姿を見ると縮こまってるトカゲなんだけど。","lines":[319]},{"original":"今回の企画のまとめを説明すると怜香さんがそう教えてくれた。"},{"original":"体","lines":[122]},{"original":"何が起こってるのかまったく分からない。","lines":[560]},{"original":"何はともあれ感謝！","lines":[575]},{"original":"俺が背中を撫でるたびびくんと声を漏らして。","lines":[340]},{"original":"俺が言ったことは冗談じゃないんだけど。","lines":[168]},{"original":"俺だって鼻がいいからって人の靴下探すとか嫌だし。","lines":[98]},{"original":"俺とアルル全裸なんですけど？（俺は布団かぶってるから９割裸くらい）","lines":[52]},{"original":"俺にじゃれつきながら、そんなことを言う。","lines":[117]},{"original":"俺の中の独占欲が暴れまくってるから！","lines":[454]},{"original":"俺はそれを微笑んで受け止め、頭を撫でながら。","lines":[46]},{"original":"俺もそうだ。","lines":[426]},{"original":"俺も自分の仕事をしないと。","lines":[396]},{"original":"健康的な褐色肌にここまで映えるとは思わなかった。"},{"original":"側面手上"},{"original":"側面手下"},{"original":"側面手中","lines":[462]},{"original":"冷たい飲み物を求めて来ていた客も次のお店に向かって行く。","lines":[79,84,86,88,93,105,111,118,126,133,134,139,141,158,160,162,166,173,175,183,186,187,189,214,215,237,239,245,382,418,423,436,439,442,544,547,550,552,553,555,556,557]},{"original":"凛"},{"original":"凛.stand","lines":[246]},{"original":"凛ちゃんが制止した瞬間、扉から彼らが溢れだしてきた。","lines":[419]},{"original":"凛ちゃんが接客しつつ俺に抗議してくる。","lines":[437]},{"original":"凛ちゃんが料理を持ったまま盛大にすっ転ぶ。","lines":[169]},{"original":"凛ちゃんの大変な案件へと向かう前に俺は俺で靴下探索に難航した。","lines":[554]},{"original":"凛ちゃんは鼻をひくひくさせたあと、神妙に頷いた。","lines":[147]},{"original":"凛ちゃんも急ぎの用っぽいしここでアルルを説得する時間も勿体ないので。"},{"original":"制服"},{"original":"制服有","lines":[254]},{"original":"前に騒動になったデビルモルモットの親戚。"},{"original":"口３:目Ａ１","lines":[53]},{"original":"可愛いだけじゃなく強さまで手に入れてしまったご様子だ。","lines":[537]},{"original":"呼吸も浅く短く、熱っぽい。","lines":[129]},{"original":"増えるっていうのも意味分からないけど、まぁマ族だしそういうこともある、よな。","lines":[384]},{"original":"夏祭りが始まり、それに合わせて開店するとなかなかの盛況っぷり。","lines":[280]},{"original":"大変だなぁ、学園長は。","lines":[234]},{"original":"大変だなぁ。タマちゃんみたいな教師でもストレスたまるのかなぁ。","lines":[428,464,467,479,501,507]},{"original":"女性客Ａ","lines":[432,465,472,500,508]},{"original":"女性客Ｂ","lines":[466,482,484,502,513]},{"original":"女性客Ｃ","lines":[574]},{"original":"媚びたような声を出しながら火照った身体を俺に擦りつけてくる。","lines":[431]},{"original":"小さい体を必死に動かして走って行く。","lines":[530]},{"original":"小さい子も居るってのに\u2026\u2026。","lines":[370]},{"original":"少しだけ、ほんと少しだけ興奮してしまった。","lines":[23]},{"original":"少し恥ずかしいので言葉を濁しながら。","lines":[435]},{"original":"左へ行ったり右へ行ったりの大忙しだ。","lines":[356]},{"original":"怖い\u2026\u2026アルルの目が笑ってない\u2026\u2026。","lines":[247,249,260,262,266,267,269,271,272,274,276,278,290,293,303,305]},{"original":"怜香"},{"original":"怜香.stand","lines":[281]},{"original":"怜香さんにはお世話になってるしなんとか力になりたい。","lines":[251]},{"original":"怜香さん超こぇ\u2026\u2026。","lines":[81]},{"original":"慌ててアルルが飛び起きる。","lines":[253]},{"original":"扉から出て来た彼ら、デスハムことデスハムスター。"},{"original":"手上"},{"original":"手下","lines":[200]},{"original":"携帯を取り出してタマちゃんの番号をアドレス帳から呼び出す。"},{"original":"斜右上","lines":[409]},{"original":"新しいお客さんが来たのを見てアルルが接客に戻る。","lines":[114]},{"original":"明日\u2026\u2026いや、今日にはどんな噂になってるか。","lines":[235]},{"original":"明日から優しくしてあげたほうがいいのかな。","lines":[29]},{"original":"昨日したばっかりだし\u2026\u2026。","lines":[8]},{"original":"暖かな日差しと、それと同じくらいの温もり。","lines":[78]},{"original":"朝の雰囲気をぶち壊しにするドアの音が鳴り響いた。","lines":[137]},{"original":"梨々愛たちもそうだけどどういう仕組みで出したり引っ込めたり出来るんだろう。","lines":[198]},{"original":"正直イヤな予感ぷんぷんで今すぐ逃げたい。"},{"original":"正面"},{"original":"正面手上"},{"original":"正面手下"},{"original":"正面手中"},{"original":"正面１","lines":[503]},{"original":"残念惜しい。","lines":[536]},{"original":"気がつけばアルルの頬が上気していた。","lines":[459]},{"original":"汗をかきながらもアルルは一生懸命にウェイトレスの仕事をする。"},{"original":"消","lines":[178]},{"original":"特に梨々愛と咲。","lines":[7]},{"original":"甘いまどろみの中で、誰かの視線を感じる。","lines":[30]},{"original":"目の前には裸のアルルがいるし\u2026\u2026。","lines":[336]},{"original":"目をキラキラ\u2026\u2026とさせたあと、すぐにジト目になる。"},{"original":"目３:口無"},{"original":"目Ａ１:口無"},{"original":"目Ａ２:口無"},{"original":"目Ａ３:口無"},{"original":"眉ギャグ怒:目ギャグ怒:口怒２:汗無::頬１"},{"original":"眉ギャグ怒:目ギャグ怒:口笑２:汗無::頬１"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ驚:汗無::頬１"},{"original":"眉ギャグ笑:目ギャグ笑:口ギャグ笑:汗無::頬１:漫符無"},{"original":"眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１"},{"original":"眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１:漫符無"},{"original":"眉怒１:目閉:口怒１:汗無::頬１"},{"original":"眉怒１:目閉:口笑１:汗無::頬１:漫符無"},{"original":"眉怒１:目Ａ怒１:口怒１:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口怒１:汗無::頬１:漫符無"},{"original":"眉怒１:目Ａ怒１:口怒２:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口怒２:汗無::頬１:漫符無"},{"original":"眉怒１:目Ａ怒１:口悲２:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口驚１:汗無::頬１:漫符無"},{"original":"眉怒１:目Ａ悲１:口悲１:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口ギャグ笑:汗無::頬１:漫符無"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬１:漫符無"},{"original":"眉怒２:目閉:口悲１:汗無::頬１"},{"original":"眉悲１:目笑２:口笑２:汗無::頬１"},{"original":"眉悲１:目閉:口悲２:汗無::頬１"},{"original":"眉悲１:目閉:口泣１:汗無::頬１:漫符無"},{"original":"眉悲１:目閉:口照２:汗無::頬１:漫符無"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ悲１:口悲２:汗無::頬１"},{"original":"眉悲１:目Ａ悲１:口悲２:汗無::頬２"},{"original":"眉悲１:目Ａ悲１:口泣１:汗無::頬１"},{"original":"眉悲１:目Ａ笑１:口悲１:汗無::頬１:漫符無"},{"original":"眉悲１:目Ａ笑１:口泣１:汗無::頬１:漫符無"},{"original":"眉悲１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉悲１:目Ａ笑１:口笑１:汗無::頬２"},{"original":"眉悲１:目Ａ笑１:口笑２:汗無::頬２"},{"original":"眉悲１:目Ａ笑１:口驚１:汗無::頬１:漫符無"},{"original":"眉悲２:目悲２:口悲２:汗無::頬１"},{"original":"眉悲２:目Ａ驚１:口悲２:汗無::頬１"},{"original":"眉照１:目笑２:口笑２:汗無::頬２"},{"original":"眉照１:目Ａ照１:口笑１:汗照１::頬１"},{"original":"眉照２:目閉:口照２:汗無::頬１"},{"original":"眉照２:目閉:口照２:汗無::頬２"},{"original":"眉照２:目Ａ怒２:口悲１:汗無::頬２"},{"original":"眉照２:目Ａ照２:口悲１:汗無::頬１"},{"original":"眉照２:目Ａ照２:口照２:汗無::頬２"},{"original":"眉照２:目Ａ笑１:口悲１:汗無::頬２"},{"original":"眉照２:目Ａ笑１:口照２:汗無::頬２"},{"original":"眉笑１:目笑２:口笑１:汗無::頬１"},{"original":"眉笑１:目笑２:口笑２:汗無::頬１"},{"original":"眉笑１:目閉:口悲１:汗無::頬１:漫符無"},{"original":"眉笑１:目閉:口照２:汗無::頬１"},{"original":"眉笑１:目閉:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口怒１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口怒１:汗無::頬１:漫符無"},{"original":"眉笑１:目Ａ笑１:口悲１:汗無::頬１:漫符無"},{"original":"眉笑１:目Ａ笑１:口悲２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口照２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口照２:汗無::頬１:漫符無"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１:漫符無"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬１:漫符無"},{"original":"眉笑２:目笑２:口ギャグ笑:汗無::頬１:漫符無"},{"original":"眉笑２:目笑２:口笑１:汗無::頬１"},{"original":"眉笑２:目笑２:口笑１:汗無::頬２"},{"original":"眉笑２:目笑２:口笑２:汗無::頬１"},{"original":"眉笑２:目笑２:口笑２:汗無::頬１:漫符無"},{"original":"眉笑２:目閉:口ギャグ笑:汗無::頬１:漫符無"},{"original":"眉笑２:目閉:口笑２:汗無::頬１"},{"original":"眉笑２:目Ａ笑１:口悲１:汗無::頬１"},{"original":"眉笑２:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑２:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉驚１:目Ａ照２:口悲１:汗無::頬１"},{"original":"眉驚１:目Ａ笑１:口悲２:汗無::頬１"},{"original":"眉驚１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口悲１:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口悲１:汗無::頬１:漫符有"},{"original":"眉驚１:目Ａ驚１:口悲１:汗無::頬１:漫符無"},{"original":"眉驚１:目Ａ驚１:口悲２:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口悲２:汗無::頬１:漫符無"},{"original":"眉驚１:目Ａ驚１:口照２:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口照２:汗無::頬１:漫符無"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬１:漫符無"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬２","lines":[47]},{"original":"確かにこの甘々な感じは恥ずかしいけども。"},{"original":"私服"},{"original":"私服有"},{"original":"私服裸","lines":[195]},{"original":"絶叫が中から聞こえてきた。","lines":[193]},{"original":"考え込んでも仕方ない。とりあえずタマちゃんに電話を。","lines":[10]},{"original":"耳元で誰かが『くすり』と笑った気がした。","lines":[205]},{"original":"自分の受け持ちの学生に舌打ちしましたよこの不良債権教師。あ、平常運転か。","lines":[6,13,15,17,20,22,27,28,35,39,42,45,49,51,55,57,77,90,95,106,112,115,120,124,127,136,142,143,145,148,159,161,163,164,165,167,172,174,176,182,185,188,190,196,203,212,220,226,228,238,240,268,273,275,277,284,288,289,291,292,294,298,299,301,304,306,308,309,314,322,326,327,329,331,333,334,338,345,347,349,351,354,357,359,362,363,365,367,368,369,372,374,375,383,386,395,398,402,404,406,415,420,421,422,438,440,443,447,449,455,483,488,491,496,517,522,526,529,532,533,535,539,541,543,545,546,548,549,573]},{"original":"蓮","lines":[427]},{"original":"裏方に回りつつアルルを見守る。","lines":[257]},{"original":"話によると夏休みの商店街のお祭りに景品として出そうとして育てようとしたんだけど。"},{"original":"近距離","lines":[444]},{"original":"鉄腕アルバイターの凛ちゃんがミスするくらいの盛況具合だった。","lines":[146]},{"original":"露骨に残念そうな顔をしてこの子はほんと。","lines":[286]},{"original":"頭の中でピーンと閃くものがあった。","lines":[371]},{"original":"頭を落ち着かせながら出店の奥を指す。","lines":[448]},{"original":"額に汗をかきながらアルルがやってくる。"},{"original":"顔"},{"original":"首輪有","lines":[559]},{"original":"鼻を鳴らしてたみたいだし匂いでわかったのかな？　フェロモンとか。"}],"name":181,"lines":[{"type":3,"title":808},{"subtype":0,"type":5},{"name":1021,"type":2},{"name":806,"type":2},{"subtype":0,"type":5},{"label":11,"type":6},{"name":1021,"text":685,"type":1},{"text":924,"type":0},{"text":910,"type":0},{"name":806,"text":370,"type":1},{"text":1019,"type":0},{"text":738,"type":0},{"name":806,"text":451,"type":1},{"name":1021,"text":381,"type":1},{"name":806,"text":555,"type":1},{"name":1021,"text":372,"type":1},{"name":806,"text":462,"type":1},{"name":1021,"text":583,"type":1},{"text":752,"type":0},{"name":806,"text":665,"type":1},{"name":1021,"text":392,"type":1},{"name":806,"text":656,"type":1},{"name":1021,"text":371,"type":1},{"text":893,"type":0},{"text":741,"type":0},{"text":362,"type":0},{"name":806,"text":553,"type":1},{"name":1021,"text":420,"type":1},{"name":1021,"text":374,"type":1},{"text":909,"type":0},{"text":925,"type":0},{"text":358,"type":0},{"name":806,"text":641,"type":1},{"text":840,"type":0},{"name":806,"text":671,"type":1},{"name":1021,"text":579,"type":1},{"text":762,"type":0},{"text":711,"type":0},{"name":806,"text":522,"type":1},{"name":1021,"text":679,"type":1},{"name":806,"text":544,"type":1},{"name":806,"text":616,"type":1},{"name":1021,"text":430,"type":1},{"name":806,"text":650,"type":1},{"name":806,"text":511,"type":1},{"name":1021,"text":395,"type":1},{"text":861,"type":0},{"text":1013,"type":0},{"text":803,"type":0},{"name":1021,"text":471,"type":1},{"name":806,"text":472,"type":1},{"name":1021,"text":515,"type":1},{"text":858,"type":0},{"text":880,"type":0},{"name":806,"text":551,"type":1},{"name":1021,"text":619,"type":1},{"name":806,"text":603,"type":1},{"name":1021,"text":506,"type":1},{"name":806,"text":520,"type":1},{"text":809,"type":0},{"storage":181,"label":6,"type":7},{"subtype":0,"type":5},{"type":3,"title":808},{"subtype":0,"type":5},{"name":1021,"type":2},{"name":868,"type":2},{"name":806,"type":2},{"name":825,"type":2},{"name":896,"type":2},{"name":886,"type":2},{"name":887,"type":2},{"name":888,"type":2},{"name":842,"type":2},{"name":820,"type":2},{"subtype":0,"type":5},{"label":6,"type":6},{"text":835,"type":0},{"name":1021,"text":428,"type":1},{"text":911,"type":0},{"name":868,"text":698,"type":1},{"name":806,"text":580,"type":1},{"text":900,"type":0},{"text":793,"type":0},{"text":733,"type":0},{"name":868,"text":703,"type":1},{"name":806,"text":439,"type":1},{"name":868,"text":702,"type":1},{"text":712,"type":0},{"name":868,"text":697,"type":1},{"name":806,"text":425,"type":1},{"name":1021,"text":578,"type":1},{"text":783,"type":0},{"text":818,"type":0},{"name":868,"text":452,"type":1},{"name":806,"text":453,"type":1},{"name":1021,"text":450,"type":1},{"text":788,"type":0},{"text":717,"type":0},{"text":857,"type":0},{"text":726,"type":0},{"text":699,"type":0},{"text":801,"type":0},{"text":704,"type":0},{"text":800,"type":0},{"text":785,"type":0},{"name":868,"text":476,"type":1},{"name":1021,"text":606,"type":1},{"text":730,"type":0},{"text":796,"type":0},{"text":775,"type":0},{"name":806,"text":499,"type":1},{"name":868,"text":390,"type":1},{"name":1021,"text":643,"type":1},{"text":797,"type":0},{"text":907,"type":0},{"name":1021,"text":530,"type":1},{"text":706,"type":0},{"text":859,"type":0},{"name":868,"text":445,"type":1},{"name":806,"text":592,"type":1},{"name":1021,"text":517,"type":1},{"text":810,"type":0},{"text":852,"type":0},{"text":749,"type":0},{"name":1021,"text":479,"type":1},{"name":806,"text":409,"type":1},{"name":868,"text":653,"type":1},{"name":1021,"text":652,"type":1},{"text":795,"type":0},{"text":882,"type":0},{"text":736,"type":0},{"text":365,"type":0},{"text":804,"type":0},{"name":868,"text":516,"type":1},{"name":868,"text":593,"type":1},{"name":806,"text":633,"type":1},{"name":1021,"text":666,"type":1},{"text":912,"type":0},{"text":716,"type":0},{"name":868,"text":528,"type":1},{"name":806,"text":424,"type":1},{"name":868,"text":601,"type":1},{"name":1021,"text":634,"type":1},{"name":1021,"text":496,"type":1},{"name":806,"text":442,"type":1},{"name":1021,"text":443,"type":1},{"text":1026,"type":0},{"text":875,"type":0},{"name":1021,"text":635,"type":1},{"name":806,"text":674,"type":1},{"text":815,"type":0},{"name":806,"text":481,"type":1},{"text":744,"type":0},{"name":806,"text":438,"type":1},{"name":806,"text":686,"type":1},{"text":805,"type":0},{"text":737,"type":0},{"text":751,"type":0},{"name":868,"text":483,"type":1},{"name":1021,"text":375,"type":1},{"name":868,"text":596,"type":1},{"name":1021,"text":576,"type":1},{"name":868,"text":384,"type":1},{"name":1021,"text":385,"type":1},{"name":1021,"text":509,"type":1},{"name":1021,"text":615,"type":1},{"name":868,"text":503,"type":1},{"name":1021,"text":572,"type":1},{"text":856,"type":0},{"text":873,"type":0},{"text":768,"type":0},{"text":724,"type":0},{"name":1021,"text":526,"type":1},{"name":868,"text":411,"type":1},{"name":1021,"text":383,"type":1},{"name":868,"text":600,"type":1},{"name":1021,"text":492,"type":1},{"text":838,"type":0},{"text":923,"type":0},{"text":707,"type":0},{"text":767,"type":0},{"name":806,"text":527,"type":1},{"name":1021,"text":681,"type":1},{"name":868,"text":646,"type":1},{"text":814,"type":0},{"name":1021,"text":538,"type":1},{"name":868,"text":617,"type":1},{"name":868,"text":599,"type":1},{"name":1021,"text":669,"type":1},{"name":868,"text":497,"type":1},{"name":1021,"text":682,"type":1},{"text":833,"type":0},{"text":811,"type":0},{"text":1018,"type":0},{"name":825,"text":461,"type":1},{"text":1017,"type":0},{"name":1021,"text":537,"type":1},{"name":806,"text":386,"type":1},{"text":913,"type":0},{"text":772,"type":0},{"text":904,"type":0},{"name":825,"text":696,"type":1},{"name":825,"text":701,"type":1},{"name":1021,"text":618,"type":1},{"name":825,"text":700,"type":1},{"text":1020,"type":0},{"text":780,"type":0},{"name":806,"text":405,"type":1},{"name":825,"text":693,"type":1},{"name":806,"text":556,"type":1},{"name":825,"text":694,"type":1},{"name":825,"text":692,"type":1},{"name":1021,"text":602,"type":1},{"text":764,"type":0},{"name":868,"text":489,"type":1},{"name":868,"text":525,"type":1},{"name":825,"text":689,"type":1},{"text":827,"type":0},{"text":709,"type":0},{"name":825,"text":695,"type":1},{"name":1021,"text":382,"type":1},{"name":825,"text":688,"type":1},{"text":844,"type":0},{"text":714,"type":0},{"name":806,"text":406,"type":1},{"name":806,"text":670,"type":1},{"name":1021,"text":640,"type":1},{"name":806,"text":456,"type":1},{"name":1021,"text":494,"type":1},{"name":806,"text":491,"type":1},{"text":817,"type":0},{"text":824,"type":0},{"name":825,"text":687,"type":1},{"text":367,"type":0},{"text":885,"type":0},{"text":908,"type":0},{"text":757,"type":0},{"name":868,"text":407,"type":1},{"name":1021,"text":495,"type":1},{"name":868,"text":422,"type":1},{"name":1021,"text":604,"type":1},{"name":825,"text":690,"type":1},{"name":825,"text":691,"type":1},{"name":806,"text":608,"type":1},{"text":829,"type":0},{"name":868,"text":648,"type":1},{"text":870,"type":0},{"name":896,"text":474,"type":1},{"name":825,"text":444,"type":1},{"name":896,"text":563,"type":1},{"name":825,"text":414,"type":1},{"text":899,"type":0},{"text":784,"type":0},{"text":901,"type":0},{"text":878,"type":0},{"text":830,"type":0},{"text":761,"type":0},{"text":1023,"type":0},{"text":774,"type":0},{"text":364,"type":0},{"name":896,"text":575,"type":1},{"name":825,"text":673,"type":1},{"name":896,"text":376,"type":1},{"name":825,"text":564,"type":1},{"text":828,"type":0},{"text":849,"type":0},{"name":896,"text":549,"type":1},{"name":896,"text":508,"type":1},{"name":1021,"text":623,"type":1},{"name":896,"text":396,"type":1},{"name":806,"text":415,"type":1},{"name":896,"text":590,"type":1},{"name":896,"text":501,"type":1},{"name":1021,"text":534,"type":1},{"name":896,"text":429,"type":1},{"name":1021,"text":668,"type":1},{"name":896,"text":498,"type":1},{"name":1021,"text":567,"type":1},{"name":896,"text":394,"type":1},{"text":710,"type":0},{"text":884,"type":0},{"text":898,"type":0},{"text":363,"type":0},{"text":715,"type":0},{"name":1021,"text":379,"type":1},{"text":366,"type":0},{"text":1027,"type":0},{"text":759,"type":0},{"name":1021,"text":546,"type":1},{"name":1021,"text":625,"type":1},{"name":896,"text":502,"type":1},{"name":1021,"text":540,"type":1},{"name":1021,"text":657,"type":1},{"name":896,"text":630,"type":1},{"name":1021,"text":441,"type":1},{"text":778,"type":0},{"text":823,"type":0},{"name":806,"text":622,"type":1},{"name":1021,"text":393,"type":1},{"name":1021,"text":404,"type":1},{"name":806,"text":672,"type":1},{"name":1021,"text":536,"type":1},{"name":806,"text":557,"type":1},{"name":896,"text":651,"type":1},{"name":1021,"text":418,"type":1},{"name":896,"text":621,"type":1},{"name":1021,"text":614,"type":1},{"text":791,"type":0},{"name":1021,"text":435,"type":1},{"name":1021,"text":573,"type":1},{"text":732,"type":0},{"text":847,"type":0},{"text":742,"type":0},{"name":806,"text":552,"type":1},{"name":1021,"text":645,"type":1},{"name":806,"text":566,"type":1},{"name":806,"text":663,"type":1},{"text":728,"type":0},{"text":766,"type":0},{"text":850,"type":0},{"text":790,"type":0},{"name":806,"text":475,"type":1},{"name":1021,"text":661,"type":1},{"name":806,"text":519,"type":1},{"text":722,"type":0},{"name":806,"text":391,"type":1},{"name":1021,"text":571,"type":1},{"name":1021,"text":524,"type":1},{"name":806,"text":408,"type":1},{"name":1021,"text":523,"type":1},{"name":806,"text":510,"type":1},{"name":1021,"text":504,"type":1},{"name":806,"text":398,"type":1},{"name":1021,"text":521,"type":1},{"name":1021,"text":626,"type":1},{"name":806,"text":674,"type":1},{"text":926,"type":0},{"name":806,"text":662,"type":1},{"name":1021,"text":609,"type":1},{"name":806,"text":463,"type":1},{"text":855,"type":0},{"text":369,"type":0},{"text":773,"type":0},{"text":760,"type":0},{"text":794,"type":0},{"name":1021,"text":477,"type":1},{"name":806,"text":559,"type":1},{"name":1021,"text":432,"type":1},{"name":806,"text":539,"type":1},{"name":1021,"text":505,"type":1},{"name":806,"text":533,"type":1},{"name":1021,"text":423,"type":1},{"text":789,"type":0},{"text":753,"type":0},{"name":1021,"text":589,"type":1},{"name":806,"text":402,"type":1},{"text":895,"type":0},{"name":1021,"text":587,"type":1},{"name":806,"text":541,"type":1},{"name":1021,"text":597,"type":1},{"name":806,"text":378,"type":1},{"name":806,"text":446,"type":1},{"name":1021,"text":535,"type":1},{"name":1021,"text":488,"type":1},{"name":806,"text":560,"type":1},{"name":1021,"text":485,"type":1},{"name":806,"text":417,"type":1},{"name":1021,"text":659,"type":1},{"name":1021,"text":591,"type":1},{"name":1021,"text":421,"type":1},{"text":892,"type":0},{"text":1028,"type":0},{"name":1021,"text":644,"type":1},{"name":806,"text":636,"type":1},{"name":1021,"text":507,"type":1},{"name":1021,"text":629,"type":1},{"name":806,"text":637,"type":1},{"text":841,"type":0},{"text":708,"type":0},{"text":763,"type":0},{"text":735,"type":0},{"name":806,"text":416,"type":1},{"name":868,"text":478,"type":1},{"name":1021,"text":449,"type":1},{"text":883,"type":0},{"text":747,"type":0},{"name":1021,"text":380,"type":1},{"text":727,"type":0},{"text":848,"type":0},{"text":745,"type":0},{"text":729,"type":0},{"text":771,"type":0},{"text":802,"type":0},{"text":721,"type":0},{"name":806,"text":399,"type":1},{"name":1021,"text":419,"type":1},{"text":863,"type":0},{"name":806,"text":660,"type":1},{"name":1021,"text":433,"type":1},{"name":806,"text":437,"type":1},{"name":806,"text":658,"type":1},{"name":806,"text":667,"type":1},{"name":1021,"text":586,"type":1},{"name":806,"text":512,"type":1},{"name":1021,"text":514,"type":1},{"name":806,"text":647,"type":1},{"name":1021,"text":543,"type":1},{"name":806,"text":675,"type":1},{"name":806,"text":387,"type":1},{"text":906,"type":0},{"text":755,"type":0},{"text":812,"type":0},{"text":723,"type":0},{"text":769,"type":0},{"text":746,"type":0},{"name":1021,"text":683,"type":1},{"text":770,"type":0},{"text":361,"type":0},{"name":868,"text":598,"type":1},{"text":871,"type":0},{"name":1021,"text":574,"type":1},{"name":1021,"text":500,"type":1},{"name":1021,"text":654,"type":1},{"name":868,"text":542,"type":1},{"text":725,"type":0},{"text":734,"type":0},{"text":862,"type":0},{"text":1022,"type":0},{"name":886,"text":487,"type":1},{"name":806,"text":401,"type":1},{"text":837,"type":0},{"text":890,"type":0},{"name":887,"text":466,"type":1},{"name":806,"text":548,"type":1},{"text":834,"type":0},{"text":894,"type":0},{"name":868,"text":454,"type":1},{"text":872,"type":0},{"name":1021,"text":642,"type":1},{"name":868,"text":678,"type":1},{"name":1021,"text":631,"type":1},{"text":781,"type":0},{"name":868,"text":427,"type":1},{"name":1021,"text":624,"type":1},{"text":1025,"type":0},{"name":806,"text":561,"type":1},{"name":806,"text":677,"type":1},{"name":1021,"text":397,"type":1},{"text":1029,"type":0},{"name":1021,"text":459,"type":1},{"name":806,"text":440,"type":1},{"name":806,"text":465,"type":1},{"name":806,"text":373,"type":1},{"text":831,"type":0},{"text":860,"type":0},{"name":1021,"text":628,"type":1},{"name":806,"text":436,"type":1},{"name":806,"text":400,"type":1},{"name":806,"text":594,"type":1},{"text":921,"type":0},{"text":754,"type":0},{"text":839,"type":0},{"text":867,"type":0},{"text":740,"type":0},{"name":886,"text":460,"type":1},{"name":887,"text":469,"type":1},{"name":888,"text":484,"type":1},{"name":886,"text":547,"type":1},{"text":357,"type":0},{"text":758,"type":0},{"name":806,"text":664,"type":1},{"text":720,"type":0},{"name":887,"text":431,"type":1},{"name":806,"text":610,"type":1},{"text":719,"type":0},{"name":806,"text":468,"type":1},{"name":806,"text":612,"type":1},{"name":806,"text":455,"type":1},{"name":806,"text":403,"type":1},{"name":886,"text":568,"type":1},{"text":739,"type":0},{"text":360,"type":0},{"name":888,"text":582,"type":1},{"name":1021,"text":486,"type":1},{"name":888,"text":388,"type":1},{"name":842,"text":607,"type":1},{"text":843,"type":0},{"name":820,"text":638,"type":1},{"name":1021,"text":595,"type":1},{"text":798,"type":0},{"name":820,"text":458,"type":1},{"name":1021,"text":513,"type":1},{"text":756,"type":0},{"text":787,"type":0},{"text":765,"type":0},{"name":820,"text":655,"type":1},{"name":1021,"text":649,"type":1},{"text":776,"type":0},{"text":822,"type":0},{"name":806,"text":389,"type":1},{"name":887,"text":611,"type":1},{"name":886,"text":473,"type":1},{"name":888,"text":570,"type":1},{"text":919,"type":0},{"text":359,"type":0},{"text":777,"type":0},{"name":820,"text":639,"type":1},{"name":886,"text":412,"type":1},{"name":887,"text":448,"type":1},{"text":718,"type":0},{"name":806,"text":470,"type":1},{"name":806,"text":545,"type":1},{"name":820,"text":565,"type":1},{"name":888,"text":569,"type":1},{"name":806,"text":493,"type":1},{"text":836,"type":0},{"text":813,"type":0},{"name":1021,"text":558,"type":1},{"text":731,"type":0},{"text":713,"type":0},{"text":782,"type":0},{"name":806,"text":581,"type":1},{"name":1021,"text":584,"type":1},{"text":786,"type":0},{"text":779,"type":0},{"text":750,"type":0},{"name":1021,"text":684,"type":1},{"text":832,"type":0},{"name":806,"text":532,"type":1},{"name":1021,"text":680,"type":1},{"text":891,"type":0},{"text":792,"type":0},{"name":1021,"text":467,"type":1},{"name":1021,"text":529,"type":1},{"name":806,"text":490,"type":1},{"name":1021,"text":585,"type":1},{"text":920,"type":0},{"text":881,"type":0},{"name":806,"text":480,"type":1},{"name":1021,"text":577,"type":1},{"name":806,"text":554,"type":1},{"name":1021,"text":413,"type":1},{"text":816,"type":0},{"name":1021,"text":632,"type":1},{"name":868,"text":562,"type":1},{"name":1021,"text":531,"type":1},{"name":1021,"text":605,"type":1},{"name":868,"text":613,"type":1},{"name":1021,"text":410,"type":1},{"name":1021,"text":627,"type":1},{"name":868,"text":434,"type":1},{"name":806,"text":426,"type":1},{"name":868,"text":464,"type":1},{"name":868,"text":377,"type":1},{"text":874,"type":0},{"name":868,"text":620,"type":1},{"name":868,"text":518,"type":1},{"name":868,"text":482,"type":1},{"text":368,"type":0},{"text":1032,"type":0},{"text":853,"type":0},{"text":705,"type":0},{"text":748,"type":0},{"storage":181,"label":7,"type":7},{"subtype":0,"type":5},{"type":3,"title":808},{"subtype":0,"type":5},{"name":806,"type":2},{"name":1021,"type":2},{"subtype":0,"type":5},{"label":7,"type":6},{"name":806,"text":550,"type":1},{"name":806,"text":457,"type":1},{"name":1021,"text":588,"type":1},{"text":889,"type":0},{"text":854,"type":0},{"name":806,"text":676,"type":1},{"text":799,"type":0},{"text":743,"type":0},{"storage":182,"label":12,"type":7}],"labels":{"6":75,"7":570,"11":5}}
+{
+  "names": [
+    1021,
+    806,
+    868,
+    825,
+    896,
+    886,
+    887,
+    888,
+    842,
+    820
+  ],
+  "strings": [
+    {
+      "original": "$eye"
+    },
+    {
+      "original": "$lip"
+    },
+    {
+      "original": "$lipアルル"
+    },
+    {
+      "original": "$lipタマ"
+    },
+    {
+      "original": "$lip凛"
+    },
+    {
+      "original": "$lip怜香"
+    },
+    {
+      "original": "*dummy1"
+    },
+    {
+      "original": "*dummy2"
+    },
+    {
+      "original": "*endescene1"
+    },
+    {
+      "original": "*endescene2"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "*start2"
+    },
+    {
+      "original": "*startscene2"
+    },
+    {
+      "original": "0"
+    },
+    {
+      "original": "1"
+    },
+    {
+      "original": "100"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "2000"
+    },
+    {
+      "original": "300"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "5"
+    },
+    {
+      "original": "500"
+    },
+    {
+      "original": "@"
+    },
+    {
+      "original": "@+100"
+    },
+    {
+      "original": "@-100"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "RandomAction"
+    },
+    {
+      "original": "RandomFlipAction"
+    },
+    {
+      "original": "SinAction"
+    },
+    {
+      "original": "[stopaction]"
+    },
+    {
+      "original": "angry_mark"
+    },
+    {
+      "original": "arle_1257"
+    },
+    {
+      "original": "arle_1258"
+    },
+    {
+      "original": "arle_1259"
+    },
+    {
+      "original": "arle_1260"
+    },
+    {
+      "original": "arle_1261"
+    },
+    {
+      "original": "arle_1263"
+    },
+    {
+      "original": "arle_1265"
+    },
+    {
+      "original": "arle_1266"
+    },
+    {
+      "original": "arle_1267"
+    },
+    {
+      "original": "arle_1268"
+    },
+    {
+      "original": "arle_1269"
+    },
+    {
+      "original": "arle_1270"
+    },
+    {
+      "original": "arle_1271"
+    },
+    {
+      "original": "arle_1272"
+    },
+    {
+      "original": "arle_1273"
+    },
+    {
+      "original": "arle_1274"
+    },
+    {
+      "original": "arle_1275"
+    },
+    {
+      "original": "arle_1277"
+    },
+    {
+      "original": "arle_1278"
+    },
+    {
+      "original": "arle_1279"
+    },
+    {
+      "original": "arle_1280"
+    },
+    {
+      "original": "arle_1281"
+    },
+    {
+      "original": "arle_1282"
+    },
+    {
+      "original": "arle_1283"
+    },
+    {
+      "original": "arle_1284"
+    },
+    {
+      "original": "arle_1285"
+    },
+    {
+      "original": "arle_1286"
+    },
+    {
+      "original": "arle_1287"
+    },
+    {
+      "original": "arle_1288"
+    },
+    {
+      "original": "arle_1289"
+    },
+    {
+      "original": "arle_1290"
+    },
+    {
+      "original": "arle_1291"
+    },
+    {
+      "original": "arle_1292"
+    },
+    {
+      "original": "arle_1293"
+    },
+    {
+      "original": "arle_1294"
+    },
+    {
+      "original": "arle_1295"
+    },
+    {
+      "original": "arle_1296"
+    },
+    {
+      "original": "arle_1297"
+    },
+    {
+      "original": "arle_1298"
+    },
+    {
+      "original": "arle_1299"
+    },
+    {
+      "original": "arle_1301"
+    },
+    {
+      "original": "arle_1302"
+    },
+    {
+      "original": "arle_1303"
+    },
+    {
+      "original": "arle_1304"
+    },
+    {
+      "original": "arle_1305"
+    },
+    {
+      "original": "arle_1306"
+    },
+    {
+      "original": "arle_1307"
+    },
+    {
+      "original": "arle_1308"
+    },
+    {
+      "original": "arle_1309"
+    },
+    {
+      "original": "arle_1310"
+    },
+    {
+      "original": "arle_1311"
+    },
+    {
+      "original": "arle_1312"
+    },
+    {
+      "original": "arle_1313"
+    },
+    {
+      "original": "arle_1314"
+    },
+    {
+      "original": "arle_1315"
+    },
+    {
+      "original": "arle_1316"
+    },
+    {
+      "original": "arle_1317"
+    },
+    {
+      "original": "arle_1318"
+    },
+    {
+      "original": "arle_1319"
+    },
+    {
+      "original": "arle_1320"
+    },
+    {
+      "original": "arle_1321"
+    },
+    {
+      "original": "arle_1322"
+    },
+    {
+      "original": "arle_1323"
+    },
+    {
+      "original": "arle_1324"
+    },
+    {
+      "original": "arle_1325"
+    },
+    {
+      "original": "arle_1326"
+    },
+    {
+      "original": "arle_1327"
+    },
+    {
+      "original": "arle_1328"
+    },
+    {
+      "original": "arle_1329"
+    },
+    {
+      "original": "arle_1330"
+    },
+    {
+      "original": "arle_1331"
+    },
+    {
+      "original": "arle_1332"
+    },
+    {
+      "original": "arle_1333"
+    },
+    {
+      "original": "arle_1334"
+    },
+    {
+      "original": "arle_1335"
+    },
+    {
+      "original": "arle_1336"
+    },
+    {
+      "original": "arle_1337"
+    },
+    {
+      "original": "arle_1338"
+    },
+    {
+      "original": "arle_1339"
+    },
+    {
+      "original": "arle_1340"
+    },
+    {
+      "original": "arle_1341"
+    },
+    {
+      "original": "arle_1342"
+    },
+    {
+      "original": "arle_1343"
+    },
+    {
+      "original": "arle_1344"
+    },
+    {
+      "original": "arle_1345"
+    },
+    {
+      "original": "arle_1346"
+    },
+    {
+      "original": "arle_1347"
+    },
+    {
+      "original": "arle_1348"
+    },
+    {
+      "original": "arle_1349"
+    },
+    {
+      "original": "arle_1350"
+    },
+    {
+      "original": "arle_1351"
+    },
+    {
+      "original": "arle_1352"
+    },
+    {
+      "original": "arle_1353"
+    },
+    {
+      "original": "arle_1354"
+    },
+    {
+      "original": "arle_1355"
+    },
+    {
+      "original": "arle_1356"
+    },
+    {
+      "original": "arle_1357"
+    },
+    {
+      "original": "arle_1358"
+    },
+    {
+      "original": "arle_1359"
+    },
+    {
+      "original": "arle_1360"
+    },
+    {
+      "original": "arle_1361"
+    },
+    {
+      "original": "arle_1362"
+    },
+    {
+      "original": "arle_1363"
+    },
+    {
+      "original": "arle_1364"
+    },
+    {
+      "original": "arle_1365"
+    },
+    {
+      "original": "arle_1366"
+    },
+    {
+      "original": "arle_1367"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg08a"
+    },
+    {
+      "original": "bg11a"
+    },
+    {
+      "original": "bg16a"
+    },
+    {
+      "original": "bg20a"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm03"
+    },
+    {
+      "original": "bgm05"
+    },
+    {
+      "original": "bgm06"
+    },
+    {
+      "original": "bgm07"
+    },
+    {
+      "original": "bgm08"
+    },
+    {
+      "original": "bgm09"
+    },
+    {
+      "original": "bgm13"
+    },
+    {
+      "original": "bgm_BGM03"
+    },
+    {
+      "original": "bgm_BGM05"
+    },
+    {
+      "original": "bgm_BGM06"
+    },
+    {
+      "original": "bgm_BGM07"
+    },
+    {
+      "original": "bgm_BGM08"
+    },
+    {
+      "original": "bgm_BGM09"
+    },
+    {
+      "original": "bgm_BGM13"
+    },
+    {
+      "original": "black"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cg_angry_mark"
+    },
+    {
+      "original": "cg_ev_aru05a"
+    },
+    {
+      "original": "cg_ev_aru05b"
+    },
+    {
+      "original": "cg_ev_aru05c"
+    },
+    {
+      "original": "cg_ev_aru05d"
+    },
+    {
+      "original": "cg_ev_aru10e"
+    },
+    {
+      "original": "cg_ev_aru10f"
+    },
+    {
+      "original": "cg_exclamation_mark"
+    },
+    {
+      "original": "cg_ic_92"
+    },
+    {
+      "original": "cg_ic_93"
+    },
+    {
+      "original": "cg_question_mark"
+    },
+    {
+      "original": "cg_wh"
+    },
+    {
+      "original": "cg_アルル.stand"
+    },
+    {
+      "original": "cg_ケルベロス.stand"
+    },
+    {
+      "original": "cg_ゴメ.stand"
+    },
+    {
+      "original": "cg_タマ.stand"
+    },
+    {
+      "original": "cg_凛.stand"
+    },
+    {
+      "original": "cg_怜香.stand"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "d01_aru_05.ks"
+    },
+    {
+      "original": "d01_aru_06.ks"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "delayrun"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "e81ef8535848563bdca6307725f524ad"
+    },
+    {
+      "original": "emo_アルル"
+    },
+    {
+      "original": "emo_凛"
+    },
+    {
+      "original": "emotion"
+    },
+    {
+      "original": "endrecollection"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "ev"
+    },
+    {
+      "original": "ev_aru05a"
+    },
+    {
+      "original": "ev_aru05b"
+    },
+    {
+      "original": "ev_aru05c"
+    },
+    {
+      "original": "ev_aru05d"
+    },
+    {
+      "original": "ev_aru10e"
+    },
+    {
+      "original": "ev_aru10f"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "event"
+    },
+    {
+      "original": "exclamation_mark"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eye"
+    },
+    {
+      "original": "eyecatch"
+    },
+    {
+      "original": "eyeflipdisable"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "facemask"
+    },
+    {
+      "original": "femA_0001"
+    },
+    {
+      "original": "femA_0002"
+    },
+    {
+      "original": "femA_0003"
+    },
+    {
+      "original": "femA_0004"
+    },
+    {
+      "original": "femA_0005"
+    },
+    {
+      "original": "femA_0006"
+    },
+    {
+      "original": "femB_0001"
+    },
+    {
+      "original": "femB_0002"
+    },
+    {
+      "original": "femB_0003"
+    },
+    {
+      "original": "femB_0004"
+    },
+    {
+      "original": "femB_0005"
+    },
+    {
+      "original": "femC_0001"
+    },
+    {
+      "original": "femC_0002"
+    },
+    {
+      "original": "femC_0003"
+    },
+    {
+      "original": "femC_0004"
+    },
+    {
+      "original": "femC_0005"
+    },
+    {
+      "original": "gome_0089"
+    },
+    {
+      "original": "gome_0090"
+    },
+    {
+      "original": "gome_0091"
+    },
+    {
+      "original": "gome_0092"
+    },
+    {
+      "original": "gome_0093"
+    },
+    {
+      "original": "ic_92"
+    },
+    {
+      "original": "ic_93"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "layer"
+    },
+    {
+      "original": "left"
+    },
+    {
+      "original": "map27b"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "msgchange"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "msgwin"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "opacity"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "originx"
+    },
+    {
+      "original": "originy"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "pochi_0059"
+    },
+    {
+      "original": "pretrans"
+    },
+    {
+      "original": "question_mark"
+    },
+    {
+      "original": "reika_0219"
+    },
+    {
+      "original": "reika_0220"
+    },
+    {
+      "original": "reika_0221"
+    },
+    {
+      "original": "reika_0222"
+    },
+    {
+      "original": "reika_0223"
+    },
+    {
+      "original": "reika_0224"
+    },
+    {
+      "original": "reika_0225"
+    },
+    {
+      "original": "reika_0226"
+    },
+    {
+      "original": "reika_0227"
+    },
+    {
+      "original": "reika_0228"
+    },
+    {
+      "original": "reika_0229"
+    },
+    {
+      "original": "reika_0230"
+    },
+    {
+      "original": "reika_0232"
+    },
+    {
+      "original": "reika_0233"
+    },
+    {
+      "original": "reika_0234"
+    },
+    {
+      "original": "reika_0235"
+    },
+    {
+      "original": "rin_0156"
+    },
+    {
+      "original": "rin_0157"
+    },
+    {
+      "original": "rin_0158"
+    },
+    {
+      "original": "rin_0159"
+    },
+    {
+      "original": "rin_0160"
+    },
+    {
+      "original": "rin_0161"
+    },
+    {
+      "original": "rin_0162"
+    },
+    {
+      "original": "rin_0163"
+    },
+    {
+      "original": "rin_0164"
+    },
+    {
+      "original": "rin_0165"
+    },
+    {
+      "original": "rin_0166"
+    },
+    {
+      "original": "rin_0167"
+    },
+    {
+      "original": "rin_0168"
+    },
+    {
+      "original": "rin_0169"
+    },
+    {
+      "original": "rin_0170"
+    },
+    {
+      "original": "rin_0171"
+    },
+    {
+      "original": "rin_0172"
+    },
+    {
+      "original": "rin_0173"
+    },
+    {
+      "original": "rin_0174"
+    },
+    {
+      "original": "rin_0175"
+    },
+    {
+      "original": "rin_0176"
+    },
+    {
+      "original": "rin_0177"
+    },
+    {
+      "original": "rin_0178"
+    },
+    {
+      "original": "rin_0179"
+    },
+    {
+      "original": "rin_0180"
+    },
+    {
+      "original": "rin_0181"
+    },
+    {
+      "original": "rin_0182"
+    },
+    {
+      "original": "rin_0183"
+    },
+    {
+      "original": "rin_0184"
+    },
+    {
+      "original": "rin_0185"
+    },
+    {
+      "original": "rin_0186"
+    },
+    {
+      "original": "rin_0187"
+    },
+    {
+      "original": "rin_0188"
+    },
+    {
+      "original": "rin_0189"
+    },
+    {
+      "original": "rin_0190"
+    },
+    {
+      "original": "rin_0191"
+    },
+    {
+      "original": "rin_0192"
+    },
+    {
+      "original": "rin_0193"
+    },
+    {
+      "original": "rin_0194"
+    },
+    {
+      "original": "rin_0195"
+    },
+    {
+      "original": "rin_0196"
+    },
+    {
+      "original": "rin_0197"
+    },
+    {
+      "original": "rotate"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "se携帯を切る音"
+    },
+    {
+      "original": "se携帯電話のコール音"
+    },
+    {
+      "original": "se環境音部屋ドアノック激"
+    },
+    {
+      "original": "se環境音部屋ドア開"
+    },
+    {
+      "original": "sf.replay_aru_03"
+    },
+    {
+      "original": "sf.replay_aru_04"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "stop"
+    },
+    {
+      "original": "stopaction"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "sync"
+    },
+    {
+      "original": "tag"
+    },
+    {
+      "original": "tagname"
+    },
+    {
+      "original": "tama_0551"
+    },
+    {
+      "original": "tama_0552"
+    },
+    {
+      "original": "tama_0553"
+    },
+    {
+      "original": "tama_0554"
+    },
+    {
+      "original": "tama_0555"
+    },
+    {
+      "original": "tama_0556"
+    },
+    {
+      "original": "tama_0557"
+    },
+    {
+      "original": "tama_0558"
+    },
+    {
+      "original": "tama_0559"
+    },
+    {
+      "original": "tama_0560"
+    },
+    {
+      "original": "tama_0561"
+    },
+    {
+      "original": "tama_0562"
+    },
+    {
+      "original": "tama_0563"
+    },
+    {
+      "original": "tama_0564"
+    },
+    {
+      "original": "tama_0565"
+    },
+    {
+      "original": "tama_0566"
+    },
+    {
+      "original": "tama_0567"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "thlabel_endescene1"
+    },
+    {
+      "original": "thlabel_endescene2"
+    },
+    {
+      "original": "thlabel_startscene2"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "true"
+    },
+    {
+      "original": "universal"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "wh"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        468
+      ]
+    },
+    {
+      "original": "……あれは会話として成立してるのか？",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "……いやでも意識しちゃって。",
+      "lines": [
+        504
+      ]
+    },
+    {
+      "original": "……いや冷静に考えたら全然惜しくないな、ゴメってクジラだし。",
+      "lines": [
+        481
+      ]
+    },
+    {
+      "original": "……さすがに冗談だよね？　でもマ族だし……。",
+      "lines": [
+        417
+      ]
+    },
+    {
+      "original": "……すみません怜香さん。全然健全じゃなかったです。",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "……その、えっちを。",
+      "lines": [
+        282
+      ]
+    },
+    {
+      "original": "……でも増えすぎたデスハムの対応と出店の空きかぁ。",
+      "lines": [
+        259
+      ]
+    },
+    {
+      "original": "……ほんと、なにやってんだあの人……。",
+      "lines": [
+        131
+      ]
+    },
+    {
+      "original": "……ん？　そう言えば最近も動物でいろいろ騒動があったような……。",
+      "lines": [
+        285
+      ]
+    },
+    {
+      "original": "……デスハムと出店？",
+      "lines": [
+        233
+      ]
+    },
+    {
+      "original": "……便秘なのかな。",
+      "lines": [
+        558
+      ]
+    },
+    {
+      "original": "……凛ちゃんのあの言い方、気づいてるっぽいな。",
+      "lines": [
+        341
+      ]
+    },
+    {
+      "original": "……改めて言うのは恥ずかしいから止めておこう。",
+      "lines": [
+        9
+      ]
+    },
+    {
+      "original": "「…………」",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "「……あぁ、しちゃったな」",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "「……うん」",
+      "lines": [
+        452
+      ]
+    },
+    {
+      "original": "「……それに、蓮さんと一緒にお店をやってるっていうのが、その」",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "「……ってかあのーアルルさん……そういうこと言われるとわたくし……」",
+      "lines": [
+        159
+      ]
+    },
+    {
+      "original": "「……なにかね凛ちゃん」",
+      "lines": [
+        262
+      ]
+    },
+    {
+      "original": "「……は？」",
+      "lines": [
+        553
+      ]
+    },
+    {
+      "original": "「……ふむふむ、なるほどなるほど」",
+      "lines": [
+        360
+      ]
+    },
+    {
+      "original": "「……もう、仕方のない人ですね……」",
+      "lines": [
+        284
+      ]
+    },
+    {
+      "original": "「……ん？」",
+      "lines": [
+        386
+      ]
+    },
+    {
+      "original": "「……アルルのバニー姿、いいね……」」",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "「……アルル？」",
+      "lines": [
+        220
+      ]
+    },
+    {
+      "original": "「……何が？」",
+      "lines": [
+        174
+      ]
+    },
+    {
+      "original": "「……俺、入れないよね？」",
+      "lines": [
+        162
+      ]
+    },
+    {
+      "original": "「『スケコマシ　ジゴロウ』みたいな感じですかね」",
+      "lines": [
+        163
+      ]
+    },
+    {
+      "original": "「『リリー＝アネンネチャン』みたいな感じか」",
+      "lines": [
+        197
+      ]
+    },
+    {
+      "original": "「あ、あはは……そうみたい、ですね」",
+      "lines": [
+        408
+      ]
+    },
+    {
+      "original": "「あ、いらっしゃいませー♪」",
+      "lines": [
+        484
+      ]
+    },
+    {
+      "original": "「あ、そうなんですか。ザンネーン」",
+      "lines": [
+        499
+      ]
+    },
+    {
+      "original": "「あ、ゴメちゃん♪」",
+      "lines": [
+        111
+      ]
+    },
+    {
+      "original": "「あ。そうそう、大変なことになってるの！」",
+      "lines": [
+        325
+      ]
+    },
+    {
+      "original": "「あ。それと、凛ちゃんも来てくれるそうです。今日はシフトがお休みだからって」",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "「あぁ、おはようアルル」",
+      "lines": [
+        298
+      ]
+    },
+    {
+      "original": "「あぁ、ちょっとね。上手くいけば二つとも解決しそう」",
+      "lines": [
+        278
+      ]
+    },
+    {
+      "original": "「あぁ、なんでも実家の都合とかで。おかげで店が一軒パーだ、パー」",
+      "lines": [
+        45
+      ]
+    },
+    {
+      "original": "「あぁ。分かるよ、なんとなく」",
+      "lines": [
+        269
+      ]
+    },
+    {
+      "original": "「ああ、蓮。助かった。それにアルルも」",
+      "lines": [
+        447
+      ]
+    },
+    {
+      "original": "「あいよ」",
+      "lines": [
+        332
+      ]
+    },
+    {
+      "original": "「あうぅ。そんなすぐに肯定しなくても……」",
+      "lines": [
+        394
+      ]
+    },
+    {
+      "original": "「あうぅー。恥ずかしいです……」",
+      "lines": [
+        457
+      ]
+    },
+    {
+      "original": "「あっ、いけないいけない。ぽわーっとしちゃいました」",
+      "lines": [
+        429
+      ]
+    },
+    {
+      "original": "「あっ、は、はい！　ただいま行きまーす！」",
+      "lines": [
+        355
+      ]
+    },
+    {
+      "original": "「あとできっちりとお話しましょうね蓮さん」",
+      "lines": [
+        478
+      ]
+    },
+    {
+      "original": "「あとは留守電機能ですね」",
+      "lines": [
+        299
+      ]
+    },
+    {
+      "original": "「あとアルルと凛ちゃんにも手伝ってほしいんだけどいいかな？」",
+      "lines": [
+        207
+      ]
+    },
+    {
+      "original": "「あの、先生」",
+      "lines": [
+        224
+      ]
+    },
+    {
+      "original": "「あの、蓮さん」",
+      "lines": [
+        237
+      ]
+    },
+    {
+      "original": "「あのー、センパイ、アルル」",
+      "lines": [
+        328
+      ]
+    },
+    {
+      "original": "「あはは、そうですね。私もアルバイトの経験はありませんから」",
+      "lines": [
+        125
+      ]
+    },
+    {
+      "original": "「あはは、まさかー。しげるは増えないですよ」",
+      "lines": [
+        548
+      ]
+    },
+    {
+      "original": "「ありがとう、さすが凛ちゃん」",
+      "lines": [
+        173
+      ]
+    },
+    {
+      "original": "「ありがとうございます。いやー、ご面倒をおかけします」",
+      "lines": [
+        507
+      ]
+    },
+    {
+      "original": "「あれ？　今この子しゃべらなかった？」",
+      "lines": [
+        541
+      ]
+    },
+    {
+      "original": "「あー……」",
+      "lines": [
+        250
+      ]
+    },
+    {
+      "original": "「い、いいえ、なんでもないのです……」",
+      "lines": [
+        270
+      ]
+    },
+    {
+      "original": "「い、いいえ！　可愛い動物たちですから」",
+      "lines": [
+        381
+      ]
+    },
+    {
+      "original": "「い、いらっしゃいませー！　喫茶ハムナクトラへ！」",
+      "lines": [
+        366
+      ]
+    },
+    {
+      "original": "「い、息が荒くないですか？」",
+      "lines": [
+        304
+      ]
+    },
+    {
+      "original": "「いえいえ。ポンコツ寮の寮監補佐として働くだけです」",
+      "lines": [
+        395
+      ]
+    },
+    {
+      "original": "「いやいやー、似合ってるぞアルル」",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "「いやはや、昨日は誠にご迷惑を……」",
+      "lines": [
+        369
+      ]
+    },
+    {
+      "original": "「いやもちろん冗談だよ？」",
+      "lines": [
+        239
+      ]
+    },
+    {
+      "original": "「いやー、そうじゃなくてですね。実はデスがですね」",
+      "lines": [
+        351
+      ]
+    },
+    {
+      "original": "「いや冗談です嘘ですジョークです」",
+      "lines": [
+        140
+      ]
+    },
+    {
+      "original": "「う、うん、分かった！」",
+      "lines": [
+        89
+      ]
+    },
+    {
+      "original": "「う、うん。今開けるね」",
+      "lines": [
+        551
+      ]
+    },
+    {
+      "original": "「う、うん。少しのぼせちゃっただけだから……」",
+      "lines": [
+        442
+      ]
+    },
+    {
+      "original": "「うぅ……すみません、もう一回作ってもらってもいいでしょうか……」",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "「うおう、びっくりした……」",
+      "lines": [
+        274
+      ]
+    },
+    {
+      "original": "「うちの学園が毎年夏祭りに協賛として出ていることは知ってるな？」",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "「うん……」",
+      "lines": [
+        472
+      ]
+    },
+    {
+      "original": "「うん、すっごいヤバい！」",
+      "lines": [
+        347
+      ]
+    },
+    {
+      "original": "「うん。それでちょっと聞きたいんだけど」",
+      "lines": [
+        398
+      ]
+    },
+    {
+      "original": "「うん。可愛いよ」",
+      "lines": [
+        550
+      ]
+    },
+    {
+      "original": "「えぇっ？　大丈夫なのアルル？」",
+      "lines": [
+        308
+      ]
+    },
+    {
+      "original": "「えっと……お店にいるものは」",
+      "lines": [
+        456
+      ]
+    },
+    {
+      "original": "「えへへ……」",
+      "lines": [
+        399
+      ]
+    },
+    {
+      "original": "「えへへ……少し恥ずかしいですけど、着てよかったです」",
+      "lines": [
+        153
+      ]
+    },
+    {
+      "original": "「えへへ♪　他の人に見られたくない、だって」",
+      "lines": [
+        85
+      ]
+    },
+    {
+      "original": "「えへへ、わかる？」",
+      "lines": [
+        450
+      ]
+    },
+    {
+      "original": "「えへへ。大変ですけど、楽しいです」",
+      "lines": [
+        294
+      ]
+    },
+    {
+      "original": "「えろい喫茶店はいつか計画しますので今回は健全なのでお願いします」",
+      "lines": [
+        144
+      ]
+    },
+    {
+      "original": "「えー」",
+      "lines": [
+        145
+      ]
+    },
+    {
+      "original": "「えーじゃないの」",
+      "lines": [
+        248
+      ]
+    },
+    {
+      "original": "「えーっと、これは、ですね。デスなのです」",
+      "lines": [
+        118
+      ]
+    },
+    {
+      "original": "「えーっと、だから、その、アレ、アレが増えてて、だーって」",
+      "lines": [
+        361
+      ]
+    },
+    {
+      "original": "「えーと、コスプレは……%D$vl1;そうですね、好きかは分かりませんけど興味はあります」"
+    },
+    {
+      "original": "「えーと、コスプレは……そうですね、好きかは分かりませんけど興味はあります」",
+      "lines": [
+        508
+      ]
+    },
+    {
+      "original": "「えーまさかー」",
+      "lines": [
+        383
+      ]
+    },
+    {
+      "original": "「おお……！」",
+      "lines": [
+        95
+      ]
+    },
+    {
+      "original": "「おはよう」",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "「おはようございます、蓮さん」",
+      "lines": [
+        93
+      ]
+    },
+    {
+      "original": "「おはようアルル。それにセンパイもおはようございます」",
+      "lines": [
+        94
+      ]
+    },
+    {
+      "original": "「おはよう凛ちゃん」",
+      "lines": [
+        436
+      ]
+    },
+    {
+      "original": "「お待たせしましたー！　オーダーのオムライにゃあああっ！？」",
+      "lines": [
+        477
+      ]
+    },
+    {
+      "original": "「お手はもちろん、お留守番を任せることだって出来るんですよ」",
+      "lines": [
+        227
+      ]
+    },
+    {
+      "original": "「お部屋に帰って、さっきの続きしませんか？」",
+      "lines": [
+        572
+      ]
+    },
+    {
+      "original": "「お願いしまぁす……もう、つらいんです……」",
+      "lines": [
+        490
+      ]
+    },
+    {
+      "original": "「かく言う吾もまた、その欲求を抑えきれん……」",
+      "lines": [
+        449
+      ]
+    },
+    {
+      "original": "「がんばってるな、アルル」",
+      "lines": [
+        464
+      ]
+    },
+    {
+      "original": "「きゃー！　なにこの子！　ちょ、ヤバくない！？」",
+      "lines": [
+        194
+      ]
+    },
+    {
+      "original": "「ぎぬああぁああぁぁぁあぁぁぁぁぁ！！」",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "「くすくす。まだ寝ぼけてますね」",
+      "lines": [
+        339
+      ]
+    },
+    {
+      "original": "「くすくす。私も蓮さんと付き合い長いですからね」",
+      "lines": [
+        552
+      ]
+    },
+    {
+      "original": "「くんくん、すんすん」",
+      "lines": [
+        451
+      ]
+    },
+    {
+      "original": "「こういうの新鮮で、ドキドキして――」",
+      "lines": [
+        432
+      ]
+    },
+    {
+      "original": "「こっちも注文お願いしまーす！」",
+      "lines": [
+        532
+      ]
+    },
+    {
+      "original": "「このままじゃいろいろまずい」",
+      "lines": [
+        475
+      ]
+    },
+    {
+      "original": "「このデスハ――ハムハムはですねー」",
+      "lines": [
+        465
+      ]
+    },
+    {
+      "original": "「このハムスターかーわーいーいー」",
+      "lines": [
+        510
+      ]
+    },
+    {
+      "original": "「この子ちょっと鳴き声が特殊なんで」",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "「これからも頑張って、ポンコツを治していこうな」",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "「これだけ幸せなら、ポンコツでもいいですよー」",
+      "lines": [
+        501
+      ]
+    },
+    {
+      "original": "「これなんだっけ、テレビで見たことある」",
+      "lines": [
+        247
+      ]
+    },
+    {
+      "original": "「これはどういうことでしょうか竜泉寺先生」",
+      "lines": [
+        321
+      ]
+    },
+    {
+      "original": "「これを機に動物好きな人がいっぱい来てくれると嬉しいです」",
+      "lines": [
+        105
+      ]
+    },
+    {
+      "original": "「さすがジゴロオブ天然ですねーセンパイは」",
+      "lines": [
+        345
+      ]
+    },
+    {
+      "original": "「さてアルル。実は君に重大な役割がある」",
+      "lines": [
+        382
+      ]
+    },
+    {
+      "original": "「さーさー、ペットと触れ合って行ってくださーい！　にゃおー♪」",
+      "lines": [
+        124
+      ]
+    },
+    {
+      "original": "「しげるでも増えたの？」",
+      "lines": [
+        538
+      ]
+    },
+    {
+      "original": "「じ、実は……服がさっきから擦れてしまって……」",
+      "lines": [
+        151
+      ]
+    },
+    {
+      "original": "「じゃあちょっとだけ我慢します」",
+      "lines": [
+        557
+      ]
+    },
+    {
+      "original": "「じゃあセンパイ、アルルのことくれぐれもお願いします」",
+      "lines": [
+        158
+      ]
+    },
+    {
+      "original": "「じー」",
+      "lines": [
+        466
+      ]
+    },
+    {
+      "original": "「すっっっっっっごいヤーバーイー」",
+      "lines": [
+        365
+      ]
+    },
+    {
+      "original": "「すぴー、ぷすー」",
+      "lines": [
+        483
+      ]
+    },
+    {
+      "original": "「すみませんお客様。その子はリストに入ってないので」",
+      "lines": [
+        428
+      ]
+    },
+    {
+      "original": "「すみませーん、注文いいですかー？」",
+      "lines": [
+        363
+      ]
+    },
+    {
+      "original": "「せっかくだし何でもやってみない？　レッツコスプレ！」",
+      "lines": [
+        214
+      ]
+    },
+    {
+      "original": "「せんせー、ボクもボクもー」",
+      "lines": [
+        534
+      ]
+    },
+    {
+      "original": "「そ、それもあるんですが……」",
+      "lines": [
+        229
+      ]
+    },
+    {
+      "original": "「そうしましょう、そうしましょう」",
+      "lines": [
+        176
+      ]
+    },
+    {
+      "original": "「そこで入れるくらい俺もはっちゃけられたらなー」",
+      "lines": [
+        514
+      ]
+    },
+    {
+      "original": "「そそそそそそそーなんですよっ」",
+      "lines": [
+        228
+      ]
+    },
+    {
+      "original": "「そっちの方がよっぽど健全だな」",
+      "lines": [
+        238
+      ]
+    },
+    {
+      "original": "「そっとしとこう凛ちゃん。俺たちに出来るのはそれくらいだ」",
+      "lines": [
+        143
+      ]
+    },
+    {
+      "original": "「その前にアルルは服を着てな？」",
+      "lines": [
+        189
+      ]
+    },
+    {
+      "original": "「それでは一度電話してもらって中の様子を実況中継してもらったほうがいいです」",
+      "lines": [
+        276
+      ]
+    },
+    {
+      "original": "「それで催し物に参加する予定だった学生が居たのだが、急に転校してしまったんだ」",
+      "lines": [
+        110
+      ]
+    },
+    {
+      "original": "「それで凛ちゃん、どうしたの？」",
+      "lines": [
+        421
+      ]
+    },
+    {
+      "original": "「それにしてもいいね、アルル＆バニィ」",
+      "lines": [
+        272
+      ]
+    },
+    {
+      "original": "「それにしても夏祭りの件もあるのに頭の痛い……」",
+      "lines": [
+        290
+      ]
+    },
+    {
+      "original": "「それはエロいやつか」",
+      "lines": [
+        166
+      ]
+    },
+    {
+      "original": "「それは無理でーす」",
+      "lines": [
+        331
+      ]
+    },
+    {
+      "original": "「それは知ってる」",
+      "lines": [
+        349
+      ]
+    },
+    {
+      "original": "「それは知ってるから大丈夫」",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "「それもそっか。俺もみんなのご飯作らないといけないし」",
+      "lines": [
+        374
+      ]
+    },
+    {
+      "original": "「それももう更衣室に用意してあるよ」",
+      "lines": [
+        267
+      ]
+    },
+    {
+      "original": "「それよりもデスハムをどうするか……」",
+      "lines": [
+        164
+      ]
+    },
+    {
+      "original": "「それより凛ちゃん、俺の靴下一緒に探してくれない？」",
+      "lines": [
+        330
+      ]
+    },
+    {
+      "original": "「そんなことないですよ？　私結構おっちょこちょいですから」",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "「そんな感じです♪」",
+      "lines": [
+        403
+      ]
+    },
+    {
+      "original": "「ただ……」",
+      "lines": [
+        491
+      ]
+    },
+    {
+      "original": "「ただ単に発情してるだけじゃないかそれ」",
+      "lines": [
+        404
+      ]
+    },
+    {
+      "original": "「ただ？」",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "「だめだめ、俺もちゃんとアルルといちゃつきたいし」",
+      "lines": [
+        133
+      ]
+    },
+    {
+      "original": "「だーかーにゃぁー！」",
+      "lines": [
+        120
+      ]
+    },
+    {
+      "original": "「だーって？」",
+      "lines": [
+        556
+      ]
+    },
+    {
+      "original": "「ちょうどお客さんも少なくなってきたしゆっくり楽しんできてよ」",
+      "lines": [
+        323
+      ]
+    },
+    {
+      "original": "「ですね、ですね！」",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "「でも、もうちょっとだけ――」",
+      "lines": [
+        333
+      ]
+    },
+    {
+      "original": "「でもそんなところも含めてアルルだし」",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "「でもですね、前とは少し違うんです」",
+      "lines": [
+        329
+      ]
+    },
+    {
+      "original": "「でもアルルは愛想いいし器用だし、すぐ慣れそう」",
+      "lines": [
+        327
+      ]
+    },
+    {
+      "original": "「でも助かったー。接客経験がある人がいた方が何かと安心だし」",
+      "lines": [
+        215
+      ]
+    },
+    {
+      "original": "「というか天の救いたるセンパイとアルルを呼んできたのがボクなのです、えへん」",
+      "lines": [
+        172
+      ]
+    },
+    {
+      "original": "「というわけで、女子トイレまでやってきたわけですが」",
+      "lines": [
+        181
+      ]
+    },
+    {
+      "original": "「とりあえず、私が行って来ましょうか？」",
+      "lines": [
+        139
+      ]
+    },
+    {
+      "original": "「とりあえずアルル、女子トイレまで来て」",
+      "lines": [
+        533
+      ]
+    },
+    {
+      "original": "「とりあえずオスとメスをわけて離そう」",
+      "lines": [
+        115
+      ]
+    },
+    {
+      "original": "「とりあえずトランクスはいていい？　答えは聞かないけど」",
+      "lines": [
+        545
+      ]
+    },
+    {
+      "original": "「とりあえず今いろいろよろしくない状況なので」",
+      "lines": [
+        528
+      ]
+    },
+    {
+      "original": "「ど、どーしましょ……」",
+      "lines": [
+        350
+      ]
+    },
+    {
+      "original": "「な、なんで知ってるんです……？」",
+      "lines": [
+        273
+      ]
+    },
+    {
+      "original": "「なにかあったんですか？」",
+      "lines": [
+        362
+      ]
+    },
+    {
+      "original": "「ならオッケー」",
+      "lines": [
+        301
+      ]
+    },
+    {
+      "original": "「なら凛ちゃんに確認してもらっていい？」",
+      "lines": [
+        196
+      ]
+    },
+    {
+      "original": "「なんかすごいやばそうなんだけど」",
+      "lines": [
+        185
+      ]
+    },
+    {
+      "original": "「なんで」",
+      "lines": [
+        348
+      ]
+    },
+    {
+      "original": "「なんでしょうか？　あ、３サイズですか？」",
+      "lines": [
+        291
+      ]
+    },
+    {
+      "original": "「なんでエロいやつにするんですか」",
+      "lines": [
+        358
+      ]
+    },
+    {
+      "original": "「なんで丁寧語？」",
+      "lines": [
+        423
+      ]
+    },
+    {
+      "original": "「なんとなくゴメっぽいセリフですね、それ」",
+      "lines": [
+        406
+      ]
+    },
+    {
+      "original": "「なんとなく嬉しいセリフだ……女の子としてどうかと思うけど」",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "「なんと申しますか、前はビリビリビリーってきて、おっかなビックリだったんですけど」",
+      "lines": [
+        511
+      ]
+    },
+    {
+      "original": "「ね、ね？　そうだよねゴメちゃん！」",
+      "lines": [
+        288
+      ]
+    },
+    {
+      "original": "「ねぇ怜香さん。その出店ってなんでもいいんですか？」",
+      "lines": [
+        467
+      ]
+    },
+    {
+      "original": "「ね！　ね！　ヤバいよねー！」",
+      "lines": [
+        433
+      ]
+    },
+    {
+      "original": "「は、はーい！」",
+      "lines": [
+        266
+      ]
+    },
+    {
+      "original": "「はぁ……。まあ、いい」",
+      "lines": [
+        571
+      ]
+    },
+    {
+      "original": "「はぁ、はぁ、蓮さぁん……」",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "「はぁー……でも、朝になっちゃったから、起きないとですね」",
+      "lines": [
+        313
+      ]
+    },
+    {
+      "original": "「はぁ～。考えましたね、蓮さん」",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "「はあぁ……今も蓮さんのが中に入っているような感じがします……」",
+      "lines": [
+        540
+      ]
+    },
+    {
+      "original": "「はぃ……それに、この子たちを見ていたら……」",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "「はい、あなたのアルルです♪」",
+      "lines": [
+        209
+      ]
+    },
+    {
+      "original": "「はい、アルルです。おはようございます」",
+      "lines": [
+        302
+      ]
+    },
+    {
+      "original": "「はい、分かりました」",
+      "lines": [
+        517
+      ]
+    },
+    {
+      "original": "「はいはい、じゃあこの白いのは回収しますねー」",
+      "lines": [
+        346
+      ]
+    },
+    {
+      "original": "「はい？　重大な役割、ですか？」",
+      "lines": [
+        364
+      ]
+    },
+    {
+      "original": "「はぅぅ。なんかテンション高いです……」",
+      "lines": [
+        445
+      ]
+    },
+    {
+      "original": "「はわわ～。大忙しです～」",
+      "lines": [
+        544
+      ]
+    },
+    {
+      "original": "「はーい、なにかご用でしょうかー？」",
+      "lines": [
+        249
+      ]
+    },
+    {
+      "original": "「は？」",
+      "lines": [
+        263
+      ]
+    },
+    {
+      "original": "「ひぃいいぃぃぃいいいぃいっ！！」",
+      "lines": [
+        512
+      ]
+    },
+    {
+      "original": "「ふなあぁぁぁぁ」",
+      "lines": [
+        315
+      ]
+    },
+    {
+      "original": "「ふれあいペット喫茶ですかぁ。それも気に入った子をお持ち帰りできる……」",
+      "lines": [
+        277
+      ]
+    },
+    {
+      "original": "「へー、なんとも急な話ですね」",
+      "lines": [
+        479
+      ]
+    },
+    {
+      "original": "「へー」",
+      "lines": [
+        513
+      ]
+    },
+    {
+      "original": "「へーそうなんだー」",
+      "lines": [
+        502
+      ]
+    },
+    {
+      "original": "「ほらあれだよ、セイウチ！」",
+      "lines": [
+        326
+      ]
+    },
+    {
+      "original": "「ほんとに？　来たらちゃんとお礼言わないと」",
+      "lines": [
+        167
+      ]
+    },
+    {
+      "original": "「まぁそりゃそうだよね」",
+      "lines": [
+        309
+      ]
+    },
+    {
+      "original": "「まず机と椅子と、あと看板と……」",
+      "lines": [
+        420
+      ]
+    },
+    {
+      "original": "「まだ彼女になったわけじゃないけどね」",
+      "lines": [
+        260
+      ]
+    },
+    {
+      "original": "「まったく、学生の指標たる教師がなんたるザマだ」",
+      "lines": [
+        161
+      ]
+    },
+    {
+      "original": "「もう人の名前みたいになってるな」",
+      "lines": [
+        539
+      ]
+    },
+    {
+      "original": "「もしかしてムラムラしちゃった？」",
+      "lines": [
+        90
+      ]
+    },
+    {
+      "original": "「や、ちょっと待ってアルル――」",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "「やめてくれ、これ以上俺の理性を刺激しないで！」",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "「り、凛ちゃん！？」",
+      "lines": [
+        521
+      ]
+    },
+    {
+      "original": "「れ、蓮さぁぁぁん！」",
+      "lines": [
+        482
+      ]
+    },
+    {
+      "original": "「わたしはこのワンコが気に入ったなー」",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "「ん、アルル……？」",
+      "lines": [
+        522
+      ]
+    },
+    {
+      "original": "「ん？　アルルの声だよな、さっきの」",
+      "lines": [
+        535
+      ]
+    },
+    {
+      "original": "「ん？」",
+      "lines": [
+        402
+      ]
+    },
+    {
+      "original": "「アルルが喜んでくれて良かった」",
+      "lines": [
+        357
+      ]
+    },
+    {
+      "original": "「アルルさんは、こ、コスプレはお好きですか？」",
+      "lines": [
+        573
+      ]
+    },
+    {
+      "original": "「アルルの好きなようにしていいから何でも言って」",
+      "lines": [
+        354
+      ]
+    },
+    {
+      "original": "「アルルはコスプレは好き？」",
+      "lines": [
+        271
+      ]
+    },
+    {
+      "original": "「アルルは出来た子だな」",
+      "lines": [
+        368
+      ]
+    },
+    {
+      "original": "「アルルを見ると発作が起きるようになったんだ」",
+      "lines": [
+        119
+      ]
+    },
+    {
+      "original": "「アレが増えてて？」",
+      "lines": [
+        134
+      ]
+    },
+    {
+      "original": "「アレが増えてるんにゃってばー！」",
+      "lines": [
+        458
+      ]
+    },
+    {
+      "original": "「オーダーお願いします！　アイスコーヒー２つ、抹茶パフェ１――」",
+      "lines": [
+        488
+      ]
+    },
+    {
+      "original": "「ゴメ、居たのか」",
+      "lines": [
+        160
+      ]
+    },
+    {
+      "original": "「ジゴロー」",
+      "lines": [
+        359
+      ]
+    },
+    {
+      "original": "「ジト目にならないで。アルルに似合うのは笑顔だから」",
+      "lines": [
+        418
+      ]
+    },
+    {
+      "original": "「センパイ、自分の彼女だからってえっちぃ目で見すぎですよー」",
+      "lines": [
+        187
+      ]
+    },
+    {
+      "original": "「センパイはせんせーの電話番号知ってますか？」",
+      "lines": [
+        175
+      ]
+    },
+    {
+      "original": "「センパイへのサービスです。喜んで入っちゃってください」",
+      "lines": [
+        141
+      ]
+    },
+    {
+      "original": "「センパイも一緒にお願いします！」",
+      "lines": [
+        212
+      ]
+    },
+    {
+      "original": "「タマちゃんでこれならアルルはお札に印刷される人に選ばれるよ」",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "「ダメですよ。動物たちにごはんをあげないといけないですし」",
+      "lines": [
+        240
+      ]
+    },
+    {
+      "original": "「デスガデスネ？　なにそれ、外国の食べ物？」",
+      "lines": [
+        546
+      ]
+    },
+    {
+      "original": "「デスハムをオスとメスでわけてほしいんだけどお願い出来る？」",
+      "lines": [
+        106
+      ]
+    },
+    {
+      "original": "「デスヨネー」",
+      "lines": [
+        485
+      ]
+    },
+    {
+      "original": "「ハッハッハッハッハ！」",
+      "lines": [
+        243
+      ]
+    },
+    {
+      "original": "「ハムちゃん？」",
+      "lines": [
+        338
+      ]
+    },
+    {
+      "original": "「バレた？」",
+      "lines": [
+        473
+      ]
+    },
+    {
+      "original": "「ヤバいですよねー」",
+      "lines": [
+        500
+      ]
+    },
+    {
+      "original": "「ヤバっ、なにこの子！　ちょー可愛い！」",
+      "lines": [
+        476
+      ]
+    },
+    {
+      "original": "「ヤンチャな子が多い種族なんですけど、聞き分けがいいことで有名なんです」",
+      "lines": [
+        547
+      ]
+    },
+    {
+      "original": "「了解です、任せてください」",
+      "lines": [
+        306
+      ]
+    },
+    {
+      "original": "「了解です」",
+      "lines": [
+        165
+      ]
+    },
+    {
+      "original": "「人の俺より嗅覚がいいとかそういう便利設定とかでさ」",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "「今は、ふわぁっ……とするっていうか、幸せっていうか」",
+      "lines": [
+        186
+      ]
+    },
+    {
+      "original": "「今タマせんせーが中にいるんですけどかなりヤバい状況なので」",
+      "lines": [
+        203
+      ]
+    },
+    {
+      "original": "「今トイレの前にいるんだけどさっき叫んでたよね？」",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "「今日も休みだし、だらだら二度寝しちゃう？」",
+      "lines": [
+        555
+      ]
+    },
+    {
+      "original": "「他ならぬ友達のピンチ、ここはボクがやっておくね」",
+      "lines": [
+        305
+      ]
+    },
+    {
+      "original": "「任せる。あとで概要をまとめて連絡しろ」",
+      "lines": [
+        297
+      ]
+    },
+    {
+      "original": "「何かいい案でも思いつたんですか？」",
+      "lines": [
+        268
+      ]
+    },
+    {
+      "original": "「何か手伝えることありますか？」",
+      "lines": [
+        443
+      ]
+    },
+    {
+      "original": "「作るくらい別にいいよ。凛ちゃんに怪我がなくてよかった」",
+      "lines": [
+        289
+      ]
+    },
+    {
+      "original": "「例えば喫茶店とかでも？」",
+      "lines": [
+        334
+      ]
+    },
+    {
+      "original": "「俺はそんなアルルだからこそ好きだよ」",
+      "lines": [
+        549
+      ]
+    },
+    {
+      "original": "「俺はアルルが調子悪いみたいだからちょっと休ませてくる」",
+      "lines": [
+        455
+      ]
+    },
+    {
+      "original": "「俺もアルルと一緒だから楽しいぞ」",
+      "lines": [
+        375
+      ]
+    },
+    {
+      "original": "「俺もウェイターの準備があるからまたあとで」",
+      "lines": [
+        293
+      ]
+    },
+    {
+      "original": "「健全か。それでもお前は男か？　ちゃんと付いてんのか？」",
+      "lines": [
+        440
+      ]
+    },
+    {
+      "original": "「傷は浅いぞ、生きて国の土を踏むんだろ！」",
+      "lines": [
+        543
+      ]
+    },
+    {
+      "original": "「凛ちゃん、エマージェンシーだ」",
+      "lines": [
+        135
+      ]
+    },
+    {
+      "original": "「凛ちゃん凛ちゃん。素が出てるよ」",
+      "lines": [
+        142
+      ]
+    },
+    {
+      "original": "「分かった」",
+      "lines": [
+        148
+      ]
+    },
+    {
+      "original": "「分かってくれ、アルルの裸を他の人に見られたくないんだ」",
+      "lines": [
+        373
+      ]
+    },
+    {
+      "original": "「分かりました……服はどこにあるんですか？」",
+      "lines": [
+        376
+      ]
+    },
+    {
+      "original": "「分かりました。では、またあとで」",
+      "lines": [
+        487
+      ]
+    },
+    {
+      "original": "「分かる、分かるぞ。ムチムチなオナゴに着いて行きたい欲求……」",
+      "lines": [
+        506
+      ]
+    },
+    {
+      "original": "「吾を愛でよ」",
+      "lines": [
+        226
+      ]
+    },
+    {
+      "original": "「大丈夫だ、俺もだ」",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "「大丈夫です！」",
+      "lines": [
+        438
+      ]
+    },
+    {
+      "original": "「大丈夫凛ちゃんっ？」",
+      "lines": [
+        112
+      ]
+    },
+    {
+      "original": "「大変って何が？」",
+      "lines": [
+        372
+      ]
+    },
+    {
+      "original": "「奥に簡易の更衣室を用意したからそこで着替えて」",
+      "lines": [
+        314
+      ]
+    },
+    {
+      "original": "「安直と言ったら安直だけどね」",
+      "lines": [
+        183
+      ]
+    },
+    {
+      "original": "「少し待ったほうがよいかと」",
+      "lines": [
+        405
+      ]
+    },
+    {
+      "original": "「布面積が少ないので、あんまりごわごわしないですけど」",
+      "lines": [
+        245
+      ]
+    },
+    {
+      "original": "「待ってアルル！　扉に近寄っちゃダメ――」",
+      "lines": [
+        496
+      ]
+    },
+    {
+      "original": "「後のことは心配するな、骨は拾ってやる」",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "「恥ずかしいんですけど、もっと触れていたい、って思うような」",
+      "lines": [
+        303
+      ]
+    },
+    {
+      "original": "「悪巧みを思いついた顔をしてるな」",
+      "lines": [
+        127
+      ]
+    },
+    {
+      "original": "「惜しいの？」",
+      "lines": [
+        126
+      ]
+    },
+    {
+      "original": "「惜しい！」",
+      "lines": [
+        422
+      ]
+    },
+    {
+      "original": "「我、悟りの極みに至り」",
+      "lines": [
+        495
+      ]
+    },
+    {
+      "original": "「戦乱の世に向かう。見送ってくれるな戦友よ」",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "「昨日は、その……しちゃいましたね、蓮さん」",
+      "lines": [
+        292
+      ]
+    },
+    {
+      "original": "「普通の健全な喫茶店です」",
+      "lines": [
+        400
+      ]
+    },
+    {
+      "original": "「最初は私には大人っぽくて似合わないなーなんて思ってたんですけど……」",
+      "lines": [
+        367
+      ]
+    },
+    {
+      "original": "「最近アルルアレルギー、略してアルルギーにかかってさ」",
+      "lines": [
+        397
+      ]
+    },
+    {
+      "original": "「本当ですか？」",
+      "lines": [
+        322
+      ]
+    },
+    {
+      "original": "「来てくれるよ、きっと」",
+      "lines": [
+        337
+      ]
+    },
+    {
+      "original": "「格好いいこと言っても騙されませんからね」",
+      "lines": [
+        316
+      ]
+    },
+    {
+      "original": "「楽しそうですね！　私、こういうの初めてなんでドキドキします」",
+      "lines": [
+        470
+      ]
+    },
+    {
+      "original": "「気に入っていただけましたか？」",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "「目が覚めました？」",
+      "lines": [
+        136
+      ]
+    },
+    {
+      "original": "「相変わらず不思議ミステリーな耳と尻尾だなぁ」",
+      "lines": [
+        401
+      ]
+    },
+    {
+      "original": "「着てみると楽しいです」",
+      "lines": [
+        275
+      ]
+    },
+    {
+      "original": "「知ってますよ、ウチの学園の名前が書いてある提灯見たことりますし」",
+      "lines": [
+        188
+      ]
+    },
+    {
+      "original": "「知ってる知ってる」",
+      "lines": [
+        225
+      ]
+    },
+    {
+      "original": "「私とっても恥ずかしいです」",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "「私なんて朝から蓮さんが隣にいて、もうムラムラしっぱなしですから！」",
+      "lines": [
+        300
+      ]
+    },
+    {
+      "original": "「私は大丈夫ですけど……凛ちゃんのシフト次第ですね」",
+      "lines": [
+        261
+      ]
+    },
+    {
+      "original": "「若干申し訳ないのです……」",
+      "lines": [
+        149,
+        335
+      ]
+    },
+    {
+      "original": "「蓮さん……」",
+      "lines": [
+        407
+      ]
+    },
+    {
+      "original": "「蓮さんに見られてると思うと少しムラムラしちゃいますね」",
+      "lines": [
+        576
+      ]
+    },
+    {
+      "original": "「蓮さんのおち○ぽぉ、くださぁい……」",
+      "lines": [
+        446
+      ]
+    },
+    {
+      "original": "「蓮さんオーダーお願いしますっ」",
+      "lines": [
+        439
+      ]
+    },
+    {
+      "original": "「衛生兵えぇ！　衛生兵えぇえぇぇ！　メディィィィック！」",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "「違う？」",
+      "lines": [
+        529
+      ]
+    },
+    {
+      "original": "「非常に教育上よろしくない光景だなこれ」",
+      "lines": [
+        182
+      ]
+    },
+    {
+      "original": "「頼んでもいい？」",
+      "lines": [
+        190
+      ]
+    },
+    {
+      "original": "「？　まぁ凛ちゃんがそう言うなら」",
+      "lines": [
+        415
+      ]
+    },
+    {
+      "original": "「Ｇｏｏｄ……」",
+      "lines": [
+        526
+      ]
+    },
+    {
+      "original": "「Ｏｈ……」",
+      "lines": [
+        6
+      ]
+    },
+    {
+      "original": "「Ｚｚｚ」",
+      "lines": [
+        154
+      ]
+    },
+    {
+      "original": "「～♪」",
+      "lines": [
+        232
+      ]
+    },
+    {
+      "original": "『うぎゃあああ！　止まらないのですよーーーーーー！！』",
+      "lines": [
+        221
+      ]
+    },
+    {
+      "original": "『うわわわわわ！　いっぱい出たのですーーー！？』",
+      "lines": [
+        216
+      ]
+    },
+    {
+      "original": "『おお、よくやったのです！　ご褒美に――』",
+      "lines": [
+        241
+      ]
+    },
+    {
+      "original": "『おほおおおおお！！　ま、まだ出るのです！？　もりもり！』",
+      "lines": [
+        242
+      ]
+    },
+    {
+      "original": "『こ、このデスハムがああああぁああぁぁあぁぁぁぁなのです！！』",
+      "lines": [
+        211
+      ]
+    },
+    {
+      "original": "『これもタマの日頃の行いがいいおかげですねー』",
+      "lines": [
+        208
+      ]
+    },
+    {
+      "original": "『その声はアルルちゃんですか？』",
+      "lines": [
+        210
+      ]
+    },
+    {
+      "original": "『ちょおおおおどいいところに来たのですよ！　まさに天の救いなのです！』",
+      "lines": [
+        219
+      ]
+    },
+    {
+      "original": "『ひぃいいぃぃぃ！　また増えたのです！』",
+      "lines": [
+        201
+      ]
+    },
+    {
+      "original": "『もしもし蓮ちゃんですか？！』",
+      "lines": [
+        88
+      ]
+    },
+    {
+      "original": "『アルル、とりあえず開けてよ！　大変なんだって！』",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "『アルルー！　居るー！？　居るなら開けてー！』",
+      "lines": [
+        100
+      ]
+    },
+    {
+      "original": "『キャー！　二人ともなにしてるのー！？』とかあるんじゃあ？",
+      "lines": [
+        204
+      ]
+    },
+    {
+      "original": "『チッ、聞いてやがりましたか』",
+      "lines": [
+        202
+      ]
+    },
+    {
+      "original": "『今忙しーですから、あとにするのです！』",
+      "lines": [
+        86
+      ]
+    },
+    {
+      "original": "『分かる分かるー』",
+      "lines": [
+        84
+      ]
+    },
+    {
+      "original": "『昨晩はお楽しみでしたねーーー！！』",
+      "lines": [
+        102
+      ]
+    },
+    {
+      "original": "あ、普段からアルルと仲がいい凛ちゃんはアルルの脱ぎクセを知ってるから気にしないのか。",
+      "lines": [
+        561
+      ]
+    },
+    {
+      "original": "あとでバイト先に行ってバイトの賃金を上げろーってデモるから。",
+      "lines": [
+        116
+      ]
+    },
+    {
+      "original": "あとアルル、相手が凛ちゃんだからってちゃんと服を着て。",
+      "lines": [
+        179
+      ]
+    },
+    {
+      "original": "あの二人なら『なんで私がしてる時に覗きに来てくれないの！』とか言ってくる。",
+      "lines": [
+        378
+      ]
+    },
+    {
+      "original": "あの衣装を見たら恥ずかしがるだろうなぁ。",
+      "lines": [
+        218
+      ]
+    },
+    {
+      "original": "あまり聞きたくない音が聞こえてきた。",
+      "lines": [
+        279
+      ]
+    },
+    {
+      "original": "あーあ、みたいに肩をすくめる怜香さん。",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "いや、なんか終わり際に、余計ムラムラするようになったとか言ってたような？",
+      "lines": [
+        87
+      ]
+    },
+    {
+      "original": "いやいやもう見られなくてもバレてるし、普通に会話してるし。",
+      "lines": [
+        519
+      ]
+    },
+    {
+      "original": "いやクジラか？　どっちでもいいや。",
+      "lines": [
+        223
+      ]
+    },
+    {
+      "original": "うわぁ……朝から聞きたくない音、聞いちゃったなぁ。",
+      "lines": [
+        283
+      ]
+    },
+    {
+      "original": "うーん……いったいどうしたら……。",
+      "lines": [
+        138
+      ]
+    },
+    {
+      "original": "えっと、ズボンはベッドのすぐ下、と。",
+      "lines": [
+        97
+      ]
+    },
+    {
+      "original": "え？　なんで凛ちゃんは何も反応しないの？",
+      "lines": [
+        509
+      ]
+    },
+    {
+      "original": "おいおいおい、あいつマジか。マジなのか。",
+      "lines": [
+        474
+      ]
+    },
+    {
+      "original": "おお、しかも馴染んでる。ヤバい。",
+      "lines": [
+        471
+      ]
+    },
+    {
+      "original": "おっと、女性客の中にアルルが飛び込んでいった！",
+      "lines": [
+        393
+      ]
+    },
+    {
+      "original": "お店がいかにもファンシーな感じだからだろうか、お客さんも女性客だらけで安心だし。",
+      "lines": [
+        324
+      ]
+    },
+    {
+      "original": "お祭前ということもあってかアルルも興奮した様子。",
+      "lines": [
+        412
+      ]
+    },
+    {
+      "original": "きゅっと締まったウェストをカバーするバニースーツ。",
+      "lines": [
+        171
+      ]
+    },
+    {
+      "original": "ぐ、偶然だよね……？",
+      "lines": [
+        424
+      ]
+    },
+    {
+      "original": "ぐふっ。アレと一緒にされるのは嫌だ……。",
+      "lines": [
+        99
+      ]
+    },
+    {
+      "original": "こういう時って『じゃあなら私もー！』っていやそれはないけど。",
+      "lines": [
+        387
+      ]
+    },
+    {
+      "original": "これが俺の秘策だった。",
+      "lines": [
+        317
+      ]
+    },
+    {
+      "original": "これなら大量に増えたデスハムと空いた出店の二つを解決できる。",
+      "lines": [
+        390
+      ]
+    },
+    {
+      "original": "これなら脱げないし人の視線を意識せざるを得ない。",
+      "lines": [
+        107
+      ]
+    },
+    {
+      "original": "これは完全に気づいてる。",
+      "lines": [
+        518
+      ]
+    },
+    {
+      "original": "これ以上こいつを野放しにしてたら全世界のアザラシに迷惑がかかる。",
+      "lines": [
+        310
+      ]
+    },
+    {
+      "original": "こんなことするの初めてだけど、やるからには全力を尽くさないとな。",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "こんな格好を見れば誰でも昨晩はお楽しみでエンジョイ＆エキサイティングだったのが分かる。",
+      "lines": [
+        425
+      ]
+    },
+    {
+      "original": "さてさて。俺もいつまでもアルルを眺めてるワケにもいかんな。",
+      "lines": [
+        380
+      ]
+    },
+    {
+      "original": "さてと、俺も着替えよう。",
+      "lines": [
+        130
+      ]
+    },
+    {
+      "original": "しげるじゃないとしたらなんだ？　ゴメ？　ポチ？",
+      "lines": [
+        156
+      ]
+    },
+    {
+      "original": "しばらくはこの案で行こう。",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "すこーしずつ意識が浮上していく。",
+      "lines": [
+        480
+      ]
+    },
+    {
+      "original": "すごいなデスハム。そんな能力も持ってるんだ。",
+      "lines": [
+        463
+      ]
+    },
+    {
+      "original": "するとペットふれあい喫茶としての本来の様子になってきた。",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "そうだな、したんだよな。俺とアルルが。",
+      "lines": [
+        312
+      ]
+    },
+    {
+      "original": "そう思いながら必要なものをリストアップしていった。",
+      "lines": [
+        578
+      ]
+    },
+    {
+      "original": "そう言うと俺を押し倒した。",
+      "lines": [
+        152
+      ]
+    },
+    {
+      "original": "そう言ってクローゼットのところまで行った。",
+      "lines": [
+        389
+      ]
+    },
+    {
+      "original": "そこでコスプレをさせて人前で接客させるのだ。",
+      "lines": [
+        414
+      ]
+    },
+    {
+      "original": "そしてうさ耳。",
+      "lines": [
+        385
+      ]
+    },
+    {
+      "original": "そしてなにより……。",
+      "lines": [
+        562
+      ]
+    },
+    {
+      "original": "そしてアルルを抱えて裏へと戻った。",
+      "lines": [
+        123
+      ]
+    },
+    {
+      "original": "そしてトランクスまで手が届かない。",
+      "lines": [
+        525
+      ]
+    },
+    {
+      "original": "そしてホールへ戻った俺が見たのは。",
+      "lines": [
+        157
+      ]
+    },
+    {
+      "original": "そして靴下が見当たらない。",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "そっか。昨日はそのままアルルの部屋で寝ちゃったんだ。",
+      "lines": [
+        353
+      ]
+    },
+    {
+      "original": "そのことに少しだけショックを受けつつ。",
+      "lines": [
+        460
+      ]
+    },
+    {
+      "original": "その姿が俺には輝いて見えた。",
+      "lines": [
+        410
+      ]
+    },
+    {
+      "original": "その姿を下から上まで眺める。",
+      "lines": [
+        492
+      ]
+    },
+    {
+      "original": "そもそもお前メスだろ。",
+      "lines": [
+        236
+      ]
+    },
+    {
+      "original": "そもそも凛ちゃんは俺たちを呼んでどうしたかったんだ……。",
+      "lines": [
+        469
+      ]
+    },
+    {
+      "original": "それとも何か暗号化されてるのか。",
+      "lines": [
+        287
+      ]
+    },
+    {
+      "original": "それにこれならアルルも……。",
+      "lines": [
+        343
+      ]
+    },
+    {
+      "original": "そんなアルルと夜を一緒にする関係になるとは思わなかった。",
+      "lines": [
+        256
+      ]
+    },
+    {
+      "original": "ただ親戚と言っても見た目はあんなのじゃなくて普通に可愛い。",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "だけどそうか……となるとアルルの体質はあんまり改善されてないのか。",
+      "lines": [
+        379
+      ]
+    },
+    {
+      "original": "だけど頑張ってくれ、これはアルルのためなんだ！",
+      "lines": [
+        213
+      ]
+    },
+    {
+      "original": "だってこの人授業休んで新作ゲーム買いに並ぶんだよ？",
+      "lines": [
+        494
+      ]
+    },
+    {
+      "original": "だとしてもアルルは渡さないがな！",
+      "lines": [
+        318
+      ]
+    },
+    {
+      "original": "ちなみにデスハムはマ族だけど人間の傍にずっといると普通のハムスターになるらしい。",
+      "lines": [
+        180
+      ]
+    },
+    {
+      "original": "ちなみに凛ちゃんに呼ばれたのは学園だったのでみんな制服だ。",
+      "lines": [
+        170
+      ]
+    },
+    {
+      "original": "ちなみに靴下はアルルのベッド（棺）の中に入ってた。",
+      "lines": [
+        413
+      ]
+    },
+    {
+      "original": "ちょっと胸が足りないけど、そこがなんとなくグッとくる。",
+      "lines": [
+        416
+      ]
+    },
+    {
+      "original": "ちょっと鼻血が出そうだ。",
+      "lines": [
+        391
+      ]
+    },
+    {
+      "original": "つまりいきなり裸にはなれない！",
+      "lines": [
+        199
+      ]
+    },
+    {
+      "original": "でもここまで来たからには仕方ない、覚悟を決めよう。",
+      "lines": [
+        342
+      ]
+    },
+    {
+      "original": "でもほんとに長い付き合いになるよなぁ。",
+      "lines": [
+        258
+      ]
+    },
+    {
+      "original": "でもデスハムの繁殖力を侮っていてあの結果……というのが今回のオチ。",
+      "lines": [
+        109
+      ]
+    },
+    {
+      "original": "でも分の悪い賭けをしたいお年頃な俺だった。",
+      "lines": [
+        497
+      ]
+    },
+    {
+      "original": "というかゴメはどうなんだろう、女の子にウケるのかな。",
+      "lines": [
+        505
+      ]
+    },
+    {
+      "original": "というかマジか……あいつって可愛いのか……。",
+      "lines": [
+        295
+      ]
+    },
+    {
+      "original": "というか健全なのを言ってなんでここまで言われないといけないんだろう……。",
+      "lines": [
+        524
+      ]
+    },
+    {
+      "original": "とにかく急いで助けに行かなきゃ。",
+      "lines": [
+        206
+      ]
+    },
+    {
+      "original": "とりあえずアルルたちに聞こえるようにスピーカーモードに変更。",
+      "lines": [
+        441
+      ]
+    },
+    {
+      "original": "とりあえず大丈夫そうだった。",
+      "lines": [
+        520
+      ]
+    },
+    {
+      "original": "とりあえず奥に引っ込んでおいてもらおう。",
+      "lines": [
+        91
+      ]
+    },
+    {
+      "original": "と止めるまもなくフルオープン。",
+      "lines": [
+        252
+      ]
+    },
+    {
+      "original": "と言ってもタマちゃんの自業自得だから仕方ないけど。",
+      "lines": [
+        104
+      ]
+    },
+    {
+      "original": "なんだ、それなら納得。",
+      "lines": [
+        523
+      ]
+    },
+    {
+      "original": "なんだろう、めんどくさいお客？",
+      "lines": [
+        493
+      ]
+    },
+    {
+      "original": "なんだ？　可愛い女の子を好きになるのには性別も種族も関係ないってか？",
+      "lines": [
+        96
+      ]
+    },
+    {
+      "original": "なんて普通に挨拶しちゃったけど。",
+      "lines": [
+        352
+      ]
+    },
+    {
+      "original": "なんでさっきの好き云々は信じてくれなくてこっちはすぐに真に受けるんだ……。",
+      "lines": [
+        320
+      ]
+    },
+    {
+      "original": "なんという便利設定！",
+      "lines": [
+        307
+      ]
+    },
+    {
+      "original": "はぁー肩が凝るわぁと首をコキコキ鳴らしながら教室を出て行く怜香さんを見送って。",
+      "lines": [
+        531
+      ]
+    },
+    {
+      "original": "ほら案の定、お母さんが『あれなにしてるのー？』って聞かれて苦笑いだ。",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "ま、まずい……。",
+      "lines": [
+        344
+      ]
+    },
+    {
+      "original": "まぁ、それはともかく。",
+      "lines": [
+        128
+      ]
+    },
+    {
+      "original": "まぁあの辺の連中が増えたのか。",
+      "lines": [
+        108
+      ]
+    },
+    {
+      "original": "まぁ最初に声かけられた時点でバレてるってわかってたけど。",
+      "lines": [
+        113
+      ]
+    },
+    {
+      "original": "むしろ今この状況が大変すぎるけども。",
+      "lines": [
+        489
+      ]
+    },
+    {
+      "original": "もうこいつが突然現れても何も思わなくなってきた。",
+      "lines": [
+        577
+      ]
+    },
+    {
+      "original": "もう我慢できない。",
+      "lines": [
+        103
+      ]
+    },
+    {
+      "original": "もしかすると俺もただ脱いだだけだと思ってるのかも。",
+      "lines": [
+        101
+      ]
+    },
+    {
+      "original": "もしくは何も反応できなくて固まるとか。",
+      "lines": [
+        392
+      ]
+    },
+    {
+      "original": "もちろんなりそうだったら絶対に止める！",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "もっと触れていたいって思う。",
+      "lines": [
+        132
+      ]
+    },
+    {
+      "original": "よし、トランクスゲット！",
+      "lines": [
+        155
+      ]
+    },
+    {
+      "original": "よし。とりあえず説得成功だ。",
+      "lines": [
+        9,
+        12,
+        14,
+        16,
+        19,
+        21,
+        26,
+        32,
+        34,
+        38,
+        40,
+        41,
+        43,
+        44,
+        50,
+        54,
+        56,
+        58,
+        80,
+        85,
+        89,
+        94,
+        110,
+        119,
+        125,
+        135,
+        140,
+        144,
+        149,
+        151,
+        153,
+        154,
+        181,
+        197,
+        207,
+        209,
+        224,
+        225,
+        227,
+        229,
+        243,
+        270,
+        297,
+        300,
+        302,
+        313,
+        315,
+        316,
+        321,
+        323,
+        325,
+        328,
+        330,
+        332,
+        335,
+        337,
+        339,
+        346,
+        348,
+        350,
+        355,
+        358,
+        360,
+        361,
+        364,
+        366,
+        373,
+        376,
+        381,
+        394,
+        397,
+        399,
+        400,
+        401,
+        403,
+        405,
+        407,
+        408,
+        429,
+        433,
+        445,
+        446,
+        450,
+        451,
+        452,
+        456,
+        457,
+        458,
+        470,
+        473,
+        475,
+        476,
+        477,
+        478,
+        499,
+        510,
+        511,
+        514,
+        521,
+        528,
+        534,
+        538,
+        540,
+        551,
+        571,
+        572,
+        576
+      ]
+    },
+    {
+      "original": "アルル"
+    },
+    {
+      "original": "アルル.stand",
+      "lines": [
+        0,
+        62,
+        565
+      ]
+    },
+    {
+      "original": "アルル、バニー化プロジェクト",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "アルルがそう言って甘えてこようとしたときだった。",
+      "lines": [
+        121
+      ]
+    },
+    {
+      "original": "アルルと揃って首を傾げる。",
+      "lines": [
+        192
+      ]
+    },
+    {
+      "original": "アルルに目線で問いかけるも『さあ？』と返ってくるだけだった。",
+      "lines": [
+        411
+      ]
+    },
+    {
+      "original": "アルルのほっそりとした足を包み込む網タイツ。",
+      "lines": [
+        516
+      ]
+    },
+    {
+      "original": "アルルの努力に涙を禁じ得ない俺だった。",
+      "lines": [
+        184
+      ]
+    },
+    {
+      "original": "アルルの申し出をありがたく受けようとするが、凛ちゃんがストップを入れる。",
+      "lines": [
+        150
+      ]
+    },
+    {
+      "original": "アルルの表情がぱっと明るくなる。",
+      "lines": [
+        542
+      ]
+    },
+    {
+      "original": "アルルも発って情しちゃったわけか。",
+      "lines": [
+        230
+      ]
+    },
+    {
+      "original": "ウキウキしているアルルと一緒に部屋に戻ろうとする。",
+      "lines": [
+        92
+      ]
+    },
+    {
+      "original": "ガチャ。"
+    },
+    {
+      "original": "ケルベロス.stand",
+      "lines": [
+        487,
+        490,
+        495,
+        506,
+        512
+      ]
+    },
+    {
+      "original": "ゴメ"
+    },
+    {
+      "original": "ゴメ.stand",
+      "lines": [
+        498
+      ]
+    },
+    {
+      "original": "ゴメはペタンペタンとヒレを鳴らなしながら歩み（？）寄っていく。",
+      "lines": [
+        296
+      ]
+    },
+    {
+      "original": "サキュバスらしいと言えばサキュバスらしいのかも知れないけど。",
+      "lines": [
+        231
+      ]
+    },
+    {
+      "original": "スピーカーからは、まだタマちゃんの声が聞こえてきていた。",
+      "lines": [
+        194,
+        201,
+        202,
+        204,
+        208,
+        210,
+        211,
+        216,
+        219,
+        221,
+        232,
+        241,
+        242,
+        248,
+        250,
+        261,
+        263
+      ]
+    },
+    {
+      "original": "タマ"
+    },
+    {
+      "original": "タマ.stand",
+      "lines": [
+        217
+      ]
+    },
+    {
+      "original": "タマちゃんが何かを言おうとした時、スピーカーの向こうからゾワゾワゾワゾワと。",
+      "lines": [
+        264
+      ]
+    },
+    {
+      "original": "タマちゃんって確か竜のマ族なんだよね？",
+      "lines": [
+        244
+      ]
+    },
+    {
+      "original": "タマちゃんの一言（というか叫び声）にアルルが反応する。",
+      "lines": [
+        255
+      ]
+    },
+    {
+      "original": "タマちゃんや凛ちゃんが『デスデス』と言ってたのはデスハムスターのこと。",
+      "lines": [
+        453
+      ]
+    },
+    {
+      "original": "チラっと上目遣いで見てくる。",
+      "lines": [
+        527
+      ]
+    },
+    {
+      "original": "デスハムが交尾を始めていた。",
+      "lines": [
+        191
+      ]
+    },
+    {
+      "original": "トイレに居る人に電話して実況してもらうってどんな状況？",
+      "lines": [
+        434
+      ]
+    },
+    {
+      "original": "トコトコトコ。",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "ドンドンドン！",
+      "lines": [
+        515
+      ]
+    },
+    {
+      "original": "ナイスフォロー、ナイスガッツアルル！",
+      "lines": [
+        430
+      ]
+    },
+    {
+      "original": "バタバタバタバタ！",
+      "lines": [
+        177
+      ]
+    },
+    {
+      "original": "バレた後が怖すぎる。",
+      "lines": [
+        461
+      ]
+    },
+    {
+      "original": "ピークを過ぎると少しずつ店内が落ち着き始めた。",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "ベッドの中で小さな拳を作ってガッツポーズ。",
+      "lines": [
+        377
+      ]
+    },
+    {
+      "original": "ペコリと頭を下げて奥へ歩いて行くアルルの背中を見守る。",
+      "lines": [
+        485
+      ]
+    },
+    {
+      "original": "ポチ",
+      "lines": [
+        486
+      ]
+    },
+    {
+      "original": "ポチは尻尾を全力で振っていた。",
+      "lines": [
+        222
+      ]
+    },
+    {
+      "original": "モリモリモリモリ！"
+    },
+    {
+      "original": "ラベル0"
+    },
+    {
+      "original": "ラベル1",
+      "lines": [
+        311
+      ]
+    },
+    {
+      "original": "上手く出来たらアルルの体質も改善できるかもしれないし。",
+      "lines": [
+        388
+      ]
+    },
+    {
+      "original": "人前で服を着ることを苦手とするアルル。",
+      "lines": [
+        265
+      ]
+    },
+    {
+      "original": "今の姿を見ると縮こまってるトカゲなんだけど。",
+      "lines": [
+        319
+      ]
+    },
+    {
+      "original": "今回の企画のまとめを説明すると怜香さんがそう教えてくれた。"
+    },
+    {
+      "original": "体",
+      "lines": [
+        122
+      ]
+    },
+    {
+      "original": "何が起こってるのかまったく分からない。",
+      "lines": [
+        560
+      ]
+    },
+    {
+      "original": "何はともあれ感謝！",
+      "lines": [
+        575
+      ]
+    },
+    {
+      "original": "俺が背中を撫でるたびびくんと声を漏らして。",
+      "lines": [
+        340
+      ]
+    },
+    {
+      "original": "俺が言ったことは冗談じゃないんだけど。",
+      "lines": [
+        168
+      ]
+    },
+    {
+      "original": "俺だって鼻がいいからって人の靴下探すとか嫌だし。",
+      "lines": [
+        98
+      ]
+    },
+    {
+      "original": "俺とアルル全裸なんですけど？（俺は布団かぶってるから９割裸くらい）",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "俺にじゃれつきながら、そんなことを言う。",
+      "lines": [
+        117
+      ]
+    },
+    {
+      "original": "俺の中の独占欲が暴れまくってるから！",
+      "lines": [
+        454
+      ]
+    },
+    {
+      "original": "俺はそれを微笑んで受け止め、頭を撫でながら。",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "俺もそうだ。",
+      "lines": [
+        426
+      ]
+    },
+    {
+      "original": "俺も自分の仕事をしないと。",
+      "lines": [
+        396
+      ]
+    },
+    {
+      "original": "健康的な褐色肌にここまで映えるとは思わなかった。"
+    },
+    {
+      "original": "側面手上"
+    },
+    {
+      "original": "側面手下"
+    },
+    {
+      "original": "側面手中",
+      "lines": [
+        462
+      ]
+    },
+    {
+      "original": "冷たい飲み物を求めて来ていた客も次のお店に向かって行く。",
+      "lines": [
+        79,
+        84,
+        86,
+        88,
+        93,
+        105,
+        111,
+        118,
+        126,
+        133,
+        134,
+        139,
+        141,
+        158,
+        160,
+        162,
+        166,
+        173,
+        175,
+        183,
+        186,
+        187,
+        189,
+        214,
+        215,
+        237,
+        239,
+        245,
+        382,
+        418,
+        423,
+        436,
+        439,
+        442,
+        544,
+        547,
+        550,
+        552,
+        553,
+        555,
+        556,
+        557
+      ]
+    },
+    {
+      "original": "凛"
+    },
+    {
+      "original": "凛.stand",
+      "lines": [
+        246
+      ]
+    },
+    {
+      "original": "凛ちゃんが制止した瞬間、扉から彼らが溢れだしてきた。",
+      "lines": [
+        419
+      ]
+    },
+    {
+      "original": "凛ちゃんが接客しつつ俺に抗議してくる。",
+      "lines": [
+        437
+      ]
+    },
+    {
+      "original": "凛ちゃんが料理を持ったまま盛大にすっ転ぶ。",
+      "lines": [
+        169
+      ]
+    },
+    {
+      "original": "凛ちゃんの大変な案件へと向かう前に俺は俺で靴下探索に難航した。",
+      "lines": [
+        554
+      ]
+    },
+    {
+      "original": "凛ちゃんは鼻をひくひくさせたあと、神妙に頷いた。",
+      "lines": [
+        147
+      ]
+    },
+    {
+      "original": "凛ちゃんも急ぎの用っぽいしここでアルルを説得する時間も勿体ないので。"
+    },
+    {
+      "original": "制服"
+    },
+    {
+      "original": "制服有",
+      "lines": [
+        254
+      ]
+    },
+    {
+      "original": "前に騒動になったデビルモルモットの親戚。"
+    },
+    {
+      "original": "口３:目Ａ１",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "可愛いだけじゃなく強さまで手に入れてしまったご様子だ。",
+      "lines": [
+        537
+      ]
+    },
+    {
+      "original": "呼吸も浅く短く、熱っぽい。",
+      "lines": [
+        129
+      ]
+    },
+    {
+      "original": "増えるっていうのも意味分からないけど、まぁマ族だしそういうこともある、よな。",
+      "lines": [
+        384
+      ]
+    },
+    {
+      "original": "夏祭りが始まり、それに合わせて開店するとなかなかの盛況っぷり。",
+      "lines": [
+        280
+      ]
+    },
+    {
+      "original": "大変だなぁ、学園長は。",
+      "lines": [
+        234
+      ]
+    },
+    {
+      "original": "大変だなぁ。タマちゃんみたいな教師でもストレスたまるのかなぁ。",
+      "lines": [
+        428,
+        464,
+        467,
+        479,
+        501,
+        507
+      ]
+    },
+    {
+      "original": "女性客Ａ",
+      "lines": [
+        432,
+        465,
+        472,
+        500,
+        508
+      ]
+    },
+    {
+      "original": "女性客Ｂ",
+      "lines": [
+        466,
+        482,
+        484,
+        502,
+        513
+      ]
+    },
+    {
+      "original": "女性客Ｃ",
+      "lines": [
+        574
+      ]
+    },
+    {
+      "original": "媚びたような声を出しながら火照った身体を俺に擦りつけてくる。",
+      "lines": [
+        431
+      ]
+    },
+    {
+      "original": "小さい体を必死に動かして走って行く。",
+      "lines": [
+        530
+      ]
+    },
+    {
+      "original": "小さい子も居るってのに……。",
+      "lines": [
+        370
+      ]
+    },
+    {
+      "original": "少しだけ、ほんと少しだけ興奮してしまった。",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "少し恥ずかしいので言葉を濁しながら。",
+      "lines": [
+        435
+      ]
+    },
+    {
+      "original": "左へ行ったり右へ行ったりの大忙しだ。",
+      "lines": [
+        356
+      ]
+    },
+    {
+      "original": "怖い……アルルの目が笑ってない……。",
+      "lines": [
+        247,
+        249,
+        260,
+        262,
+        266,
+        267,
+        269,
+        271,
+        272,
+        274,
+        276,
+        278,
+        290,
+        293,
+        303,
+        305
+      ]
+    },
+    {
+      "original": "怜香"
+    },
+    {
+      "original": "怜香.stand",
+      "lines": [
+        281
+      ]
+    },
+    {
+      "original": "怜香さんにはお世話になってるしなんとか力になりたい。",
+      "lines": [
+        251
+      ]
+    },
+    {
+      "original": "怜香さん超こぇ……。",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "慌ててアルルが飛び起きる。",
+      "lines": [
+        253
+      ]
+    },
+    {
+      "original": "扉から出て来た彼ら、デスハムことデスハムスター。"
+    },
+    {
+      "original": "手上"
+    },
+    {
+      "original": "手下",
+      "lines": [
+        200
+      ]
+    },
+    {
+      "original": "携帯を取り出してタマちゃんの番号をアドレス帳から呼び出す。"
+    },
+    {
+      "original": "斜右上",
+      "lines": [
+        409
+      ]
+    },
+    {
+      "original": "新しいお客さんが来たのを見てアルルが接客に戻る。",
+      "lines": [
+        114
+      ]
+    },
+    {
+      "original": "明日……いや、今日にはどんな噂になってるか。",
+      "lines": [
+        235
+      ]
+    },
+    {
+      "original": "明日から優しくしてあげたほうがいいのかな。",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "昨日したばっかりだし……。",
+      "lines": [
+        8
+      ]
+    },
+    {
+      "original": "暖かな日差しと、それと同じくらいの温もり。",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "朝の雰囲気をぶち壊しにするドアの音が鳴り響いた。",
+      "lines": [
+        137
+      ]
+    },
+    {
+      "original": "梨々愛たちもそうだけどどういう仕組みで出したり引っ込めたり出来るんだろう。",
+      "lines": [
+        198
+      ]
+    },
+    {
+      "original": "正直イヤな予感ぷんぷんで今すぐ逃げたい。"
+    },
+    {
+      "original": "正面"
+    },
+    {
+      "original": "正面手上"
+    },
+    {
+      "original": "正面手下"
+    },
+    {
+      "original": "正面手中"
+    },
+    {
+      "original": "正面１",
+      "lines": [
+        503
+      ]
+    },
+    {
+      "original": "残念惜しい。",
+      "lines": [
+        536
+      ]
+    },
+    {
+      "original": "気がつけばアルルの頬が上気していた。",
+      "lines": [
+        459
+      ]
+    },
+    {
+      "original": "汗をかきながらもアルルは一生懸命にウェイトレスの仕事をする。"
+    },
+    {
+      "original": "消",
+      "lines": [
+        178
+      ]
+    },
+    {
+      "original": "特に梨々愛と咲。",
+      "lines": [
+        7
+      ]
+    },
+    {
+      "original": "甘いまどろみの中で、誰かの視線を感じる。",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "目の前には裸のアルルがいるし……。",
+      "lines": [
+        336
+      ]
+    },
+    {
+      "original": "目をキラキラ……とさせたあと、すぐにジト目になる。"
+    },
+    {
+      "original": "目３:口無"
+    },
+    {
+      "original": "目Ａ１:口無"
+    },
+    {
+      "original": "目Ａ２:口無"
+    },
+    {
+      "original": "目Ａ３:口無"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ怒:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ怒:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ驚:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ笑:目ギャグ笑:口ギャグ笑:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目閉:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目閉:口笑１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒２:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口驚１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ悲１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口ギャグ笑:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒２:目閉:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目閉:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目閉:口泣１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉悲１:目閉:口照２:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口泣１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口悲１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口泣１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口驚１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉悲２:目悲２:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目Ａ驚１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉照１:目笑２:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉照１:目Ａ照１:口笑１:汗照１::頬１"
+    },
+    {
+      "original": "眉照２:目閉:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉照２:目閉:口照２:汗無::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ怒２:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ照２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉照２:目Ａ照２:口照２:汗無::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ笑１:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ笑１:口照２:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目閉:口悲１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑１:目閉:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目閉:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口怒１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口悲１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口照２:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑２:目笑２:口ギャグ笑:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑２:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑２:目閉:口ギャグ笑:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑２:目閉:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ照２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ笑１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲１:汗無::頬１:漫符有"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲２:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口照２:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬２",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "確かにこの甘々な感じは恥ずかしいけども。"
+    },
+    {
+      "original": "私服"
+    },
+    {
+      "original": "私服有"
+    },
+    {
+      "original": "私服裸",
+      "lines": [
+        195
+      ]
+    },
+    {
+      "original": "絶叫が中から聞こえてきた。",
+      "lines": [
+        193
+      ]
+    },
+    {
+      "original": "考え込んでも仕方ない。とりあえずタマちゃんに電話を。",
+      "lines": [
+        10
+      ]
+    },
+    {
+      "original": "耳元で誰かが『くすり』と笑った気がした。",
+      "lines": [
+        205
+      ]
+    },
+    {
+      "original": "自分の受け持ちの学生に舌打ちしましたよこの不良債権教師。あ、平常運転か。",
+      "lines": [
+        6,
+        13,
+        15,
+        17,
+        20,
+        22,
+        27,
+        28,
+        35,
+        39,
+        42,
+        45,
+        49,
+        51,
+        55,
+        57,
+        77,
+        90,
+        95,
+        106,
+        112,
+        115,
+        120,
+        124,
+        127,
+        136,
+        142,
+        143,
+        145,
+        148,
+        159,
+        161,
+        163,
+        164,
+        165,
+        167,
+        172,
+        174,
+        176,
+        182,
+        185,
+        188,
+        190,
+        196,
+        203,
+        212,
+        220,
+        226,
+        228,
+        238,
+        240,
+        268,
+        273,
+        275,
+        277,
+        284,
+        288,
+        289,
+        291,
+        292,
+        294,
+        298,
+        299,
+        301,
+        304,
+        306,
+        308,
+        309,
+        314,
+        322,
+        326,
+        327,
+        329,
+        331,
+        333,
+        334,
+        338,
+        345,
+        347,
+        349,
+        351,
+        354,
+        357,
+        359,
+        362,
+        363,
+        365,
+        367,
+        368,
+        369,
+        372,
+        374,
+        375,
+        383,
+        386,
+        395,
+        398,
+        402,
+        404,
+        406,
+        415,
+        420,
+        421,
+        422,
+        438,
+        440,
+        443,
+        447,
+        449,
+        455,
+        483,
+        488,
+        491,
+        496,
+        517,
+        522,
+        526,
+        529,
+        532,
+        533,
+        535,
+        539,
+        541,
+        543,
+        545,
+        546,
+        548,
+        549,
+        573
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        427
+      ]
+    },
+    {
+      "original": "裏方に回りつつアルルを見守る。",
+      "lines": [
+        257
+      ]
+    },
+    {
+      "original": "話によると夏休みの商店街のお祭りに景品として出そうとして育てようとしたんだけど。"
+    },
+    {
+      "original": "近距離",
+      "lines": [
+        444
+      ]
+    },
+    {
+      "original": "鉄腕アルバイターの凛ちゃんがミスするくらいの盛況具合だった。",
+      "lines": [
+        146
+      ]
+    },
+    {
+      "original": "露骨に残念そうな顔をしてこの子はほんと。",
+      "lines": [
+        286
+      ]
+    },
+    {
+      "original": "頭の中でピーンと閃くものがあった。",
+      "lines": [
+        371
+      ]
+    },
+    {
+      "original": "頭を落ち着かせながら出店の奥を指す。",
+      "lines": [
+        448
+      ]
+    },
+    {
+      "original": "額に汗をかきながらアルルがやってくる。"
+    },
+    {
+      "original": "顔"
+    },
+    {
+      "original": "首輪有",
+      "lines": [
+        559
+      ]
+    },
+    {
+      "original": "鼻を鳴らしてたみたいだし匂いでわかったのかな？　フェロモンとか。"
+    }
+  ],
+  "name": 181,
+  "lines": [
+    {
+      "type": 3,
+      "title": 808
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 1021,
+      "type": 2
+    },
+    {
+      "name": 806,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 11,
+      "type": 6
+    },
+    {
+      "name": 1021,
+      "text": 685,
+      "type": 1
+    },
+    {
+      "text": 924,
+      "type": 0
+    },
+    {
+      "text": 910,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 370,
+      "type": 1
+    },
+    {
+      "text": 1019,
+      "type": 0
+    },
+    {
+      "text": 738,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 451,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 381,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 555,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 372,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 462,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 583,
+      "type": 1
+    },
+    {
+      "text": 752,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 665,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 392,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 656,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 371,
+      "type": 1
+    },
+    {
+      "text": 893,
+      "type": 0
+    },
+    {
+      "text": 741,
+      "type": 0
+    },
+    {
+      "text": 362,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 553,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 420,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 374,
+      "type": 1
+    },
+    {
+      "text": 909,
+      "type": 0
+    },
+    {
+      "text": 925,
+      "type": 0
+    },
+    {
+      "text": 358,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 641,
+      "type": 1
+    },
+    {
+      "text": 840,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 671,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 579,
+      "type": 1
+    },
+    {
+      "text": 762,
+      "type": 0
+    },
+    {
+      "text": 711,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 522,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 679,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 544,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 616,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 430,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 650,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 511,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 395,
+      "type": 1
+    },
+    {
+      "text": 861,
+      "type": 0
+    },
+    {
+      "text": 1013,
+      "type": 0
+    },
+    {
+      "text": 803,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 471,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 472,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 515,
+      "type": 1
+    },
+    {
+      "text": 858,
+      "type": 0
+    },
+    {
+      "text": 880,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 551,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 619,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 603,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 506,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 520,
+      "type": 1
+    },
+    {
+      "text": 809,
+      "type": 0
+    },
+    {
+      "storage": 181,
+      "label": 6,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 808
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 1021,
+      "type": 2
+    },
+    {
+      "name": 868,
+      "type": 2
+    },
+    {
+      "name": 806,
+      "type": 2
+    },
+    {
+      "name": 825,
+      "type": 2
+    },
+    {
+      "name": 896,
+      "type": 2
+    },
+    {
+      "name": 886,
+      "type": 2
+    },
+    {
+      "name": 887,
+      "type": 2
+    },
+    {
+      "name": 888,
+      "type": 2
+    },
+    {
+      "name": 842,
+      "type": 2
+    },
+    {
+      "name": 820,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 6,
+      "type": 6
+    },
+    {
+      "text": 835,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 428,
+      "type": 1
+    },
+    {
+      "text": 911,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 698,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 580,
+      "type": 1
+    },
+    {
+      "text": 900,
+      "type": 0
+    },
+    {
+      "text": 793,
+      "type": 0
+    },
+    {
+      "text": 733,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 703,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 439,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 702,
+      "type": 1
+    },
+    {
+      "text": 712,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 697,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 425,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 578,
+      "type": 1
+    },
+    {
+      "text": 783,
+      "type": 0
+    },
+    {
+      "text": 818,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 452,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 453,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 450,
+      "type": 1
+    },
+    {
+      "text": 788,
+      "type": 0
+    },
+    {
+      "text": 717,
+      "type": 0
+    },
+    {
+      "text": 857,
+      "type": 0
+    },
+    {
+      "text": 726,
+      "type": 0
+    },
+    {
+      "text": 699,
+      "type": 0
+    },
+    {
+      "text": 801,
+      "type": 0
+    },
+    {
+      "text": 704,
+      "type": 0
+    },
+    {
+      "text": 800,
+      "type": 0
+    },
+    {
+      "text": 785,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 476,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 606,
+      "type": 1
+    },
+    {
+      "text": 730,
+      "type": 0
+    },
+    {
+      "text": 796,
+      "type": 0
+    },
+    {
+      "text": 775,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 499,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 390,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 643,
+      "type": 1
+    },
+    {
+      "text": 797,
+      "type": 0
+    },
+    {
+      "text": 907,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 530,
+      "type": 1
+    },
+    {
+      "text": 706,
+      "type": 0
+    },
+    {
+      "text": 859,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 445,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 592,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 517,
+      "type": 1
+    },
+    {
+      "text": 810,
+      "type": 0
+    },
+    {
+      "text": 852,
+      "type": 0
+    },
+    {
+      "text": 749,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 479,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 409,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 653,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 652,
+      "type": 1
+    },
+    {
+      "text": 795,
+      "type": 0
+    },
+    {
+      "text": 882,
+      "type": 0
+    },
+    {
+      "text": 736,
+      "type": 0
+    },
+    {
+      "text": 365,
+      "type": 0
+    },
+    {
+      "text": 804,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 516,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 593,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 633,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 666,
+      "type": 1
+    },
+    {
+      "text": 912,
+      "type": 0
+    },
+    {
+      "text": 716,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 528,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 424,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 601,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 634,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 496,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 442,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 443,
+      "type": 1
+    },
+    {
+      "text": 1026,
+      "type": 0
+    },
+    {
+      "text": 875,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 635,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 674,
+      "type": 1
+    },
+    {
+      "text": 815,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 481,
+      "type": 1
+    },
+    {
+      "text": 744,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 438,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 686,
+      "type": 1
+    },
+    {
+      "text": 805,
+      "type": 0
+    },
+    {
+      "text": 737,
+      "type": 0
+    },
+    {
+      "text": 751,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 483,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 375,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 596,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 576,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 384,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 385,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 509,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 615,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 503,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 572,
+      "type": 1
+    },
+    {
+      "text": 856,
+      "type": 0
+    },
+    {
+      "text": 873,
+      "type": 0
+    },
+    {
+      "text": 768,
+      "type": 0
+    },
+    {
+      "text": 724,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 526,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 411,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 383,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 600,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 492,
+      "type": 1
+    },
+    {
+      "text": 838,
+      "type": 0
+    },
+    {
+      "text": 923,
+      "type": 0
+    },
+    {
+      "text": 707,
+      "type": 0
+    },
+    {
+      "text": 767,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 527,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 681,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 646,
+      "type": 1
+    },
+    {
+      "text": 814,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 538,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 617,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 599,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 669,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 497,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 682,
+      "type": 1
+    },
+    {
+      "text": 833,
+      "type": 0
+    },
+    {
+      "text": 811,
+      "type": 0
+    },
+    {
+      "text": 1018,
+      "type": 0
+    },
+    {
+      "name": 825,
+      "text": 461,
+      "type": 1
+    },
+    {
+      "text": 1017,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 537,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 386,
+      "type": 1
+    },
+    {
+      "text": 913,
+      "type": 0
+    },
+    {
+      "text": 772,
+      "type": 0
+    },
+    {
+      "text": 904,
+      "type": 0
+    },
+    {
+      "name": 825,
+      "text": 696,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 701,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 618,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 700,
+      "type": 1
+    },
+    {
+      "text": 1020,
+      "type": 0
+    },
+    {
+      "text": 780,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 405,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 693,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 556,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 694,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 692,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 602,
+      "type": 1
+    },
+    {
+      "text": 764,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 489,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 525,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 689,
+      "type": 1
+    },
+    {
+      "text": 827,
+      "type": 0
+    },
+    {
+      "text": 709,
+      "type": 0
+    },
+    {
+      "name": 825,
+      "text": 695,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 382,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 688,
+      "type": 1
+    },
+    {
+      "text": 844,
+      "type": 0
+    },
+    {
+      "text": 714,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 406,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 670,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 640,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 456,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 494,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 491,
+      "type": 1
+    },
+    {
+      "text": 817,
+      "type": 0
+    },
+    {
+      "text": 824,
+      "type": 0
+    },
+    {
+      "name": 825,
+      "text": 687,
+      "type": 1
+    },
+    {
+      "text": 367,
+      "type": 0
+    },
+    {
+      "text": 885,
+      "type": 0
+    },
+    {
+      "text": 908,
+      "type": 0
+    },
+    {
+      "text": 757,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 407,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 495,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 422,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 604,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 690,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 691,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 608,
+      "type": 1
+    },
+    {
+      "text": 829,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 648,
+      "type": 1
+    },
+    {
+      "text": 870,
+      "type": 0
+    },
+    {
+      "name": 896,
+      "text": 474,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 444,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 563,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 414,
+      "type": 1
+    },
+    {
+      "text": 899,
+      "type": 0
+    },
+    {
+      "text": 784,
+      "type": 0
+    },
+    {
+      "text": 901,
+      "type": 0
+    },
+    {
+      "text": 878,
+      "type": 0
+    },
+    {
+      "text": 830,
+      "type": 0
+    },
+    {
+      "text": 761,
+      "type": 0
+    },
+    {
+      "text": 1023,
+      "type": 0
+    },
+    {
+      "text": 774,
+      "type": 0
+    },
+    {
+      "text": 364,
+      "type": 0
+    },
+    {
+      "name": 896,
+      "text": 575,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 673,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 376,
+      "type": 1
+    },
+    {
+      "name": 825,
+      "text": 564,
+      "type": 1
+    },
+    {
+      "text": 828,
+      "type": 0
+    },
+    {
+      "text": 849,
+      "type": 0
+    },
+    {
+      "name": 896,
+      "text": 549,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 508,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 623,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 396,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 415,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 590,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 501,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 534,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 429,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 668,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 498,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 567,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 394,
+      "type": 1
+    },
+    {
+      "text": 710,
+      "type": 0
+    },
+    {
+      "text": 884,
+      "type": 0
+    },
+    {
+      "text": 898,
+      "type": 0
+    },
+    {
+      "text": 363,
+      "type": 0
+    },
+    {
+      "text": 715,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 379,
+      "type": 1
+    },
+    {
+      "text": 366,
+      "type": 0
+    },
+    {
+      "text": 1027,
+      "type": 0
+    },
+    {
+      "text": 759,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 546,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 625,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 502,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 540,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 657,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 630,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 441,
+      "type": 1
+    },
+    {
+      "text": 778,
+      "type": 0
+    },
+    {
+      "text": 823,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 622,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 393,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 404,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 672,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 536,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 557,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 651,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 418,
+      "type": 1
+    },
+    {
+      "name": 896,
+      "text": 621,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 614,
+      "type": 1
+    },
+    {
+      "text": 791,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 435,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 573,
+      "type": 1
+    },
+    {
+      "text": 732,
+      "type": 0
+    },
+    {
+      "text": 847,
+      "type": 0
+    },
+    {
+      "text": 742,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 552,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 645,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 566,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 663,
+      "type": 1
+    },
+    {
+      "text": 728,
+      "type": 0
+    },
+    {
+      "text": 766,
+      "type": 0
+    },
+    {
+      "text": 850,
+      "type": 0
+    },
+    {
+      "text": 790,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 475,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 661,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 519,
+      "type": 1
+    },
+    {
+      "text": 722,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 391,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 571,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 524,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 408,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 523,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 510,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 504,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 398,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 521,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 626,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 674,
+      "type": 1
+    },
+    {
+      "text": 926,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 662,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 609,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 463,
+      "type": 1
+    },
+    {
+      "text": 855,
+      "type": 0
+    },
+    {
+      "text": 369,
+      "type": 0
+    },
+    {
+      "text": 773,
+      "type": 0
+    },
+    {
+      "text": 760,
+      "type": 0
+    },
+    {
+      "text": 794,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 477,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 559,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 432,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 539,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 505,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 533,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 423,
+      "type": 1
+    },
+    {
+      "text": 789,
+      "type": 0
+    },
+    {
+      "text": 753,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 589,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 402,
+      "type": 1
+    },
+    {
+      "text": 895,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 587,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 541,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 597,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 378,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 446,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 535,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 488,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 560,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 485,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 417,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 659,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 591,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 421,
+      "type": 1
+    },
+    {
+      "text": 892,
+      "type": 0
+    },
+    {
+      "text": 1028,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 644,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 636,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 507,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 629,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 637,
+      "type": 1
+    },
+    {
+      "text": 841,
+      "type": 0
+    },
+    {
+      "text": 708,
+      "type": 0
+    },
+    {
+      "text": 763,
+      "type": 0
+    },
+    {
+      "text": 735,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 416,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 478,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 449,
+      "type": 1
+    },
+    {
+      "text": 883,
+      "type": 0
+    },
+    {
+      "text": 747,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 380,
+      "type": 1
+    },
+    {
+      "text": 727,
+      "type": 0
+    },
+    {
+      "text": 848,
+      "type": 0
+    },
+    {
+      "text": 745,
+      "type": 0
+    },
+    {
+      "text": 729,
+      "type": 0
+    },
+    {
+      "text": 771,
+      "type": 0
+    },
+    {
+      "text": 802,
+      "type": 0
+    },
+    {
+      "text": 721,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 399,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 419,
+      "type": 1
+    },
+    {
+      "text": 863,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 660,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 433,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 437,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 658,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 667,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 586,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 512,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 514,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 647,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 543,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 675,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 387,
+      "type": 1
+    },
+    {
+      "text": 906,
+      "type": 0
+    },
+    {
+      "text": 755,
+      "type": 0
+    },
+    {
+      "text": 812,
+      "type": 0
+    },
+    {
+      "text": 723,
+      "type": 0
+    },
+    {
+      "text": 769,
+      "type": 0
+    },
+    {
+      "text": 746,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 683,
+      "type": 1
+    },
+    {
+      "text": 770,
+      "type": 0
+    },
+    {
+      "text": 361,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 598,
+      "type": 1
+    },
+    {
+      "text": 871,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 574,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 500,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 654,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 542,
+      "type": 1
+    },
+    {
+      "text": 725,
+      "type": 0
+    },
+    {
+      "text": 734,
+      "type": 0
+    },
+    {
+      "text": 862,
+      "type": 0
+    },
+    {
+      "text": 1022,
+      "type": 0
+    },
+    {
+      "name": 886,
+      "text": 487,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 401,
+      "type": 1
+    },
+    {
+      "text": 837,
+      "type": 0
+    },
+    {
+      "text": 890,
+      "type": 0
+    },
+    {
+      "name": 887,
+      "text": 466,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 548,
+      "type": 1
+    },
+    {
+      "text": 834,
+      "type": 0
+    },
+    {
+      "text": 894,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 454,
+      "type": 1
+    },
+    {
+      "text": 872,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 642,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 678,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 631,
+      "type": 1
+    },
+    {
+      "text": 781,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 427,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 624,
+      "type": 1
+    },
+    {
+      "text": 1025,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 561,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 677,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 397,
+      "type": 1
+    },
+    {
+      "text": 1029,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 459,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 440,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 465,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 373,
+      "type": 1
+    },
+    {
+      "text": 831,
+      "type": 0
+    },
+    {
+      "text": 860,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 628,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 436,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 400,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 594,
+      "type": 1
+    },
+    {
+      "text": 921,
+      "type": 0
+    },
+    {
+      "text": 754,
+      "type": 0
+    },
+    {
+      "text": 839,
+      "type": 0
+    },
+    {
+      "text": 867,
+      "type": 0
+    },
+    {
+      "text": 740,
+      "type": 0
+    },
+    {
+      "name": 886,
+      "text": 460,
+      "type": 1
+    },
+    {
+      "name": 887,
+      "text": 469,
+      "type": 1
+    },
+    {
+      "name": 888,
+      "text": 484,
+      "type": 1
+    },
+    {
+      "name": 886,
+      "text": 547,
+      "type": 1
+    },
+    {
+      "text": 357,
+      "type": 0
+    },
+    {
+      "text": 758,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 664,
+      "type": 1
+    },
+    {
+      "text": 720,
+      "type": 0
+    },
+    {
+      "name": 887,
+      "text": 431,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 610,
+      "type": 1
+    },
+    {
+      "text": 719,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 468,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 612,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 455,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 403,
+      "type": 1
+    },
+    {
+      "name": 886,
+      "text": 568,
+      "type": 1
+    },
+    {
+      "text": 739,
+      "type": 0
+    },
+    {
+      "text": 360,
+      "type": 0
+    },
+    {
+      "name": 888,
+      "text": 582,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 486,
+      "type": 1
+    },
+    {
+      "name": 888,
+      "text": 388,
+      "type": 1
+    },
+    {
+      "name": 842,
+      "text": 607,
+      "type": 1
+    },
+    {
+      "text": 843,
+      "type": 0
+    },
+    {
+      "name": 820,
+      "text": 638,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 595,
+      "type": 1
+    },
+    {
+      "text": 798,
+      "type": 0
+    },
+    {
+      "name": 820,
+      "text": 458,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 513,
+      "type": 1
+    },
+    {
+      "text": 756,
+      "type": 0
+    },
+    {
+      "text": 787,
+      "type": 0
+    },
+    {
+      "text": 765,
+      "type": 0
+    },
+    {
+      "name": 820,
+      "text": 655,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 649,
+      "type": 1
+    },
+    {
+      "text": 776,
+      "type": 0
+    },
+    {
+      "text": 822,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 389,
+      "type": 1
+    },
+    {
+      "name": 887,
+      "text": 611,
+      "type": 1
+    },
+    {
+      "name": 886,
+      "text": 473,
+      "type": 1
+    },
+    {
+      "name": 888,
+      "text": 570,
+      "type": 1
+    },
+    {
+      "text": 919,
+      "type": 0
+    },
+    {
+      "text": 359,
+      "type": 0
+    },
+    {
+      "text": 777,
+      "type": 0
+    },
+    {
+      "name": 820,
+      "text": 639,
+      "type": 1
+    },
+    {
+      "name": 886,
+      "text": 412,
+      "type": 1
+    },
+    {
+      "name": 887,
+      "text": 448,
+      "type": 1
+    },
+    {
+      "text": 718,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 470,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 545,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 565,
+      "type": 1
+    },
+    {
+      "name": 888,
+      "text": 569,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 493,
+      "type": 1
+    },
+    {
+      "text": 836,
+      "type": 0
+    },
+    {
+      "text": 813,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 558,
+      "type": 1
+    },
+    {
+      "text": 731,
+      "type": 0
+    },
+    {
+      "text": 713,
+      "type": 0
+    },
+    {
+      "text": 782,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 581,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 584,
+      "type": 1
+    },
+    {
+      "text": 786,
+      "type": 0
+    },
+    {
+      "text": 779,
+      "type": 0
+    },
+    {
+      "text": 750,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 684,
+      "type": 1
+    },
+    {
+      "text": 832,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 532,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 680,
+      "type": 1
+    },
+    {
+      "text": 891,
+      "type": 0
+    },
+    {
+      "text": 792,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 467,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 529,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 490,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 585,
+      "type": 1
+    },
+    {
+      "text": 920,
+      "type": 0
+    },
+    {
+      "text": 881,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 480,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 577,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 554,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 413,
+      "type": 1
+    },
+    {
+      "text": 816,
+      "type": 0
+    },
+    {
+      "name": 1021,
+      "text": 632,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 562,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 531,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 605,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 613,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 410,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 627,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 434,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 426,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 464,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 377,
+      "type": 1
+    },
+    {
+      "text": 874,
+      "type": 0
+    },
+    {
+      "name": 868,
+      "text": 620,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 518,
+      "type": 1
+    },
+    {
+      "name": 868,
+      "text": 482,
+      "type": 1
+    },
+    {
+      "text": 368,
+      "type": 0
+    },
+    {
+      "text": 1032,
+      "type": 0
+    },
+    {
+      "text": 853,
+      "type": 0
+    },
+    {
+      "text": 705,
+      "type": 0
+    },
+    {
+      "text": 748,
+      "type": 0
+    },
+    {
+      "storage": 181,
+      "label": 7,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 808
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 806,
+      "type": 2
+    },
+    {
+      "name": 1021,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 7,
+      "type": 6
+    },
+    {
+      "name": 806,
+      "text": 550,
+      "type": 1
+    },
+    {
+      "name": 806,
+      "text": 457,
+      "type": 1
+    },
+    {
+      "name": 1021,
+      "text": 588,
+      "type": 1
+    },
+    {
+      "text": 889,
+      "type": 0
+    },
+    {
+      "text": 854,
+      "type": 0
+    },
+    {
+      "name": 806,
+      "text": 676,
+      "type": 1
+    },
+    {
+      "text": 799,
+      "type": 0
+    },
+    {
+      "text": 743,
+      "type": 0
+    },
+    {
+      "storage": 182,
+      "label": 12,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "6": 75,
+    "7": 570,
+    "11": 5
+  }
+}

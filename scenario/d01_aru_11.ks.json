@@ -1,1 +1,7515 @@
-{"names":[832,964],"strings":[{"original":"*dummy1"},{"original":"*end"},{"original":"*endscene_h"},{"original":"*gameend_scnsel"},{"original":"*start"},{"original":"*start2"},{"original":"*startscene_h"},{"original":"1"},{"original":"100"},{"original":"1000"},{"original":"250"},{"original":"3000"},{"original":"50"},{"original":"500"},{"original":"64a23354dff550ff764c7fd1f93ae88d"},{"original":"900"},{"original":"@発射カウント_1"},{"original":"@発射カウント_10"},{"original":"@発射カウント_2"},{"original":"@発射カウント_3"},{"original":"@発射カウント_4"},{"original":"@発射カウント_5"},{"original":"@発射カウント_6"},{"original":"@発射カウント_7"},{"original":"@発射カウント_8"},{"original":"@発射カウント_9"},{"original":"MoveAction"},{"original":"acdec"},{"original":"all"},{"original":"arle_2013"},{"original":"arle_2014"},{"original":"arle_2015"},{"original":"arle_2016"},{"original":"arle_2017"},{"original":"arle_2018"},{"original":"arle_2019"},{"original":"arle_2020"},{"original":"arle_2021"},{"original":"arle_2022"},{"original":"arle_2023"},{"original":"arle_2024"},{"original":"arle_2025"},{"original":"arle_2026"},{"original":"arle_2027"},{"original":"arle_2028"},{"original":"arle_2029"},{"original":"arle_2030"},{"original":"arle_2031"},{"original":"arle_2032"},{"original":"arle_2033"},{"original":"arle_2034"},{"original":"arle_2035"},{"original":"arle_2036"},{"original":"arle_2037"},{"original":"arle_2038"},{"original":"arle_2039"},{"original":"arle_2040"},{"original":"arle_2041"},{"original":"arle_2042"},{"original":"arle_2043"},{"original":"arle_2044"},{"original":"arle_2045"},{"original":"arle_2046"},{"original":"arle_2047"},{"original":"arle_2048"},{"original":"arle_2049"},{"original":"arle_2050"},{"original":"arle_2051"},{"original":"arle_2052"},{"original":"arle_2053"},{"original":"arle_2054"},{"original":"arle_2055"},{"original":"arle_2056"},{"original":"arle_2057"},{"original":"arle_2058"},{"original":"arle_2059"},{"original":"arle_2060"},{"original":"arle_2061"},{"original":"arle_2062"},{"original":"arle_2063"},{"original":"arle_2064"},{"original":"arle_2065"},{"original":"arle_2066"},{"original":"arle_2067"},{"original":"arle_2068"},{"original":"arle_2069"},{"original":"arle_2070"},{"original":"arle_2071"},{"original":"arle_2072"},{"original":"arle_2073"},{"original":"arle_2074"},{"original":"arle_2075"},{"original":"arle_2076"},{"original":"arle_2077"},{"original":"arle_2078"},{"original":"arle_2079"},{"original":"arle_2080"},{"original":"arle_2081"},{"original":"arle_2082"},{"original":"arle_2083"},{"original":"arle_2084"},{"original":"arle_2085"},{"original":"arle_2086"},{"original":"arle_2087"},{"original":"arle_2088"},{"original":"arle_2089"},{"original":"arle_2090"},{"original":"arle_2091"},{"original":"arle_2092"},{"original":"arle_2093"},{"original":"arle_2094"},{"original":"arle_2095"},{"original":"arle_2096"},{"original":"arle_2097"},{"original":"arle_2098"},{"original":"arle_2099"},{"original":"arle_2100"},{"original":"arle_2101"},{"original":"arle_2102"},{"original":"arle_2103"},{"original":"arle_2104"},{"original":"arle_2105"},{"original":"arle_2106"},{"original":"arle_2107"},{"original":"arle_2108"},{"original":"arle_2109"},{"original":"arle_2110"},{"original":"arle_2111"},{"original":"arle_2112"},{"original":"arle_2113"},{"original":"arle_2114"},{"original":"arle_2115"},{"original":"arle_2116"},{"original":"arle_2117"},{"original":"arle_2118"},{"original":"arle_2119"},{"original":"arle_2120"},{"original":"arle_2121"},{"original":"arle_2122"},{"original":"arle_2123"},{"original":"arle_2124"},{"original":"arle_2125"},{"original":"arle_2126"},{"original":"arle_2127"},{"original":"arle_2128"},{"original":"arle_2129"},{"original":"arle_2130"},{"original":"arle_2131"},{"original":"arle_2132"},{"original":"arle_2133"},{"original":"arle_2134"},{"original":"arle_2135"},{"original":"arle_2136"},{"original":"arle_2137"},{"original":"arle_2138"},{"original":"arle_2139"},{"original":"arle_2140"},{"original":"arle_2141"},{"original":"arle_2142"},{"original":"arle_2143"},{"original":"arle_2144"},{"original":"arle_2145"},{"original":"arle_2146"},{"original":"arle_2147"},{"original":"arle_2148"},{"original":"arle_2149"},{"original":"arle_2150"},{"original":"arle_2151"},{"original":"arle_2152"},{"original":"arle_2153"},{"original":"arle_2154"},{"original":"arle_2155"},{"original":"arle_2156"},{"original":"arle_2157"},{"original":"arle_2158"},{"original":"arle_2159"},{"original":"arle_2160"},{"original":"arle_2161"},{"original":"arle_2162"},{"original":"arle_2163"},{"original":"arle_2164"},{"original":"arle_2165"},{"original":"arle_2166"},{"original":"arle_2167"},{"original":"arle_2168"},{"original":"arle_2169"},{"original":"arle_2170"},{"original":"arle_2172"},{"original":"arle_2173"},{"original":"arle_2174"},{"original":"arle_2175"},{"original":"arle_2176"},{"original":"arle_2177"},{"original":"arle_2178"},{"original":"arle_2179"},{"original":"arle_2180"},{"original":"arle_2181"},{"original":"arle_2182"},{"original":"arle_2183"},{"original":"arle_2184"},{"original":"arle_2185"},{"original":"arle_2186"},{"original":"arle_2187"},{"original":"arle_2188"},{"original":"arle_2189"},{"original":"arle_2190"},{"original":"arle_2191"},{"original":"arle_2192"},{"original":"arle_2193"},{"original":"arle_2194"},{"original":"arle_2195"},{"original":"arle_2196"},{"original":"arle_2197"},{"original":"arle_2198"},{"original":"arle_2199"},{"original":"arle_2200"},{"original":"arle_2201"},{"original":"arle_2202"},{"original":"arle_2203"},{"original":"arle_2204"},{"original":"arle_2205"},{"original":"arle_2206"},{"original":"arle_2207"},{"original":"arle_2208"},{"original":"arle_2209"},{"original":"arle_2210"},{"original":"arle_2211"},{"original":"arle_2212"},{"original":"arle_2213"},{"original":"arle_2214"},{"original":"arle_2215"},{"original":"arle_2216"},{"original":"arle_2217"},{"original":"arle_2218"},{"original":"arle_2219"},{"original":"arle_2220"},{"original":"arle_2221"},{"original":"arle_2222"},{"original":"arle_2223"},{"original":"arle_2224"},{"original":"arle_2225"},{"original":"arle_2226"},{"original":"arle_2227"},{"original":"arle_2228"},{"original":"arle_2229"},{"original":"arle_2230"},{"original":"arle_2231"},{"original":"arle_2232"},{"original":"arle_2233"},{"original":"arle_2234"},{"original":"arle_2235"},{"original":"arle_2236"},{"original":"arle_2237"},{"original":"arle_2238"},{"original":"arle_2239"},{"original":"arle_2240"},{"original":"arle_2242"},{"original":"arle_2243"},{"original":"arle_2244"},{"original":"arle_2245"},{"original":"bg"},{"original":"bgm"},{"original":"bgm02"},{"original":"bgm12"},{"original":"bgm_BGM02"},{"original":"bgm_BGM12"},{"original":"bgv_arle_01"},{"original":"bgv_arle_02"},{"original":"bgv_arle_03"},{"original":"black"},{"original":"both"},{"original":"cdown"},{"original":"cdowncls"},{"original":"cg_@発射カウント_1"},{"original":"cg_@発射カウント_10"},{"original":"cg_@発射カウント_2"},{"original":"cg_@発射カウント_3"},{"original":"cg_@発射カウント_4"},{"original":"cg_@発射カウント_5"},{"original":"cg_@発射カウント_6"},{"original":"cg_@発射カウント_7"},{"original":"cg_@発射カウント_8"},{"original":"cg_@発射カウント_9"},{"original":"cg_ev_aru08_1a"},{"original":"cg_ev_aru08_1b"},{"original":"cg_ev_aru08_1c"},{"original":"cg_ev_aru08_1d"},{"original":"cg_ev_aru08_1e"},{"original":"cg_ev_aru08_1f"},{"original":"cg_ev_aru08_1g"},{"original":"cg_ev_aru08_1h"},{"original":"cg_ev_aru08_2a"},{"original":"cg_ev_aru08_2b"},{"original":"cg_ev_aru08_2c"},{"original":"cg_ev_aru08_2d"},{"original":"cg_ev_aru08_2e"},{"original":"cg_ev_aru08_2f"},{"original":"cg_ev_aru08_2g"},{"original":"cg_ev_aru08_2h"},{"original":"cg_ev_aru08_2i"},{"original":"cg_ev_aru08_2j"},{"original":"cg_ev_aru08_2k"},{"original":"cg_ev_aru08_2l"},{"original":"cg_ic_95"},{"original":"cg_mov_aru08_2b"},{"original":"cg_mov_aru08_2c"},{"original":"cg_mov_aru08_2d"},{"original":"cg_mov_aru08_2g"},{"original":"cg_mov_aru08_2h"},{"original":"cg_wh"},{"original":"cg_アルル.stand"},{"original":"character"},{"original":"crossfade"},{"original":"d01_aru_11.ks"},{"original":"d01_aru_12.ks"},{"original":"del"},{"original":"doBoxBlur"},{"original":"endrecollection"},{"original":"env"},{"original":"envupdate"},{"original":"ev"},{"original":"ev_aru08_1a"},{"original":"ev_aru08_1b"},{"original":"ev_aru08_1c"},{"original":"ev_aru08_1d"},{"original":"ev_aru08_1e"},{"original":"ev_aru08_1f"},{"original":"ev_aru08_1g"},{"original":"ev_aru08_1h"},{"original":"ev_aru08_2a"},{"original":"ev_aru08_2b"},{"original":"ev_aru08_2c"},{"original":"ev_aru08_2d"},{"original":"ev_aru08_2e"},{"original":"ev_aru08_2f"},{"original":"ev_aru08_2g"},{"original":"ev_aru08_2h"},{"original":"ev_aru08_2i"},{"original":"ev_aru08_2j"},{"original":"ev_aru08_2k"},{"original":"ev_aru08_2l"},{"original":"eval"},{"original":"evcut"},{"original":"event"},{"original":"exit"},{"original":"eyecatch"},{"original":"f.sceneview"},{"original":"facemask"},{"original":"flash"},{"original":"hloopse"},{"original":"hlse"},{"original":"hse"},{"original":"ic_95"},{"original":"init"},{"original":"layer"},{"original":"loop"},{"original":"meswinload"},{"original":"mov_aru08_2b"},{"original":"mov_aru08_2c"},{"original":"mov_aru08_2d"},{"original":"mov_aru08_2g"},{"original":"mov_aru08_2h"},{"original":"msgoff"},{"original":"msgwin"},{"original":"name"},{"original":"new"},{"original":"order"},{"original":"originx"},{"original":"originy"},{"original":"page"},{"original":"playvoice"},{"original":"se"},{"original":"se擬音くちゅ"},{"original":"se擬音ピストン中"},{"original":"se擬音ピストン速"},{"original":"se擬音ピストン遅"},{"original":"se擬音射精内"},{"original":"se擬音射精外"},{"original":"se擬音愛撫"},{"original":"se擬音手コキ中"},{"original":"se擬音手コキ低"},{"original":"se擬音手コキ早"},{"original":"se擬音挿入Ａ"},{"original":"se擬音挿入Ｂ"},{"original":"se擬音挿入Ｃ"},{"original":"se擬音膣圧大"},{"original":"se擬音膣漏"},{"original":"se環境音布擦れ"},{"original":"sf.replay_aru_05h"},{"original":"stage"},{"original":"start.ks"},{"original":"stopaction"},{"original":"stopvoice"},{"original":"storage"},{"original":"target"},{"original":"thlabel_endscene_h"},{"original":"thlabel_startscene_h"},{"original":"time"},{"original":"trans"},{"original":"true"},{"original":"type"},{"original":"universal"},{"original":"update"},{"original":"visvalue"},{"original":"voice"},{"original":"wait"},{"original":"wh"},{"original":"xpos"},{"original":"ypos"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[122]},{"original":"\u2026\u2026\u2026\u2026。","lines":[84]},{"original":"\u2026\u2026いや実際興奮しましたけど、ちょっとだけ。","lines":[115]},{"original":"\u2026\u2026なんて言葉は、つばと一緒に飲み込んでおく。","lines":[522]},{"original":"\u2026\u2026まずい、さすがに無茶しすぎた\u2026\u2026。","lines":[65]},{"original":"\u2026\u2026やばい、完全に弄ばれてる。","lines":[67]},{"original":"\u2026\u2026俺のせいか。","lines":[440]},{"original":"\u2026\u2026当然か。好きな女の子としてるんだから。","lines":[362]},{"original":"「\u2026\u2026あぁ、すごい\u2026\u2026めちゃくちゃ感じる\u2026\u2026」","lines":[557]},{"original":"「\u2026\u2026あぁ、分かった」","lines":[309]},{"original":"「\u2026\u2026ああ、また、子宮がきゅんきゅん喜んじゃってますぅ」","lines":[548]},{"original":"「\u2026\u2026あの、蓮さん\u2026\u2026」","lines":[197]},{"original":"「\u2026\u2026いや、まあ、そうなんですけども」","lines":[265]},{"original":"「\u2026\u2026お願いします」","lines":[502]},{"original":"「\u2026\u2026すごいのが、きます、蓮さん、怖い\u2026\u2026うぅあ、あああぁぁっ！！」","lines":[112]},{"original":"「\u2026\u2026ずいぶんストレートに聞いてくるな」","lines":[373]},{"original":"「\u2026\u2026そうか」","lines":[252]},{"original":"「\u2026\u2026はぷ。んっ\u2026\u2026ちゅく、ぐちゅっ、れろっ、んっ」","lines":[536]},{"original":"「\u2026\u2026んぅっ！？」","lines":[167]},{"original":"「\u2026\u2026んっ、くぷっ、れろっ、にゅる、ちゅぷっ、れろぉっ」","lines":[367]},{"original":"「\u2026\u2026アルル、騎乗位なんて知ってたの？」","lines":[376]},{"original":"「\u2026\u2026アルルって、結構むっつりだよね」","lines":[148]},{"original":"「\u2026\u2026チュッ」","lines":[395]},{"original":"「\u2026\u2026正直、アルルとこういう仲になるなんて思ってなかった」","lines":[301]},{"original":"「\u2026\u2026私の中がおち○ぽでいっぱいになってますっ」","lines":[377]},{"original":"「\u2026\u2026蓮さんに、言われたくないです\u2026\u2026」","lines":[329]},{"original":"「\u2026\u2026蓮さんは、気付かなかったかも、知れないですけど\u2026\u2026」","lines":[518]},{"original":"「あ\u2026\u2026は、ぅっ\u2026\u2026はひぃっ\u2026\u2026」","lines":[137,434]},{"original":"「あ、ああ\u2026\u2026」","lines":[168]},{"original":"「あ、ああ、くぅっ\u2026\u2026！」","lines":[233]},{"original":"「あ、ああ、また出す！　アルルの体にかけるから\u2026\u2026」","lines":[225]},{"original":"「あ、ああああ！」","lines":[238]},{"original":"「あ、ああッ、い、イクっ、アルル、また出る！！」","lines":[75]},{"original":"「あ、く\u2026\u2026」","lines":[257]},{"original":"「あ、そ、そうなの\u2026\u2026？」","lines":[289]},{"original":"「あ、は、入って、くるっ、んぁっ\u2026\u2026！」","lines":[44]},{"original":"「あ、アルル\u2026\u2026？」","lines":[68]},{"original":"「あ、少しずつ大きくなってきましたよ？」","lines":[470]},{"original":"「あぁんっ、あんっ、はぁ、はぁ\u2026\u2026！　こんなの、すごすぎますぅっ」","lines":[299]},{"original":"「ああ\u2026\u2026偉いぞアルル。ちゃんと自分で入れられて」","lines":[404]},{"original":"「ああ、もちろん\u2026\u2026！」","lines":[76]},{"original":"「ああ、蓮さんの顔、素敵ぃ\u2026\u2026♪」","lines":[89]},{"original":"「ああぁ\u2026\u2026これで、いつも私の中をかき回してるんですね\u2026\u2026」","lines":[427]},{"original":"「ああぁぁぁああっ\u2026\u2026！　入って、赤ちゃんができるところに、いっぱい\u2026\u2026！」","lines":[246]},{"original":"「ああぁっ、全身にかかって、ふあっ、気持ちいい♪」","lines":[349]},{"original":"「ああッ、すごいぃっ、おま○こ勝手に締まって\u2026\u2026んきゅううぅっ！」","lines":[384]},{"original":"「あぅっ、くふっ\u2026\u2026ゴリゴリ、中が擦れてっ\u2026\u2026気持ちいいですっ」","lines":[481]},{"original":"「あうっ、あくっ、ぃひっ、いいっ\u2026\u2026！」","lines":[455]},{"original":"「あくっ、んんッ、ふあっ、やらっ、すごいっ、中がゴリゴリ削られていきますぅっ」","lines":[424]},{"original":"「あつっ、んっく、はくっ、ぃいっ、イイッ\u2026\u2026！　中出し、気持ちいいですぅっ！」","lines":[191]},{"original":"「あの、まだ出そうですか\u2026\u2026？」","lines":[109]},{"original":"「あの、蓮さん、少し聞きたいんですけど」","lines":[221]},{"original":"「あはっ、またおち○ぽ大きくなったぁ\u2026\u2026」","lines":[29]},{"original":"「あはっ、大きくなってない時はこんな感じなんですね」","lines":[141]},{"original":"「あはっ、蓮さん、エッチなお汁が出てきましたよ」","lines":[498]},{"original":"「あふれるくらい、たくさんのせーえき、私の中に、出してぇぇぇっ」","lines":[224]},{"original":"「あぷっ、ちゅぷっ、んぅっ、はぅっ、ちゅううぅっ！」","lines":[19]},{"original":"「ありがとう。こんなに尽くしてくれて」","lines":[321]},{"original":"「あん、あんっ、深いっ、深いところまで、入って\u2026\u2026！」","lines":[368]},{"original":"「あッ、あンッ、くふっ、ぃひっ\u2026\u2026え、な、なんですか\u2026\u2026？」","lines":[214]},{"original":"「あッ、くぅっ、アルル、それ強っ\u2026\u2026！」","lines":[50]},{"original":"「い、いや\u2026\u2026」","lines":[173]},{"original":"「いいですよ、好きなところに出してくださいね」","lines":[413]},{"original":"「いくぅぅぅうううぅうぅうっ！！」","lines":[513]},{"original":"「いくっ、中出しで、またイッちゃうぅぅっ、んきゅうううぅぅっ！！」","lines":[315]},{"original":"「いっぱいいっぱい\u2026\u2026おち○ぽ扱きますから\u2026\u2026精液くださいっ」","lines":[155]},{"original":"「いつもはおち○ぽを舐めさせて貰ってますけど、今日は手でご奉仕でしたから」","lines":[465]},{"original":"「いやなのに、だめ、なのに\u2026\u2026腰が、とまらないよぉっ！」","lines":[79]},{"original":"「いやなんですか？　そうじゃないですよね」","lines":[27]},{"original":"「い～っぱい尽くしますので、気持ちよくなってくださいね？」","lines":[100]},{"original":"「う、うん\u2026\u2026」","lines":[146]},{"original":"「うふふ、本当に良さそうな顔してますね\u2026\u2026」","lines":[302]},{"original":"「うん\u2026\u2026アルルの中に入っているのが見えるよ」","lines":[442]},{"original":"「え\u2026\u2026？」","lines":[157]},{"original":"「え、え、ええ？」","lines":[303]},{"original":"「え、えへへ\u2026\u2026私本当にえっちな子になっちゃいました\u2026\u2026」","lines":[282]},{"original":"「えへへ、そうでしたぁ」","lines":[26]},{"original":"「えへへ。可愛いなんて言われたら、たまらなくなっちゃうじゃないですかぁ」","lines":[217]},{"original":"「え？　ちょ、ちょっと待っ\u2015\u2015ひぃっ！？」","lines":[78]},{"original":"「お、おいアルル\u2026\u2026」","lines":[472]},{"original":"「おち○ぽ、おち○ぽイイッ、もっと、突いてください、蓮さぁん」","lines":[456]},{"original":"「おち○ぽが、おま○この中をほじって、ぐりぐりってして、やっ、広がっちゃうっ」","lines":[408]},{"original":"「おち○ぽが、私の中で暴れてっ、きゃふっ、んくぅぅっ、感じます、ゴリゴリってして、いいよぉっ\u2026\u2026！」","lines":[476]},{"original":"「おち○ぽすごいですっ、もう、おま○こ、おち○ぽの形になっちゃってますっ」","lines":[527]},{"original":"「おち○ぽも\u2026\u2026せーえきも、きもち、よしゅぎますぅ\u2026\u2026♪」","lines":[163]},{"original":"「おイヤですか？　それなら、ん、やめますけど」","lines":[49]},{"original":"「お口は経験がありますけど、この手コキ？　というのは初めてなので、あんまり上手くないかもですけど」","lines":[183]},{"original":"「きゃあっ、ああ、出てるっ、蓮さんの精液\u2026\u2026！」","lines":[409]},{"original":"「きゃぅっ、うくっ、あぃっ、すごいっ\u2026\u2026です、ぐいぐい子宮に、先が当たって\u2026\u2026んんんんっ！！」","lines":[381]},{"original":"「きゃうっ、き、急に奥までぇっ\u2026\u2026！」","lines":[436]},{"original":"「きゃっ、わ、私の中で\u2026\u2026おち○ぽが、また大きく\u2026\u2026！」","lines":[105]},{"original":"「きゃん、もう、おとなしくしてて」","lines":[135]},{"original":"「くぅ\u2026\u2026！」","lines":[202]},{"original":"「くすくす、ぬちゃ、ぬちゃって音が、とってもエッチです♪」","lines":[21]},{"original":"「くすくす、本当に嬉しそうですね、蓮さん」","lines":[63]},{"original":"「くすっ」","lines":[36]},{"original":"「くにくに、くにくに」","lines":[249]},{"original":"「けど\u2026\u2026ヌルヌルで、ねちょねちょして、んぅっ\u2026\u2026」","lines":[56]},{"original":"「この根本の部分を、しゅっしゅってすると、どうですか？」","lines":[371]},{"original":"「こんなえっちなこと、どこで覚えたのかなぁって\u2026\u2026」","lines":[433]},{"original":"「こんなに、出してくれて、嬉しい、です\u2026\u2026」","lines":[93]},{"original":"「こんなに、竿に血管が脈打って\u2026\u2026私の手の中でビクビクしてますよ？」","lines":[256]},{"original":"「こんなにたくさん出してもらったんですから、私だって舐めたいですし飲みたいですっ」","lines":[325]},{"original":"「こんなの、ずるいぃっ\u2026\u2026！　すぐに気持ちよくなっちゃうっ」","lines":[18]},{"original":"「こんなのも、新鮮でいいかな、なんて」","lines":[459]},{"original":"「こんなのダメぇっ、変に、変になるぅっ\u2026\u2026おかしくなっちゃいます、蓮さぁんっ」","lines":[447]},{"original":"「こんな気持ちいいこと、教えたんですから\u2026\u2026責任、とってくださいね？」","lines":[437]},{"original":"「ごめん\u2026\u2026ぜんぜん萎えてなくて」","lines":[380]},{"original":"「ごめんごめん、じゃあ、お詫びってことで\u2026\u2026」","lines":[450]},{"original":"「ごめんアルル！　抑えられそうにない\u2026\u2026！」","lines":[23]},{"original":"「じゃあ、ご期待にそえるように、がんばりますね」","lines":[165]},{"original":"「じゃあ、そのままリラックスしていてください」","lines":[352]},{"original":"「すぐによくなっちゃいますっ、あっ\u2026\u2026はあっ、やらっ、これダメぇ！」","lines":[245]},{"original":"「すごっ、こんな勢いで、んぁぁっ！」","lines":[70]},{"original":"「そ、そりゃ\u2026\u2026アルルの手だから」","lines":[6]},{"original":"「そ、それじゃ、脱ぎますね\u2026\u2026」","lines":[60]},{"original":"「そうですかぁ\u2026\u2026んん～、難しいですね」","lines":[90]},{"original":"「そう思うと、すっごく愛おしくなります\u2026\u2026」","lines":[71]},{"original":"「そう言ってもらえると、頑張ってるかいがあります」","lines":[22]},{"original":"「そりゃあ、もう」","lines":[311]},{"original":"「それだけでいいの？」","lines":[199]},{"original":"「それどんな信頼\u2015\u2015」","lines":[216]},{"original":"「それに、たまたまのところも、こんなになってますぅ」","lines":[268]},{"original":"「それよりも\u2026\u2026そろそろ、私のここに欲しいんですけど\u2026\u2026」","lines":[39]},{"original":"「そんなことないですよぉ？」","lines":[106]},{"original":"「そんなに暴れたら、手コキできないでしょ？」","lines":[304]},{"original":"「そんなアルルも大好きだよ\u2026\u2026」","lines":[147]},{"original":"「そんな顔されたら、たまらなくなっちゃいます」","lines":[526]},{"original":"「だいじょうぶ、れす\u2026\u2026」","lines":[156]},{"original":"「だったら、蓮さんを舐めたいなぁ、って」","lines":[154]},{"original":"「だって、私のお口が寂しいんですもの」","lines":[255]},{"original":"「だってもったいないじゃないですかぁ」","lines":[410]},{"original":"「だめ、イクっ、きちゃうっ、熱いのがのぼってきて、ふああああぁっ、いくっ、いくぅうっ！」","lines":[458]},{"original":"「ちがっ、そうじゃなくてっ、おち○ぽがぐいぐい入ってくるんですっ」","lines":[539]},{"original":"「ちゅぷっ、ぢゅるっ、ちゅぱっ、くちゅっ、んちゅぅっ\u2026\u2026」","lines":[209]},{"original":"「ちゅるっ、ちゅくっ、かぷっ、ちゅぅうううっ」","lines":[152]},{"original":"「ちゅるっ、ちゅっ、ちゅっ」","lines":[17]},{"original":"「ちょっと\u2026\u2026恥ずかしいですけれど\u2026\u2026」","lines":[284]},{"original":"「では、い、入れますね\u2026\u2026」","lines":[72]},{"original":"「では、もーっと大きくなってくださいね」","lines":[24]},{"original":"「でも、こうやって裸をあわせて、お互いの顔を見るって、すごくエッチです\u2026\u2026」","lines":[94]},{"original":"「とっても逞しくて、私、すぐにでも欲しくなっちゃいます」","lines":[435]},{"original":"「どうしたんですか、蓮さん\u2015\u2015」","lines":[136]},{"original":"「どうですか、蓮さん\u2026\u2026気持ちいい、ですか？」","lines":[110]},{"original":"「な、なに？」","lines":[118]},{"original":"「なるほど、一理ある」","lines":[394]},{"original":"「は、はいっ、私も、あんっ、あ、あ、気持ちいい、ですっ」","lines":[203]},{"original":"「はぁ\u2026\u2026くさぁい、それなのに、いい匂いで\u2026\u2026クラクラします」","lines":[324]},{"original":"「はぁ、はぁ\u2026\u2026すごいよぉ、こんなの知らないですぅ」","lines":[544]},{"original":"「はぁ、はぁ\u2026\u2026すごかった、です\u2026\u2026」","lines":[293]},{"original":"「はぁ、はぁ\u2026\u2026蓮さん、蓮さぁん\u2026\u2026」","lines":[300]},{"original":"「はぁ、はぁ、すごい、いつもより深くまで入って\u2015\u2015」","lines":[516]},{"original":"「はぁ、はぁ、はぁ\u2026\u2026んくっ、はぁ、はぁ\u2026\u2026」","lines":[248]},{"original":"「はぁ、びちゃびちゃになっちゃいました\u2026\u2026」","lines":[532]},{"original":"「はぁ、ふぃっ、ぃひっ、んっ\u2026\u2026はぁ、はぁ\u2026\u2026」","lines":[98]},{"original":"「はぁぁっ、手の平に熱が伝わってきて、とっても、んっ\u2026\u2026すごいです」","lines":[32]},{"original":"「はぁ～、こんなに可愛いんですねぇ」","lines":[187]},{"original":"「はあ\u2026\u2026ぬるぬるで、気持ちいいですぅ\u2026\u2026」","lines":[210]},{"original":"「はあ\u2026\u2026蓮さんの乳首、美味しい\u2026\u2026」","lines":[192]},{"original":"「はあ、はあ\u2026\u2026\u2026\u2026え？」","lines":[254]},{"original":"「はあ、はあ、なにも\u2026\u2026手についたのを舐めなくても\u2026\u2026」","lines":[431]},{"original":"「はあ、はあ、はあ\u2026\u2026」","lines":[402]},{"original":"「はあ、はあ、蓮さんっ\u2026\u2026私、あ、あ、も、もう\u2026\u2026イき、そう、です\u2026\u2026！」","lines":[184]},{"original":"「はあぁぁ\u2026\u2026いつも、私の中でこんなふうに出てるんですね\u2026\u2026」","lines":[234]},{"original":"「はい\u2026\u2026♪」","lines":[97]},{"original":"「はい\u2026\u2026これで突かれた私なんて、すぐによがっちゃいます\u2026\u2026」","lines":[266]},{"original":"「はい♪」","lines":[45]},{"original":"「はい、あなたのアルルですよぉ」","lines":[129]},{"original":"「はい、ありますね。ここ\u2026\u2026すごく美味しそうです\u2026\u2026」","lines":[497]},{"original":"「はい、はい、出してっ\u2026\u2026！　また、子宮に、赤ちゃんができるところに、いっぱい\u2026\u2026！」","lines":[239]},{"original":"「はい、イッて\u2026\u2026！　精液、ビュルビュル出してくださいっ」","lines":[113]},{"original":"「はうぅ、ごめんなさい。場所が場所なので、ちょっと大胆に\u2026\u2026」","lines":[451]},{"original":"「はうぅっ、あうッ、ひゃぅっ、ぃいっ、いいっ、あぁあっ！」","lines":[542]},{"original":"「はちゅっ、ぷちゅっ、くりゅっ、れりょぉっ、んぷぅっ\u2026\u2026」","lines":[538]},{"original":"「はふっ、あぁ\u2026\u2026れん、さぁん\u2026\u2026」","lines":[517]},{"original":"「はふっ、はぁ、はぁ\u2026\u2026」","lines":[160]},{"original":"「はぷっ、くちゅっ、ちゅぅうっ、んぷっ」","lines":[492]},{"original":"「ひぃっ、きゃぁっ、んやあぁああぁぁっ！」","lines":[520]},{"original":"「ひぃっ、はふぅっ、あぁ\u2026\u2026おち○ぽ、おち○ぽ\u2026\u2026気持ち、いい\u2026\u2026」","lines":[420]},{"original":"「ひぅうっ、こんなッ、ふああっ、あああぁぁぁっ！」","lines":[243]},{"original":"「ひゃああああぁぁぁっ！」","lines":[253]},{"original":"「ぴちゃ、ちゅっ\u2026\u2026こくっ、はぁ、すごく濃い\u2026\u2026ちゅるぅっ、こくっ」","lines":[351]},{"original":"「ふぁぁっ、おま○こ気持ちいいよぉ\u2026\u2026！　おち○ぽギュウギュウして、んっ、くぅっ！」","lines":[345]},{"original":"「ふあっ、あッ、ああっ、んあああっ！」","lines":[14]},{"original":"「ふふ、どうですか、蓮さん？」","lines":[37]},{"original":"「ふふ、なんだか不思議な感触です」","lines":[77]},{"original":"「ふふっ、いつもは私が声を出してましたけど、今日は蓮さんの番ですね」","lines":[264]},{"original":"「ふふっ、また今度して差し上げますね」","lines":[441]},{"original":"「ふふっ、嬉しいです」","lines":[95]},{"original":"「ふふふ、なかなか立派だろ？」","lines":[506]},{"original":"「ふやああああぁぁぁぁぁぁああああぁぁっ！　いくぅぅううううっ！！」","lines":[116]},{"original":"「ほ、ほら、あれですよ。もっと蓮さんを気持ちよくさせられたらなー、って思ったんですけど」","lines":[80]},{"original":"「ほら、だってここ\u2026\u2026大きくなってきましたから」","lines":[194]},{"original":"「ま、待って、アルル！　手を動かさないで\u2026\u2026！」","lines":[126]},{"original":"「まず、竿を握って\u2026\u2026」","lines":[40]},{"original":"「まずは私の手で、大きくなってくださいね～」","lines":[550]},{"original":"「また今度、お願いしてもいいですか\u2026\u2026？」","lines":[232]},{"original":"「また私の体にかけて欲しいです、蓮さんの精液に包まれたいっ」","lines":[495]},{"original":"「も、だめ、れん、お兄さん\u2026\u2026私、本当に壊れちゃう、壊れちゃうううぅぅっ！」","lines":[172]},{"original":"「も、もう限界、出していい\u2026\u2026？」","lines":[471]},{"original":"「もう、おち○ぽのことしか考えられなくなって、ふあああああぁぁあっ！！」","lines":[486]},{"original":"「もう、何度もイッてるのに、とまらないぃっ、壊れちゃう、壊れちゃいます蓮さぁんっ」","lines":[359]},{"original":"「もっと\u2026\u2026？　こう、こうですか\u2026\u2026？」","lines":[204]},{"original":"「もっと精液ください、ご奉仕しますから、蓮さんの精液ぃっ」","lines":[443]},{"original":"「もっと精液を貰えるってことですよね？」","lines":[193]},{"original":"「もっと蓮さんの精液、欲しいです\u2026\u2026」","lines":[312]},{"original":"「や、やだ、いやですっ、おち○ぽでかき回してもらわないとイヤですっ\u2026\u2026」","lines":[464]},{"original":"「やあぁっ、えっちな音がおま○こから聞こえてますぅっ！」","lines":[87]},{"original":"「やっぱり、このカチカチの方が、私は好きです」","lines":[117]},{"original":"「やっぱり男の人の体は、男の人の方が詳しいかと思いまして」","lines":[430]},{"original":"「ようやく\u2026\u2026お腹に、精液、もらえました\u2026\u2026」","lines":[363]},{"original":"「よかった、もっと私を味わってください、恋人セックス教えてください\u2026\u2026！」","lines":[482]},{"original":"「らめっ\u2026\u2026こんな、すごすぎっ\u2026\u2026！　ぐちゅぐちゅおま○こ、感じちゃうよぉっ」","lines":[545]},{"original":"「れんさん、私、こんなに出して頂いて、嬉しいです\u2026\u2026」","lines":[131]},{"original":"「わかりました、やってみますね」","lines":[86]},{"original":"「ん\u2026\u2026♪　いつもの見慣れたおち○ぽになりました」","lines":[145]},{"original":"「ん、く、かなり\u2026\u2026気持ちいい」","lines":[287]},{"original":"「ん、んんっ、あっ\u2026\u2026」","lines":[120]},{"original":"「ん、分かった\u2026\u2026えっと」","lines":[407]},{"original":"「んぁああぁあっ\u2026\u2026！　押し上げ、られて、ますっ」","lines":[509]},{"original":"「んああぁぁあああっ！！　はいってくるぅぅっ、ひぁああぁぁっ！？」","lines":[449]},{"original":"「んきゅうっ、あふっ、あっ、やらっ、いきなり激し\u2015\u2015」","lines":[419]},{"original":"「んくぅぅぅっ！　きてるっ、きてますっ、子宮に、おち○ぽミルクが、入って\u2026\u2026！」","lines":[292]},{"original":"「んくぅっ、も、もう少しで、全部\u2026\u2026」","lines":[171]},{"original":"「んっ\u2026\u2026おち○ぽ、ビクビクしてきましたね、イきたいんですか？」","lines":[259]},{"original":"「んっ\u2026\u2026ご馳走様でした」","lines":[186]},{"original":"「んっ、あつっ\u2026\u2026！　ふふっ、体にもかけてくれたんですね、ありがとうございます♪」","lines":[429]},{"original":"「んっ、くっ、ふぅっ、あ、はぁあ\u2026\u2026」","lines":[208]},{"original":"「んっ、くぷっ、れろぉっ、ちゅぷぅっ、ちゅっ\u2026\u2026」","lines":[521]},{"original":"「んっ、ふぅっ、はぅっ、あくっ\u2026\u2026子宮、いっぱいの、せーえきぃ♪」","lines":[215]},{"original":"「んっ、またビクンビクン震えてます、血管が脈打って\u2026\u2026」","lines":[493]},{"original":"「んひっ、ぃきっ、ひぃあああっ！　イクっ、おち○ぽ、おま○こでしごきながらイッてるぅっ！」","lines":[296]},{"original":"「んッ、くああああぁぁぁぁっ！」","lines":[55]},{"original":"「んー、ここじゃないですかね、こっちですかねー？」","lines":[549]},{"original":"「ん？」","lines":[211]},{"original":"「ア、アルル\u2026\u2026」","lines":[162]},{"original":"「ア、アルル\u2026\u2026なんか変な気分になってくるんだけど\u2026\u2026」","lines":[525]},{"original":"「ア、アルル、大丈夫\u2026\u2026？」","lines":[38]},{"original":"「アルル\u2026\u2026遊んでるでしょ？」","lines":[348]},{"original":"「アルル\u2026\u2026？」","lines":[181]},{"original":"「アルル、で、出る\u2026\u2026、出すよっ」","lines":[496]},{"original":"「アルル、もう出るから\u2026\u2026！　俺もイクから\u2026\u2026っ」","lines":[153]},{"original":"「アルル、何をして\u2015\u2015」","lines":[327]},{"original":"「アルル、急にそんなに動かして大丈夫？」","lines":[534]},{"original":"「アルル」","lines":[333]},{"original":"「アルルがしたいなら、いいよ」","lines":[261]},{"original":"「アルルのおかげで新しい扉が開けそうだった」","lines":[393]},{"original":"「アルルの中めちゃくちゃ気持ちいい\u2026\u2026」","lines":[396]},{"original":"「アルルも大事な、妹みたいな子だったから\u2026\u2026」","lines":[231]},{"original":"「イキそうなんですね、出してください、もっと、いっぱい\u2026\u2026！」","lines":[501]},{"original":"「イクっ、イクイクっ、こんなの、しんじられな\u2026\u2026すごいぃっ！」","lines":[164]},{"original":"「イヤというか、なんというか\u2026\u2026」","lines":[403]},{"original":"「一緒に、イッて、もらえませんか\u2026\u2026？」","lines":[127]},{"original":"「今みたいにで大丈夫ですか？」","lines":[314]},{"original":"「今度は、こっちでも\u2026\u2026おま○こでも尽くしますから\u2026\u2026」","lines":[195]},{"original":"「今敏感になってるから、イッたばっかりだから！」","lines":[8]},{"original":"「今日は、私がしますから\u2026\u2026」","lines":[270]},{"original":"「今日は、私の中に\u2026\u2026子宮に、たぁっぷり注いでくださいね？」","lines":[166]},{"original":"「今日はいっぱい尽くしてあげちゃうんですから」","lines":[337]},{"original":"「今日はラブホテルなんだし」","lines":[277]},{"original":"「今日は私が上になりますね\u2026\u2026」","lines":[25]},{"original":"「俺はアルルの可愛い顔が見れるから嬉しいよ」","lines":[411]},{"original":"「俺も\u2026\u2026いくっ！」","lines":[142]},{"original":"「先っぽから、ぷくって出てきて、私の手を汚しちゃいました」","lines":[42]},{"original":"「先端かな？　根本かな？　どこが気持ちいいですか？」","lines":[298]},{"original":"「入った\u2026\u2026ずぶって、全部、入りましたよ\u2026\u2026蓮さん\u2026\u2026っ」","lines":[178]},{"original":"「出して、蓮さん、熱い精液\u2026\u2026ぴゅっぴゅって出るところ、見せてください」","lines":[222]},{"original":"「出そうですか？　いいんですよ、いっぱい出してくださいね？」","lines":[416]},{"original":"「出る、受け止めてくれ、アルル！」","lines":[316]},{"original":"「分かった\u2026\u2026それじゃあたっぷり出すからね」","lines":[119]},{"original":"「口と手だと違いがあるので、教えていただけますか？」","lines":[130]},{"original":"「口は今度ね\u2026\u2026で、そこまで搾っていくように擦る」","lines":[372]},{"original":"「咲ちゃんが\u2026\u2026梨々愛さんから借りたっていう本を見せてくれて\u2026\u2026」","lines":[16]},{"original":"「喜んで頂いて良かったです♪」","lines":[338]},{"original":"「声出したら寮のみんなに聞こえるとか気にしなくていいからさ」","lines":[128]},{"original":"「大丈夫\u2026\u2026それで、根本から亀頭の、ほら、くびれのところあるよね？」","lines":[457]},{"original":"「大丈夫\u2026\u2026アルルの中、すごい締めてくれるから\u2026\u2026」","lines":[328]},{"original":"「大丈夫じゃ、ない、です\u2026\u2026蓮さんのおち○ぽ、最高です♪」","lines":[198]},{"original":"「大丈夫です、蓮さんなら、まだまだイけます♪」","lines":[340]},{"original":"「恋人\u2026\u2026セックス\u2026\u2026」","lines":[281]},{"original":"「恋人だからな」","lines":[335]},{"original":"「恋人にそんなこと言われたら嬉しいに決まってる」","lines":[341]},{"original":"「恋人セックス\u2026\u2026ですか\u2026\u2026」","lines":[551]},{"original":"「恋人セックス\u2026\u2026他にも、いろいろと教えてください\u2026\u2026」","lines":[339]},{"original":"「恋人セックス、たっぷりしよう」","lines":[69]},{"original":"「悪くはないなんて言ってましたけど、気持ちいいんですね」","lines":[57]},{"original":"「悪くはないんだけど\u2026\u2026」","lines":[358]},{"original":"「最高だよアルル\u2026\u2026もっと、強くしてもらいたいくらい\u2026\u2026」","lines":[334]},{"original":"「本当ですか\u2026\u2026？　本気にしますよ\u2026\u2026？」","lines":[280]},{"original":"「本当に恋人同士って感じがしますね」","lines":[207]},{"original":"「欲しい、もっと体にかけて欲しいです、精液、せーえきぃ」","lines":[356]},{"original":"「気持ちいい、気持ちいいです\u2026\u2026恋人セックス、イイッ\u2026\u2026！」","lines":[485]},{"original":"「気持ちいいっ、おち○ぽ気持ちよすぎるぅぅっ！　中の精液でも、おち○ぽでもイクうぅぅっ！」","lines":[487]},{"original":"「気持ちよすぎるのに、おま○こが勝手におち○ぽ締め付けて、もっとせーえき欲しがっちゃう、らめ、らめぇぇっ！」","lines":[111]},{"original":"「男の人って、いつもどうやってオナニーしてるんですか？」","lines":[330]},{"original":"「私、本当は\u2026\u2026大好きな蓮さんのおち○ぽをずっと入れていたいくらい、えっちな娘なんですよ\u2026\u2026？」","lines":[31]},{"original":"「私がお口に咥える時は、もう硬くなってましたよ」","lines":[99]},{"original":"「私の、アルルの手で、もっと気持ちよくなってくださいね♪」","lines":[235]},{"original":"「私の体は、いつでも蓮さんの精液を受ける準備ができてますから」","lines":[174]},{"original":"「私の手でも、んっ、ちゅっ、体にでも、どこにでも\u2026\u2026！」","lines":[397]},{"original":"「私も、です\u2026\u2026でも\u2026\u2026今は、本当に、嬉しいんです\u2026\u2026」","lines":[445]},{"original":"「私もまだまだ足りないんです\u2026\u2026」","lines":[15]},{"original":"「絶景です」","lines":[196]},{"original":"「蓮お兄さん、いつも私がそう言ってもやめてくれないでしょ？」","lines":[276]},{"original":"「蓮お兄さんは、そのままで居て下さい」","lines":[305,336]},{"original":"「蓮さん\u2026\u2026」","lines":[357]},{"original":"「蓮さん\u2026\u2026気持ちいいですか？　私のおま○こ、美味しいですか\u2026\u2026？」","lines":[260]},{"original":"「蓮さん、楽しんで頂けましたか？」","lines":[452]},{"original":"「蓮さん、許しっ\u2026\u2026！　イッてます、イッてますからぁ、もっとゆっくり\u2026\u2026！」","lines":[310]},{"original":"「蓮さんが少し動いてるだけで\u2026\u2026嬉しくてしかたないんです\u2026\u2026」","lines":[446]},{"original":"「蓮さんと、もっと恋人セックス\u2026\u2026したいです。中出しして欲しいです\u2026\u2026」","lines":[223]},{"original":"「蓮さんに気持ちよくなってもらうと、私も気持ちいいんです」","lines":[43]},{"original":"「蓮さんのおち○ぽが、いつもみたいにビンビンになるように、がんばっちゃいますから」","lines":[285]},{"original":"「蓮さんのを、私にいっぱい、ください」","lines":[161]},{"original":"「蓮さんの乳首、硬くなってますよ\u2026\u2026」","lines":[190]},{"original":"「蓮さんの匂いに包まれて、すごくいい気分です\u2026\u2026」","lines":[7]},{"original":"「蓮さんは楽にしていて下さい」","lines":[477]},{"original":"「蓮さん専用のおま○こ穴になっちゃてますぅっ」","lines":[30]},{"original":"「見たことなかったっけ？」","lines":[473]},{"original":"「言われなくても\u2026\u2026！」","lines":[149]},{"original":"「！？」","lines":[66]},{"original":"あの純情だったアルルがこんなにえっちに！　誰のせいだ。","lines":[227]},{"original":"あまりの気持ちよさにわけがわからなくなる。","lines":[121]},{"original":"あれ？　これもしかして自分で弱点を教えてるんじゃないか？","lines":[46]},{"original":"いつものアルルと違う気がする。","lines":[370]},{"original":"いつもの綺麗な瞳もいいけど、熱に浮かされた目もいいなぁ。","lines":[263]},{"original":"いや、たまにならアリ\u2026\u2026か？","lines":[466]},{"original":"いやいやと首を振りながらもアルルの腰は俺の動きにあわせていた。","lines":[9]},{"original":"おお\u2026\u2026。","lines":[10]},{"original":"おおおお\u2026\u2026！","lines":[306]},{"original":"きゅきゅっ、と膣が締まる。","lines":[415]},{"original":"ぎゅうぅぅっと強く搾られ強制的に近い射精感が起きる。","lines":[62]},{"original":"こ、これはあれか？　もしかして俺焦らされてる！？","lines":[262]},{"original":"このままハマったらかなり不味い気がするので今晩限りでお願いしたい。","lines":[83]},{"original":"これじゃあ言葉責め（？）されて興奮したみたいじゃないか。","lines":[34]},{"original":"これ自体は優しい愛撫で嫌いじゃない。","lines":[554]},{"original":"こんなにも愛されて幸せすぎだなぁ、俺は。","lines":[490]},{"original":"こんなエロい姿を見せられたら、とめられるわけがなく\u2026\u2026。","lines":[271]},{"original":"ごくり\u2026\u2026。","lines":[511]},{"original":"ごぼり、ごぼり。","lines":[179]},{"original":"ささやかれ、まるで催眠状態に陥ったように俺は素直に出そうと考えている。","lines":[552]},{"original":"さっきまで愛し合ったっていうのに\u2026\u2026。","lines":[96]},{"original":"さっきやられたこともあって、ちょっと強がってみる。","lines":[244]},{"original":"さっきよりも強い勢いで精液が噴出した。","lines":[41]},{"original":"さわさわ、とアルルのしなやかな指が股間を探る。","lines":[102]},{"original":"しゅ、しゅ、しゅっ\u2026\u2026。","lines":[383]},{"original":"すると、アルルの軽く小さな体は浮き上がってしまう。","lines":[361]},{"original":"すると、キュッ、キュッと膣肉が狭まってペニスを包み込んでくれる。","lines":[288]},{"original":"ずずっ\u2026\u2026と先端が柔らかな秘所に吸い込まれていく。","lines":[388]},{"original":"ずっと小さい頃から見てきた。","lines":[295]},{"original":"ずぶりとペニスが根本まで飲み込まれる。","lines":[205]},{"original":"ずりゅ、ずちゅ、ぐちゅっ\u2026\u2026。","lines":[88]},{"original":"そう言いながら、竿を手の平で包み込んで感触を確かめる。","lines":[61]},{"original":"そう言いながらもアルルは指で輪っかを作り根本だけを責めてくる。","lines":[269]},{"original":"そう言って自分の下腹部を撫でる。","lines":[399]},{"original":"そこには信頼と、好意と、愛情。","lines":[308]},{"original":"そして、こんなにも頑張ってくれる彼女を愛おしく思う。","lines":[391]},{"original":"そして今日ラブホテルでセックスして中出しする。","lines":[237]},{"original":"そして単純で、けど一番快感が強いスピードのある扱く動作になっていた。","lines":[326]},{"original":"そして感覚を掴んだのか、先ほどよりも速度を上げ始めた。","lines":[392]},{"original":"その事実がどうしようもなく俺を興奮させていく。","lines":[400]},{"original":"その全部が詰まってる。","lines":[134]},{"original":"その力加減のままに先端へと登っていく。","lines":[273]},{"original":"その動作に。","lines":[365]},{"original":"その度にザラザラした膣壁が竿をまんべんなく扱き上げてきた。","lines":[531]},{"original":"その振動のせいか、アルルの秘所から大量の精液と愛液がこぼれだす。","lines":[448]},{"original":"その瞬間、俺の理性が音を立ててはじけ飛んだ。","lines":[12]},{"original":"それがなんとも魅力的で、そしてエロい。","lines":[291]},{"original":"それが普段はおとなしいアルルとなればなおさらだ。","lines":[547]},{"original":"それだけでも救われた気分だ。","lines":[343]},{"original":"それと同時に、膣内が今まで経験したことがないほど強く締まった。","lines":[54]},{"original":"それなのに\u2026\u2026。","lines":[401]},{"original":"それに答えるように、俺はアルルの膣内をペニスで擦っていく。","lines":[406]},{"original":"それらをかき分けるように腰を跳ね上げるとアルルの体も浮き上がった。","lines":[251]},{"original":"それを嬉しそうに見てから指先を口元に運ぶ。","lines":[386]},{"original":"それを見ていると変な感慨深さが湧いてきた。","lines":[556]},{"original":"そんなアルルだから、俺も少しでも多く返したくて。","lines":[390]},{"original":"そんな女の子が、今では俺の恋人になり、こうしてまたがって喘いでる。","lines":[258]},{"original":"そんな強く言われると俺も否定できない。","lines":[512]},{"original":"そんな音が聞こえてくるくらいの大量の白濁液が注がれていく。","lines":[159]},{"original":"ただ、これ、妙に気持ちよくて\u2026\u2026。","lines":[35]},{"original":"ただ自分の分身を可愛いと言われるのは男として複雑な気分だ\u2026\u2026。","lines":[555]},{"original":"だから。","lines":[53]},{"original":"だからどの辺りが気持ちいいかは見当がついてるはずだ。","lines":[323]},{"original":"つらい体勢だったのかと心配になる。","lines":[454]},{"original":"でも膨れ上がった衝動は際限がなかった。","lines":[229]},{"original":"というかアルルってこんなキャラだったっけ？","lines":[158]},{"original":"どういう風にその結果に辿り着いたのかは分からない。","lines":[0,561,566]},{"original":"どきわく初ホテル","lines":[320]},{"original":"どこに入っているのかと不思議に思うくらい、ずっぽり入っていく。","lines":[530]},{"original":"どぷぅ\u2026\u2026。","lines":[332]},{"original":"なにそれ\u2026\u2026俺にとってはご褒美すぎる発言だ。","lines":[48]},{"original":"なんというか小悪魔的というか、これはこれで新しいイメージだ。","lines":[346]},{"original":"ばちゅん、ばちゅん、ばちゅんっ！","lines":[543]},{"original":"ひとしきりお互いの口と唾液を交換しあうと、最後に唇を舐めて離れる。","lines":[405]},{"original":"びくびく振動する膣肉が精液を求めるように伸縮する。","lines":[421]},{"original":"びくん、びくん！","lines":[242]},{"original":"びゅくっ、びゅるるるっ、どびゅるるるっ！","lines":[417]},{"original":"びゅくっ、びゅるるるっ、びゅるるッ！！","lines":[508]},{"original":"びゅくっ、びゅるるるるるるっ、どびゅっ！！","lines":[425]},{"original":"びゅるっ、びゅるるるっ、びゅるっ！","lines":[182]},{"original":"びゅるっ、びゅるるるるるっ！","lines":[150]},{"original":"ふと、何を思いついたのか、アルルが俺の胸に唇を合わせた。","lines":[331]},{"original":"ふふっ、と秘密を告白するように笑う。","lines":[478]},{"original":"ほんと、どこで覚えてきたんだろうこんな言葉\u2026\u2026。","lines":[123]},{"original":"ま、まぁいいか。","lines":[114]},{"original":"まあ、アルルはエッチの時だといつも大胆だけど。","lines":[20]},{"original":"まさかホテルで恋人とこんないい体験ができるなんて思ってなかった。","lines":[212]},{"original":"まるで何かに取り憑かれたような淫猥な表情を覗かせながらの愛撫。","lines":[107]},{"original":"まるで子供をあやすように言うアルル。","lines":[378]},{"original":"むぅ、と拗ねたような顔をする。","lines":[438]},{"original":"むしろさっきより硬くなっている気がする。","lines":[85]},{"original":"めっちゃ恥ずかしい\u2026\u2026これがいつもアルルが味わってたやつか\u2026\u2026。","lines":[439]},{"original":"もう三回目だっていうのに、全然まだやれそうだった。","lines":[272]},{"original":"もう何度もセックスをしてるというのに。","lines":[494]},{"original":"もう何度も背筋を反らし、くねらせる。","lines":[514]},{"original":"もう何度目かも分からない絶頂を迎え、全身を痙攣させるアルル。","lines":[33]},{"original":"ものの感触を確かめるように何度か手の中に包み込んで握る。","lines":[533]},{"original":"もはやそれも目に入っていないようで、ちょっと心配になる。","lines":[515]},{"original":"もはや汗と精液と愛液でドロドロになり、蛍光灯の光を反射させた。","lines":[52]},{"original":"よくよく考えれば口ではしたことがある。","lines":[6,7,8,14,16,17,18,21,23,24,26,27,29,31,32,36,37,39,40,42,43,45,49,55,56,60,63,68,69,71,72,76,77,79,80,86,87,89,90,93,94,97,98,99,105,106,109,111,113,116,117,119,127,129,131,136,141,142,146,147,148,152,154,155,156,160,161,163,165,166,167,171,173,174,178,183,184,186,187,190,191,193,196,198,202,203,204,207,208,209,210,215,216,221,222,223,224,231,232,234,235,239,243,245,246,248,249,252,253,255,256,259,260,264,266,268,270,276,277,280,282,284,285,287,289,292,293,296,298,300,301,303,305,309,310,312,314,315,321,324,325,328,329,330,334,336,340,341,345,349,351,352,356,357,359,363,368,372,377,381,384,394,397,402,403,407,408,409,410,413,419,420,424,427,429,430,431,433,435,436,441,443,445,446,447,449,451,452,455,456,458,459,464,465,470,471,472,476,477,481,482,485,486,487,492,493,495,497,498,501,502,506,509,513,516,517,518,520,521,526,527,532,536,538,539,542,544,545,548,550,551]},{"original":"アルル"},{"original":"アルル.stand","lines":[278]},{"original":"アルルが俺の腰にまたがる。","lines":[507]},{"original":"アルルが絶頂に身を震わせるのと同時に、射精が始まった。","lines":[322]},{"original":"アルルが苦しそうに喘ぐ。","lines":[484]},{"original":"アルルの体がガクガクと震え、その細かな振動が俺のものを喜ばせてくれる。","lines":[499]},{"original":"アルルの懇願を聞き入れるみたいに駆け上がってきた衝動。","lines":[185]},{"original":"アルルの手だけに収まらず、健康的な肌を白く染めていく。","lines":[125]},{"original":"アルルの手だと小さいけど\u2026\u2026できなくはないはず。","lines":[206]},{"original":"アルルの手の中で体液が混じって泡立つ音が聞こえてくる。","lines":[444]},{"original":"アルルの狭い膣内には入りきらなかった精液が、どろぉ\u2026\u2026っと溢れだしてきた。","lines":[360]},{"original":"アルルの細いお腹がへこむ。","lines":[414]},{"original":"アルルの絶頂する声を聞きながら腰を天井に向ける。","lines":[319]},{"original":"アルルの膣内には俺のものは大きすぎ、入りきらないかと思われるのに\u2015\u2015","lines":[537]},{"original":"アルルの舌を自分の舌に重ね合わせた。","lines":[553]},{"original":"アルルはこんなにも深く濃く強く求めてくれる。","lines":[28]},{"original":"アルルは俺に微笑みかけると、まだ勃起していないペニスを握る。","lines":[313]},{"original":"アルルは叫ぶようにそう言うと、自分から腰を動かし始める。","lines":[342]},{"original":"アルルは呆然と呟く。","lines":[286]},{"original":"アルルは屹立したものに狙いを定めると、ゆっくりと腰を落としていく。","lines":[124]},{"original":"アルルは恥ずかしさをこらえながら聞いてきたんだ、ちゃんと答えよう。","lines":[350]},{"original":"アルルも戸惑ったような声を上げる。","lines":[491]},{"original":"アルルを夢中で、貪るように膣壁にペニスで喰らいつき、犯し続ける。","lines":[528]},{"original":"アルル本人は疲弊しきっているにも関わらず\u2015\u2015","lines":[453]},{"original":"イッたばかりなのはこちらも同じだから緩やかなペースで楽しみたい。","lines":[139]},{"original":"オナニーと同じように、ってことだけど\u2026\u2026。","lines":[201]},{"original":"カウパーと精液の混じった粘着質な体液を全体的に塗りたくる。","lines":[283]},{"original":"ギュッ、とアルルが握る手に力を込める。","lines":[469]},{"original":"シンクロした動きはどこまでも興奮を高めていく。","lines":[369]},{"original":"セックスに集中していたのかアルルがぼーっとした瞳を俺に向ける。","lines":[101]},{"original":"ダメだ\u2026\u2026強がったところで全く無意味だった\u2026\u2026。","lines":[241]},{"original":"ドン、というような衝撃が下半身を襲うと同時に射精する。","lines":[64]},{"original":"ハッとした顔をアルルに見られた。","lines":[103]},{"original":"バスルームにアルルがものを擦る音が反響する。","lines":[462]},{"original":"ブチュ、グチュッ\u2026\u2026！","lines":[389]},{"original":"ポンコツ寮に入ることになって、敏感肌だって知って\u2015\u2015","lines":[81]},{"original":"ムクムクムクっ！","lines":[480]},{"original":"ラストスパートに向けて容赦の無いピストンを繰り返す。","lines":[426]},{"original":"一度では収まらず、何度も精子を子宮に叩きつける。","lines":[180]},{"original":"一方的に増していく快楽に身を任せ、欲望を解き放った。","lines":[170]},{"original":"上も下もどちらも刺激されて、俺は射精へと導かれていく。","lines":[176]},{"original":"下半身からくちゅくちゅと音がしている中、上半身では舌が這う時の唾液音。","lines":[169]},{"original":"乳首を唇で咥えながら、手も休まず動かしている。","lines":[226]},{"original":"乳首を思いきり吸われて。","lines":[218]},{"original":"亀頭をくにくに責めてくると思ったら、今度は玉袋を優しく揉み始めた。","lines":[220]},{"original":"二つが交じり合って俺の全身を焦がす。","lines":[140]},{"original":"人にしてもらうのがこんなに気持ちいいなんて\u2026\u2026っ。","lines":[91]},{"original":"今にも頬ずりしそうな勢いだ。","lines":[500]},{"original":"今までにない絶頂と興奮に俺のものは信じられないくらいに固くなっていた。","lines":[73]},{"original":"今度は人差し指を使って、つつーっと裏筋を撫でられる。","lines":[353]},{"original":"体が勝手に求めてしまうのか、アルル自身にも制御できてないみたいだった。","lines":[189]},{"original":"体にかかった精液を、空いた手で自分の体に塗り広げていく。","lines":[307]},{"original":"体の奥深くで俺を受け入れてくれている気がして嬉しい。","lines":[423]},{"original":"体全体で俺の精液を受け止めているようにも見えた。","lines":[228]},{"original":"俺ってこんなキャラだったっけ\u2026\u2026？","lines":[82]},{"original":"俺のものはアルルの指に刺激され勃起してしまっていた。","lines":[355]},{"original":"俺の上で踊るアルルの姿は淫らで、普段との違いにクラクラした。","lines":[294]},{"original":"俺の名前を呼びながら、最後に力を抜いたようにストンとお尻を落とした。","lines":[503]},{"original":"俺の手をぎゅっと握りしめ、襲ってくるだろう絶頂に身構える。","lines":[132]},{"original":"俺の言うとおりに、アルルが実践する。","lines":[489]},{"original":"俺の頭も変になりそうだった。","lines":[274]},{"original":"俺はこれから、この女の子を犯すんだということを。","lines":[108]},{"original":"俺はなるべく下半身全体に快感を逃すように意識する。","lines":[535]},{"original":"俺はアルルを引き寄せる。","lines":[510]},{"original":"先に入っていたものを押しのけるように、次の精液が満ち溢れる。","lines":[11]},{"original":"全裸のアルルが俺の体にしなだれかかっている。","lines":[177]},{"original":"全身を愛撫されて、たまらなくなる。","lines":[47]},{"original":"前はＭっ気があるというか、イジメられちゃう系の女の子だったけど\u2026\u2026。","lines":[382]},{"original":"前ぶりもなく腰を突き上げる。","lines":[488]},{"original":"口からよだれをダラダラ流しながら、臆面もなく喘ぐアルルの姿を見て。","lines":[297]},{"original":"口を開けて大きな嬌声を上げた。","lines":[467]},{"original":"呼吸はぴったりで、突き上げればお尻を落とし。","lines":[523]},{"original":"嬉しそうに笑ってるけど口はだらしなく開けて相当疲れてそう\u2026\u2026。","lines":[151]},{"original":"完全に不意を突かれた形になり驚きと一緒に快感が走り抜ける。","lines":[422]},{"original":"射精を受ける度にアルルの体がのけぞる。","lines":[387]},{"original":"小さい頃に俺たちの国へやってきた女の子。","lines":[104]},{"original":"小さな手の中に収まりきらない俺のものが、さらなる刺激欲しがるようにビクンと震えた。","lines":[504]},{"original":"少しでも安心させられたらと握り返し\u2015\u2015","lines":[279]},{"original":"差し出された手を握ると嬉しそうに微笑んだ。","lines":[519]},{"original":"度重なる絶頂が終わると、ぴくん、ぴくん、と細かい痙攣を繰り返す。","lines":[432]},{"original":"強い快感からか肩で息をしながらも、うっとりとそう告げる。","lines":[366]},{"original":"強い快感にさらされる中、急に疑問が湧いてくる。","lines":[219]},{"original":"微かな恐怖と、それを上回る快感。","lines":[524]},{"original":"心ここにあらずって感じだ。","lines":[13]},{"original":"思わず拳を小さく握りしめてガッツポーズ。","lines":[385]},{"original":"急な突き上げに肢体をくねらせるアルル。","lines":[347]},{"original":"急激にアルルの腰運動が激しくなり、肉と肉がぶつかり合う音がバスルームに響く。","lines":[275]},{"original":"意識、させられた。","lines":[318]},{"original":"感触を確かめるように少しずつ抜いていっては、また腰を落とす。","lines":[143]},{"original":"手の平で溢れてきたカウパーを受け、今度はそれをペニスに塗りたくっていく。"},{"original":"斜右上","lines":[175]},{"original":"早く出してと言わんばかりにアルルの扱く速度が上がる。","lines":[317]},{"original":"最初はゆっくりとした上下運動。","lines":[540]},{"original":"最初は呆然としていたアルルも少しだけ理性を取り戻したようだった。","lines":[505]},{"original":"最後のひと突きを、アルルのもっとも深い部分に叩き込んだ。","lines":[375]},{"original":"最近のやつって直接的な描写はないけど結構過激って聞くからなぁ。","lines":[58]},{"original":"根本の部分は性感帯としては俺の中ではそこまで強い部分じゃない。","lines":[133]},{"original":"根本の部分を、きゅ、きゅ、と断続的に力を込めて刺激し\u2015\u2015","lines":[374]},{"original":"梨々愛が持ってるってことは少女漫画とかか\u2026\u2026。","lines":[428]},{"original":"歓喜の嬌声を上げ、待ち焦がれた精液をしっかりと膣内に収めていく。","lines":[138]},{"original":"正直ヤバい。"},{"original":"正面手上","lines":[59]},{"original":"気持ちいいんだけど物足りないという感じだ。","lines":[461]},{"original":"汗を飛び散らせながら俺の上で踊り狂う。"},{"original":"消","lines":[398]},{"original":"潤んだ瞳を真っ直ぐ俺に向けてくる。","lines":[144]},{"original":"潤滑剤を得て擦りやすくなったのか扱く速度が上がった。","lines":[475]},{"original":"狭い膣内の抵抗と、ザラザラした感触を楽しみながらアルルの中を犯していく。","lines":[236]},{"original":"玉袋から手が離れ再び俺のものに戻ってくる。","lines":[230]},{"original":"疑問が何度も頭をよぎるが、その度に与えられる快楽でかき消された。","lines":[344]},{"original":"痛みに似た快楽が深く染み渡ってくる。","lines":[247]},{"original":"白いシャワーを体に受けながらアルルが嬌声を上げる。"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑２:目笑２:口笑２:汗無::頬１"},{"original":"私服裸","lines":[463]},{"original":"空気と粘液が混じった卑猥な音がバスルームに反響する。","lines":[188]},{"original":"精液が飛び散って驚いている顔をしているものの、すごく嬉しそうだ。","lines":[250]},{"original":"精液のプールにでも手を突っ込んだかのようにアルルの手は白く染められていた。","lines":[213]},{"original":"細い指が俺のものに絡みつき、裏筋やカリ首を執拗に責めていく。","lines":[51]},{"original":"経験がないとは言いつつも、すでに俺が気持ちいいポイントを掴み始めている。","lines":[267]},{"original":"結局頷く俺だった。","lines":[541]},{"original":"絶頂の余韻をそのまま愉しむように舌を絡めてくる。","lines":[74]},{"original":"背筋に鈍く、でもしっかりした刺激がゾクゾクゾクっ！　と登ってくる。","lines":[529]},{"original":"腰はピクピク震えていて、そこだけは別の生き物のようだった。","lines":[354]},{"original":"腰は単純な前後運動からくねるような動作に変わっていて、俺のものを刺激してやまない。","lines":[364]},{"original":"腰を大きくグラインドさせ俺のものを刺激してくる。","lines":[418]},{"original":"膣内の奥深くに躊躇いもせず精液を放つ。","lines":[474]},{"original":"膣内は愛液と精液が入り混じった潤滑剤のおかげでスムーズに動かせる。","lines":[483]},{"original":"膨れ上がった亀頭でＧスポットをガンガン突きまくる。","lines":[290]},{"original":"自らペニスを飲み込んでいく姿は、めちゃくちゃそそられるものがあった。","lines":[546]},{"original":"自分の下腹部を撫でながら本当に満たされた声。","lines":[92]},{"original":"艶のあるため息をつき、潤んだ瞳を向ける。","lines":[15,19,22,25,30,38,44,50,57,70,75,78,95,100,110,112,118,120,126,128,130,135,137,145,149,153,157,162,164,168,172,181,192,194,195,197,199,211,214,217,225,233,238,254,257,261,265,281,299,302,304,311,316,327,333,335,337,338,339,348,358,362,367,371,373,376,380,393,395,396,404,411,416,434,437,442,450,457,473,496,525,534,549,557]},{"original":"蓮","lines":[412]},{"original":"走り抜ける電気にも似た快楽と衝動をアルルにぶつける。","lines":[468]},{"original":"逆に引けば一緒にそうしてくれる。","lines":[200]},{"original":"静止の言葉を聞かず、まだ敏感な亀頭を重点的に擦っていく。","lines":[379]},{"original":"頬を桃色にして言われても、可愛いだけなんだけど。","lines":[240]},{"original":"頭の中から理性が消えていくのを意識しながら、俺はアルルに身を委ねた。","lines":[558]},{"original":"頷いてから、また優しくキスをした。"},{"original":"顔","lines":[479]},{"original":"鼓膜を震わせる心地よい声を聞きながら。","lines":[460]},{"original":"鼻にかかった甘い嬌声を上げながらペニスの突き上げを受けるアルル。"}],"name":313,"lines":[{"type":3,"title":799},{"subtype":0,"type":5},{"name":832,"type":2},{"name":964,"type":2},{"subtype":0,"type":5},{"label":5,"type":6},{"name":832,"text":526,"type":1},{"name":832,"text":727,"type":1},{"name":832,"text":667,"type":1},{"text":739,"type":0},{"text":740,"type":0},{"text":897,"type":0},{"text":778,"type":0},{"text":916,"type":0},{"name":832,"text":595,"type":1},{"name":964,"text":713,"type":1},{"name":832,"text":684,"type":1},{"name":832,"text":548,"type":1},{"name":832,"text":515,"type":1},{"name":964,"text":468,"type":1},{"text":818,"type":0},{"name":832,"text":505,"type":1},{"name":964,"text":530,"type":1},{"name":832,"text":521,"type":1},{"name":832,"text":551,"type":1},{"name":964,"text":672,"type":1},{"name":832,"text":488,"type":1},{"name":832,"text":480,"type":1},{"text":848,"type":0},{"name":832,"text":464,"type":1},{"name":964,"text":729,"type":1},{"name":832,"text":707,"type":1},{"name":832,"text":567,"type":1},{"text":828,"type":0},{"text":746,"type":0},{"text":792,"type":0},{"name":832,"text":507,"type":1},{"name":832,"text":596,"type":1},{"name":964,"text":649,"type":1},{"name":832,"text":535,"type":1},{"name":832,"text":606,"type":1},{"text":755,"type":0},{"name":832,"text":675,"type":1},{"name":832,"text":723,"type":1},{"name":964,"text":447,"type":1},{"name":832,"text":578,"type":1},{"text":735,"type":0},{"text":899,"type":0},{"text":803,"type":0},{"name":832,"text":497,"type":1},{"name":964,"text":472,"type":1},{"text":951,"type":0},{"text":831,"type":0},{"text":794,"type":0},{"text":782,"type":0},{"name":832,"text":644,"type":1},{"name":832,"text":509,"type":1},{"name":964,"text":697,"type":1},{"text":928,"type":0},{"text":934,"type":0},{"name":832,"text":527,"type":1},{"text":764,"type":0},{"text":743,"type":0},{"name":832,"text":506,"type":1},{"text":864,"type":0},{"text":416,"type":0},{"text":732,"type":0},{"text":417,"type":0},{"name":832,"text":448,"type":1},{"name":832,"text":696,"type":1},{"name":964,"text":525,"type":1},{"name":832,"text":529,"type":1},{"name":832,"text":550,"type":1},{"text":881,"type":0},{"text":954,"type":0},{"name":964,"text":444,"type":1},{"name":832,"text":452,"type":1},{"name":832,"text":597,"type":1},{"name":964,"text":490,"type":1},{"name":832,"text":479,"type":1},{"name":832,"text":603,"type":1},{"text":868,"type":0},{"text":887,"type":0},{"text":745,"type":0},{"text":413,"type":0},{"text":823,"type":0},{"name":832,"text":626,"type":1},{"name":832,"text":619,"type":1},{"text":763,"type":0},{"name":832,"text":453,"type":1},{"name":832,"text":528,"type":1},{"text":879,"type":0},{"text":963,"type":0},{"name":832,"text":512,"type":1},{"name":832,"text":552,"type":1},{"name":964,"text":600,"type":1},{"text":753,"type":0},{"name":832,"text":576,"type":1},{"name":832,"text":566,"type":1},{"name":832,"text":708,"type":1},{"name":964,"text":481,"type":1},{"text":862,"type":0},{"text":756,"type":0},{"text":865,"type":0},{"text":908,"type":0},{"name":832,"text":502,"type":1},{"name":832,"text":536,"type":1},{"text":820,"type":0},{"text":894,"type":0},{"name":832,"text":462,"type":1},{"name":964,"text":555,"type":1},{"name":832,"text":705,"type":1},{"name":964,"text":426,"type":1},{"name":832,"text":582,"type":1},{"text":817,"type":0},{"text":414,"type":0},{"name":832,"text":602,"type":1},{"name":832,"text":620,"type":1},{"name":964,"text":556,"type":1},{"name":832,"text":681,"type":1},{"name":964,"text":629,"type":1},{"text":734,"type":0},{"text":412,"type":0},{"text":816,"type":0},{"text":852,"type":0},{"text":840,"type":0},{"name":964,"text":605,"type":1},{"name":832,"text":664,"type":1},{"name":964,"text":686,"type":1},{"name":832,"text":579,"type":1},{"name":964,"text":682,"type":1},{"name":832,"text":625,"type":1},{"text":891,"type":0},{"text":929,"type":0},{"text":773,"type":0},{"name":964,"text":503,"type":1},{"name":832,"text":554,"type":1},{"name":964,"text":439,"type":1},{"text":932,"type":0},{"text":857,"type":0},{"text":878,"type":0},{"name":832,"text":465,"type":1},{"name":832,"text":674,"type":1},{"text":921,"type":0},{"text":938,"type":0},{"name":964,"text":627,"type":1},{"name":832,"text":482,"type":1},{"name":832,"text":538,"type":1},{"name":832,"text":433,"type":1},{"name":964,"text":731,"type":1},{"text":813,"type":0},{"text":905,"type":0},{"name":832,"text":547,"type":1},{"name":964,"text":653,"type":1},{"name":832,"text":541,"type":1},{"name":832,"text":477,"type":1},{"name":832,"text":540,"type":1},{"name":964,"text":485,"type":1},{"text":798,"type":0},{"text":791,"type":0},{"name":832,"text":587,"type":1},{"name":832,"text":725,"type":1},{"name":964,"text":647,"type":1},{"name":832,"text":496,"type":1},{"name":964,"text":662,"type":1},{"name":832,"text":522,"type":1},{"name":832,"text":669,"type":1},{"name":832,"text":430,"type":1},{"name":964,"text":440,"type":1},{"text":874,"type":0},{"text":872,"type":0},{"name":832,"text":635,"type":1},{"name":964,"text":610,"type":1},{"name":832,"text":473,"type":1},{"name":832,"text":710,"type":1},{"text":923,"type":0},{"text":873,"type":0},{"text":898,"type":0},{"name":832,"text":677,"type":1},{"text":751,"type":0},{"text":871,"type":0},{"name":964,"text":651,"type":1},{"text":812,"type":0},{"name":832,"text":498,"type":1},{"name":832,"text":574,"type":1},{"text":839,"type":0},{"name":832,"text":637,"type":1},{"name":832,"text":568,"type":1},{"text":948,"type":0},{"text":883,"type":0},{"name":832,"text":726,"type":1},{"name":832,"text":461,"type":1},{"name":964,"text":570,"type":1},{"name":832,"text":616,"type":1},{"name":964,"text":604,"type":1},{"name":964,"text":666,"type":1},{"name":832,"text":714,"type":1},{"name":964,"text":423,"type":1},{"name":832,"text":689,"type":1},{"name":964,"text":532,"type":1},{"text":967,"type":0},{"text":858,"type":0},{"name":832,"text":504,"type":1},{"name":832,"text":558,"type":1},{"name":832,"text":614,"type":1},{"text":762,"type":0},{"text":841,"type":0},{"name":832,"text":701,"type":1},{"name":832,"text":639,"type":1},{"name":832,"text":546,"type":1},{"name":832,"text":569,"type":1},{"name":964,"text":646,"type":1},{"text":819,"type":0},{"text":950,"type":0},{"name":964,"text":471,"type":1},{"name":832,"text":641,"type":1},{"name":832,"text":533,"type":1},{"name":964,"text":489,"type":1},{"text":876,"type":0},{"text":914,"type":0},{"text":877,"type":0},{"name":832,"text":463,"type":1},{"name":832,"text":678,"type":1},{"name":832,"text":722,"type":1},{"name":832,"text":467,"type":1},{"name":964,"text":442,"type":1},{"text":875,"type":0},{"text":733,"type":0},{"text":886,"type":0},{"text":797,"type":0},{"text":941,"type":0},{"name":832,"text":660,"type":1},{"name":832,"text":608,"type":1},{"name":964,"text":441,"type":1},{"name":832,"text":575,"type":1},{"name":832,"text":709,"type":1},{"text":940,"type":0},{"text":769,"type":0},{"name":964,"text":443,"type":1},{"name":832,"text":581,"type":1},{"text":969,"type":0},{"text":863,"type":0},{"text":808,"type":0},{"name":832,"text":591,"type":1},{"text":754,"type":0},{"name":832,"text":524,"type":1},{"name":832,"text":455,"type":1},{"text":943,"type":0},{"name":832,"text":564,"type":1},{"name":832,"text":508,"type":1},{"text":949,"type":0},{"text":785,"type":0},{"name":832,"text":428,"type":1},{"name":832,"text":592,"type":1},{"name":964,"text":571,"type":1},{"name":832,"text":542,"type":1},{"name":832,"text":513,"type":1},{"name":964,"text":445,"type":1},{"text":789,"type":0},{"name":832,"text":636,"type":1},{"name":832,"text":718,"type":1},{"name":964,"text":657,"type":1},{"text":744,"type":0},{"text":737,"type":0},{"name":832,"text":598,"type":1},{"name":964,"text":424,"type":1},{"name":832,"text":577,"type":1},{"text":952,"type":0},{"name":832,"text":534,"type":1},{"text":765,"type":0},{"name":832,"text":668,"type":1},{"text":749,"type":0},{"text":825,"type":0},{"text":774,"type":0},{"text":893,"type":0},{"text":919,"type":0},{"name":832,"text":715,"type":1},{"name":832,"text":671,"type":1},{"text":834,"type":0},{"text":910,"type":0},{"name":832,"text":700,"type":1},{"name":964,"text":691,"type":1},{"name":832,"text":487,"type":1},{"text":859,"type":0},{"name":832,"text":549,"type":1},{"name":832,"text":724,"type":1},{"text":851,"type":0},{"name":832,"text":628,"type":1},{"text":759,"type":0},{"name":832,"text":446,"type":1},{"text":961,"type":0},{"text":779,"type":0},{"name":832,"text":634,"type":1},{"name":832,"text":561,"type":1},{"text":889,"type":0},{"text":761,"type":0},{"name":832,"text":643,"type":1},{"text":902,"type":0},{"name":832,"text":676,"type":1},{"name":964,"text":450,"type":1},{"name":832,"text":562,"type":1},{"name":832,"text":435,"type":1},{"name":964,"text":483,"type":1},{"name":832,"text":486,"type":1},{"name":964,"text":537,"type":1},{"name":832,"text":716,"type":1},{"text":741,"type":0},{"text":884,"type":0},{"text":767,"type":0},{"name":832,"text":421,"type":1},{"name":832,"text":720,"type":1},{"name":964,"text":531,"type":1},{"name":832,"text":617,"type":1},{"text":849,"type":0},{"name":832,"text":665,"type":1},{"name":832,"text":476,"type":1},{"name":964,"text":680,"type":1},{"text":924,"type":0},{"text":920,"type":0},{"text":845,"type":0},{"text":800,"type":0},{"name":832,"text":469,"type":1},{"text":836,"type":0},{"text":795,"type":0},{"name":832,"text":559,"type":1},{"name":832,"text":514,"type":1},{"text":770,"type":0},{"name":964,"text":654,"type":1},{"name":832,"text":688,"type":1},{"name":832,"text":437,"type":1},{"name":832,"text":706,"type":1},{"text":814,"type":0},{"text":802,"type":0},{"name":964,"text":656,"type":1},{"name":832,"text":699,"type":1},{"name":964,"text":692,"type":1},{"name":832,"text":716,"type":1},{"name":964,"text":670,"type":1},{"name":964,"text":685,"type":1},{"name":964,"text":695,"type":1},{"name":832,"text":690,"type":1},{"name":832,"text":693,"type":1},{"text":850,"type":0},{"text":781,"type":0},{"text":942,"type":0},{"name":832,"text":594,"type":1},{"text":804,"type":0},{"text":918,"type":0},{"name":964,"text":650,"type":1},{"name":832,"text":456,"type":1},{"text":853,"type":0},{"name":832,"text":593,"type":1},{"name":832,"text":523,"type":1},{"text":882,"type":0},{"text":956,"type":0},{"text":888,"type":0},{"name":832,"text":702,"type":1},{"name":832,"text":717,"type":1},{"name":964,"text":698,"type":1},{"name":832,"text":613,"type":1},{"text":843,"type":0},{"text":758,"type":0},{"name":964,"text":419,"type":1},{"name":832,"text":622,"type":1},{"text":957,"type":0},{"text":775,"type":0},{"text":913,"type":0},{"name":964,"text":431,"type":1},{"name":832,"text":470,"type":1},{"text":861,"type":0},{"text":736,"type":0},{"name":964,"text":510,"type":1},{"name":832,"text":683,"type":1},{"name":964,"text":427,"type":1},{"text":930,"type":0},{"text":927,"type":0},{"name":964,"text":432,"type":1},{"name":832,"text":436,"type":1},{"text":821,"type":0},{"text":968,"type":0},{"name":964,"text":519,"type":1},{"name":832,"text":500,"type":1},{"text":900,"type":0},{"text":757,"type":0},{"name":832,"text":457,"type":1},{"text":917,"type":0},{"text":786,"type":0},{"text":907,"type":0},{"text":760,"type":0},{"text":867,"type":0},{"text":788,"type":0},{"text":768,"type":0},{"text":771,"type":0},{"name":964,"text":658,"type":1},{"name":832,"text":557,"type":1},{"name":964,"text":434,"type":1},{"name":964,"text":659,"type":1},{"name":832,"text":711,"type":1},{"text":937,"type":0},{"text":766,"type":0},{"text":772,"type":0},{"text":783,"type":0},{"name":832,"text":573,"type":1},{"name":832,"text":663,"type":1},{"name":964,"text":451,"type":1},{"text":806,"type":0},{"text":784,"type":0},{"name":832,"text":630,"type":1},{"name":832,"text":493,"type":1},{"name":832,"text":499,"type":1},{"name":832,"text":543,"type":1},{"name":964,"text":673,"type":1},{"text":965,"type":0},{"name":832,"text":474,"type":1},{"text":844,"type":0},{"text":742,"type":0},{"name":964,"text":679,"type":1},{"text":809,"type":0},{"text":958,"type":0},{"name":832,"text":633,"type":1},{"name":832,"text":590,"type":1},{"text":807,"type":0},{"text":906,"type":0},{"text":885,"type":0},{"name":832,"text":460,"type":1},{"text":811,"type":0},{"text":870,"type":0},{"name":832,"text":454,"type":1},{"text":931,"type":0},{"name":832,"text":638,"type":1},{"name":832,"text":621,"type":1},{"name":832,"text":572,"type":1},{"text":912,"type":0},{"name":832,"text":511,"type":1},{"name":964,"text":439,"type":1},{"name":832,"text":553,"type":1},{"name":832,"text":501,"type":1},{"name":964,"text":518,"type":1},{"text":822,"type":0},{"text":824,"type":0},{"text":418,"type":0},{"name":832,"text":599,"type":1},{"name":964,"text":484,"type":1},{"name":832,"text":615,"type":1},{"text":842,"type":0},{"name":832,"text":712,"type":1},{"name":832,"text":721,"type":1},{"name":832,"text":517,"type":1},{"text":777,"type":0},{"name":832,"text":632,"type":1},{"name":964,"text":520,"type":1},{"name":832,"text":583,"type":1},{"name":832,"text":719,"type":1},{"text":856,"type":0},{"text":796,"type":0},{"name":832,"text":459,"type":1},{"name":832,"text":492,"type":1},{"name":964,"text":687,"type":1},{"name":832,"text":544,"type":1},{"name":832,"text":516,"type":1},{"text":973,"type":0},{"text":935,"type":0},{"text":866,"type":0},{"text":947,"type":0},{"name":832,"text":618,"type":1},{"name":832,"text":478,"type":1},{"text":738,"type":0},{"text":903,"type":0},{"text":966,"type":0},{"text":860,"type":0},{"name":832,"text":449,"type":1},{"name":832,"text":611,"type":1},{"name":832,"text":491,"type":1},{"name":964,"text":730,"type":1},{"text":959,"type":0},{"text":939,"type":0},{"name":832,"text":494,"type":1},{"name":832,"text":728,"type":1},{"text":815,"type":0},{"text":972,"type":0},{"text":869,"type":0},{"name":832,"text":458,"type":1},{"name":832,"text":623,"type":1},{"text":960,"type":0},{"text":837,"type":0},{"name":832,"text":703,"type":1},{"name":832,"text":612,"type":1},{"name":832,"text":704,"type":1},{"text":901,"type":0},{"text":892,"type":0},{"text":748,"type":0},{"text":854,"type":0},{"name":832,"text":588,"type":1},{"name":832,"text":642,"type":1},{"text":826,"type":0},{"name":832,"text":609,"type":1},{"name":964,"text":652,"type":1},{"name":832,"text":580,"type":1},{"name":832,"text":466,"type":1},{"text":838,"type":0},{"text":880,"type":0},{"name":832,"text":661,"type":1},{"name":832,"text":425,"type":1},{"text":890,"type":0},{"text":909,"type":0},{"text":926,"type":0},{"name":832,"text":601,"type":1},{"text":835,"type":0},{"text":810,"type":0},{"name":832,"text":631,"type":1},{"text":896,"type":0},{"text":750,"type":0},{"text":790,"type":0},{"name":832,"text":475,"type":1},{"text":827,"type":0},{"text":830,"type":0},{"name":832,"text":563,"type":1},{"name":832,"text":586,"type":1},{"name":832,"text":438,"type":1},{"text":911,"type":0},{"name":832,"text":589,"type":1},{"name":832,"text":640,"type":1},{"text":415,"type":0},{"text":904,"type":0},{"text":915,"type":0},{"name":964,"text":648,"type":1},{"name":832,"text":539,"type":1},{"name":832,"text":495,"type":1},{"text":855,"type":0},{"text":955,"type":0},{"text":801,"type":0},{"text":776,"type":0},{"name":832,"text":565,"type":1},{"text":829,"type":0},{"name":964,"text":655,"type":1},{"text":895,"type":0},{"name":832,"text":429,"type":1},{"text":846,"type":0},{"name":832,"text":585,"type":1},{"name":832,"text":545,"type":1},{"text":925,"type":0},{"text":953,"type":0},{"name":832,"text":584,"type":1},{"text":805,"type":0},{"name":832,"text":560,"type":1},{"name":832,"text":624,"type":1},{"text":962,"type":0},{"text":780,"type":0},{"name":832,"text":422,"type":1},{"name":964,"text":645,"type":1},{"name":832,"text":607,"type":1},{"name":832,"text":694,"type":1},{"text":752,"type":0},{"text":847,"type":0},{"text":747,"type":0},{"text":793,"type":0},{"text":787,"type":0},{"name":964,"text":420,"type":1},{"text":970,"type":0},{"storage":313,"label":0,"type":7},{"subtype":0,"type":5},{"type":3,"title":799},{"subtype":0,"type":5},{"label":0,"type":6},{"storage":313,"label":1,"type":7},{"subtype":0,"type":5},{"type":3,"title":799},{"subtype":0,"type":5},{"label":1,"type":6},{"storage":314,"label":4,"type":7}],"labels":{"0":563,"1":568,"5":5}}
+{
+  "names": [
+    832,
+    964
+  ],
+  "strings": [
+    {
+      "original": "*dummy1"
+    },
+    {
+      "original": "*end"
+    },
+    {
+      "original": "*endscene_h"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "*start2"
+    },
+    {
+      "original": "*startscene_h"
+    },
+    {
+      "original": "1"
+    },
+    {
+      "original": "100"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "250"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "50"
+    },
+    {
+      "original": "500"
+    },
+    {
+      "original": "64a23354dff550ff764c7fd1f93ae88d"
+    },
+    {
+      "original": "900"
+    },
+    {
+      "original": "@発射カウント_1"
+    },
+    {
+      "original": "@発射カウント_10"
+    },
+    {
+      "original": "@発射カウント_2"
+    },
+    {
+      "original": "@発射カウント_3"
+    },
+    {
+      "original": "@発射カウント_4"
+    },
+    {
+      "original": "@発射カウント_5"
+    },
+    {
+      "original": "@発射カウント_6"
+    },
+    {
+      "original": "@発射カウント_7"
+    },
+    {
+      "original": "@発射カウント_8"
+    },
+    {
+      "original": "@発射カウント_9"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "acdec"
+    },
+    {
+      "original": "all"
+    },
+    {
+      "original": "arle_2013"
+    },
+    {
+      "original": "arle_2014"
+    },
+    {
+      "original": "arle_2015"
+    },
+    {
+      "original": "arle_2016"
+    },
+    {
+      "original": "arle_2017"
+    },
+    {
+      "original": "arle_2018"
+    },
+    {
+      "original": "arle_2019"
+    },
+    {
+      "original": "arle_2020"
+    },
+    {
+      "original": "arle_2021"
+    },
+    {
+      "original": "arle_2022"
+    },
+    {
+      "original": "arle_2023"
+    },
+    {
+      "original": "arle_2024"
+    },
+    {
+      "original": "arle_2025"
+    },
+    {
+      "original": "arle_2026"
+    },
+    {
+      "original": "arle_2027"
+    },
+    {
+      "original": "arle_2028"
+    },
+    {
+      "original": "arle_2029"
+    },
+    {
+      "original": "arle_2030"
+    },
+    {
+      "original": "arle_2031"
+    },
+    {
+      "original": "arle_2032"
+    },
+    {
+      "original": "arle_2033"
+    },
+    {
+      "original": "arle_2034"
+    },
+    {
+      "original": "arle_2035"
+    },
+    {
+      "original": "arle_2036"
+    },
+    {
+      "original": "arle_2037"
+    },
+    {
+      "original": "arle_2038"
+    },
+    {
+      "original": "arle_2039"
+    },
+    {
+      "original": "arle_2040"
+    },
+    {
+      "original": "arle_2041"
+    },
+    {
+      "original": "arle_2042"
+    },
+    {
+      "original": "arle_2043"
+    },
+    {
+      "original": "arle_2044"
+    },
+    {
+      "original": "arle_2045"
+    },
+    {
+      "original": "arle_2046"
+    },
+    {
+      "original": "arle_2047"
+    },
+    {
+      "original": "arle_2048"
+    },
+    {
+      "original": "arle_2049"
+    },
+    {
+      "original": "arle_2050"
+    },
+    {
+      "original": "arle_2051"
+    },
+    {
+      "original": "arle_2052"
+    },
+    {
+      "original": "arle_2053"
+    },
+    {
+      "original": "arle_2054"
+    },
+    {
+      "original": "arle_2055"
+    },
+    {
+      "original": "arle_2056"
+    },
+    {
+      "original": "arle_2057"
+    },
+    {
+      "original": "arle_2058"
+    },
+    {
+      "original": "arle_2059"
+    },
+    {
+      "original": "arle_2060"
+    },
+    {
+      "original": "arle_2061"
+    },
+    {
+      "original": "arle_2062"
+    },
+    {
+      "original": "arle_2063"
+    },
+    {
+      "original": "arle_2064"
+    },
+    {
+      "original": "arle_2065"
+    },
+    {
+      "original": "arle_2066"
+    },
+    {
+      "original": "arle_2067"
+    },
+    {
+      "original": "arle_2068"
+    },
+    {
+      "original": "arle_2069"
+    },
+    {
+      "original": "arle_2070"
+    },
+    {
+      "original": "arle_2071"
+    },
+    {
+      "original": "arle_2072"
+    },
+    {
+      "original": "arle_2073"
+    },
+    {
+      "original": "arle_2074"
+    },
+    {
+      "original": "arle_2075"
+    },
+    {
+      "original": "arle_2076"
+    },
+    {
+      "original": "arle_2077"
+    },
+    {
+      "original": "arle_2078"
+    },
+    {
+      "original": "arle_2079"
+    },
+    {
+      "original": "arle_2080"
+    },
+    {
+      "original": "arle_2081"
+    },
+    {
+      "original": "arle_2082"
+    },
+    {
+      "original": "arle_2083"
+    },
+    {
+      "original": "arle_2084"
+    },
+    {
+      "original": "arle_2085"
+    },
+    {
+      "original": "arle_2086"
+    },
+    {
+      "original": "arle_2087"
+    },
+    {
+      "original": "arle_2088"
+    },
+    {
+      "original": "arle_2089"
+    },
+    {
+      "original": "arle_2090"
+    },
+    {
+      "original": "arle_2091"
+    },
+    {
+      "original": "arle_2092"
+    },
+    {
+      "original": "arle_2093"
+    },
+    {
+      "original": "arle_2094"
+    },
+    {
+      "original": "arle_2095"
+    },
+    {
+      "original": "arle_2096"
+    },
+    {
+      "original": "arle_2097"
+    },
+    {
+      "original": "arle_2098"
+    },
+    {
+      "original": "arle_2099"
+    },
+    {
+      "original": "arle_2100"
+    },
+    {
+      "original": "arle_2101"
+    },
+    {
+      "original": "arle_2102"
+    },
+    {
+      "original": "arle_2103"
+    },
+    {
+      "original": "arle_2104"
+    },
+    {
+      "original": "arle_2105"
+    },
+    {
+      "original": "arle_2106"
+    },
+    {
+      "original": "arle_2107"
+    },
+    {
+      "original": "arle_2108"
+    },
+    {
+      "original": "arle_2109"
+    },
+    {
+      "original": "arle_2110"
+    },
+    {
+      "original": "arle_2111"
+    },
+    {
+      "original": "arle_2112"
+    },
+    {
+      "original": "arle_2113"
+    },
+    {
+      "original": "arle_2114"
+    },
+    {
+      "original": "arle_2115"
+    },
+    {
+      "original": "arle_2116"
+    },
+    {
+      "original": "arle_2117"
+    },
+    {
+      "original": "arle_2118"
+    },
+    {
+      "original": "arle_2119"
+    },
+    {
+      "original": "arle_2120"
+    },
+    {
+      "original": "arle_2121"
+    },
+    {
+      "original": "arle_2122"
+    },
+    {
+      "original": "arle_2123"
+    },
+    {
+      "original": "arle_2124"
+    },
+    {
+      "original": "arle_2125"
+    },
+    {
+      "original": "arle_2126"
+    },
+    {
+      "original": "arle_2127"
+    },
+    {
+      "original": "arle_2128"
+    },
+    {
+      "original": "arle_2129"
+    },
+    {
+      "original": "arle_2130"
+    },
+    {
+      "original": "arle_2131"
+    },
+    {
+      "original": "arle_2132"
+    },
+    {
+      "original": "arle_2133"
+    },
+    {
+      "original": "arle_2134"
+    },
+    {
+      "original": "arle_2135"
+    },
+    {
+      "original": "arle_2136"
+    },
+    {
+      "original": "arle_2137"
+    },
+    {
+      "original": "arle_2138"
+    },
+    {
+      "original": "arle_2139"
+    },
+    {
+      "original": "arle_2140"
+    },
+    {
+      "original": "arle_2141"
+    },
+    {
+      "original": "arle_2142"
+    },
+    {
+      "original": "arle_2143"
+    },
+    {
+      "original": "arle_2144"
+    },
+    {
+      "original": "arle_2145"
+    },
+    {
+      "original": "arle_2146"
+    },
+    {
+      "original": "arle_2147"
+    },
+    {
+      "original": "arle_2148"
+    },
+    {
+      "original": "arle_2149"
+    },
+    {
+      "original": "arle_2150"
+    },
+    {
+      "original": "arle_2151"
+    },
+    {
+      "original": "arle_2152"
+    },
+    {
+      "original": "arle_2153"
+    },
+    {
+      "original": "arle_2154"
+    },
+    {
+      "original": "arle_2155"
+    },
+    {
+      "original": "arle_2156"
+    },
+    {
+      "original": "arle_2157"
+    },
+    {
+      "original": "arle_2158"
+    },
+    {
+      "original": "arle_2159"
+    },
+    {
+      "original": "arle_2160"
+    },
+    {
+      "original": "arle_2161"
+    },
+    {
+      "original": "arle_2162"
+    },
+    {
+      "original": "arle_2163"
+    },
+    {
+      "original": "arle_2164"
+    },
+    {
+      "original": "arle_2165"
+    },
+    {
+      "original": "arle_2166"
+    },
+    {
+      "original": "arle_2167"
+    },
+    {
+      "original": "arle_2168"
+    },
+    {
+      "original": "arle_2169"
+    },
+    {
+      "original": "arle_2170"
+    },
+    {
+      "original": "arle_2172"
+    },
+    {
+      "original": "arle_2173"
+    },
+    {
+      "original": "arle_2174"
+    },
+    {
+      "original": "arle_2175"
+    },
+    {
+      "original": "arle_2176"
+    },
+    {
+      "original": "arle_2177"
+    },
+    {
+      "original": "arle_2178"
+    },
+    {
+      "original": "arle_2179"
+    },
+    {
+      "original": "arle_2180"
+    },
+    {
+      "original": "arle_2181"
+    },
+    {
+      "original": "arle_2182"
+    },
+    {
+      "original": "arle_2183"
+    },
+    {
+      "original": "arle_2184"
+    },
+    {
+      "original": "arle_2185"
+    },
+    {
+      "original": "arle_2186"
+    },
+    {
+      "original": "arle_2187"
+    },
+    {
+      "original": "arle_2188"
+    },
+    {
+      "original": "arle_2189"
+    },
+    {
+      "original": "arle_2190"
+    },
+    {
+      "original": "arle_2191"
+    },
+    {
+      "original": "arle_2192"
+    },
+    {
+      "original": "arle_2193"
+    },
+    {
+      "original": "arle_2194"
+    },
+    {
+      "original": "arle_2195"
+    },
+    {
+      "original": "arle_2196"
+    },
+    {
+      "original": "arle_2197"
+    },
+    {
+      "original": "arle_2198"
+    },
+    {
+      "original": "arle_2199"
+    },
+    {
+      "original": "arle_2200"
+    },
+    {
+      "original": "arle_2201"
+    },
+    {
+      "original": "arle_2202"
+    },
+    {
+      "original": "arle_2203"
+    },
+    {
+      "original": "arle_2204"
+    },
+    {
+      "original": "arle_2205"
+    },
+    {
+      "original": "arle_2206"
+    },
+    {
+      "original": "arle_2207"
+    },
+    {
+      "original": "arle_2208"
+    },
+    {
+      "original": "arle_2209"
+    },
+    {
+      "original": "arle_2210"
+    },
+    {
+      "original": "arle_2211"
+    },
+    {
+      "original": "arle_2212"
+    },
+    {
+      "original": "arle_2213"
+    },
+    {
+      "original": "arle_2214"
+    },
+    {
+      "original": "arle_2215"
+    },
+    {
+      "original": "arle_2216"
+    },
+    {
+      "original": "arle_2217"
+    },
+    {
+      "original": "arle_2218"
+    },
+    {
+      "original": "arle_2219"
+    },
+    {
+      "original": "arle_2220"
+    },
+    {
+      "original": "arle_2221"
+    },
+    {
+      "original": "arle_2222"
+    },
+    {
+      "original": "arle_2223"
+    },
+    {
+      "original": "arle_2224"
+    },
+    {
+      "original": "arle_2225"
+    },
+    {
+      "original": "arle_2226"
+    },
+    {
+      "original": "arle_2227"
+    },
+    {
+      "original": "arle_2228"
+    },
+    {
+      "original": "arle_2229"
+    },
+    {
+      "original": "arle_2230"
+    },
+    {
+      "original": "arle_2231"
+    },
+    {
+      "original": "arle_2232"
+    },
+    {
+      "original": "arle_2233"
+    },
+    {
+      "original": "arle_2234"
+    },
+    {
+      "original": "arle_2235"
+    },
+    {
+      "original": "arle_2236"
+    },
+    {
+      "original": "arle_2237"
+    },
+    {
+      "original": "arle_2238"
+    },
+    {
+      "original": "arle_2239"
+    },
+    {
+      "original": "arle_2240"
+    },
+    {
+      "original": "arle_2242"
+    },
+    {
+      "original": "arle_2243"
+    },
+    {
+      "original": "arle_2244"
+    },
+    {
+      "original": "arle_2245"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm02"
+    },
+    {
+      "original": "bgm12"
+    },
+    {
+      "original": "bgm_BGM02"
+    },
+    {
+      "original": "bgm_BGM12"
+    },
+    {
+      "original": "bgv_arle_01"
+    },
+    {
+      "original": "bgv_arle_02"
+    },
+    {
+      "original": "bgv_arle_03"
+    },
+    {
+      "original": "black"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cdown"
+    },
+    {
+      "original": "cdowncls"
+    },
+    {
+      "original": "cg_@発射カウント_1"
+    },
+    {
+      "original": "cg_@発射カウント_10"
+    },
+    {
+      "original": "cg_@発射カウント_2"
+    },
+    {
+      "original": "cg_@発射カウント_3"
+    },
+    {
+      "original": "cg_@発射カウント_4"
+    },
+    {
+      "original": "cg_@発射カウント_5"
+    },
+    {
+      "original": "cg_@発射カウント_6"
+    },
+    {
+      "original": "cg_@発射カウント_7"
+    },
+    {
+      "original": "cg_@発射カウント_8"
+    },
+    {
+      "original": "cg_@発射カウント_9"
+    },
+    {
+      "original": "cg_ev_aru08_1a"
+    },
+    {
+      "original": "cg_ev_aru08_1b"
+    },
+    {
+      "original": "cg_ev_aru08_1c"
+    },
+    {
+      "original": "cg_ev_aru08_1d"
+    },
+    {
+      "original": "cg_ev_aru08_1e"
+    },
+    {
+      "original": "cg_ev_aru08_1f"
+    },
+    {
+      "original": "cg_ev_aru08_1g"
+    },
+    {
+      "original": "cg_ev_aru08_1h"
+    },
+    {
+      "original": "cg_ev_aru08_2a"
+    },
+    {
+      "original": "cg_ev_aru08_2b"
+    },
+    {
+      "original": "cg_ev_aru08_2c"
+    },
+    {
+      "original": "cg_ev_aru08_2d"
+    },
+    {
+      "original": "cg_ev_aru08_2e"
+    },
+    {
+      "original": "cg_ev_aru08_2f"
+    },
+    {
+      "original": "cg_ev_aru08_2g"
+    },
+    {
+      "original": "cg_ev_aru08_2h"
+    },
+    {
+      "original": "cg_ev_aru08_2i"
+    },
+    {
+      "original": "cg_ev_aru08_2j"
+    },
+    {
+      "original": "cg_ev_aru08_2k"
+    },
+    {
+      "original": "cg_ev_aru08_2l"
+    },
+    {
+      "original": "cg_ic_95"
+    },
+    {
+      "original": "cg_mov_aru08_2b"
+    },
+    {
+      "original": "cg_mov_aru08_2c"
+    },
+    {
+      "original": "cg_mov_aru08_2d"
+    },
+    {
+      "original": "cg_mov_aru08_2g"
+    },
+    {
+      "original": "cg_mov_aru08_2h"
+    },
+    {
+      "original": "cg_wh"
+    },
+    {
+      "original": "cg_アルル.stand"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "d01_aru_11.ks"
+    },
+    {
+      "original": "d01_aru_12.ks"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "endrecollection"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "ev"
+    },
+    {
+      "original": "ev_aru08_1a"
+    },
+    {
+      "original": "ev_aru08_1b"
+    },
+    {
+      "original": "ev_aru08_1c"
+    },
+    {
+      "original": "ev_aru08_1d"
+    },
+    {
+      "original": "ev_aru08_1e"
+    },
+    {
+      "original": "ev_aru08_1f"
+    },
+    {
+      "original": "ev_aru08_1g"
+    },
+    {
+      "original": "ev_aru08_1h"
+    },
+    {
+      "original": "ev_aru08_2a"
+    },
+    {
+      "original": "ev_aru08_2b"
+    },
+    {
+      "original": "ev_aru08_2c"
+    },
+    {
+      "original": "ev_aru08_2d"
+    },
+    {
+      "original": "ev_aru08_2e"
+    },
+    {
+      "original": "ev_aru08_2f"
+    },
+    {
+      "original": "ev_aru08_2g"
+    },
+    {
+      "original": "ev_aru08_2h"
+    },
+    {
+      "original": "ev_aru08_2i"
+    },
+    {
+      "original": "ev_aru08_2j"
+    },
+    {
+      "original": "ev_aru08_2k"
+    },
+    {
+      "original": "ev_aru08_2l"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "evcut"
+    },
+    {
+      "original": "event"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eyecatch"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "facemask"
+    },
+    {
+      "original": "flash"
+    },
+    {
+      "original": "hloopse"
+    },
+    {
+      "original": "hlse"
+    },
+    {
+      "original": "hse"
+    },
+    {
+      "original": "ic_95"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "layer"
+    },
+    {
+      "original": "loop"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "mov_aru08_2b"
+    },
+    {
+      "original": "mov_aru08_2c"
+    },
+    {
+      "original": "mov_aru08_2d"
+    },
+    {
+      "original": "mov_aru08_2g"
+    },
+    {
+      "original": "mov_aru08_2h"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "msgwin"
+    },
+    {
+      "original": "name"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "originx"
+    },
+    {
+      "original": "originy"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "playvoice"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "se擬音くちゅ"
+    },
+    {
+      "original": "se擬音ピストン中"
+    },
+    {
+      "original": "se擬音ピストン速"
+    },
+    {
+      "original": "se擬音ピストン遅"
+    },
+    {
+      "original": "se擬音射精内"
+    },
+    {
+      "original": "se擬音射精外"
+    },
+    {
+      "original": "se擬音愛撫"
+    },
+    {
+      "original": "se擬音手コキ中"
+    },
+    {
+      "original": "se擬音手コキ低"
+    },
+    {
+      "original": "se擬音手コキ早"
+    },
+    {
+      "original": "se擬音挿入Ａ"
+    },
+    {
+      "original": "se擬音挿入Ｂ"
+    },
+    {
+      "original": "se擬音挿入Ｃ"
+    },
+    {
+      "original": "se擬音膣圧大"
+    },
+    {
+      "original": "se擬音膣漏"
+    },
+    {
+      "original": "se環境音布擦れ"
+    },
+    {
+      "original": "sf.replay_aru_05h"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "stopaction"
+    },
+    {
+      "original": "stopvoice"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "thlabel_endscene_h"
+    },
+    {
+      "original": "thlabel_startscene_h"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "true"
+    },
+    {
+      "original": "type"
+    },
+    {
+      "original": "universal"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "voice"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "wh"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        122
+      ]
+    },
+    {
+      "original": "…………。",
+      "lines": [
+        84
+      ]
+    },
+    {
+      "original": "……いや実際興奮しましたけど、ちょっとだけ。",
+      "lines": [
+        115
+      ]
+    },
+    {
+      "original": "……なんて言葉は、つばと一緒に飲み込んでおく。",
+      "lines": [
+        522
+      ]
+    },
+    {
+      "original": "……まずい、さすがに無茶しすぎた……。",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "……やばい、完全に弄ばれてる。",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "……俺のせいか。",
+      "lines": [
+        440
+      ]
+    },
+    {
+      "original": "……当然か。好きな女の子としてるんだから。",
+      "lines": [
+        362
+      ]
+    },
+    {
+      "original": "「……あぁ、すごい……めちゃくちゃ感じる……」",
+      "lines": [
+        557
+      ]
+    },
+    {
+      "original": "「……あぁ、分かった」",
+      "lines": [
+        309
+      ]
+    },
+    {
+      "original": "「……ああ、また、子宮がきゅんきゅん喜んじゃってますぅ」",
+      "lines": [
+        548
+      ]
+    },
+    {
+      "original": "「……あの、蓮さん……」",
+      "lines": [
+        197
+      ]
+    },
+    {
+      "original": "「……いや、まあ、そうなんですけども」",
+      "lines": [
+        265
+      ]
+    },
+    {
+      "original": "「……お願いします」",
+      "lines": [
+        502
+      ]
+    },
+    {
+      "original": "「……すごいのが、きます、蓮さん、怖い……うぅあ、あああぁぁっ！！」",
+      "lines": [
+        112
+      ]
+    },
+    {
+      "original": "「……ずいぶんストレートに聞いてくるな」",
+      "lines": [
+        373
+      ]
+    },
+    {
+      "original": "「……そうか」",
+      "lines": [
+        252
+      ]
+    },
+    {
+      "original": "「……はぷ。んっ……ちゅく、ぐちゅっ、れろっ、んっ」",
+      "lines": [
+        536
+      ]
+    },
+    {
+      "original": "「……んぅっ！？」",
+      "lines": [
+        167
+      ]
+    },
+    {
+      "original": "「……んっ、くぷっ、れろっ、にゅる、ちゅぷっ、れろぉっ」",
+      "lines": [
+        367
+      ]
+    },
+    {
+      "original": "「……アルル、騎乗位なんて知ってたの？」",
+      "lines": [
+        376
+      ]
+    },
+    {
+      "original": "「……アルルって、結構むっつりだよね」",
+      "lines": [
+        148
+      ]
+    },
+    {
+      "original": "「……チュッ」",
+      "lines": [
+        395
+      ]
+    },
+    {
+      "original": "「……正直、アルルとこういう仲になるなんて思ってなかった」",
+      "lines": [
+        301
+      ]
+    },
+    {
+      "original": "「……私の中がおち○ぽでいっぱいになってますっ」",
+      "lines": [
+        377
+      ]
+    },
+    {
+      "original": "「……蓮さんに、言われたくないです……」",
+      "lines": [
+        329
+      ]
+    },
+    {
+      "original": "「……蓮さんは、気付かなかったかも、知れないですけど……」",
+      "lines": [
+        518
+      ]
+    },
+    {
+      "original": "「あ……は、ぅっ……はひぃっ……」",
+      "lines": [
+        137,
+        434
+      ]
+    },
+    {
+      "original": "「あ、ああ……」",
+      "lines": [
+        168
+      ]
+    },
+    {
+      "original": "「あ、ああ、くぅっ……！」",
+      "lines": [
+        233
+      ]
+    },
+    {
+      "original": "「あ、ああ、また出す！　アルルの体にかけるから……」",
+      "lines": [
+        225
+      ]
+    },
+    {
+      "original": "「あ、ああああ！」",
+      "lines": [
+        238
+      ]
+    },
+    {
+      "original": "「あ、ああッ、い、イクっ、アルル、また出る！！」",
+      "lines": [
+        75
+      ]
+    },
+    {
+      "original": "「あ、く……」",
+      "lines": [
+        257
+      ]
+    },
+    {
+      "original": "「あ、そ、そうなの……？」",
+      "lines": [
+        289
+      ]
+    },
+    {
+      "original": "「あ、は、入って、くるっ、んぁっ……！」",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "「あ、アルル……？」",
+      "lines": [
+        68
+      ]
+    },
+    {
+      "original": "「あ、少しずつ大きくなってきましたよ？」",
+      "lines": [
+        470
+      ]
+    },
+    {
+      "original": "「あぁんっ、あんっ、はぁ、はぁ……！　こんなの、すごすぎますぅっ」",
+      "lines": [
+        299
+      ]
+    },
+    {
+      "original": "「ああ……偉いぞアルル。ちゃんと自分で入れられて」",
+      "lines": [
+        404
+      ]
+    },
+    {
+      "original": "「ああ、もちろん……！」",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "「ああ、蓮さんの顔、素敵ぃ……♪」",
+      "lines": [
+        89
+      ]
+    },
+    {
+      "original": "「ああぁ……これで、いつも私の中をかき回してるんですね……」",
+      "lines": [
+        427
+      ]
+    },
+    {
+      "original": "「ああぁぁぁああっ……！　入って、赤ちゃんができるところに、いっぱい……！」",
+      "lines": [
+        246
+      ]
+    },
+    {
+      "original": "「ああぁっ、全身にかかって、ふあっ、気持ちいい♪」",
+      "lines": [
+        349
+      ]
+    },
+    {
+      "original": "「ああッ、すごいぃっ、おま○こ勝手に締まって……んきゅううぅっ！」",
+      "lines": [
+        384
+      ]
+    },
+    {
+      "original": "「あぅっ、くふっ……ゴリゴリ、中が擦れてっ……気持ちいいですっ」",
+      "lines": [
+        481
+      ]
+    },
+    {
+      "original": "「あうっ、あくっ、ぃひっ、いいっ……！」",
+      "lines": [
+        455
+      ]
+    },
+    {
+      "original": "「あくっ、んんッ、ふあっ、やらっ、すごいっ、中がゴリゴリ削られていきますぅっ」",
+      "lines": [
+        424
+      ]
+    },
+    {
+      "original": "「あつっ、んっく、はくっ、ぃいっ、イイッ……！　中出し、気持ちいいですぅっ！」",
+      "lines": [
+        191
+      ]
+    },
+    {
+      "original": "「あの、まだ出そうですか……？」",
+      "lines": [
+        109
+      ]
+    },
+    {
+      "original": "「あの、蓮さん、少し聞きたいんですけど」",
+      "lines": [
+        221
+      ]
+    },
+    {
+      "original": "「あはっ、またおち○ぽ大きくなったぁ……」",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "「あはっ、大きくなってない時はこんな感じなんですね」",
+      "lines": [
+        141
+      ]
+    },
+    {
+      "original": "「あはっ、蓮さん、エッチなお汁が出てきましたよ」",
+      "lines": [
+        498
+      ]
+    },
+    {
+      "original": "「あふれるくらい、たくさんのせーえき、私の中に、出してぇぇぇっ」",
+      "lines": [
+        224
+      ]
+    },
+    {
+      "original": "「あぷっ、ちゅぷっ、んぅっ、はぅっ、ちゅううぅっ！」",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "「ありがとう。こんなに尽くしてくれて」",
+      "lines": [
+        321
+      ]
+    },
+    {
+      "original": "「あん、あんっ、深いっ、深いところまで、入って……！」",
+      "lines": [
+        368
+      ]
+    },
+    {
+      "original": "「あッ、あンッ、くふっ、ぃひっ……え、な、なんですか……？」",
+      "lines": [
+        214
+      ]
+    },
+    {
+      "original": "「あッ、くぅっ、アルル、それ強っ……！」",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "「い、いや……」",
+      "lines": [
+        173
+      ]
+    },
+    {
+      "original": "「いいですよ、好きなところに出してくださいね」",
+      "lines": [
+        413
+      ]
+    },
+    {
+      "original": "「いくぅぅぅうううぅうぅうっ！！」",
+      "lines": [
+        513
+      ]
+    },
+    {
+      "original": "「いくっ、中出しで、またイッちゃうぅぅっ、んきゅうううぅぅっ！！」",
+      "lines": [
+        315
+      ]
+    },
+    {
+      "original": "「いっぱいいっぱい……おち○ぽ扱きますから……精液くださいっ」",
+      "lines": [
+        155
+      ]
+    },
+    {
+      "original": "「いつもはおち○ぽを舐めさせて貰ってますけど、今日は手でご奉仕でしたから」",
+      "lines": [
+        465
+      ]
+    },
+    {
+      "original": "「いやなのに、だめ、なのに……腰が、とまらないよぉっ！」",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "「いやなんですか？　そうじゃないですよね」",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "「い～っぱい尽くしますので、気持ちよくなってくださいね？」",
+      "lines": [
+        100
+      ]
+    },
+    {
+      "original": "「う、うん……」",
+      "lines": [
+        146
+      ]
+    },
+    {
+      "original": "「うふふ、本当に良さそうな顔してますね……」",
+      "lines": [
+        302
+      ]
+    },
+    {
+      "original": "「うん……アルルの中に入っているのが見えるよ」",
+      "lines": [
+        442
+      ]
+    },
+    {
+      "original": "「え……？」",
+      "lines": [
+        157
+      ]
+    },
+    {
+      "original": "「え、え、ええ？」",
+      "lines": [
+        303
+      ]
+    },
+    {
+      "original": "「え、えへへ……私本当にえっちな子になっちゃいました……」",
+      "lines": [
+        282
+      ]
+    },
+    {
+      "original": "「えへへ、そうでしたぁ」",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "「えへへ。可愛いなんて言われたら、たまらなくなっちゃうじゃないですかぁ」",
+      "lines": [
+        217
+      ]
+    },
+    {
+      "original": "「え？　ちょ、ちょっと待っ――ひぃっ！？」",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "「お、おいアルル……」",
+      "lines": [
+        472
+      ]
+    },
+    {
+      "original": "「おち○ぽ、おち○ぽイイッ、もっと、突いてください、蓮さぁん」",
+      "lines": [
+        456
+      ]
+    },
+    {
+      "original": "「おち○ぽが、おま○この中をほじって、ぐりぐりってして、やっ、広がっちゃうっ」",
+      "lines": [
+        408
+      ]
+    },
+    {
+      "original": "「おち○ぽが、私の中で暴れてっ、きゃふっ、んくぅぅっ、感じます、ゴリゴリってして、いいよぉっ……！」",
+      "lines": [
+        476
+      ]
+    },
+    {
+      "original": "「おち○ぽすごいですっ、もう、おま○こ、おち○ぽの形になっちゃってますっ」",
+      "lines": [
+        527
+      ]
+    },
+    {
+      "original": "「おち○ぽも……せーえきも、きもち、よしゅぎますぅ……♪」",
+      "lines": [
+        163
+      ]
+    },
+    {
+      "original": "「おイヤですか？　それなら、ん、やめますけど」",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "「お口は経験がありますけど、この手コキ？　というのは初めてなので、あんまり上手くないかもですけど」",
+      "lines": [
+        183
+      ]
+    },
+    {
+      "original": "「きゃあっ、ああ、出てるっ、蓮さんの精液……！」",
+      "lines": [
+        409
+      ]
+    },
+    {
+      "original": "「きゃぅっ、うくっ、あぃっ、すごいっ……です、ぐいぐい子宮に、先が当たって……んんんんっ！！」",
+      "lines": [
+        381
+      ]
+    },
+    {
+      "original": "「きゃうっ、き、急に奥までぇっ……！」",
+      "lines": [
+        436
+      ]
+    },
+    {
+      "original": "「きゃっ、わ、私の中で……おち○ぽが、また大きく……！」",
+      "lines": [
+        105
+      ]
+    },
+    {
+      "original": "「きゃん、もう、おとなしくしてて」",
+      "lines": [
+        135
+      ]
+    },
+    {
+      "original": "「くぅ……！」",
+      "lines": [
+        202
+      ]
+    },
+    {
+      "original": "「くすくす、ぬちゃ、ぬちゃって音が、とってもエッチです♪」",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "「くすくす、本当に嬉しそうですね、蓮さん」",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "「くすっ」",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "「くにくに、くにくに」",
+      "lines": [
+        249
+      ]
+    },
+    {
+      "original": "「けど……ヌルヌルで、ねちょねちょして、んぅっ……」",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "「この根本の部分を、しゅっしゅってすると、どうですか？」",
+      "lines": [
+        371
+      ]
+    },
+    {
+      "original": "「こんなえっちなこと、どこで覚えたのかなぁって……」",
+      "lines": [
+        433
+      ]
+    },
+    {
+      "original": "「こんなに、出してくれて、嬉しい、です……」",
+      "lines": [
+        93
+      ]
+    },
+    {
+      "original": "「こんなに、竿に血管が脈打って……私の手の中でビクビクしてますよ？」",
+      "lines": [
+        256
+      ]
+    },
+    {
+      "original": "「こんなにたくさん出してもらったんですから、私だって舐めたいですし飲みたいですっ」",
+      "lines": [
+        325
+      ]
+    },
+    {
+      "original": "「こんなの、ずるいぃっ……！　すぐに気持ちよくなっちゃうっ」",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "「こんなのも、新鮮でいいかな、なんて」",
+      "lines": [
+        459
+      ]
+    },
+    {
+      "original": "「こんなのダメぇっ、変に、変になるぅっ……おかしくなっちゃいます、蓮さぁんっ」",
+      "lines": [
+        447
+      ]
+    },
+    {
+      "original": "「こんな気持ちいいこと、教えたんですから……責任、とってくださいね？」",
+      "lines": [
+        437
+      ]
+    },
+    {
+      "original": "「ごめん……ぜんぜん萎えてなくて」",
+      "lines": [
+        380
+      ]
+    },
+    {
+      "original": "「ごめんごめん、じゃあ、お詫びってことで……」",
+      "lines": [
+        450
+      ]
+    },
+    {
+      "original": "「ごめんアルル！　抑えられそうにない……！」",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "「じゃあ、ご期待にそえるように、がんばりますね」",
+      "lines": [
+        165
+      ]
+    },
+    {
+      "original": "「じゃあ、そのままリラックスしていてください」",
+      "lines": [
+        352
+      ]
+    },
+    {
+      "original": "「すぐによくなっちゃいますっ、あっ……はあっ、やらっ、これダメぇ！」",
+      "lines": [
+        245
+      ]
+    },
+    {
+      "original": "「すごっ、こんな勢いで、んぁぁっ！」",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "「そ、そりゃ……アルルの手だから」",
+      "lines": [
+        6
+      ]
+    },
+    {
+      "original": "「そ、それじゃ、脱ぎますね……」",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "「そうですかぁ……んん～、難しいですね」",
+      "lines": [
+        90
+      ]
+    },
+    {
+      "original": "「そう思うと、すっごく愛おしくなります……」",
+      "lines": [
+        71
+      ]
+    },
+    {
+      "original": "「そう言ってもらえると、頑張ってるかいがあります」",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "「そりゃあ、もう」",
+      "lines": [
+        311
+      ]
+    },
+    {
+      "original": "「それだけでいいの？」",
+      "lines": [
+        199
+      ]
+    },
+    {
+      "original": "「それどんな信頼――」",
+      "lines": [
+        216
+      ]
+    },
+    {
+      "original": "「それに、たまたまのところも、こんなになってますぅ」",
+      "lines": [
+        268
+      ]
+    },
+    {
+      "original": "「それよりも……そろそろ、私のここに欲しいんですけど……」",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "「そんなことないですよぉ？」",
+      "lines": [
+        106
+      ]
+    },
+    {
+      "original": "「そんなに暴れたら、手コキできないでしょ？」",
+      "lines": [
+        304
+      ]
+    },
+    {
+      "original": "「そんなアルルも大好きだよ……」",
+      "lines": [
+        147
+      ]
+    },
+    {
+      "original": "「そんな顔されたら、たまらなくなっちゃいます」",
+      "lines": [
+        526
+      ]
+    },
+    {
+      "original": "「だいじょうぶ、れす……」",
+      "lines": [
+        156
+      ]
+    },
+    {
+      "original": "「だったら、蓮さんを舐めたいなぁ、って」",
+      "lines": [
+        154
+      ]
+    },
+    {
+      "original": "「だって、私のお口が寂しいんですもの」",
+      "lines": [
+        255
+      ]
+    },
+    {
+      "original": "「だってもったいないじゃないですかぁ」",
+      "lines": [
+        410
+      ]
+    },
+    {
+      "original": "「だめ、イクっ、きちゃうっ、熱いのがのぼってきて、ふああああぁっ、いくっ、いくぅうっ！」",
+      "lines": [
+        458
+      ]
+    },
+    {
+      "original": "「ちがっ、そうじゃなくてっ、おち○ぽがぐいぐい入ってくるんですっ」",
+      "lines": [
+        539
+      ]
+    },
+    {
+      "original": "「ちゅぷっ、ぢゅるっ、ちゅぱっ、くちゅっ、んちゅぅっ……」",
+      "lines": [
+        209
+      ]
+    },
+    {
+      "original": "「ちゅるっ、ちゅくっ、かぷっ、ちゅぅうううっ」",
+      "lines": [
+        152
+      ]
+    },
+    {
+      "original": "「ちゅるっ、ちゅっ、ちゅっ」",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "「ちょっと……恥ずかしいですけれど……」",
+      "lines": [
+        284
+      ]
+    },
+    {
+      "original": "「では、い、入れますね……」",
+      "lines": [
+        72
+      ]
+    },
+    {
+      "original": "「では、もーっと大きくなってくださいね」",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "「でも、こうやって裸をあわせて、お互いの顔を見るって、すごくエッチです……」",
+      "lines": [
+        94
+      ]
+    },
+    {
+      "original": "「とっても逞しくて、私、すぐにでも欲しくなっちゃいます」",
+      "lines": [
+        435
+      ]
+    },
+    {
+      "original": "「どうしたんですか、蓮さん――」",
+      "lines": [
+        136
+      ]
+    },
+    {
+      "original": "「どうですか、蓮さん……気持ちいい、ですか？」",
+      "lines": [
+        110
+      ]
+    },
+    {
+      "original": "「な、なに？」",
+      "lines": [
+        118
+      ]
+    },
+    {
+      "original": "「なるほど、一理ある」",
+      "lines": [
+        394
+      ]
+    },
+    {
+      "original": "「は、はいっ、私も、あんっ、あ、あ、気持ちいい、ですっ」",
+      "lines": [
+        203
+      ]
+    },
+    {
+      "original": "「はぁ……くさぁい、それなのに、いい匂いで……クラクラします」",
+      "lines": [
+        324
+      ]
+    },
+    {
+      "original": "「はぁ、はぁ……すごいよぉ、こんなの知らないですぅ」",
+      "lines": [
+        544
+      ]
+    },
+    {
+      "original": "「はぁ、はぁ……すごかった、です……」",
+      "lines": [
+        293
+      ]
+    },
+    {
+      "original": "「はぁ、はぁ……蓮さん、蓮さぁん……」",
+      "lines": [
+        300
+      ]
+    },
+    {
+      "original": "「はぁ、はぁ、すごい、いつもより深くまで入って――」",
+      "lines": [
+        516
+      ]
+    },
+    {
+      "original": "「はぁ、はぁ、はぁ……んくっ、はぁ、はぁ……」",
+      "lines": [
+        248
+      ]
+    },
+    {
+      "original": "「はぁ、びちゃびちゃになっちゃいました……」",
+      "lines": [
+        532
+      ]
+    },
+    {
+      "original": "「はぁ、ふぃっ、ぃひっ、んっ……はぁ、はぁ……」",
+      "lines": [
+        98
+      ]
+    },
+    {
+      "original": "「はぁぁっ、手の平に熱が伝わってきて、とっても、んっ……すごいです」",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "「はぁ～、こんなに可愛いんですねぇ」",
+      "lines": [
+        187
+      ]
+    },
+    {
+      "original": "「はあ……ぬるぬるで、気持ちいいですぅ……」",
+      "lines": [
+        210
+      ]
+    },
+    {
+      "original": "「はあ……蓮さんの乳首、美味しい……」",
+      "lines": [
+        192
+      ]
+    },
+    {
+      "original": "「はあ、はあ…………え？」",
+      "lines": [
+        254
+      ]
+    },
+    {
+      "original": "「はあ、はあ、なにも……手についたのを舐めなくても……」",
+      "lines": [
+        431
+      ]
+    },
+    {
+      "original": "「はあ、はあ、はあ……」",
+      "lines": [
+        402
+      ]
+    },
+    {
+      "original": "「はあ、はあ、蓮さんっ……私、あ、あ、も、もう……イき、そう、です……！」",
+      "lines": [
+        184
+      ]
+    },
+    {
+      "original": "「はあぁぁ……いつも、私の中でこんなふうに出てるんですね……」",
+      "lines": [
+        234
+      ]
+    },
+    {
+      "original": "「はい……♪」",
+      "lines": [
+        97
+      ]
+    },
+    {
+      "original": "「はい……これで突かれた私なんて、すぐによがっちゃいます……」",
+      "lines": [
+        266
+      ]
+    },
+    {
+      "original": "「はい♪」",
+      "lines": [
+        45
+      ]
+    },
+    {
+      "original": "「はい、あなたのアルルですよぉ」",
+      "lines": [
+        129
+      ]
+    },
+    {
+      "original": "「はい、ありますね。ここ……すごく美味しそうです……」",
+      "lines": [
+        497
+      ]
+    },
+    {
+      "original": "「はい、はい、出してっ……！　また、子宮に、赤ちゃんができるところに、いっぱい……！」",
+      "lines": [
+        239
+      ]
+    },
+    {
+      "original": "「はい、イッて……！　精液、ビュルビュル出してくださいっ」",
+      "lines": [
+        113
+      ]
+    },
+    {
+      "original": "「はうぅ、ごめんなさい。場所が場所なので、ちょっと大胆に……」",
+      "lines": [
+        451
+      ]
+    },
+    {
+      "original": "「はうぅっ、あうッ、ひゃぅっ、ぃいっ、いいっ、あぁあっ！」",
+      "lines": [
+        542
+      ]
+    },
+    {
+      "original": "「はちゅっ、ぷちゅっ、くりゅっ、れりょぉっ、んぷぅっ……」",
+      "lines": [
+        538
+      ]
+    },
+    {
+      "original": "「はふっ、あぁ……れん、さぁん……」",
+      "lines": [
+        517
+      ]
+    },
+    {
+      "original": "「はふっ、はぁ、はぁ……」",
+      "lines": [
+        160
+      ]
+    },
+    {
+      "original": "「はぷっ、くちゅっ、ちゅぅうっ、んぷっ」",
+      "lines": [
+        492
+      ]
+    },
+    {
+      "original": "「ひぃっ、きゃぁっ、んやあぁああぁぁっ！」",
+      "lines": [
+        520
+      ]
+    },
+    {
+      "original": "「ひぃっ、はふぅっ、あぁ……おち○ぽ、おち○ぽ……気持ち、いい……」",
+      "lines": [
+        420
+      ]
+    },
+    {
+      "original": "「ひぅうっ、こんなッ、ふああっ、あああぁぁぁっ！」",
+      "lines": [
+        243
+      ]
+    },
+    {
+      "original": "「ひゃああああぁぁぁっ！」",
+      "lines": [
+        253
+      ]
+    },
+    {
+      "original": "「ぴちゃ、ちゅっ……こくっ、はぁ、すごく濃い……ちゅるぅっ、こくっ」",
+      "lines": [
+        351
+      ]
+    },
+    {
+      "original": "「ふぁぁっ、おま○こ気持ちいいよぉ……！　おち○ぽギュウギュウして、んっ、くぅっ！」",
+      "lines": [
+        345
+      ]
+    },
+    {
+      "original": "「ふあっ、あッ、ああっ、んあああっ！」",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "「ふふ、どうですか、蓮さん？」",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "「ふふ、なんだか不思議な感触です」",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "「ふふっ、いつもは私が声を出してましたけど、今日は蓮さんの番ですね」",
+      "lines": [
+        264
+      ]
+    },
+    {
+      "original": "「ふふっ、また今度して差し上げますね」",
+      "lines": [
+        441
+      ]
+    },
+    {
+      "original": "「ふふっ、嬉しいです」",
+      "lines": [
+        95
+      ]
+    },
+    {
+      "original": "「ふふふ、なかなか立派だろ？」",
+      "lines": [
+        506
+      ]
+    },
+    {
+      "original": "「ふやああああぁぁぁぁぁぁああああぁぁっ！　いくぅぅううううっ！！」",
+      "lines": [
+        116
+      ]
+    },
+    {
+      "original": "「ほ、ほら、あれですよ。もっと蓮さんを気持ちよくさせられたらなー、って思ったんですけど」",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "「ほら、だってここ……大きくなってきましたから」",
+      "lines": [
+        194
+      ]
+    },
+    {
+      "original": "「ま、待って、アルル！　手を動かさないで……！」",
+      "lines": [
+        126
+      ]
+    },
+    {
+      "original": "「まず、竿を握って……」",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "「まずは私の手で、大きくなってくださいね～」",
+      "lines": [
+        550
+      ]
+    },
+    {
+      "original": "「また今度、お願いしてもいいですか……？」",
+      "lines": [
+        232
+      ]
+    },
+    {
+      "original": "「また私の体にかけて欲しいです、蓮さんの精液に包まれたいっ」",
+      "lines": [
+        495
+      ]
+    },
+    {
+      "original": "「も、だめ、れん、お兄さん……私、本当に壊れちゃう、壊れちゃうううぅぅっ！」",
+      "lines": [
+        172
+      ]
+    },
+    {
+      "original": "「も、もう限界、出していい……？」",
+      "lines": [
+        471
+      ]
+    },
+    {
+      "original": "「もう、おち○ぽのことしか考えられなくなって、ふあああああぁぁあっ！！」",
+      "lines": [
+        486
+      ]
+    },
+    {
+      "original": "「もう、何度もイッてるのに、とまらないぃっ、壊れちゃう、壊れちゃいます蓮さぁんっ」",
+      "lines": [
+        359
+      ]
+    },
+    {
+      "original": "「もっと……？　こう、こうですか……？」",
+      "lines": [
+        204
+      ]
+    },
+    {
+      "original": "「もっと精液ください、ご奉仕しますから、蓮さんの精液ぃっ」",
+      "lines": [
+        443
+      ]
+    },
+    {
+      "original": "「もっと精液を貰えるってことですよね？」",
+      "lines": [
+        193
+      ]
+    },
+    {
+      "original": "「もっと蓮さんの精液、欲しいです……」",
+      "lines": [
+        312
+      ]
+    },
+    {
+      "original": "「や、やだ、いやですっ、おち○ぽでかき回してもらわないとイヤですっ……」",
+      "lines": [
+        464
+      ]
+    },
+    {
+      "original": "「やあぁっ、えっちな音がおま○こから聞こえてますぅっ！」",
+      "lines": [
+        87
+      ]
+    },
+    {
+      "original": "「やっぱり、このカチカチの方が、私は好きです」",
+      "lines": [
+        117
+      ]
+    },
+    {
+      "original": "「やっぱり男の人の体は、男の人の方が詳しいかと思いまして」",
+      "lines": [
+        430
+      ]
+    },
+    {
+      "original": "「ようやく……お腹に、精液、もらえました……」",
+      "lines": [
+        363
+      ]
+    },
+    {
+      "original": "「よかった、もっと私を味わってください、恋人セックス教えてください……！」",
+      "lines": [
+        482
+      ]
+    },
+    {
+      "original": "「らめっ……こんな、すごすぎっ……！　ぐちゅぐちゅおま○こ、感じちゃうよぉっ」",
+      "lines": [
+        545
+      ]
+    },
+    {
+      "original": "「れんさん、私、こんなに出して頂いて、嬉しいです……」",
+      "lines": [
+        131
+      ]
+    },
+    {
+      "original": "「わかりました、やってみますね」",
+      "lines": [
+        86
+      ]
+    },
+    {
+      "original": "「ん……♪　いつもの見慣れたおち○ぽになりました」",
+      "lines": [
+        145
+      ]
+    },
+    {
+      "original": "「ん、く、かなり……気持ちいい」",
+      "lines": [
+        287
+      ]
+    },
+    {
+      "original": "「ん、んんっ、あっ……」",
+      "lines": [
+        120
+      ]
+    },
+    {
+      "original": "「ん、分かった……えっと」",
+      "lines": [
+        407
+      ]
+    },
+    {
+      "original": "「んぁああぁあっ……！　押し上げ、られて、ますっ」",
+      "lines": [
+        509
+      ]
+    },
+    {
+      "original": "「んああぁぁあああっ！！　はいってくるぅぅっ、ひぁああぁぁっ！？」",
+      "lines": [
+        449
+      ]
+    },
+    {
+      "original": "「んきゅうっ、あふっ、あっ、やらっ、いきなり激し――」",
+      "lines": [
+        419
+      ]
+    },
+    {
+      "original": "「んくぅぅぅっ！　きてるっ、きてますっ、子宮に、おち○ぽミルクが、入って……！」",
+      "lines": [
+        292
+      ]
+    },
+    {
+      "original": "「んくぅっ、も、もう少しで、全部……」",
+      "lines": [
+        171
+      ]
+    },
+    {
+      "original": "「んっ……おち○ぽ、ビクビクしてきましたね、イきたいんですか？」",
+      "lines": [
+        259
+      ]
+    },
+    {
+      "original": "「んっ……ご馳走様でした」",
+      "lines": [
+        186
+      ]
+    },
+    {
+      "original": "「んっ、あつっ……！　ふふっ、体にもかけてくれたんですね、ありがとうございます♪」",
+      "lines": [
+        429
+      ]
+    },
+    {
+      "original": "「んっ、くっ、ふぅっ、あ、はぁあ……」",
+      "lines": [
+        208
+      ]
+    },
+    {
+      "original": "「んっ、くぷっ、れろぉっ、ちゅぷぅっ、ちゅっ……」",
+      "lines": [
+        521
+      ]
+    },
+    {
+      "original": "「んっ、ふぅっ、はぅっ、あくっ……子宮、いっぱいの、せーえきぃ♪」",
+      "lines": [
+        215
+      ]
+    },
+    {
+      "original": "「んっ、またビクンビクン震えてます、血管が脈打って……」",
+      "lines": [
+        493
+      ]
+    },
+    {
+      "original": "「んひっ、ぃきっ、ひぃあああっ！　イクっ、おち○ぽ、おま○こでしごきながらイッてるぅっ！」",
+      "lines": [
+        296
+      ]
+    },
+    {
+      "original": "「んッ、くああああぁぁぁぁっ！」",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "「んー、ここじゃないですかね、こっちですかねー？」",
+      "lines": [
+        549
+      ]
+    },
+    {
+      "original": "「ん？」",
+      "lines": [
+        211
+      ]
+    },
+    {
+      "original": "「ア、アルル……」",
+      "lines": [
+        162
+      ]
+    },
+    {
+      "original": "「ア、アルル……なんか変な気分になってくるんだけど……」",
+      "lines": [
+        525
+      ]
+    },
+    {
+      "original": "「ア、アルル、大丈夫……？」",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "「アルル……遊んでるでしょ？」",
+      "lines": [
+        348
+      ]
+    },
+    {
+      "original": "「アルル……？」",
+      "lines": [
+        181
+      ]
+    },
+    {
+      "original": "「アルル、で、出る……、出すよっ」",
+      "lines": [
+        496
+      ]
+    },
+    {
+      "original": "「アルル、もう出るから……！　俺もイクから……っ」",
+      "lines": [
+        153
+      ]
+    },
+    {
+      "original": "「アルル、何をして――」",
+      "lines": [
+        327
+      ]
+    },
+    {
+      "original": "「アルル、急にそんなに動かして大丈夫？」",
+      "lines": [
+        534
+      ]
+    },
+    {
+      "original": "「アルル」",
+      "lines": [
+        333
+      ]
+    },
+    {
+      "original": "「アルルがしたいなら、いいよ」",
+      "lines": [
+        261
+      ]
+    },
+    {
+      "original": "「アルルのおかげで新しい扉が開けそうだった」",
+      "lines": [
+        393
+      ]
+    },
+    {
+      "original": "「アルルの中めちゃくちゃ気持ちいい……」",
+      "lines": [
+        396
+      ]
+    },
+    {
+      "original": "「アルルも大事な、妹みたいな子だったから……」",
+      "lines": [
+        231
+      ]
+    },
+    {
+      "original": "「イキそうなんですね、出してください、もっと、いっぱい……！」",
+      "lines": [
+        501
+      ]
+    },
+    {
+      "original": "「イクっ、イクイクっ、こんなの、しんじられな……すごいぃっ！」",
+      "lines": [
+        164
+      ]
+    },
+    {
+      "original": "「イヤというか、なんというか……」",
+      "lines": [
+        403
+      ]
+    },
+    {
+      "original": "「一緒に、イッて、もらえませんか……？」",
+      "lines": [
+        127
+      ]
+    },
+    {
+      "original": "「今みたいにで大丈夫ですか？」",
+      "lines": [
+        314
+      ]
+    },
+    {
+      "original": "「今度は、こっちでも……おま○こでも尽くしますから……」",
+      "lines": [
+        195
+      ]
+    },
+    {
+      "original": "「今敏感になってるから、イッたばっかりだから！」",
+      "lines": [
+        8
+      ]
+    },
+    {
+      "original": "「今日は、私がしますから……」",
+      "lines": [
+        270
+      ]
+    },
+    {
+      "original": "「今日は、私の中に……子宮に、たぁっぷり注いでくださいね？」",
+      "lines": [
+        166
+      ]
+    },
+    {
+      "original": "「今日はいっぱい尽くしてあげちゃうんですから」",
+      "lines": [
+        337
+      ]
+    },
+    {
+      "original": "「今日はラブホテルなんだし」",
+      "lines": [
+        277
+      ]
+    },
+    {
+      "original": "「今日は私が上になりますね……」",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "「俺はアルルの可愛い顔が見れるから嬉しいよ」",
+      "lines": [
+        411
+      ]
+    },
+    {
+      "original": "「俺も……いくっ！」",
+      "lines": [
+        142
+      ]
+    },
+    {
+      "original": "「先っぽから、ぷくって出てきて、私の手を汚しちゃいました」",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "「先端かな？　根本かな？　どこが気持ちいいですか？」",
+      "lines": [
+        298
+      ]
+    },
+    {
+      "original": "「入った……ずぶって、全部、入りましたよ……蓮さん……っ」",
+      "lines": [
+        178
+      ]
+    },
+    {
+      "original": "「出して、蓮さん、熱い精液……ぴゅっぴゅって出るところ、見せてください」",
+      "lines": [
+        222
+      ]
+    },
+    {
+      "original": "「出そうですか？　いいんですよ、いっぱい出してくださいね？」",
+      "lines": [
+        416
+      ]
+    },
+    {
+      "original": "「出る、受け止めてくれ、アルル！」",
+      "lines": [
+        316
+      ]
+    },
+    {
+      "original": "「分かった……それじゃあたっぷり出すからね」",
+      "lines": [
+        119
+      ]
+    },
+    {
+      "original": "「口と手だと違いがあるので、教えていただけますか？」",
+      "lines": [
+        130
+      ]
+    },
+    {
+      "original": "「口は今度ね……で、そこまで搾っていくように擦る」",
+      "lines": [
+        372
+      ]
+    },
+    {
+      "original": "「咲ちゃんが……梨々愛さんから借りたっていう本を見せてくれて……」",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "「喜んで頂いて良かったです♪」",
+      "lines": [
+        338
+      ]
+    },
+    {
+      "original": "「声出したら寮のみんなに聞こえるとか気にしなくていいからさ」",
+      "lines": [
+        128
+      ]
+    },
+    {
+      "original": "「大丈夫……それで、根本から亀頭の、ほら、くびれのところあるよね？」",
+      "lines": [
+        457
+      ]
+    },
+    {
+      "original": "「大丈夫……アルルの中、すごい締めてくれるから……」",
+      "lines": [
+        328
+      ]
+    },
+    {
+      "original": "「大丈夫じゃ、ない、です……蓮さんのおち○ぽ、最高です♪」",
+      "lines": [
+        198
+      ]
+    },
+    {
+      "original": "「大丈夫です、蓮さんなら、まだまだイけます♪」",
+      "lines": [
+        340
+      ]
+    },
+    {
+      "original": "「恋人……セックス……」",
+      "lines": [
+        281
+      ]
+    },
+    {
+      "original": "「恋人だからな」",
+      "lines": [
+        335
+      ]
+    },
+    {
+      "original": "「恋人にそんなこと言われたら嬉しいに決まってる」",
+      "lines": [
+        341
+      ]
+    },
+    {
+      "original": "「恋人セックス……ですか……」",
+      "lines": [
+        551
+      ]
+    },
+    {
+      "original": "「恋人セックス……他にも、いろいろと教えてください……」",
+      "lines": [
+        339
+      ]
+    },
+    {
+      "original": "「恋人セックス、たっぷりしよう」",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "「悪くはないなんて言ってましたけど、気持ちいいんですね」",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "「悪くはないんだけど……」",
+      "lines": [
+        358
+      ]
+    },
+    {
+      "original": "「最高だよアルル……もっと、強くしてもらいたいくらい……」",
+      "lines": [
+        334
+      ]
+    },
+    {
+      "original": "「本当ですか……？　本気にしますよ……？」",
+      "lines": [
+        280
+      ]
+    },
+    {
+      "original": "「本当に恋人同士って感じがしますね」",
+      "lines": [
+        207
+      ]
+    },
+    {
+      "original": "「欲しい、もっと体にかけて欲しいです、精液、せーえきぃ」",
+      "lines": [
+        356
+      ]
+    },
+    {
+      "original": "「気持ちいい、気持ちいいです……恋人セックス、イイッ……！」",
+      "lines": [
+        485
+      ]
+    },
+    {
+      "original": "「気持ちいいっ、おち○ぽ気持ちよすぎるぅぅっ！　中の精液でも、おち○ぽでもイクうぅぅっ！」",
+      "lines": [
+        487
+      ]
+    },
+    {
+      "original": "「気持ちよすぎるのに、おま○こが勝手におち○ぽ締め付けて、もっとせーえき欲しがっちゃう、らめ、らめぇぇっ！」",
+      "lines": [
+        111
+      ]
+    },
+    {
+      "original": "「男の人って、いつもどうやってオナニーしてるんですか？」",
+      "lines": [
+        330
+      ]
+    },
+    {
+      "original": "「私、本当は……大好きな蓮さんのおち○ぽをずっと入れていたいくらい、えっちな娘なんですよ……？」",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "「私がお口に咥える時は、もう硬くなってましたよ」",
+      "lines": [
+        99
+      ]
+    },
+    {
+      "original": "「私の、アルルの手で、もっと気持ちよくなってくださいね♪」",
+      "lines": [
+        235
+      ]
+    },
+    {
+      "original": "「私の体は、いつでも蓮さんの精液を受ける準備ができてますから」",
+      "lines": [
+        174
+      ]
+    },
+    {
+      "original": "「私の手でも、んっ、ちゅっ、体にでも、どこにでも……！」",
+      "lines": [
+        397
+      ]
+    },
+    {
+      "original": "「私も、です……でも……今は、本当に、嬉しいんです……」",
+      "lines": [
+        445
+      ]
+    },
+    {
+      "original": "「私もまだまだ足りないんです……」",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "「絶景です」",
+      "lines": [
+        196
+      ]
+    },
+    {
+      "original": "「蓮お兄さん、いつも私がそう言ってもやめてくれないでしょ？」",
+      "lines": [
+        276
+      ]
+    },
+    {
+      "original": "「蓮お兄さんは、そのままで居て下さい」",
+      "lines": [
+        305,
+        336
+      ]
+    },
+    {
+      "original": "「蓮さん……」",
+      "lines": [
+        357
+      ]
+    },
+    {
+      "original": "「蓮さん……気持ちいいですか？　私のおま○こ、美味しいですか……？」",
+      "lines": [
+        260
+      ]
+    },
+    {
+      "original": "「蓮さん、楽しんで頂けましたか？」",
+      "lines": [
+        452
+      ]
+    },
+    {
+      "original": "「蓮さん、許しっ……！　イッてます、イッてますからぁ、もっとゆっくり……！」",
+      "lines": [
+        310
+      ]
+    },
+    {
+      "original": "「蓮さんが少し動いてるだけで……嬉しくてしかたないんです……」",
+      "lines": [
+        446
+      ]
+    },
+    {
+      "original": "「蓮さんと、もっと恋人セックス……したいです。中出しして欲しいです……」",
+      "lines": [
+        223
+      ]
+    },
+    {
+      "original": "「蓮さんに気持ちよくなってもらうと、私も気持ちいいんです」",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "「蓮さんのおち○ぽが、いつもみたいにビンビンになるように、がんばっちゃいますから」",
+      "lines": [
+        285
+      ]
+    },
+    {
+      "original": "「蓮さんのを、私にいっぱい、ください」",
+      "lines": [
+        161
+      ]
+    },
+    {
+      "original": "「蓮さんの乳首、硬くなってますよ……」",
+      "lines": [
+        190
+      ]
+    },
+    {
+      "original": "「蓮さんの匂いに包まれて、すごくいい気分です……」",
+      "lines": [
+        7
+      ]
+    },
+    {
+      "original": "「蓮さんは楽にしていて下さい」",
+      "lines": [
+        477
+      ]
+    },
+    {
+      "original": "「蓮さん専用のおま○こ穴になっちゃてますぅっ」",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "「見たことなかったっけ？」",
+      "lines": [
+        473
+      ]
+    },
+    {
+      "original": "「言われなくても……！」",
+      "lines": [
+        149
+      ]
+    },
+    {
+      "original": "「！？」",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "あの純情だったアルルがこんなにえっちに！　誰のせいだ。",
+      "lines": [
+        227
+      ]
+    },
+    {
+      "original": "あまりの気持ちよさにわけがわからなくなる。",
+      "lines": [
+        121
+      ]
+    },
+    {
+      "original": "あれ？　これもしかして自分で弱点を教えてるんじゃないか？",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "いつものアルルと違う気がする。",
+      "lines": [
+        370
+      ]
+    },
+    {
+      "original": "いつもの綺麗な瞳もいいけど、熱に浮かされた目もいいなぁ。",
+      "lines": [
+        263
+      ]
+    },
+    {
+      "original": "いや、たまにならアリ……か？",
+      "lines": [
+        466
+      ]
+    },
+    {
+      "original": "いやいやと首を振りながらもアルルの腰は俺の動きにあわせていた。",
+      "lines": [
+        9
+      ]
+    },
+    {
+      "original": "おお……。",
+      "lines": [
+        10
+      ]
+    },
+    {
+      "original": "おおおお……！",
+      "lines": [
+        306
+      ]
+    },
+    {
+      "original": "きゅきゅっ、と膣が締まる。",
+      "lines": [
+        415
+      ]
+    },
+    {
+      "original": "ぎゅうぅぅっと強く搾られ強制的に近い射精感が起きる。",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "こ、これはあれか？　もしかして俺焦らされてる！？",
+      "lines": [
+        262
+      ]
+    },
+    {
+      "original": "このままハマったらかなり不味い気がするので今晩限りでお願いしたい。",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "これじゃあ言葉責め（？）されて興奮したみたいじゃないか。",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "これ自体は優しい愛撫で嫌いじゃない。",
+      "lines": [
+        554
+      ]
+    },
+    {
+      "original": "こんなにも愛されて幸せすぎだなぁ、俺は。",
+      "lines": [
+        490
+      ]
+    },
+    {
+      "original": "こんなエロい姿を見せられたら、とめられるわけがなく……。",
+      "lines": [
+        271
+      ]
+    },
+    {
+      "original": "ごくり……。",
+      "lines": [
+        511
+      ]
+    },
+    {
+      "original": "ごぼり、ごぼり。",
+      "lines": [
+        179
+      ]
+    },
+    {
+      "original": "ささやかれ、まるで催眠状態に陥ったように俺は素直に出そうと考えている。",
+      "lines": [
+        552
+      ]
+    },
+    {
+      "original": "さっきまで愛し合ったっていうのに……。",
+      "lines": [
+        96
+      ]
+    },
+    {
+      "original": "さっきやられたこともあって、ちょっと強がってみる。",
+      "lines": [
+        244
+      ]
+    },
+    {
+      "original": "さっきよりも強い勢いで精液が噴出した。",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "さわさわ、とアルルのしなやかな指が股間を探る。",
+      "lines": [
+        102
+      ]
+    },
+    {
+      "original": "しゅ、しゅ、しゅっ……。",
+      "lines": [
+        383
+      ]
+    },
+    {
+      "original": "すると、アルルの軽く小さな体は浮き上がってしまう。",
+      "lines": [
+        361
+      ]
+    },
+    {
+      "original": "すると、キュッ、キュッと膣肉が狭まってペニスを包み込んでくれる。",
+      "lines": [
+        288
+      ]
+    },
+    {
+      "original": "ずずっ……と先端が柔らかな秘所に吸い込まれていく。",
+      "lines": [
+        388
+      ]
+    },
+    {
+      "original": "ずっと小さい頃から見てきた。",
+      "lines": [
+        295
+      ]
+    },
+    {
+      "original": "ずぶりとペニスが根本まで飲み込まれる。",
+      "lines": [
+        205
+      ]
+    },
+    {
+      "original": "ずりゅ、ずちゅ、ぐちゅっ……。",
+      "lines": [
+        88
+      ]
+    },
+    {
+      "original": "そう言いながら、竿を手の平で包み込んで感触を確かめる。",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "そう言いながらもアルルは指で輪っかを作り根本だけを責めてくる。",
+      "lines": [
+        269
+      ]
+    },
+    {
+      "original": "そう言って自分の下腹部を撫でる。",
+      "lines": [
+        399
+      ]
+    },
+    {
+      "original": "そこには信頼と、好意と、愛情。",
+      "lines": [
+        308
+      ]
+    },
+    {
+      "original": "そして、こんなにも頑張ってくれる彼女を愛おしく思う。",
+      "lines": [
+        391
+      ]
+    },
+    {
+      "original": "そして今日ラブホテルでセックスして中出しする。",
+      "lines": [
+        237
+      ]
+    },
+    {
+      "original": "そして単純で、けど一番快感が強いスピードのある扱く動作になっていた。",
+      "lines": [
+        326
+      ]
+    },
+    {
+      "original": "そして感覚を掴んだのか、先ほどよりも速度を上げ始めた。",
+      "lines": [
+        392
+      ]
+    },
+    {
+      "original": "その事実がどうしようもなく俺を興奮させていく。",
+      "lines": [
+        400
+      ]
+    },
+    {
+      "original": "その全部が詰まってる。",
+      "lines": [
+        134
+      ]
+    },
+    {
+      "original": "その力加減のままに先端へと登っていく。",
+      "lines": [
+        273
+      ]
+    },
+    {
+      "original": "その動作に。",
+      "lines": [
+        365
+      ]
+    },
+    {
+      "original": "その度にザラザラした膣壁が竿をまんべんなく扱き上げてきた。",
+      "lines": [
+        531
+      ]
+    },
+    {
+      "original": "その振動のせいか、アルルの秘所から大量の精液と愛液がこぼれだす。",
+      "lines": [
+        448
+      ]
+    },
+    {
+      "original": "その瞬間、俺の理性が音を立ててはじけ飛んだ。",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "それがなんとも魅力的で、そしてエロい。",
+      "lines": [
+        291
+      ]
+    },
+    {
+      "original": "それが普段はおとなしいアルルとなればなおさらだ。",
+      "lines": [
+        547
+      ]
+    },
+    {
+      "original": "それだけでも救われた気分だ。",
+      "lines": [
+        343
+      ]
+    },
+    {
+      "original": "それと同時に、膣内が今まで経験したことがないほど強く締まった。",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "それなのに……。",
+      "lines": [
+        401
+      ]
+    },
+    {
+      "original": "それに答えるように、俺はアルルの膣内をペニスで擦っていく。",
+      "lines": [
+        406
+      ]
+    },
+    {
+      "original": "それらをかき分けるように腰を跳ね上げるとアルルの体も浮き上がった。",
+      "lines": [
+        251
+      ]
+    },
+    {
+      "original": "それを嬉しそうに見てから指先を口元に運ぶ。",
+      "lines": [
+        386
+      ]
+    },
+    {
+      "original": "それを見ていると変な感慨深さが湧いてきた。",
+      "lines": [
+        556
+      ]
+    },
+    {
+      "original": "そんなアルルだから、俺も少しでも多く返したくて。",
+      "lines": [
+        390
+      ]
+    },
+    {
+      "original": "そんな女の子が、今では俺の恋人になり、こうしてまたがって喘いでる。",
+      "lines": [
+        258
+      ]
+    },
+    {
+      "original": "そんな強く言われると俺も否定できない。",
+      "lines": [
+        512
+      ]
+    },
+    {
+      "original": "そんな音が聞こえてくるくらいの大量の白濁液が注がれていく。",
+      "lines": [
+        159
+      ]
+    },
+    {
+      "original": "ただ、これ、妙に気持ちよくて……。",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "ただ自分の分身を可愛いと言われるのは男として複雑な気分だ……。",
+      "lines": [
+        555
+      ]
+    },
+    {
+      "original": "だから。",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "だからどの辺りが気持ちいいかは見当がついてるはずだ。",
+      "lines": [
+        323
+      ]
+    },
+    {
+      "original": "つらい体勢だったのかと心配になる。",
+      "lines": [
+        454
+      ]
+    },
+    {
+      "original": "でも膨れ上がった衝動は際限がなかった。",
+      "lines": [
+        229
+      ]
+    },
+    {
+      "original": "というかアルルってこんなキャラだったっけ？",
+      "lines": [
+        158
+      ]
+    },
+    {
+      "original": "どういう風にその結果に辿り着いたのかは分からない。",
+      "lines": [
+        0,
+        561,
+        566
+      ]
+    },
+    {
+      "original": "どきわく初ホテル",
+      "lines": [
+        320
+      ]
+    },
+    {
+      "original": "どこに入っているのかと不思議に思うくらい、ずっぽり入っていく。",
+      "lines": [
+        530
+      ]
+    },
+    {
+      "original": "どぷぅ……。",
+      "lines": [
+        332
+      ]
+    },
+    {
+      "original": "なにそれ……俺にとってはご褒美すぎる発言だ。",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "なんというか小悪魔的というか、これはこれで新しいイメージだ。",
+      "lines": [
+        346
+      ]
+    },
+    {
+      "original": "ばちゅん、ばちゅん、ばちゅんっ！",
+      "lines": [
+        543
+      ]
+    },
+    {
+      "original": "ひとしきりお互いの口と唾液を交換しあうと、最後に唇を舐めて離れる。",
+      "lines": [
+        405
+      ]
+    },
+    {
+      "original": "びくびく振動する膣肉が精液を求めるように伸縮する。",
+      "lines": [
+        421
+      ]
+    },
+    {
+      "original": "びくん、びくん！",
+      "lines": [
+        242
+      ]
+    },
+    {
+      "original": "びゅくっ、びゅるるるっ、どびゅるるるっ！",
+      "lines": [
+        417
+      ]
+    },
+    {
+      "original": "びゅくっ、びゅるるるっ、びゅるるッ！！",
+      "lines": [
+        508
+      ]
+    },
+    {
+      "original": "びゅくっ、びゅるるるるるるっ、どびゅっ！！",
+      "lines": [
+        425
+      ]
+    },
+    {
+      "original": "びゅるっ、びゅるるるっ、びゅるっ！",
+      "lines": [
+        182
+      ]
+    },
+    {
+      "original": "びゅるっ、びゅるるるるるっ！",
+      "lines": [
+        150
+      ]
+    },
+    {
+      "original": "ふと、何を思いついたのか、アルルが俺の胸に唇を合わせた。",
+      "lines": [
+        331
+      ]
+    },
+    {
+      "original": "ふふっ、と秘密を告白するように笑う。",
+      "lines": [
+        478
+      ]
+    },
+    {
+      "original": "ほんと、どこで覚えてきたんだろうこんな言葉……。",
+      "lines": [
+        123
+      ]
+    },
+    {
+      "original": "ま、まぁいいか。",
+      "lines": [
+        114
+      ]
+    },
+    {
+      "original": "まあ、アルルはエッチの時だといつも大胆だけど。",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "まさかホテルで恋人とこんないい体験ができるなんて思ってなかった。",
+      "lines": [
+        212
+      ]
+    },
+    {
+      "original": "まるで何かに取り憑かれたような淫猥な表情を覗かせながらの愛撫。",
+      "lines": [
+        107
+      ]
+    },
+    {
+      "original": "まるで子供をあやすように言うアルル。",
+      "lines": [
+        378
+      ]
+    },
+    {
+      "original": "むぅ、と拗ねたような顔をする。",
+      "lines": [
+        438
+      ]
+    },
+    {
+      "original": "むしろさっきより硬くなっている気がする。",
+      "lines": [
+        85
+      ]
+    },
+    {
+      "original": "めっちゃ恥ずかしい……これがいつもアルルが味わってたやつか……。",
+      "lines": [
+        439
+      ]
+    },
+    {
+      "original": "もう三回目だっていうのに、全然まだやれそうだった。",
+      "lines": [
+        272
+      ]
+    },
+    {
+      "original": "もう何度もセックスをしてるというのに。",
+      "lines": [
+        494
+      ]
+    },
+    {
+      "original": "もう何度も背筋を反らし、くねらせる。",
+      "lines": [
+        514
+      ]
+    },
+    {
+      "original": "もう何度目かも分からない絶頂を迎え、全身を痙攣させるアルル。",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "ものの感触を確かめるように何度か手の中に包み込んで握る。",
+      "lines": [
+        533
+      ]
+    },
+    {
+      "original": "もはやそれも目に入っていないようで、ちょっと心配になる。",
+      "lines": [
+        515
+      ]
+    },
+    {
+      "original": "もはや汗と精液と愛液でドロドロになり、蛍光灯の光を反射させた。",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "よくよく考えれば口ではしたことがある。",
+      "lines": [
+        6,
+        7,
+        8,
+        14,
+        16,
+        17,
+        18,
+        21,
+        23,
+        24,
+        26,
+        27,
+        29,
+        31,
+        32,
+        36,
+        37,
+        39,
+        40,
+        42,
+        43,
+        45,
+        49,
+        55,
+        56,
+        60,
+        63,
+        68,
+        69,
+        71,
+        72,
+        76,
+        77,
+        79,
+        80,
+        86,
+        87,
+        89,
+        90,
+        93,
+        94,
+        97,
+        98,
+        99,
+        105,
+        106,
+        109,
+        111,
+        113,
+        116,
+        117,
+        119,
+        127,
+        129,
+        131,
+        136,
+        141,
+        142,
+        146,
+        147,
+        148,
+        152,
+        154,
+        155,
+        156,
+        160,
+        161,
+        163,
+        165,
+        166,
+        167,
+        171,
+        173,
+        174,
+        178,
+        183,
+        184,
+        186,
+        187,
+        190,
+        191,
+        193,
+        196,
+        198,
+        202,
+        203,
+        204,
+        207,
+        208,
+        209,
+        210,
+        215,
+        216,
+        221,
+        222,
+        223,
+        224,
+        231,
+        232,
+        234,
+        235,
+        239,
+        243,
+        245,
+        246,
+        248,
+        249,
+        252,
+        253,
+        255,
+        256,
+        259,
+        260,
+        264,
+        266,
+        268,
+        270,
+        276,
+        277,
+        280,
+        282,
+        284,
+        285,
+        287,
+        289,
+        292,
+        293,
+        296,
+        298,
+        300,
+        301,
+        303,
+        305,
+        309,
+        310,
+        312,
+        314,
+        315,
+        321,
+        324,
+        325,
+        328,
+        329,
+        330,
+        334,
+        336,
+        340,
+        341,
+        345,
+        349,
+        351,
+        352,
+        356,
+        357,
+        359,
+        363,
+        368,
+        372,
+        377,
+        381,
+        384,
+        394,
+        397,
+        402,
+        403,
+        407,
+        408,
+        409,
+        410,
+        413,
+        419,
+        420,
+        424,
+        427,
+        429,
+        430,
+        431,
+        433,
+        435,
+        436,
+        441,
+        443,
+        445,
+        446,
+        447,
+        449,
+        451,
+        452,
+        455,
+        456,
+        458,
+        459,
+        464,
+        465,
+        470,
+        471,
+        472,
+        476,
+        477,
+        481,
+        482,
+        485,
+        486,
+        487,
+        492,
+        493,
+        495,
+        497,
+        498,
+        501,
+        502,
+        506,
+        509,
+        513,
+        516,
+        517,
+        518,
+        520,
+        521,
+        526,
+        527,
+        532,
+        536,
+        538,
+        539,
+        542,
+        544,
+        545,
+        548,
+        550,
+        551
+      ]
+    },
+    {
+      "original": "アルル"
+    },
+    {
+      "original": "アルル.stand",
+      "lines": [
+        278
+      ]
+    },
+    {
+      "original": "アルルが俺の腰にまたがる。",
+      "lines": [
+        507
+      ]
+    },
+    {
+      "original": "アルルが絶頂に身を震わせるのと同時に、射精が始まった。",
+      "lines": [
+        322
+      ]
+    },
+    {
+      "original": "アルルが苦しそうに喘ぐ。",
+      "lines": [
+        484
+      ]
+    },
+    {
+      "original": "アルルの体がガクガクと震え、その細かな振動が俺のものを喜ばせてくれる。",
+      "lines": [
+        499
+      ]
+    },
+    {
+      "original": "アルルの懇願を聞き入れるみたいに駆け上がってきた衝動。",
+      "lines": [
+        185
+      ]
+    },
+    {
+      "original": "アルルの手だけに収まらず、健康的な肌を白く染めていく。",
+      "lines": [
+        125
+      ]
+    },
+    {
+      "original": "アルルの手だと小さいけど……できなくはないはず。",
+      "lines": [
+        206
+      ]
+    },
+    {
+      "original": "アルルの手の中で体液が混じって泡立つ音が聞こえてくる。",
+      "lines": [
+        444
+      ]
+    },
+    {
+      "original": "アルルの狭い膣内には入りきらなかった精液が、どろぉ……っと溢れだしてきた。",
+      "lines": [
+        360
+      ]
+    },
+    {
+      "original": "アルルの細いお腹がへこむ。",
+      "lines": [
+        414
+      ]
+    },
+    {
+      "original": "アルルの絶頂する声を聞きながら腰を天井に向ける。",
+      "lines": [
+        319
+      ]
+    },
+    {
+      "original": "アルルの膣内には俺のものは大きすぎ、入りきらないかと思われるのに――",
+      "lines": [
+        537
+      ]
+    },
+    {
+      "original": "アルルの舌を自分の舌に重ね合わせた。",
+      "lines": [
+        553
+      ]
+    },
+    {
+      "original": "アルルはこんなにも深く濃く強く求めてくれる。",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "アルルは俺に微笑みかけると、まだ勃起していないペニスを握る。",
+      "lines": [
+        313
+      ]
+    },
+    {
+      "original": "アルルは叫ぶようにそう言うと、自分から腰を動かし始める。",
+      "lines": [
+        342
+      ]
+    },
+    {
+      "original": "アルルは呆然と呟く。",
+      "lines": [
+        286
+      ]
+    },
+    {
+      "original": "アルルは屹立したものに狙いを定めると、ゆっくりと腰を落としていく。",
+      "lines": [
+        124
+      ]
+    },
+    {
+      "original": "アルルは恥ずかしさをこらえながら聞いてきたんだ、ちゃんと答えよう。",
+      "lines": [
+        350
+      ]
+    },
+    {
+      "original": "アルルも戸惑ったような声を上げる。",
+      "lines": [
+        491
+      ]
+    },
+    {
+      "original": "アルルを夢中で、貪るように膣壁にペニスで喰らいつき、犯し続ける。",
+      "lines": [
+        528
+      ]
+    },
+    {
+      "original": "アルル本人は疲弊しきっているにも関わらず――",
+      "lines": [
+        453
+      ]
+    },
+    {
+      "original": "イッたばかりなのはこちらも同じだから緩やかなペースで楽しみたい。",
+      "lines": [
+        139
+      ]
+    },
+    {
+      "original": "オナニーと同じように、ってことだけど……。",
+      "lines": [
+        201
+      ]
+    },
+    {
+      "original": "カウパーと精液の混じった粘着質な体液を全体的に塗りたくる。",
+      "lines": [
+        283
+      ]
+    },
+    {
+      "original": "ギュッ、とアルルが握る手に力を込める。",
+      "lines": [
+        469
+      ]
+    },
+    {
+      "original": "シンクロした動きはどこまでも興奮を高めていく。",
+      "lines": [
+        369
+      ]
+    },
+    {
+      "original": "セックスに集中していたのかアルルがぼーっとした瞳を俺に向ける。",
+      "lines": [
+        101
+      ]
+    },
+    {
+      "original": "ダメだ……強がったところで全く無意味だった……。",
+      "lines": [
+        241
+      ]
+    },
+    {
+      "original": "ドン、というような衝撃が下半身を襲うと同時に射精する。",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "ハッとした顔をアルルに見られた。",
+      "lines": [
+        103
+      ]
+    },
+    {
+      "original": "バスルームにアルルがものを擦る音が反響する。",
+      "lines": [
+        462
+      ]
+    },
+    {
+      "original": "ブチュ、グチュッ……！",
+      "lines": [
+        389
+      ]
+    },
+    {
+      "original": "ポンコツ寮に入ることになって、敏感肌だって知って――",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "ムクムクムクっ！",
+      "lines": [
+        480
+      ]
+    },
+    {
+      "original": "ラストスパートに向けて容赦の無いピストンを繰り返す。",
+      "lines": [
+        426
+      ]
+    },
+    {
+      "original": "一度では収まらず、何度も精子を子宮に叩きつける。",
+      "lines": [
+        180
+      ]
+    },
+    {
+      "original": "一方的に増していく快楽に身を任せ、欲望を解き放った。",
+      "lines": [
+        170
+      ]
+    },
+    {
+      "original": "上も下もどちらも刺激されて、俺は射精へと導かれていく。",
+      "lines": [
+        176
+      ]
+    },
+    {
+      "original": "下半身からくちゅくちゅと音がしている中、上半身では舌が這う時の唾液音。",
+      "lines": [
+        169
+      ]
+    },
+    {
+      "original": "乳首を唇で咥えながら、手も休まず動かしている。",
+      "lines": [
+        226
+      ]
+    },
+    {
+      "original": "乳首を思いきり吸われて。",
+      "lines": [
+        218
+      ]
+    },
+    {
+      "original": "亀頭をくにくに責めてくると思ったら、今度は玉袋を優しく揉み始めた。",
+      "lines": [
+        220
+      ]
+    },
+    {
+      "original": "二つが交じり合って俺の全身を焦がす。",
+      "lines": [
+        140
+      ]
+    },
+    {
+      "original": "人にしてもらうのがこんなに気持ちいいなんて……っ。",
+      "lines": [
+        91
+      ]
+    },
+    {
+      "original": "今にも頬ずりしそうな勢いだ。",
+      "lines": [
+        500
+      ]
+    },
+    {
+      "original": "今までにない絶頂と興奮に俺のものは信じられないくらいに固くなっていた。",
+      "lines": [
+        73
+      ]
+    },
+    {
+      "original": "今度は人差し指を使って、つつーっと裏筋を撫でられる。",
+      "lines": [
+        353
+      ]
+    },
+    {
+      "original": "体が勝手に求めてしまうのか、アルル自身にも制御できてないみたいだった。",
+      "lines": [
+        189
+      ]
+    },
+    {
+      "original": "体にかかった精液を、空いた手で自分の体に塗り広げていく。",
+      "lines": [
+        307
+      ]
+    },
+    {
+      "original": "体の奥深くで俺を受け入れてくれている気がして嬉しい。",
+      "lines": [
+        423
+      ]
+    },
+    {
+      "original": "体全体で俺の精液を受け止めているようにも見えた。",
+      "lines": [
+        228
+      ]
+    },
+    {
+      "original": "俺ってこんなキャラだったっけ……？",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "俺のものはアルルの指に刺激され勃起してしまっていた。",
+      "lines": [
+        355
+      ]
+    },
+    {
+      "original": "俺の上で踊るアルルの姿は淫らで、普段との違いにクラクラした。",
+      "lines": [
+        294
+      ]
+    },
+    {
+      "original": "俺の名前を呼びながら、最後に力を抜いたようにストンとお尻を落とした。",
+      "lines": [
+        503
+      ]
+    },
+    {
+      "original": "俺の手をぎゅっと握りしめ、襲ってくるだろう絶頂に身構える。",
+      "lines": [
+        132
+      ]
+    },
+    {
+      "original": "俺の言うとおりに、アルルが実践する。",
+      "lines": [
+        489
+      ]
+    },
+    {
+      "original": "俺の頭も変になりそうだった。",
+      "lines": [
+        274
+      ]
+    },
+    {
+      "original": "俺はこれから、この女の子を犯すんだということを。",
+      "lines": [
+        108
+      ]
+    },
+    {
+      "original": "俺はなるべく下半身全体に快感を逃すように意識する。",
+      "lines": [
+        535
+      ]
+    },
+    {
+      "original": "俺はアルルを引き寄せる。",
+      "lines": [
+        510
+      ]
+    },
+    {
+      "original": "先に入っていたものを押しのけるように、次の精液が満ち溢れる。",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "全裸のアルルが俺の体にしなだれかかっている。",
+      "lines": [
+        177
+      ]
+    },
+    {
+      "original": "全身を愛撫されて、たまらなくなる。",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "前はＭっ気があるというか、イジメられちゃう系の女の子だったけど……。",
+      "lines": [
+        382
+      ]
+    },
+    {
+      "original": "前ぶりもなく腰を突き上げる。",
+      "lines": [
+        488
+      ]
+    },
+    {
+      "original": "口からよだれをダラダラ流しながら、臆面もなく喘ぐアルルの姿を見て。",
+      "lines": [
+        297
+      ]
+    },
+    {
+      "original": "口を開けて大きな嬌声を上げた。",
+      "lines": [
+        467
+      ]
+    },
+    {
+      "original": "呼吸はぴったりで、突き上げればお尻を落とし。",
+      "lines": [
+        523
+      ]
+    },
+    {
+      "original": "嬉しそうに笑ってるけど口はだらしなく開けて相当疲れてそう……。",
+      "lines": [
+        151
+      ]
+    },
+    {
+      "original": "完全に不意を突かれた形になり驚きと一緒に快感が走り抜ける。",
+      "lines": [
+        422
+      ]
+    },
+    {
+      "original": "射精を受ける度にアルルの体がのけぞる。",
+      "lines": [
+        387
+      ]
+    },
+    {
+      "original": "小さい頃に俺たちの国へやってきた女の子。",
+      "lines": [
+        104
+      ]
+    },
+    {
+      "original": "小さな手の中に収まりきらない俺のものが、さらなる刺激欲しがるようにビクンと震えた。",
+      "lines": [
+        504
+      ]
+    },
+    {
+      "original": "少しでも安心させられたらと握り返し――",
+      "lines": [
+        279
+      ]
+    },
+    {
+      "original": "差し出された手を握ると嬉しそうに微笑んだ。",
+      "lines": [
+        519
+      ]
+    },
+    {
+      "original": "度重なる絶頂が終わると、ぴくん、ぴくん、と細かい痙攣を繰り返す。",
+      "lines": [
+        432
+      ]
+    },
+    {
+      "original": "強い快感からか肩で息をしながらも、うっとりとそう告げる。",
+      "lines": [
+        366
+      ]
+    },
+    {
+      "original": "強い快感にさらされる中、急に疑問が湧いてくる。",
+      "lines": [
+        219
+      ]
+    },
+    {
+      "original": "微かな恐怖と、それを上回る快感。",
+      "lines": [
+        524
+      ]
+    },
+    {
+      "original": "心ここにあらずって感じだ。",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "思わず拳を小さく握りしめてガッツポーズ。",
+      "lines": [
+        385
+      ]
+    },
+    {
+      "original": "急な突き上げに肢体をくねらせるアルル。",
+      "lines": [
+        347
+      ]
+    },
+    {
+      "original": "急激にアルルの腰運動が激しくなり、肉と肉がぶつかり合う音がバスルームに響く。",
+      "lines": [
+        275
+      ]
+    },
+    {
+      "original": "意識、させられた。",
+      "lines": [
+        318
+      ]
+    },
+    {
+      "original": "感触を確かめるように少しずつ抜いていっては、また腰を落とす。",
+      "lines": [
+        143
+      ]
+    },
+    {
+      "original": "手の平で溢れてきたカウパーを受け、今度はそれをペニスに塗りたくっていく。"
+    },
+    {
+      "original": "斜右上",
+      "lines": [
+        175
+      ]
+    },
+    {
+      "original": "早く出してと言わんばかりにアルルの扱く速度が上がる。",
+      "lines": [
+        317
+      ]
+    },
+    {
+      "original": "最初はゆっくりとした上下運動。",
+      "lines": [
+        540
+      ]
+    },
+    {
+      "original": "最初は呆然としていたアルルも少しだけ理性を取り戻したようだった。",
+      "lines": [
+        505
+      ]
+    },
+    {
+      "original": "最後のひと突きを、アルルのもっとも深い部分に叩き込んだ。",
+      "lines": [
+        375
+      ]
+    },
+    {
+      "original": "最近のやつって直接的な描写はないけど結構過激って聞くからなぁ。",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "根本の部分は性感帯としては俺の中ではそこまで強い部分じゃない。",
+      "lines": [
+        133
+      ]
+    },
+    {
+      "original": "根本の部分を、きゅ、きゅ、と断続的に力を込めて刺激し――",
+      "lines": [
+        374
+      ]
+    },
+    {
+      "original": "梨々愛が持ってるってことは少女漫画とかか……。",
+      "lines": [
+        428
+      ]
+    },
+    {
+      "original": "歓喜の嬌声を上げ、待ち焦がれた精液をしっかりと膣内に収めていく。",
+      "lines": [
+        138
+      ]
+    },
+    {
+      "original": "正直ヤバい。"
+    },
+    {
+      "original": "正面手上",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "気持ちいいんだけど物足りないという感じだ。",
+      "lines": [
+        461
+      ]
+    },
+    {
+      "original": "汗を飛び散らせながら俺の上で踊り狂う。"
+    },
+    {
+      "original": "消",
+      "lines": [
+        398
+      ]
+    },
+    {
+      "original": "潤んだ瞳を真っ直ぐ俺に向けてくる。",
+      "lines": [
+        144
+      ]
+    },
+    {
+      "original": "潤滑剤を得て擦りやすくなったのか扱く速度が上がった。",
+      "lines": [
+        475
+      ]
+    },
+    {
+      "original": "狭い膣内の抵抗と、ザラザラした感触を楽しみながらアルルの中を犯していく。",
+      "lines": [
+        236
+      ]
+    },
+    {
+      "original": "玉袋から手が離れ再び俺のものに戻ってくる。",
+      "lines": [
+        230
+      ]
+    },
+    {
+      "original": "疑問が何度も頭をよぎるが、その度に与えられる快楽でかき消された。",
+      "lines": [
+        344
+      ]
+    },
+    {
+      "original": "痛みに似た快楽が深く染み渡ってくる。",
+      "lines": [
+        247
+      ]
+    },
+    {
+      "original": "白いシャワーを体に受けながらアルルが嬌声を上げる。"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "私服裸",
+      "lines": [
+        463
+      ]
+    },
+    {
+      "original": "空気と粘液が混じった卑猥な音がバスルームに反響する。",
+      "lines": [
+        188
+      ]
+    },
+    {
+      "original": "精液が飛び散って驚いている顔をしているものの、すごく嬉しそうだ。",
+      "lines": [
+        250
+      ]
+    },
+    {
+      "original": "精液のプールにでも手を突っ込んだかのようにアルルの手は白く染められていた。",
+      "lines": [
+        213
+      ]
+    },
+    {
+      "original": "細い指が俺のものに絡みつき、裏筋やカリ首を執拗に責めていく。",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "経験がないとは言いつつも、すでに俺が気持ちいいポイントを掴み始めている。",
+      "lines": [
+        267
+      ]
+    },
+    {
+      "original": "結局頷く俺だった。",
+      "lines": [
+        541
+      ]
+    },
+    {
+      "original": "絶頂の余韻をそのまま愉しむように舌を絡めてくる。",
+      "lines": [
+        74
+      ]
+    },
+    {
+      "original": "背筋に鈍く、でもしっかりした刺激がゾクゾクゾクっ！　と登ってくる。",
+      "lines": [
+        529
+      ]
+    },
+    {
+      "original": "腰はピクピク震えていて、そこだけは別の生き物のようだった。",
+      "lines": [
+        354
+      ]
+    },
+    {
+      "original": "腰は単純な前後運動からくねるような動作に変わっていて、俺のものを刺激してやまない。",
+      "lines": [
+        364
+      ]
+    },
+    {
+      "original": "腰を大きくグラインドさせ俺のものを刺激してくる。",
+      "lines": [
+        418
+      ]
+    },
+    {
+      "original": "膣内の奥深くに躊躇いもせず精液を放つ。",
+      "lines": [
+        474
+      ]
+    },
+    {
+      "original": "膣内は愛液と精液が入り混じった潤滑剤のおかげでスムーズに動かせる。",
+      "lines": [
+        483
+      ]
+    },
+    {
+      "original": "膨れ上がった亀頭でＧスポットをガンガン突きまくる。",
+      "lines": [
+        290
+      ]
+    },
+    {
+      "original": "自らペニスを飲み込んでいく姿は、めちゃくちゃそそられるものがあった。",
+      "lines": [
+        546
+      ]
+    },
+    {
+      "original": "自分の下腹部を撫でながら本当に満たされた声。",
+      "lines": [
+        92
+      ]
+    },
+    {
+      "original": "艶のあるため息をつき、潤んだ瞳を向ける。",
+      "lines": [
+        15,
+        19,
+        22,
+        25,
+        30,
+        38,
+        44,
+        50,
+        57,
+        70,
+        75,
+        78,
+        95,
+        100,
+        110,
+        112,
+        118,
+        120,
+        126,
+        128,
+        130,
+        135,
+        137,
+        145,
+        149,
+        153,
+        157,
+        162,
+        164,
+        168,
+        172,
+        181,
+        192,
+        194,
+        195,
+        197,
+        199,
+        211,
+        214,
+        217,
+        225,
+        233,
+        238,
+        254,
+        257,
+        261,
+        265,
+        281,
+        299,
+        302,
+        304,
+        311,
+        316,
+        327,
+        333,
+        335,
+        337,
+        338,
+        339,
+        348,
+        358,
+        362,
+        367,
+        371,
+        373,
+        376,
+        380,
+        393,
+        395,
+        396,
+        404,
+        411,
+        416,
+        434,
+        437,
+        442,
+        450,
+        457,
+        473,
+        496,
+        525,
+        534,
+        549,
+        557
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        412
+      ]
+    },
+    {
+      "original": "走り抜ける電気にも似た快楽と衝動をアルルにぶつける。",
+      "lines": [
+        468
+      ]
+    },
+    {
+      "original": "逆に引けば一緒にそうしてくれる。",
+      "lines": [
+        200
+      ]
+    },
+    {
+      "original": "静止の言葉を聞かず、まだ敏感な亀頭を重点的に擦っていく。",
+      "lines": [
+        379
+      ]
+    },
+    {
+      "original": "頬を桃色にして言われても、可愛いだけなんだけど。",
+      "lines": [
+        240
+      ]
+    },
+    {
+      "original": "頭の中から理性が消えていくのを意識しながら、俺はアルルに身を委ねた。",
+      "lines": [
+        558
+      ]
+    },
+    {
+      "original": "頷いてから、また優しくキスをした。"
+    },
+    {
+      "original": "顔",
+      "lines": [
+        479
+      ]
+    },
+    {
+      "original": "鼓膜を震わせる心地よい声を聞きながら。",
+      "lines": [
+        460
+      ]
+    },
+    {
+      "original": "鼻にかかった甘い嬌声を上げながらペニスの突き上げを受けるアルル。"
+    }
+  ],
+  "name": 313,
+  "lines": [
+    {
+      "type": 3,
+      "title": 799
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 832,
+      "type": 2
+    },
+    {
+      "name": 964,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 5,
+      "type": 6
+    },
+    {
+      "name": 832,
+      "text": 526,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 727,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 667,
+      "type": 1
+    },
+    {
+      "text": 739,
+      "type": 0
+    },
+    {
+      "text": 740,
+      "type": 0
+    },
+    {
+      "text": 897,
+      "type": 0
+    },
+    {
+      "text": 778,
+      "type": 0
+    },
+    {
+      "text": 916,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 595,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 713,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 684,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 548,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 515,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 468,
+      "type": 1
+    },
+    {
+      "text": 818,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 505,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 530,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 521,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 551,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 672,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 488,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 480,
+      "type": 1
+    },
+    {
+      "text": 848,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 464,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 729,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 707,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 567,
+      "type": 1
+    },
+    {
+      "text": 828,
+      "type": 0
+    },
+    {
+      "text": 746,
+      "type": 0
+    },
+    {
+      "text": 792,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 507,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 596,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 649,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 535,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 606,
+      "type": 1
+    },
+    {
+      "text": 755,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 675,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 723,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 447,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 578,
+      "type": 1
+    },
+    {
+      "text": 735,
+      "type": 0
+    },
+    {
+      "text": 899,
+      "type": 0
+    },
+    {
+      "text": 803,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 497,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 472,
+      "type": 1
+    },
+    {
+      "text": 951,
+      "type": 0
+    },
+    {
+      "text": 831,
+      "type": 0
+    },
+    {
+      "text": 794,
+      "type": 0
+    },
+    {
+      "text": 782,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 644,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 509,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 697,
+      "type": 1
+    },
+    {
+      "text": 928,
+      "type": 0
+    },
+    {
+      "text": 934,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 527,
+      "type": 1
+    },
+    {
+      "text": 764,
+      "type": 0
+    },
+    {
+      "text": 743,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 506,
+      "type": 1
+    },
+    {
+      "text": 864,
+      "type": 0
+    },
+    {
+      "text": 416,
+      "type": 0
+    },
+    {
+      "text": 732,
+      "type": 0
+    },
+    {
+      "text": 417,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 448,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 696,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 525,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 529,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 550,
+      "type": 1
+    },
+    {
+      "text": 881,
+      "type": 0
+    },
+    {
+      "text": 954,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 444,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 452,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 597,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 490,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 479,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 603,
+      "type": 1
+    },
+    {
+      "text": 868,
+      "type": 0
+    },
+    {
+      "text": 887,
+      "type": 0
+    },
+    {
+      "text": 745,
+      "type": 0
+    },
+    {
+      "text": 413,
+      "type": 0
+    },
+    {
+      "text": 823,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 626,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 619,
+      "type": 1
+    },
+    {
+      "text": 763,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 453,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 528,
+      "type": 1
+    },
+    {
+      "text": 879,
+      "type": 0
+    },
+    {
+      "text": 963,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 512,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 552,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 600,
+      "type": 1
+    },
+    {
+      "text": 753,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 576,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 566,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 708,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 481,
+      "type": 1
+    },
+    {
+      "text": 862,
+      "type": 0
+    },
+    {
+      "text": 756,
+      "type": 0
+    },
+    {
+      "text": 865,
+      "type": 0
+    },
+    {
+      "text": 908,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 502,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 536,
+      "type": 1
+    },
+    {
+      "text": 820,
+      "type": 0
+    },
+    {
+      "text": 894,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 462,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 555,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 705,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 426,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 582,
+      "type": 1
+    },
+    {
+      "text": 817,
+      "type": 0
+    },
+    {
+      "text": 414,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 602,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 620,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 556,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 681,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 629,
+      "type": 1
+    },
+    {
+      "text": 734,
+      "type": 0
+    },
+    {
+      "text": 412,
+      "type": 0
+    },
+    {
+      "text": 816,
+      "type": 0
+    },
+    {
+      "text": 852,
+      "type": 0
+    },
+    {
+      "text": 840,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 605,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 664,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 686,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 579,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 682,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 625,
+      "type": 1
+    },
+    {
+      "text": 891,
+      "type": 0
+    },
+    {
+      "text": 929,
+      "type": 0
+    },
+    {
+      "text": 773,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 503,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 554,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 439,
+      "type": 1
+    },
+    {
+      "text": 932,
+      "type": 0
+    },
+    {
+      "text": 857,
+      "type": 0
+    },
+    {
+      "text": 878,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 465,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 674,
+      "type": 1
+    },
+    {
+      "text": 921,
+      "type": 0
+    },
+    {
+      "text": 938,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 627,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 482,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 538,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 433,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 731,
+      "type": 1
+    },
+    {
+      "text": 813,
+      "type": 0
+    },
+    {
+      "text": 905,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 547,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 653,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 541,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 477,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 540,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 485,
+      "type": 1
+    },
+    {
+      "text": 798,
+      "type": 0
+    },
+    {
+      "text": 791,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 587,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 725,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 647,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 496,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 662,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 522,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 669,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 430,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 440,
+      "type": 1
+    },
+    {
+      "text": 874,
+      "type": 0
+    },
+    {
+      "text": 872,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 635,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 610,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 473,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 710,
+      "type": 1
+    },
+    {
+      "text": 923,
+      "type": 0
+    },
+    {
+      "text": 873,
+      "type": 0
+    },
+    {
+      "text": 898,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 677,
+      "type": 1
+    },
+    {
+      "text": 751,
+      "type": 0
+    },
+    {
+      "text": 871,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 651,
+      "type": 1
+    },
+    {
+      "text": 812,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 498,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 574,
+      "type": 1
+    },
+    {
+      "text": 839,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 637,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 568,
+      "type": 1
+    },
+    {
+      "text": 948,
+      "type": 0
+    },
+    {
+      "text": 883,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 726,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 461,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 570,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 616,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 604,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 666,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 714,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 423,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 689,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 532,
+      "type": 1
+    },
+    {
+      "text": 967,
+      "type": 0
+    },
+    {
+      "text": 858,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 504,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 558,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 614,
+      "type": 1
+    },
+    {
+      "text": 762,
+      "type": 0
+    },
+    {
+      "text": 841,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 701,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 639,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 546,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 569,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 646,
+      "type": 1
+    },
+    {
+      "text": 819,
+      "type": 0
+    },
+    {
+      "text": 950,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 471,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 641,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 533,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 489,
+      "type": 1
+    },
+    {
+      "text": 876,
+      "type": 0
+    },
+    {
+      "text": 914,
+      "type": 0
+    },
+    {
+      "text": 877,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 463,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 678,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 722,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 467,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 442,
+      "type": 1
+    },
+    {
+      "text": 875,
+      "type": 0
+    },
+    {
+      "text": 733,
+      "type": 0
+    },
+    {
+      "text": 886,
+      "type": 0
+    },
+    {
+      "text": 797,
+      "type": 0
+    },
+    {
+      "text": 941,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 660,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 608,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 441,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 575,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 709,
+      "type": 1
+    },
+    {
+      "text": 940,
+      "type": 0
+    },
+    {
+      "text": 769,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 443,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 581,
+      "type": 1
+    },
+    {
+      "text": 969,
+      "type": 0
+    },
+    {
+      "text": 863,
+      "type": 0
+    },
+    {
+      "text": 808,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 591,
+      "type": 1
+    },
+    {
+      "text": 754,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 524,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 455,
+      "type": 1
+    },
+    {
+      "text": 943,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 564,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 508,
+      "type": 1
+    },
+    {
+      "text": 949,
+      "type": 0
+    },
+    {
+      "text": 785,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 428,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 592,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 571,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 542,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 513,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 445,
+      "type": 1
+    },
+    {
+      "text": 789,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 636,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 718,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 657,
+      "type": 1
+    },
+    {
+      "text": 744,
+      "type": 0
+    },
+    {
+      "text": 737,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 598,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 424,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 577,
+      "type": 1
+    },
+    {
+      "text": 952,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 534,
+      "type": 1
+    },
+    {
+      "text": 765,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 668,
+      "type": 1
+    },
+    {
+      "text": 749,
+      "type": 0
+    },
+    {
+      "text": 825,
+      "type": 0
+    },
+    {
+      "text": 774,
+      "type": 0
+    },
+    {
+      "text": 893,
+      "type": 0
+    },
+    {
+      "text": 919,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 715,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 671,
+      "type": 1
+    },
+    {
+      "text": 834,
+      "type": 0
+    },
+    {
+      "text": 910,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 700,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 691,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 487,
+      "type": 1
+    },
+    {
+      "text": 859,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 549,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 724,
+      "type": 1
+    },
+    {
+      "text": 851,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 628,
+      "type": 1
+    },
+    {
+      "text": 759,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 446,
+      "type": 1
+    },
+    {
+      "text": 961,
+      "type": 0
+    },
+    {
+      "text": 779,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 634,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 561,
+      "type": 1
+    },
+    {
+      "text": 889,
+      "type": 0
+    },
+    {
+      "text": 761,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 643,
+      "type": 1
+    },
+    {
+      "text": 902,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 676,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 450,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 562,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 435,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 483,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 486,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 537,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 716,
+      "type": 1
+    },
+    {
+      "text": 741,
+      "type": 0
+    },
+    {
+      "text": 884,
+      "type": 0
+    },
+    {
+      "text": 767,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 421,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 720,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 531,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 617,
+      "type": 1
+    },
+    {
+      "text": 849,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 665,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 476,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 680,
+      "type": 1
+    },
+    {
+      "text": 924,
+      "type": 0
+    },
+    {
+      "text": 920,
+      "type": 0
+    },
+    {
+      "text": 845,
+      "type": 0
+    },
+    {
+      "text": 800,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 469,
+      "type": 1
+    },
+    {
+      "text": 836,
+      "type": 0
+    },
+    {
+      "text": 795,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 559,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 514,
+      "type": 1
+    },
+    {
+      "text": 770,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 654,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 688,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 437,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 706,
+      "type": 1
+    },
+    {
+      "text": 814,
+      "type": 0
+    },
+    {
+      "text": 802,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 656,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 699,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 692,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 716,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 670,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 685,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 695,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 690,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 693,
+      "type": 1
+    },
+    {
+      "text": 850,
+      "type": 0
+    },
+    {
+      "text": 781,
+      "type": 0
+    },
+    {
+      "text": 942,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 594,
+      "type": 1
+    },
+    {
+      "text": 804,
+      "type": 0
+    },
+    {
+      "text": 918,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 650,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 456,
+      "type": 1
+    },
+    {
+      "text": 853,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 593,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 523,
+      "type": 1
+    },
+    {
+      "text": 882,
+      "type": 0
+    },
+    {
+      "text": 956,
+      "type": 0
+    },
+    {
+      "text": 888,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 702,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 717,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 698,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 613,
+      "type": 1
+    },
+    {
+      "text": 843,
+      "type": 0
+    },
+    {
+      "text": 758,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 419,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 622,
+      "type": 1
+    },
+    {
+      "text": 957,
+      "type": 0
+    },
+    {
+      "text": 775,
+      "type": 0
+    },
+    {
+      "text": 913,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 431,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 470,
+      "type": 1
+    },
+    {
+      "text": 861,
+      "type": 0
+    },
+    {
+      "text": 736,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 510,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 683,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 427,
+      "type": 1
+    },
+    {
+      "text": 930,
+      "type": 0
+    },
+    {
+      "text": 927,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 432,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 436,
+      "type": 1
+    },
+    {
+      "text": 821,
+      "type": 0
+    },
+    {
+      "text": 968,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 519,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 500,
+      "type": 1
+    },
+    {
+      "text": 900,
+      "type": 0
+    },
+    {
+      "text": 757,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 457,
+      "type": 1
+    },
+    {
+      "text": 917,
+      "type": 0
+    },
+    {
+      "text": 786,
+      "type": 0
+    },
+    {
+      "text": 907,
+      "type": 0
+    },
+    {
+      "text": 760,
+      "type": 0
+    },
+    {
+      "text": 867,
+      "type": 0
+    },
+    {
+      "text": 788,
+      "type": 0
+    },
+    {
+      "text": 768,
+      "type": 0
+    },
+    {
+      "text": 771,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 658,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 557,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 434,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 659,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 711,
+      "type": 1
+    },
+    {
+      "text": 937,
+      "type": 0
+    },
+    {
+      "text": 766,
+      "type": 0
+    },
+    {
+      "text": 772,
+      "type": 0
+    },
+    {
+      "text": 783,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 573,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 663,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 451,
+      "type": 1
+    },
+    {
+      "text": 806,
+      "type": 0
+    },
+    {
+      "text": 784,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 630,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 493,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 499,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 543,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 673,
+      "type": 1
+    },
+    {
+      "text": 965,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 474,
+      "type": 1
+    },
+    {
+      "text": 844,
+      "type": 0
+    },
+    {
+      "text": 742,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 679,
+      "type": 1
+    },
+    {
+      "text": 809,
+      "type": 0
+    },
+    {
+      "text": 958,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 633,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 590,
+      "type": 1
+    },
+    {
+      "text": 807,
+      "type": 0
+    },
+    {
+      "text": 906,
+      "type": 0
+    },
+    {
+      "text": 885,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 460,
+      "type": 1
+    },
+    {
+      "text": 811,
+      "type": 0
+    },
+    {
+      "text": 870,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 454,
+      "type": 1
+    },
+    {
+      "text": 931,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 638,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 621,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 572,
+      "type": 1
+    },
+    {
+      "text": 912,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 511,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 439,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 553,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 501,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 518,
+      "type": 1
+    },
+    {
+      "text": 822,
+      "type": 0
+    },
+    {
+      "text": 824,
+      "type": 0
+    },
+    {
+      "text": 418,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 599,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 484,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 615,
+      "type": 1
+    },
+    {
+      "text": 842,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 712,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 721,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 517,
+      "type": 1
+    },
+    {
+      "text": 777,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 632,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 520,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 583,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 719,
+      "type": 1
+    },
+    {
+      "text": 856,
+      "type": 0
+    },
+    {
+      "text": 796,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 459,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 492,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 687,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 544,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 516,
+      "type": 1
+    },
+    {
+      "text": 973,
+      "type": 0
+    },
+    {
+      "text": 935,
+      "type": 0
+    },
+    {
+      "text": 866,
+      "type": 0
+    },
+    {
+      "text": 947,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 618,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 478,
+      "type": 1
+    },
+    {
+      "text": 738,
+      "type": 0
+    },
+    {
+      "text": 903,
+      "type": 0
+    },
+    {
+      "text": 966,
+      "type": 0
+    },
+    {
+      "text": 860,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 449,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 611,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 491,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 730,
+      "type": 1
+    },
+    {
+      "text": 959,
+      "type": 0
+    },
+    {
+      "text": 939,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 494,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 728,
+      "type": 1
+    },
+    {
+      "text": 815,
+      "type": 0
+    },
+    {
+      "text": 972,
+      "type": 0
+    },
+    {
+      "text": 869,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 458,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 623,
+      "type": 1
+    },
+    {
+      "text": 960,
+      "type": 0
+    },
+    {
+      "text": 837,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 703,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 612,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 704,
+      "type": 1
+    },
+    {
+      "text": 901,
+      "type": 0
+    },
+    {
+      "text": 892,
+      "type": 0
+    },
+    {
+      "text": 748,
+      "type": 0
+    },
+    {
+      "text": 854,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 588,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 642,
+      "type": 1
+    },
+    {
+      "text": 826,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 609,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 652,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 580,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 466,
+      "type": 1
+    },
+    {
+      "text": 838,
+      "type": 0
+    },
+    {
+      "text": 880,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 661,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 425,
+      "type": 1
+    },
+    {
+      "text": 890,
+      "type": 0
+    },
+    {
+      "text": 909,
+      "type": 0
+    },
+    {
+      "text": 926,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 601,
+      "type": 1
+    },
+    {
+      "text": 835,
+      "type": 0
+    },
+    {
+      "text": 810,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 631,
+      "type": 1
+    },
+    {
+      "text": 896,
+      "type": 0
+    },
+    {
+      "text": 750,
+      "type": 0
+    },
+    {
+      "text": 790,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 475,
+      "type": 1
+    },
+    {
+      "text": 827,
+      "type": 0
+    },
+    {
+      "text": 830,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 563,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 586,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 438,
+      "type": 1
+    },
+    {
+      "text": 911,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 589,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 640,
+      "type": 1
+    },
+    {
+      "text": 415,
+      "type": 0
+    },
+    {
+      "text": 904,
+      "type": 0
+    },
+    {
+      "text": 915,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 648,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 539,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 495,
+      "type": 1
+    },
+    {
+      "text": 855,
+      "type": 0
+    },
+    {
+      "text": 955,
+      "type": 0
+    },
+    {
+      "text": 801,
+      "type": 0
+    },
+    {
+      "text": 776,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 565,
+      "type": 1
+    },
+    {
+      "text": 829,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 655,
+      "type": 1
+    },
+    {
+      "text": 895,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 429,
+      "type": 1
+    },
+    {
+      "text": 846,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 585,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 545,
+      "type": 1
+    },
+    {
+      "text": 925,
+      "type": 0
+    },
+    {
+      "text": 953,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 584,
+      "type": 1
+    },
+    {
+      "text": 805,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 560,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 624,
+      "type": 1
+    },
+    {
+      "text": 962,
+      "type": 0
+    },
+    {
+      "text": 780,
+      "type": 0
+    },
+    {
+      "name": 832,
+      "text": 422,
+      "type": 1
+    },
+    {
+      "name": 964,
+      "text": 645,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 607,
+      "type": 1
+    },
+    {
+      "name": 832,
+      "text": 694,
+      "type": 1
+    },
+    {
+      "text": 752,
+      "type": 0
+    },
+    {
+      "text": 847,
+      "type": 0
+    },
+    {
+      "text": 747,
+      "type": 0
+    },
+    {
+      "text": 793,
+      "type": 0
+    },
+    {
+      "text": 787,
+      "type": 0
+    },
+    {
+      "name": 964,
+      "text": 420,
+      "type": 1
+    },
+    {
+      "text": 970,
+      "type": 0
+    },
+    {
+      "storage": 313,
+      "label": 0,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 799
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 0,
+      "type": 6
+    },
+    {
+      "storage": 313,
+      "label": 1,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 799
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 1,
+      "type": 6
+    },
+    {
+      "storage": 314,
+      "label": 4,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "0": 563,
+    "1": 568,
+    "5": 5
+  }
+}

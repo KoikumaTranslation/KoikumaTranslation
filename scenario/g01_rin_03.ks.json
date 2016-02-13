@@ -1,1 +1,1364 @@
-{"names":[184,206],"strings":[{"original":"$eye"},{"original":"$lip"},{"original":"$lip凛"},{"original":"*dummy1"},{"original":"*end"},{"original":"*endscene"},{"original":"*gameend_scnsel"},{"original":"*gameend_title"},{"original":"*start"},{"original":"*startscene"},{"original":"1"},{"original":"1000"},{"original":"1500"},{"original":"1800"},{"original":"2000"},{"original":"300"},{"original":"3000"},{"original":"900"},{"original":"@"},{"original":"@+10"},{"original":"@+100"},{"original":"MoveAction"},{"original":"RandomFlipAction"},{"original":"SinAction"},{"original":"acdec"},{"original":"bg"},{"original":"bg03a"},{"original":"bgm"},{"original":"bgm12"},{"original":"bgm_BGM12"},{"original":"both"},{"original":"cg_ev_rin03a"},{"original":"cg_ev_rin03b"},{"original":"cg_ev_rin03c"},{"original":"cg_ev_rin03d"},{"original":"cg_wh"},{"original":"cg_凛.stand"},{"original":"character"},{"original":"crossfade"},{"original":"d0b3dff0946ae236fb6fc1964097b4ea"},{"original":"del"},{"original":"doBoxBlur"},{"original":"endrecollection"},{"original":"env"},{"original":"envupdate"},{"original":"ev1"},{"original":"ev_rin03a"},{"original":"ev_rin03b"},{"original":"ev_rin03c"},{"original":"ev_rin03d"},{"original":"eval"},{"original":"event"},{"original":"exit"},{"original":"eye"},{"original":"eyeflipdisable"},{"original":"f.sceneview"},{"original":"g01_rin_03.ks"},{"original":"init"},{"original":"loopse"},{"original":"lse"},{"original":"meswinload"},{"original":"msgoff"},{"original":"new"},{"original":"order"},{"original":"page"},{"original":"pretrans"},{"original":"rin_0633"},{"original":"rin_0634"},{"original":"rin_0635"},{"original":"rin_0636"},{"original":"rin_0637"},{"original":"rin_0638"},{"original":"rin_0639"},{"original":"rin_0640"},{"original":"rin_0641"},{"original":"rin_0642"},{"original":"rin_0643"},{"original":"rin_0644"},{"original":"rin_0645"},{"original":"rin_0646"},{"original":"rin_0647"},{"original":"rin_0648"},{"original":"rin_0649"},{"original":"rin_0650"},{"original":"rin_0651"},{"original":"rin_0652"},{"original":"rin_0653"},{"original":"rin_0654"},{"original":"rin_0655"},{"original":"rin_0656"},{"original":"rin_0657"},{"original":"rin_0658"},{"original":"rin_0659"},{"original":"rin_0660"},{"original":"rin_0661"},{"original":"rin_0662"},{"original":"rin_0663"},{"original":"rin_0664"},{"original":"rin_0665"},{"original":"se"},{"original":"se浜辺の音"},{"original":"se環境音部屋ドア開"},{"original":"sf.clear_rin"},{"original":"sf.replay_rin_01"},{"original":"sf.subroute"},{"original":"stage"},{"original":"start.ks"},{"original":"storage"},{"original":"target"},{"original":"thlabel_endscene"},{"original":"thlabel_startscene"},{"original":"time"},{"original":"trans"},{"original":"update"},{"original":"visvalue"},{"original":"wait"},{"original":"wh"},{"original":"xpos"},{"original":"ypos"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[65]},{"original":"「あと、ボクの体にも遠慮なくマーキングしてくれてもいいですよ\u2026\u2026！」","lines":[24]},{"original":"「うむ\u2026\u2026責任、か\u2026\u2026」","lines":[64]},{"original":"「うんまあ別にいいよ\u2026\u2026俺も嫌じゃないし」","lines":[17]},{"original":"「え\u2026\u2026？　責任\u2026\u2026？」","lines":[60]},{"original":"「おしっこ\u2026\u2026いっぱいかけさせてください\u2026\u2026」","lines":[6]},{"original":"「おはようございまーすっ！」","lines":[58]},{"original":"「こ、今度交尾するときは\u2026\u2026」","lines":[81]},{"original":"「こちらこそよろしく、凛ちゃん」","lines":[80]},{"original":"「これからも、ボクをよろしくお願いします！」","lines":[43]},{"original":"「これなら今日も一日頑張れそうな気がしますー！」","lines":[47]},{"original":"「さ、今日も元気にバイトと交尾ですよー！」","lines":[7]},{"original":"「さぁさぁ、蓮センパイ！　今日も張り切ってバイトに向かいましょー！」","lines":[37]},{"original":"「じゃあ、ボクたち今日から恋人ってことですよね！」","lines":[67]},{"original":"「じょぼじょぼっと、遠慮しないでおしっこぶっかけてください\u2026\u2026！」","lines":[41]},{"original":"「すん、すん、すん\u2026\u2026」","lines":[18]},{"original":"「そう、責任です！」","lines":[45]},{"original":"「それと交尾日和！」","lines":[44]},{"original":"「それにいい天気ですし、まさに絶好のバイト日和ですね！」","lines":[74]},{"original":"「それを聞いたら、今日はもっともーっと頑張れそうな気がしてきましたー！」","lines":[33]},{"original":"「ちゃんと責任、取るよ」","lines":[11]},{"original":"「というか\u2026\u2026なんで腕組\u2026\u2026？」","lines":[53]},{"original":"「ひ、ひゃく\u2026\u2026」","lines":[73]},{"original":"「ほんとですか！？　すっごい嬉しいですー！」","lines":[72]},{"original":"「まぁ\u2026\u2026それで凛ちゃんが喜ぶなら、いいけど\u2026\u2026」","lines":[49]},{"original":"「まあまあ！　いいじゃないですかー！」","lines":[51]},{"original":"「むしろ性欲が増しちゃったというか！　ええ、マシマシという感じなんですよー！」","lines":[32]},{"original":"「もちろん取るよ」","lines":[8]},{"original":"「り、凛ちゃん？　そんなにしがみ付かれると\u2026\u2026」","lines":[15]},{"original":"「カノジョ面するってワケじゃないですけど\u2015\u2015」","lines":[48]},{"original":"「バイトはいいとして交尾ってのは\u2026\u2026」","lines":[66]},{"original":"「ボクにおしっこかけてくださいっ\u2026\u2026！」","lines":[54]},{"original":"「今日は何回くらい交尾してくれますか？」","lines":[68]},{"original":"「俺は虎じゃないからさ\u2026\u2026」","lines":[10]},{"original":"「嫌じゃないけど\u2026\u2026ほら、歩きにくいから\u2026\u2026」","lines":[9]},{"original":"「嫌ですか？」","lines":[55]},{"original":"「昨日よりもいっぱい交尾しますよね？」","lines":[50]},{"original":"「発情期のボクとしては、性欲はそう簡単に収まらないんですよー！」","lines":[79]},{"original":"「蓮センパイっ！」","lines":[19]},{"original":"「蓮センパイのたくましい雄の味を堪能したら、ボクもすっかり雌になっちゃいましたよぉ～！」","lines":[59]},{"original":"「蓮センパイの体にマーキングさせてくださいね\u2026\u2026」","lines":[31]},{"original":"「蓮センパイの答えはどっちなんですか？」","lines":[42]},{"original":"「蓮センパイは今日もいい匂いがしますねー！」","lines":[52]},{"original":"「蓮センパイ知ってますか？　発情期の虎は二日で百回以上の交尾を行うんですよ？」","lines":[16]},{"original":"「責任、取ってもらえますよね？」","lines":[30]},{"original":"「責任取ってくれるんですか？　取ってくれないんですか？」","lines":[20]},{"original":"「雌にしちゃった責任、取ってくださいっ！」","lines":[63]},{"original":"あんだけ恥ずかしがってたのに\u2026\u2026！","lines":[77]},{"original":"こっちまで自然と笑顔になっちゃうな。","lines":[76]},{"original":"こんな笑顔を見せられてしまったら\u2015\u2015","lines":[22]},{"original":"その姿は雌虎というよりも雌猫って感じだ。","lines":[78]},{"original":"たとえどんなに落ち込んでいても、笑顔になれる気がする。","lines":[23]},{"original":"でもその行動は肉食系な感じで\u2026\u2026。","lines":[75]},{"original":"とびっきりの笑顔をしながら、腕を抱きしめる力が強くなる。","lines":[40]},{"original":"なんか、その嬉しさみたいなものが伝わってくるなぁ。","lines":[36]},{"original":"むしろ、凛ちゃんは俺なんかでいいのかって。","lines":[14]},{"original":"やっぱり、昨日のエッチが原因なのだろうか\u2026\u2026？","lines":[39]},{"original":"ギュウッと、腕がさらに締め付けられる。","lines":[35]},{"original":"一応、あれから俺も凛ちゃんのことを真剣に考えた。","lines":[26]},{"original":"中に出しまくった責任。","lines":[46]},{"original":"交尾日和って\u2026\u2026おいおい\u2026\u2026。","lines":[13]},{"original":"今まではこんなこと、なかったのに。","lines":[12]},{"original":"今日の凛ちゃんはやけに強引な気がする。","lines":[6,7,9,15,16,18,19,20,30,31,37,41,42,43,44,45,47,49,50,51,52,54,55,58,59,60,65,66,67,73,74,79,80]},{"original":"凛"},{"original":"凛.stand","lines":[62]},{"original":"凛ちゃん、いろいろと吹っ切れてるし\u2026\u2026！","lines":[56]},{"original":"凛ちゃん、エロすぎるよ\u2026\u2026。","lines":[69]},{"original":"凛ちゃんにおしっこをかける、か\u2026\u2026。","lines":[34]},{"original":"凛ちゃんのことは好きだ。","lines":[38]},{"original":"凛ちゃんはより腕にしがみ付いてきた。","lines":[21]},{"original":"凛ちゃんは八重歯をちらつかせ、ご機嫌に微笑む。","lines":[25]},{"original":"処女をもらってしまった責任。","lines":[71]},{"original":"出来るものならやってみたい気はするが\u2026\u2026。","lines":[82]},{"original":"子猫のようにじゃれつく凛ちゃんの笑顔は\u2015\u2015","lines":[27]},{"original":"思い出すだけでいろいろな責任が思い当たる\u2026\u2026。"},{"original":"手上"},{"original":"手下","lines":[70]},{"original":"本当にそんなことしてもいいのだろうか\u2026\u2026？"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬１:漫符無"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬１:漫符無","lines":[83]},{"original":"真夏の太陽よりも輝いていた。"},{"original":"私服","lines":[29]},{"original":"結婚しろ、ってことなんだよな\u2026\u2026。","lines":[28]},{"original":"結論だけを間接に言うなら\u2015\u2015","lines":[57]},{"original":"肉食系すぎるよ\u2026\u2026。","lines":[8,10,11,17,24,32,33,48,53,64,68,72,81]},{"original":"蓮","lines":[0,86,91]},{"original":"責任取ってくれますよね！？"},{"original":"近距離","lines":[61]},{"original":"顔は恥じらう乙女なのに、ド変態な発言\u2026\u2026！"}],"name":56,"lines":[{"type":3,"title":207},{"subtype":0,"type":5},{"name":184,"type":2},{"name":206,"type":2},{"subtype":0,"type":5},{"label":8,"type":6},{"name":184,"text":127,"type":1},{"name":184,"text":133,"type":1},{"name":206,"text":149,"type":1},{"name":184,"text":156,"type":1},{"name":206,"text":155,"type":1},{"name":206,"text":142,"type":1},{"text":183,"type":0},{"text":182,"type":0},{"text":177,"type":0},{"name":184,"text":150,"type":1},{"name":184,"text":165,"type":1},{"name":206,"text":125,"type":1},{"name":184,"text":137,"type":1},{"name":184,"text":160,"type":1},{"name":184,"text":167,"type":1},{"text":191,"type":0},{"text":171,"type":0},{"text":173,"type":0},{"name":206,"text":123,"type":1},{"text":192,"type":0},{"text":180,"type":0},{"text":195,"type":0},{"text":204,"type":0},{"text":203,"type":0},{"name":184,"text":166,"type":1},{"name":184,"text":162,"type":1},{"name":206,"text":148,"type":1},{"name":206,"text":141,"type":1},{"text":189,"type":0},{"text":179,"type":0},{"text":176,"type":0},{"name":184,"text":134,"type":1},{"text":190,"type":0},{"text":178,"type":0},{"text":175,"type":0},{"name":184,"text":136,"type":1},{"name":184,"text":163,"type":1},{"name":184,"text":131,"type":1},{"name":184,"text":139,"type":1},{"name":184,"text":138,"type":1},{"text":181,"type":0},{"name":184,"text":132,"type":1},{"name":206,"text":151,"type":1},{"name":184,"text":146,"type":1},{"name":184,"text":158,"type":1},{"name":184,"text":147,"type":1},{"name":184,"text":164,"type":1},{"name":206,"text":143,"type":1},{"name":184,"text":153,"type":1},{"name":184,"text":157,"type":1},{"text":187,"type":0},{"text":205,"type":0},{"name":184,"text":128,"type":1},{"name":184,"text":161,"type":1},{"name":184,"text":126,"type":1},{"text":209,"type":0},{"text":186,"type":0},{"text":168,"type":0},{"name":206,"text":124,"type":1},{"name":184,"text":122,"type":1},{"name":184,"text":152,"type":1},{"name":184,"text":135,"type":1},{"name":206,"text":154,"type":1},{"text":188,"type":0},{"text":198,"type":0},{"text":193,"type":0},{"name":206,"text":145,"type":1},{"name":184,"text":144,"type":1},{"name":184,"text":140,"type":1},{"text":174,"type":0},{"text":170,"type":0},{"text":169,"type":0},{"text":172,"type":0},{"name":184,"text":159,"type":1},{"name":184,"text":130,"type":1},{"name":206,"text":129,"type":1},{"text":194,"type":0},{"text":201,"type":0},{"storage":56,"label":3,"type":7},{"subtype":0,"type":5},{"type":3,"title":207},{"subtype":0,"type":5},{"label":3,"type":6},{"storage":56,"label":4,"type":7},{"subtype":0,"type":5},{"type":3,"title":207},{"subtype":0,"type":5},{"label":4,"type":6},{"storage":106,"label":7,"type":7}],"labels":{"3":88,"4":93,"8":5}}
+{
+  "names": [
+    184,
+    206
+  ],
+  "strings": [
+    {
+      "original": "$eye"
+    },
+    {
+      "original": "$lip"
+    },
+    {
+      "original": "$lip凛"
+    },
+    {
+      "original": "*dummy1"
+    },
+    {
+      "original": "*end"
+    },
+    {
+      "original": "*endscene"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*gameend_title"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "*startscene"
+    },
+    {
+      "original": "1"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "1500"
+    },
+    {
+      "original": "1800"
+    },
+    {
+      "original": "2000"
+    },
+    {
+      "original": "300"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "900"
+    },
+    {
+      "original": "@"
+    },
+    {
+      "original": "@+10"
+    },
+    {
+      "original": "@+100"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "RandomFlipAction"
+    },
+    {
+      "original": "SinAction"
+    },
+    {
+      "original": "acdec"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg03a"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm12"
+    },
+    {
+      "original": "bgm_BGM12"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cg_ev_rin03a"
+    },
+    {
+      "original": "cg_ev_rin03b"
+    },
+    {
+      "original": "cg_ev_rin03c"
+    },
+    {
+      "original": "cg_ev_rin03d"
+    },
+    {
+      "original": "cg_wh"
+    },
+    {
+      "original": "cg_凛.stand"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "d0b3dff0946ae236fb6fc1964097b4ea"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "endrecollection"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "ev1"
+    },
+    {
+      "original": "ev_rin03a"
+    },
+    {
+      "original": "ev_rin03b"
+    },
+    {
+      "original": "ev_rin03c"
+    },
+    {
+      "original": "ev_rin03d"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "event"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eye"
+    },
+    {
+      "original": "eyeflipdisable"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "g01_rin_03.ks"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "loopse"
+    },
+    {
+      "original": "lse"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "pretrans"
+    },
+    {
+      "original": "rin_0633"
+    },
+    {
+      "original": "rin_0634"
+    },
+    {
+      "original": "rin_0635"
+    },
+    {
+      "original": "rin_0636"
+    },
+    {
+      "original": "rin_0637"
+    },
+    {
+      "original": "rin_0638"
+    },
+    {
+      "original": "rin_0639"
+    },
+    {
+      "original": "rin_0640"
+    },
+    {
+      "original": "rin_0641"
+    },
+    {
+      "original": "rin_0642"
+    },
+    {
+      "original": "rin_0643"
+    },
+    {
+      "original": "rin_0644"
+    },
+    {
+      "original": "rin_0645"
+    },
+    {
+      "original": "rin_0646"
+    },
+    {
+      "original": "rin_0647"
+    },
+    {
+      "original": "rin_0648"
+    },
+    {
+      "original": "rin_0649"
+    },
+    {
+      "original": "rin_0650"
+    },
+    {
+      "original": "rin_0651"
+    },
+    {
+      "original": "rin_0652"
+    },
+    {
+      "original": "rin_0653"
+    },
+    {
+      "original": "rin_0654"
+    },
+    {
+      "original": "rin_0655"
+    },
+    {
+      "original": "rin_0656"
+    },
+    {
+      "original": "rin_0657"
+    },
+    {
+      "original": "rin_0658"
+    },
+    {
+      "original": "rin_0659"
+    },
+    {
+      "original": "rin_0660"
+    },
+    {
+      "original": "rin_0661"
+    },
+    {
+      "original": "rin_0662"
+    },
+    {
+      "original": "rin_0663"
+    },
+    {
+      "original": "rin_0664"
+    },
+    {
+      "original": "rin_0665"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "se浜辺の音"
+    },
+    {
+      "original": "se環境音部屋ドア開"
+    },
+    {
+      "original": "sf.clear_rin"
+    },
+    {
+      "original": "sf.replay_rin_01"
+    },
+    {
+      "original": "sf.subroute"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "thlabel_endscene"
+    },
+    {
+      "original": "thlabel_startscene"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "wh"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "「あと、ボクの体にも遠慮なくマーキングしてくれてもいいですよ……！」",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "「うむ……責任、か……」",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "「うんまあ別にいいよ……俺も嫌じゃないし」",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "「え……？　責任……？」",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "「おしっこ……いっぱいかけさせてください……」",
+      "lines": [
+        6
+      ]
+    },
+    {
+      "original": "「おはようございまーすっ！」",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "「こ、今度交尾するときは……」",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "「こちらこそよろしく、凛ちゃん」",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "「これからも、ボクをよろしくお願いします！」",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "「これなら今日も一日頑張れそうな気がしますー！」",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "「さ、今日も元気にバイトと交尾ですよー！」",
+      "lines": [
+        7
+      ]
+    },
+    {
+      "original": "「さぁさぁ、蓮センパイ！　今日も張り切ってバイトに向かいましょー！」",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "「じゃあ、ボクたち今日から恋人ってことですよね！」",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "「じょぼじょぼっと、遠慮しないでおしっこぶっかけてください……！」",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "「すん、すん、すん……」",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "「そう、責任です！」",
+      "lines": [
+        45
+      ]
+    },
+    {
+      "original": "「それと交尾日和！」",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "「それにいい天気ですし、まさに絶好のバイト日和ですね！」",
+      "lines": [
+        74
+      ]
+    },
+    {
+      "original": "「それを聞いたら、今日はもっともーっと頑張れそうな気がしてきましたー！」",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "「ちゃんと責任、取るよ」",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "「というか……なんで腕組……？」",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "「ひ、ひゃく……」",
+      "lines": [
+        73
+      ]
+    },
+    {
+      "original": "「ほんとですか！？　すっごい嬉しいですー！」",
+      "lines": [
+        72
+      ]
+    },
+    {
+      "original": "「まぁ……それで凛ちゃんが喜ぶなら、いいけど……」",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "「まあまあ！　いいじゃないですかー！」",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "「むしろ性欲が増しちゃったというか！　ええ、マシマシという感じなんですよー！」",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "「もちろん取るよ」",
+      "lines": [
+        8
+      ]
+    },
+    {
+      "original": "「り、凛ちゃん？　そんなにしがみ付かれると……」",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "「カノジョ面するってワケじゃないですけど――」",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "「バイトはいいとして交尾ってのは……」",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "「ボクにおしっこかけてくださいっ……！」",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "「今日は何回くらい交尾してくれますか？」",
+      "lines": [
+        68
+      ]
+    },
+    {
+      "original": "「俺は虎じゃないからさ……」",
+      "lines": [
+        10
+      ]
+    },
+    {
+      "original": "「嫌じゃないけど……ほら、歩きにくいから……」",
+      "lines": [
+        9
+      ]
+    },
+    {
+      "original": "「嫌ですか？」",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "「昨日よりもいっぱい交尾しますよね？」",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "「発情期のボクとしては、性欲はそう簡単に収まらないんですよー！」",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "「蓮センパイっ！」",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "「蓮センパイのたくましい雄の味を堪能したら、ボクもすっかり雌になっちゃいましたよぉ～！」",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "「蓮センパイの体にマーキングさせてくださいね……」",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "「蓮センパイの答えはどっちなんですか？」",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "「蓮センパイは今日もいい匂いがしますねー！」",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "「蓮センパイ知ってますか？　発情期の虎は二日で百回以上の交尾を行うんですよ？」",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "「責任、取ってもらえますよね？」",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "「責任取ってくれるんですか？　取ってくれないんですか？」",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "「雌にしちゃった責任、取ってくださいっ！」",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "あんだけ恥ずかしがってたのに……！",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "こっちまで自然と笑顔になっちゃうな。",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "こんな笑顔を見せられてしまったら――",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "その姿は雌虎というよりも雌猫って感じだ。",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "たとえどんなに落ち込んでいても、笑顔になれる気がする。",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "でもその行動は肉食系な感じで……。",
+      "lines": [
+        75
+      ]
+    },
+    {
+      "original": "とびっきりの笑顔をしながら、腕を抱きしめる力が強くなる。",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "なんか、その嬉しさみたいなものが伝わってくるなぁ。",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "むしろ、凛ちゃんは俺なんかでいいのかって。",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "やっぱり、昨日のエッチが原因なのだろうか……？",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "ギュウッと、腕がさらに締め付けられる。",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "一応、あれから俺も凛ちゃんのことを真剣に考えた。",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "中に出しまくった責任。",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "交尾日和って……おいおい……。",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "今まではこんなこと、なかったのに。",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "今日の凛ちゃんはやけに強引な気がする。",
+      "lines": [
+        6,
+        7,
+        9,
+        15,
+        16,
+        18,
+        19,
+        20,
+        30,
+        31,
+        37,
+        41,
+        42,
+        43,
+        44,
+        45,
+        47,
+        49,
+        50,
+        51,
+        52,
+        54,
+        55,
+        58,
+        59,
+        60,
+        65,
+        66,
+        67,
+        73,
+        74,
+        79,
+        80
+      ]
+    },
+    {
+      "original": "凛"
+    },
+    {
+      "original": "凛.stand",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "凛ちゃん、いろいろと吹っ切れてるし……！",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "凛ちゃん、エロすぎるよ……。",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "凛ちゃんにおしっこをかける、か……。",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "凛ちゃんのことは好きだ。",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "凛ちゃんはより腕にしがみ付いてきた。",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "凛ちゃんは八重歯をちらつかせ、ご機嫌に微笑む。",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "処女をもらってしまった責任。",
+      "lines": [
+        71
+      ]
+    },
+    {
+      "original": "出来るものならやってみたい気はするが……。",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "子猫のようにじゃれつく凛ちゃんの笑顔は――",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "思い出すだけでいろいろな責任が思い当たる……。"
+    },
+    {
+      "original": "手上"
+    },
+    {
+      "original": "手下",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "本当にそんなことしてもいいのだろうか……？"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬１:漫符無",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "真夏の太陽よりも輝いていた。"
+    },
+    {
+      "original": "私服",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "結婚しろ、ってことなんだよな……。",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "結論だけを間接に言うなら――",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "肉食系すぎるよ……。",
+      "lines": [
+        8,
+        10,
+        11,
+        17,
+        24,
+        32,
+        33,
+        48,
+        53,
+        64,
+        68,
+        72,
+        81
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        0,
+        86,
+        91
+      ]
+    },
+    {
+      "original": "責任取ってくれますよね！？"
+    },
+    {
+      "original": "近距離",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "顔は恥じらう乙女なのに、ド変態な発言……！"
+    }
+  ],
+  "name": 56,
+  "lines": [
+    {
+      "type": 3,
+      "title": 207
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 184,
+      "type": 2
+    },
+    {
+      "name": 206,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 8,
+      "type": 6
+    },
+    {
+      "name": 184,
+      "text": 127,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 133,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 149,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 156,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 155,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 142,
+      "type": 1
+    },
+    {
+      "text": 183,
+      "type": 0
+    },
+    {
+      "text": 182,
+      "type": 0
+    },
+    {
+      "text": 177,
+      "type": 0
+    },
+    {
+      "name": 184,
+      "text": 150,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 165,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 125,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 137,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 160,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 167,
+      "type": 1
+    },
+    {
+      "text": 191,
+      "type": 0
+    },
+    {
+      "text": 171,
+      "type": 0
+    },
+    {
+      "text": 173,
+      "type": 0
+    },
+    {
+      "name": 206,
+      "text": 123,
+      "type": 1
+    },
+    {
+      "text": 192,
+      "type": 0
+    },
+    {
+      "text": 180,
+      "type": 0
+    },
+    {
+      "text": 195,
+      "type": 0
+    },
+    {
+      "text": 204,
+      "type": 0
+    },
+    {
+      "text": 203,
+      "type": 0
+    },
+    {
+      "name": 184,
+      "text": 166,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 162,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 148,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 141,
+      "type": 1
+    },
+    {
+      "text": 189,
+      "type": 0
+    },
+    {
+      "text": 179,
+      "type": 0
+    },
+    {
+      "text": 176,
+      "type": 0
+    },
+    {
+      "name": 184,
+      "text": 134,
+      "type": 1
+    },
+    {
+      "text": 190,
+      "type": 0
+    },
+    {
+      "text": 178,
+      "type": 0
+    },
+    {
+      "text": 175,
+      "type": 0
+    },
+    {
+      "name": 184,
+      "text": 136,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 163,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 131,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 139,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 138,
+      "type": 1
+    },
+    {
+      "text": 181,
+      "type": 0
+    },
+    {
+      "name": 184,
+      "text": 132,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 151,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 146,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 158,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 147,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 164,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 143,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 153,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 157,
+      "type": 1
+    },
+    {
+      "text": 187,
+      "type": 0
+    },
+    {
+      "text": 205,
+      "type": 0
+    },
+    {
+      "name": 184,
+      "text": 128,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 161,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 126,
+      "type": 1
+    },
+    {
+      "text": 209,
+      "type": 0
+    },
+    {
+      "text": 186,
+      "type": 0
+    },
+    {
+      "text": 168,
+      "type": 0
+    },
+    {
+      "name": 206,
+      "text": 124,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 122,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 152,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 135,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 154,
+      "type": 1
+    },
+    {
+      "text": 188,
+      "type": 0
+    },
+    {
+      "text": 198,
+      "type": 0
+    },
+    {
+      "text": 193,
+      "type": 0
+    },
+    {
+      "name": 206,
+      "text": 145,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 144,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 140,
+      "type": 1
+    },
+    {
+      "text": 174,
+      "type": 0
+    },
+    {
+      "text": 170,
+      "type": 0
+    },
+    {
+      "text": 169,
+      "type": 0
+    },
+    {
+      "text": 172,
+      "type": 0
+    },
+    {
+      "name": 184,
+      "text": 159,
+      "type": 1
+    },
+    {
+      "name": 184,
+      "text": 130,
+      "type": 1
+    },
+    {
+      "name": 206,
+      "text": 129,
+      "type": 1
+    },
+    {
+      "text": 194,
+      "type": 0
+    },
+    {
+      "text": 201,
+      "type": 0
+    },
+    {
+      "storage": 56,
+      "label": 3,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 207
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 3,
+      "type": 6
+    },
+    {
+      "storage": 56,
+      "label": 4,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 207
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 4,
+      "type": 6
+    },
+    {
+      "storage": 106,
+      "label": 7,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "3": 88,
+    "4": 93,
+    "8": 5
+  }
+}

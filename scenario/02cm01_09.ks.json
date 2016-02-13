@@ -1,1 +1,7263 @@
-{"names":[1011,827,812,759,817,805,853,877,898,1019],"strings":[{"original":"$eye"},{"original":"$lip"},{"original":"$lipアルル"},{"original":"$lipタマ"},{"original":"$lip優"},{"original":"$lip咲莉"},{"original":"$lip梨々愛"},{"original":"$lip雅妃","lines":[251]},{"original":"%115;「うるせぇ！　ジゴロでもなんでもいいからとりあえず食えこの野郎！！」","lines":[385]},{"original":"%115;「一番まともな食べ物なのは認めるけど！！」","lines":[384]},{"original":"%115;「既成品！　これ既成品だから！！」"},{"original":"*end"},{"original":"*gameend_scnsel"},{"original":"*start"},{"original":"0"},{"original":"02cm01_09.ks"},{"original":"02cm01_10.ks"},{"original":"100"},{"original":"1000"},{"original":"1500"},{"original":"1900"},{"original":"2000"},{"original":"250"},{"original":"300"},{"original":"3000"},{"original":"50"},{"original":"500"},{"original":"900"},{"original":"@"},{"original":"@+100"},{"original":"@-100"},{"original":"MoveAction"},{"original":"RandomAction"},{"original":"RandomFlipAction"},{"original":"SinAction"},{"original":"acdec"},{"original":"arle_0169"},{"original":"arle_0170"},{"original":"arle_0171"},{"original":"arle_0172"},{"original":"arle_0173"},{"original":"arle_0174"},{"original":"arle_0175"},{"original":"arle_0176"},{"original":"arle_0177"},{"original":"arle_0178"},{"original":"arle_0179"},{"original":"arle_0180"},{"original":"arle_0181"},{"original":"arle_0182"},{"original":"arle_0183"},{"original":"arle_0184"},{"original":"bg"},{"original":"bg02a"},{"original":"bg03a"},{"original":"bg03a_x"},{"original":"bg99a"},{"original":"bgm"},{"original":"bgm03"},{"original":"bgm05"},{"original":"bgm06"},{"original":"bgm07"},{"original":"bgm08"},{"original":"bgm09"},{"original":"bgm15"},{"original":"bgm_BGM03"},{"original":"bgm_BGM05"},{"original":"bgm_BGM06"},{"original":"bgm_BGM07"},{"original":"bgm_BGM08"},{"original":"bgm_BGM09"},{"original":"bgm_BGM15"},{"original":"both"},{"original":"cg_ic_29"},{"original":"cg_question_mark"},{"original":"cg_red"},{"original":"cg_syo_08a"},{"original":"cg_syo_09a"},{"original":"cg_syo_10a"},{"original":"cg_syo_11a"},{"original":"cg_wh"},{"original":"cg_しげる.stand"},{"original":"cg_アルル.stand"},{"original":"cg_ケルベロス.stand"},{"original":"cg_ゴメ.stand"},{"original":"cg_タマ.stand"},{"original":"cg_リリア.stand"},{"original":"cg_優.stand"},{"original":"cg_咲莉.stand"},{"original":"cg_雅妃.stand"},{"original":"cg_集中線"},{"original":"character"},{"original":"crossfade"},{"original":"del"},{"original":"delayrun"},{"original":"doBoxBlur"},{"original":"ecefcd12e7884bbed819e56c4e6fe842"},{"original":"emiri_0446"},{"original":"emiri_0447"},{"original":"emiri_0448"},{"original":"emiri_0449"},{"original":"emiri_0450"},{"original":"emiri_0451"},{"original":"emiri_0452"},{"original":"emiri_0453"},{"original":"emiri_0454"},{"original":"emiri_0455"},{"original":"emiri_0456"},{"original":"emiri_0457"},{"original":"emiri_0458"},{"original":"emiri_0459"},{"original":"emiri_0460"},{"original":"emiri_0461"},{"original":"emiri_0462"},{"original":"emiri_0463"},{"original":"emiri_0464"},{"original":"emiri_0466"},{"original":"emiri_0467"},{"original":"emiri_0468"},{"original":"emiri_0469"},{"original":"emiri_0470"},{"original":"emiri_0471"},{"original":"emo_タマ"},{"original":"emotion"},{"original":"env"},{"original":"envupdate"},{"original":"ev"},{"original":"eval"},{"original":"evcut"},{"original":"event"},{"original":"exit"},{"original":"eye"},{"original":"eyecatch"},{"original":"eyeflipdisable"},{"original":"f.sceneview"},{"original":"flash"},{"original":"gome_0028"},{"original":"gome_0029"},{"original":"gome_0030"},{"original":"gome_0031"},{"original":"gome_0032"},{"original":"gome_0033"},{"original":"gome_0034"},{"original":"gome_0035"},{"original":"gome_0036"},{"original":"gome_0037"},{"original":"gome_0038"},{"original":"gome_0039"},{"original":"gome_0040"},{"original":"gome_0041"},{"original":"gome_0042"},{"original":"ic_29"},{"original":"init"},{"original":"layer"},{"original":"left"},{"original":"light"},{"original":"line"},{"original":"map27b"},{"original":"meswinload"},{"original":"miyabi_0226"},{"original":"miyabi_0227"},{"original":"miyabi_0228"},{"original":"miyabi_0229"},{"original":"miyabi_0230"},{"original":"miyabi_0231"},{"original":"miyabi_0232"},{"original":"miyabi_0233"},{"original":"miyabi_0234"},{"original":"miyabi_0235"},{"original":"miyabi_0236"},{"original":"miyabi_0237"},{"original":"miyabi_0238"},{"original":"miyabi_0239"},{"original":"miyabi_0240"},{"original":"miyabi_0241"},{"original":"miyabi_0242"},{"original":"miyabi_0243"},{"original":"miyabi_0244"},{"original":"miyabi_0245"},{"original":"miyabi_0246"},{"original":"miyabi_0247"},{"original":"miyabi_0248"},{"original":"miyabi_0249"},{"original":"miyabi_0250"},{"original":"miyabi_0251"},{"original":"miyabi_0252"},{"original":"miyabi_0253"},{"original":"miyabi_0254"},{"original":"miyabi_0255"},{"original":"miyabi_0256"},{"original":"msgoff"},{"original":"new"},{"original":"opacity"},{"original":"order"},{"original":"page"},{"original":"pochi_0017"},{"original":"pochi_0018"},{"original":"pochi_0019"},{"original":"pochi_0020"},{"original":"pochi_0021"},{"original":"pochi_0022"},{"original":"pochi_0023"},{"original":"pochi_0025"},{"original":"pretrans"},{"original":"question_mark"},{"original":"red"},{"original":"riria_0598"},{"original":"riria_0599"},{"original":"riria_0600"},{"original":"riria_0601"},{"original":"riria_0602"},{"original":"riria_0603"},{"original":"riria_0604"},{"original":"riria_0605"},{"original":"riria_0606"},{"original":"riria_0607"},{"original":"riria_0608"},{"original":"riria_0609"},{"original":"riria_0610"},{"original":"riria_0611"},{"original":"riria_0612"},{"original":"riria_0613"},{"original":"riria_0614"},{"original":"riria_0615"},{"original":"riria_0616"},{"original":"riria_0621"},{"original":"riria_0622"},{"original":"riria_0623"},{"original":"riria_0624"},{"original":"riria_0625"},{"original":"riria_0626"},{"original":"riria_0627"},{"original":"riria_0628"},{"original":"rotate"},{"original":"se"},{"original":"seキラキラー"},{"original":"seシャキン"},{"original":"seドサッと荷物を置く音"},{"original":"seファンファーレ"},{"original":"se引きずる"},{"original":"se心音ガシャン"},{"original":"se心音ガーン"},{"original":"se心音グサッ"},{"original":"se心音チーン"},{"original":"se心音ドーン"},{"original":"se心音ピキーン"},{"original":"se心音怒り"},{"original":"se心音爆発"},{"original":"se心音落雷"},{"original":"se抱きつく音"},{"original":"se機械音レジ"},{"original":"se爆発ドカーン"},{"original":"se締め付け"},{"original":"shigeru_0005"},{"original":"shigeru_0006"},{"original":"shigeru_0007"},{"original":"shigeru_0008"},{"original":"shigeru_0009"},{"original":"stage"},{"original":"start.ks"},{"original":"stop"},{"original":"stopaction"},{"original":"storage"},{"original":"sync"},{"original":"syo_08a"},{"original":"syo_09a"},{"original":"syo_10a"},{"original":"syo_11a"},{"original":"tama_0234"},{"original":"tama_0235"},{"original":"tama_0236"},{"original":"tama_0237"},{"original":"tama_0238"},{"original":"tama_0239"},{"original":"tama_0240"},{"original":"tama_0241"},{"original":"tama_0242"},{"original":"tama_0243"},{"original":"tama_0244"},{"original":"tama_0245"},{"original":"tama_0246"},{"original":"tama_0247"},{"original":"tama_0248"},{"original":"tama_0249"},{"original":"tama_0250"},{"original":"tama_0251"},{"original":"tama_0252"},{"original":"tama_0253"},{"original":"tama_0255"},{"original":"tama_0256"},{"original":"tama_0257"},{"original":"tama_0258"},{"original":"tama_0259"},{"original":"tama_0260"},{"original":"tama_0261"},{"original":"tama_0262"},{"original":"tama_0263"},{"original":"tama_0264"},{"original":"tama_0265"},{"original":"tama_0266"},{"original":"tama_0268"},{"original":"tama_0269"},{"original":"tama_0270"},{"original":"tama_0271"},{"original":"tama_0272"},{"original":"tama_0273"},{"original":"tama_0274"},{"original":"tama_0275"},{"original":"tama_0276"},{"original":"tama_0277"},{"original":"tama_0278"},{"original":"tama_0279"},{"original":"tama_0280"},{"original":"tama_0282"},{"original":"tama_0283"},{"original":"tama_0284"},{"original":"tama_0285"},{"original":"tama_0286"},{"original":"tama_0287"},{"original":"tama_0288"},{"original":"tama_0289"},{"original":"tama_0290"},{"original":"tama_0291"},{"original":"tama_0292"},{"original":"tama_0293"},{"original":"tama_0294"},{"original":"tama_0295"},{"original":"tama_0296"},{"original":"tama_0297"},{"original":"tama_0298"},{"original":"tama_0299"},{"original":"tama_0300"},{"original":"tama_0301"},{"original":"tama_0302"},{"original":"tama_0303"},{"original":"tama_0304"},{"original":"tama_0305"},{"original":"tama_0306"},{"original":"tama_0307"},{"original":"tama_0308"},{"original":"tama_0309"},{"original":"tama_0310"},{"original":"tama_0311"},{"original":"tama_0312"},{"original":"tama_0313"},{"original":"tama_0314"},{"original":"tama_0315"},{"original":"tama_0316"},{"original":"tama_0317"},{"original":"tama_0318"},{"original":"tama_0319"},{"original":"tama_0320"},{"original":"tama_0321"},{"original":"tama_0322"},{"original":"tama_0323"},{"original":"tama_0324"},{"original":"tama_0325"},{"original":"tama_0326"},{"original":"tama_0327"},{"original":"target"},{"original":"time"},{"original":"top"},{"original":"trans"},{"original":"true"},{"original":"universal"},{"original":"update"},{"original":"visvalue"},{"original":"vlstop"},{"original":"wait"},{"original":"wh"},{"original":"xpos"},{"original":"ypos"},{"original":"yu_0180"},{"original":"yu_0181"},{"original":"yu_0182"},{"original":"yu_0183"},{"original":"yu_0184"},{"original":"yu_0185"},{"original":"yu_0186"},{"original":"yu_0187"},{"original":"yu_0188"},{"original":"yu_0189"},{"original":"yu_0190"},{"original":"yu_0191"},{"original":"yu_0192"},{"original":"yu_0193"},{"original":"yu_0194"},{"original":"yu_0195"},{"original":"yu_0196"},{"original":"yu_0197"},{"original":"yu_0198"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[404]},{"original":"\u2026\u2026\u2026\u2026しかし。","lines":[313]},{"original":"\u2026\u2026これは手料理に入るんだろうか？","lines":[98]},{"original":"\u2026\u2026それを、このメンツで。","lines":[101]},{"original":"\u2026\u2026まぁ、そこまでは言い過ぎかもしれないけど。","lines":[131]},{"original":"\u2026\u2026みんな、自分が最下位にはならないと思ってるんだなぁ。","lines":[435]},{"original":"\u2026\u2026料理はいずこに？","lines":[321]},{"original":"「(タマちゃん、また余計なことを\u2026\u2026！)」","lines":[322]},{"original":"「(申し訳ない、申し訳ないのです\u2026\u2026)」","lines":[224]},{"original":"「[あか]紅い\u2026\u2026！　[あか]紅すぎるのですよ\u2026\u2026！」","lines":[70]},{"original":"「\u2015\u2015ならないか」","lines":[431]},{"original":"「\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026」","lines":[432]},{"original":"「\u2026\u2026\u2026\u2026え？」","lines":[164]},{"original":"「\u2026\u2026えっと、梨々愛選手？」","lines":[412]},{"original":"「\u2026\u2026でもうちの妹は可愛いだけで家事は一切しなかった」","lines":[292]},{"original":"「\u2026\u2026なんか、いろいろと大変だったんですね」","lines":[365]},{"original":"「\u2026\u2026タマちゃん」","lines":[396]},{"original":"「\u2026\u2026残すところは咲だけか」","lines":[390]},{"original":"「\u2026\u2026結構、胸に刺さりますねこれ」","lines":[414]},{"original":"「\u2026\u2026蓮ちゃん、ようやく妹の手料理を食べるチャンスじゃないですか！」","lines":[325]},{"original":"「あ、あと空腹感がなくなる薬とかも混ぜてあるからダイエットにもなるよ？」","lines":[356]},{"original":"「あ、でもそんなに自信はないですけど\u2026\u2026！」","lines":[479]},{"original":"「あ、はい。すみません、つい\u2026\u2026えへへ\u2026\u2026」","lines":[58]},{"original":"「あ、ポチはちゃんと狂ケル病の予防接種を受けてるので問題ないのですよ」","lines":[374]},{"original":"「あ、味には自信があるんですけども\u2026\u2026」","lines":[415]},{"original":"「あぁ、そうだな\u2026\u2026」"},{"original":"「あかい\u2026\u2026！　あかすぎるのですよ\u2026\u2026！」","lines":[422]},{"original":"「あたしをそこらのマ族と同じにしないで欲しいなぁ」","lines":[450]},{"original":"「あたし料理なんて全然出来ないし、考えたんだ」","lines":[29]},{"original":"「あっ、ゴメ！　こら！」","lines":[187]},{"original":"「あっ、自分で未来の旦那様だなんてやだもうー♪　ばしばしっ♪」","lines":[349]},{"original":"「あの、私もできました\u2026\u2026」","lines":[274]},{"original":"「あれ、そうなのですか？」","lines":[206]},{"original":"「あんなのを見せられたらこうなるのも無理はない」","lines":[302]},{"original":"「あんまり料理っぽい料理はしてないからねー」","lines":[319]},{"original":"「あーなるほど。それは食感が変わっていいかもしれないね」","lines":[248]},{"original":"「あ～なるほど～それじゃあしょうがないですね～」","lines":[111]},{"original":"「いいですか蓮ちゃん！　タマを除外したのにはちゃーんと深い理由があるのですから！」","lines":[110]},{"original":"「いえ、そんなことは」","lines":[125]},{"original":"「いつも蓮さんばかりに作らせて悪いと思ってましたし」","lines":[49]},{"original":"「いてえぇええぇえぇえぇぇぇぇえぇっっっ！！！！！！」","lines":[109]},{"original":"「いま、サラッとバカにしやがったのですね？」","lines":[72]},{"original":"「いま『女の子』のカテゴリにタマが入ってなかった気がするのですが」","lines":[148]},{"original":"「いや、それは禁止するまでもないだろ」","lines":[434]},{"original":"「いや、そんなこと言われても\u2026\u2026」","lines":[134]},{"original":"「いやぁ始まってもいないのにこの白熱っぷり！」","lines":[194]},{"original":"「いやあぁあぁぁぁーっ！　せめて、せめてひとくちーっ！！」","lines":[68]},{"original":"「いやいやいや、とんでもないことってまた大げさな」","lines":[244]},{"original":"「いやいやいや、レディーファーストって言うじゃん？」","lines":[368]},{"original":"「いやでも自分で作ったのなら、そこそこの女子力ってこともないかとは\u2026\u2026」","lines":[82]},{"original":"「いや別にそんなつもりで言ったわけでは\u2026\u2026」","lines":[240]},{"original":"「いや本当においしいかもしれないし一応」","lines":[273]},{"original":"「いや魔女が鍋をねるねるするのなんて、もうずいぶんと昔のことなんだけど\u2026\u2026」","lines":[207]},{"original":"「うぅぅぅ、ひどいよぉ\u2026\u2026」","lines":[252]},{"original":"「うるせぇ、お前が死ぬのです！　このゲスがー！！」"},{"original":"「うるせぇ！　ジゴロでもなんでもいいからとりあえず食えこの野郎！！」","lines":[178]},{"original":"「うん、だから、たまーにかな、たまーに、うん」","lines":[451]},{"original":"「うん。何を？」","lines":[367]},{"original":"「うーん、こちらもなかなか女子力皆無なのですよ」","lines":[163]},{"original":"「うーん、これはぁ\u2026\u2026灰？」","lines":[333]},{"original":"「うーん、今回は効率点がなかったのが敗因かなぁ」","lines":[269]},{"original":"「え、あれって煮込み料理してるの？」","lines":[56]},{"original":"「え、何それ。聞いてないんだけど」","lines":[312]},{"original":"「えぇ\u2026\u2026それは大変身に余る光栄なのですが\u2026\u2026」","lines":[190]},{"original":"「えぇぇぇえぇえぇぇーーーっっっ！？」","lines":[46,48]},{"original":"「えっ」","lines":[50]},{"original":"「えー、というわけで」","lines":[332]},{"original":"「えー、何で？　こんなに効率がいいのに？」","lines":[362]},{"original":"「えーと、アルルちゃん？」","lines":[457]},{"original":"「えー！？　なんでなんでなんでー！？」","lines":[239]},{"original":"「え！？　タマが先に食べるのですか！？」","lines":[267]},{"original":"「え？　そうなの？　薬剤師じゃなくて？」","lines":[359]},{"original":"「おおおっ\u2026\u2026！　こ、これはっ\u2026\u2026！？」","lines":[31]},{"original":"「おかわり」","lines":[43]},{"original":"「おかわりならまだあるからケンカすんなって\u2015\u2015」","lines":[492]},{"original":"「おーそうするか」","lines":[453]},{"original":"「お兄ちゃん、好きな調理法選んでいいよ？」","lines":[417]},{"original":"「お兄ちゃん、茶番はそれくらいでいい？」","lines":[54]},{"original":"「お兄ちゃんは何だかんだ世話焼きだからねぇ」","lines":[391]},{"original":"「お前は女じゃないって言われてるみたいで\u2026\u2026うぅ\u2026\u2026」","lines":[21]},{"original":"「お前らちゃんと自分の分のエサあんだからケンカすんなってばー」","lines":[94]},{"original":"「お昼も食べられて女子力も測定できる\u2026\u2026あぁ、なんて天才的な企画なのですか！」","lines":[291]},{"original":"「お母さんもおばあちゃんも通ってきた道だって言ってたし、仕方ないよね（遠い目）」","lines":[487]},{"original":"「かー！　うるさいのですよこの発情アクマどもがー！」","lines":[382]},{"original":"「かー！　キンキンに冷えてやがるのです！　夏場のビールはうますぎるのですよー！」","lines":[107]},{"original":"「かー！　失礼しちゃうのですまったく！　そこまでひどくはないのです！」","lines":[27]},{"original":"「くぅ～ん、くぅ～ん」","lines":[337]},{"original":"「くーん、くーん」","lines":[33]},{"original":"「ぐああぁああぁあぁぁっっ！！！！」","lines":[218]},{"original":"「こういうの、こういうのでいいんですよねぇ」","lines":[35]},{"original":"「こうなっては吾も伝家の宝刀『のしかかり』をお見舞いしてあいたたたたマジでいたああぁあぁ！！！」","lines":[93]},{"original":"「この五人の中で誰が一番の料理上手なのかを、はっきりさせるのですよ！」","lines":[165]},{"original":"「この灰はなんだか説明してもらえますか？」","lines":[129]},{"original":"「この面子ならビリになることはまずないかな」","lines":[366]},{"original":"「これ、どうも見たまんまみたいだよ？」","lines":[235]},{"original":"「これ、箸がいつもの三倍で動くくらいおいしいから」","lines":[172]},{"original":"「これだけ亜鉛を食べれば\u2026\u2026ねぇ？　ふふふ\u2026\u2026♪」","lines":[316]},{"original":"「これはこれでいいところのある料理なんだよ？」","lines":[198]},{"original":"「これは今後もエキセントリックな展開が予想されるのですよ\u2026\u2026」","lines":[233]},{"original":"「こんな見た目をしてるけど、味は完璧」","lines":[381]},{"original":"「ごくごくごくごくごく！！！」","lines":[167]},{"original":"「ご飯の亜鉛ふりかけ！　亜鉛入り玉子焼き！」","lines":[66]},{"original":"「ご飯を作る人がいないのです」","lines":[186]},{"original":"「さ、遠慮しないで食べて食べて？」","lines":[95]},{"original":"「さぁ、みんなでレッツ女子力測定なのです！」","lines":[139]},{"original":"「さぁ、第一回、ポンコツ寮女子力効果測定大会　～食中毒には気をつけよう～　が始まりました」","lines":[310]},{"original":"「さぁ、遠慮はいらないから食べて？」","lines":[236]},{"original":"「さぁ、食べてみて」","lines":[238]},{"original":"「ささ、タマちゃんお先にどうぞ」","lines":[197]},{"original":"「さすがのタマも金属を食事として出されるとは思わなかったのです」","lines":[195]},{"original":"「さて、のっけからとんでもない逸品でしたけども」","lines":[421]},{"original":"「しっつれいなロリババねぇ、ほんとロリババ」","lines":[276]},{"original":"「じゃあ、ほうきにも乗らないのですか？」","lines":[214]},{"original":"「じゃあとりあえず二番目、優さんどうぞ」","lines":[208]},{"original":"「せっかくママ直伝の亜鉛ご飯なのにぃ\u2026\u2026」","lines":[406]},{"original":"「そ、そう言われてみれば\u2026\u2026」","lines":[334]},{"original":"「そういう感じでご納得頂ければ幸いです」","lines":[199]},{"original":"「そうですねぇ、どの選手もあまりレベルが変わると思えないですからね\u2026\u2026」","lines":[255]},{"original":"「そうですね！　ここはひとまず置いておいて次の審査に行くのです！」","lines":[108]},{"original":"「そこまでは、ね」","lines":[169]},{"original":"「そして、デザートに奮発して亜鉛の塊を用意してみました！　どーん！」","lines":[67]},{"original":"「そして時刻はもうすぐお昼時なのですよ」","lines":[173]},{"original":"「その、夜も仲良しっていうか\u2026\u2026ねぇ？」","lines":[411]},{"original":"「そりゃあ俺だって、可愛い妹の手料理を食べる経験もしてみたかった\u2026\u2026」","lines":[264]},{"original":"「それじゃあ、次はあたしだね」","lines":[257]},{"original":"「それじゃ採点にならない」","lines":[473]},{"original":"「それなら私も構わない」","lines":[423]},{"original":"「それにお兄ちゃんだったら、例えヘドロでも妹が作ったものは喜んで食べてくれるよね？」","lines":[370]},{"original":"「それに手作りビールとか酒類製造免許がないと犯罪なのです」","lines":[303]},{"original":"「それに栄養を取るだけならこれで十分だし、あっはっはー」","lines":[281]},{"original":"「それは本人見れば分かるでしょ」","lines":[144]},{"original":"「それをタマたちが試食し、点数を決める」","lines":[59]},{"original":"「それ呪いじゃなくて狂犬病じゃないの普通に」","lines":[73]},{"original":"「そんなのないない、あるわけないよよー」","lines":[53]},{"original":"「そんなのほっとけばいいのに」","lines":[122]},{"original":"「そんなのわたしだって結構やる方だもん！　普段やらないだけで！」","lines":[176]},{"original":"「そんなわけないでしょー？」","lines":[284]},{"original":"「そんなバカな\u2026\u2026！」","lines":[470]},{"original":"「そんな投げやりなお兄ちゃんいやー！　じゃあ試食してー！」","lines":[81]},{"original":"「たとえ家事が苦手でも女の方が稼げばどうかな？　な？」","lines":[126]},{"original":"「たぶん梨々姉よりはマシだと思うし」","lines":[180]},{"original":"「たまにってことは、一応食べるってことなのか\u2026\u2026」","lines":[393]},{"original":"「だいぶ責められ損だよね、俺たち」","lines":[90]},{"original":"「だったら、この際はっきりさせてしまおうなのです！」","lines":[242]},{"original":"「だったら蓮ちゃんが先に食べればいいのですよ」","lines":[77]},{"original":"「ちょっと待って！　今、蓮くんに女としてすごくバカにされた気がする！」","lines":[442]},{"original":"「ちーがーうってば。ここにあるでしょ、ここに」","lines":[459]},{"original":"「っざけんななのですよこの小娘が！！」","lines":[115]},{"original":"「って、こいつらも食べるの？」","lines":[249]},{"original":"「っは！？　いけない！　いけないのですよ！」","lines":[386]},{"original":"「っは！？　ビールの魔力に危うく騙されるところだったのです！」","lines":[408]},{"original":"「で、でもタマも蓮ちゃんみたいな便利な肉棒がいたら料理なんて\u2026\u2026！」","lines":[420]},{"original":"「で、咲莉ちゃんはどんなヘドロを生成したのですか？」","lines":[476]},{"original":"「でも、蓮に試食したいって言われたらもっと困るな\u2026\u2026」","lines":[413]},{"original":"「でもそれでもいいと、俺はいつしか思うようになっていたんだ\u2026\u2026！」","lines":[64]},{"original":"「でも一点だけとんでもない事態が起こっているのですよ」","lines":[357]},{"original":"「でも一生懸命作りました！　蓮お兄さんのために\u2026\u2026！」","lines":[103]},{"original":"「というかタマちゃん、しれっと自分を除外してない？」","lines":[387]},{"original":"「というわけで、アルルちゃんは測定不能なので０点です」","lines":[345]},{"original":"「とりあえず残りの年少組に期待したいところ」","lines":[188]},{"original":"「とりあえず０点ってことで」","lines":[469]},{"original":"「とりあえず０点でいいよもう」","lines":[65]},{"original":"「とんでもないとは穏やかじゃないけど、どういうこと？」","lines":[358]},{"original":"「ど、どうぞっ\u2026\u2026！！」","lines":[196]},{"original":"「どうですかね、審査員のタマさん。初戦を終えてみて」","lines":[135]},{"original":"「どうですか解説の蓮ちゃんさん？」","lines":[369]},{"original":"「どうみても『ザキヤマ』って書いてあるのですよ」","lines":[339]},{"original":"「などと申しており」","lines":[30]},{"original":"「なんで自分のイワシより先にドッグフードと鉛筆の芯を先に食べるんだお前は！！」","lines":[191]},{"original":"「なんで！？　なんでこんなに愛情の詰まった手料理がー！？」","lines":[407]},{"original":"「なんという灯台下暗し」","lines":[468]},{"original":"「ね、お兄ちゃん？　あたしのカラダなら二万点はあるよね？　ね？」","lines":[254]},{"original":"「ねぇ、食べないならそろそろ次に行ってもいいかな？」","lines":[113]},{"original":"「はぁ、俺たちは審査員ですか」","lines":[105]},{"original":"「はい、俺が悪かったです。全面的に」","lines":[297]},{"original":"「はい、召し上がれ」","lines":[456]},{"original":"「はい、咲莉ちゃん０点」","lines":[433]},{"original":"「はいお兄ちゃんどーぞ♪　召・し・上・が・れ♪」","lines":[42]},{"original":"「はいはい、終わり終わり」","lines":[472]},{"original":"「はい？」","lines":[91]},{"original":"「はっきり？　何をはっきりさせるって？」","lines":[438]},{"original":"「ははーん、バカには見えないとかそういう系なのですか？」","lines":[155]},{"original":"「はーい！　梨々愛選手、料理出来ました！」","lines":[400]},{"original":"「はーらーへったなーッ\u2026\u2026！」","lines":[79]},{"original":"「ひどいです！　五人揃って農家のおじさんくらいの女子力だと思われてるなんて！」","lines":[483]},{"original":"「ふぎゃー！　ネタとか言った！　咲ちゃんひどいーーー！！」","lines":[128]},{"original":"「ふたりよりはマシな気がする」","lines":[217]},{"original":"「ほうほう、これは中々期待出来るのですよ」","lines":[179]},{"original":"「ほんとたまーに。稀に良くあるレベルって感じで、うん」","lines":[26]},{"original":"「ぼりぼりぼりぼり」","lines":[121]},{"original":"「まぁあたしは結構自信あるし？　いんじゃないのやってみれば」","lines":[395]},{"original":"「まぁとにかくこれでアルルのターンも終了なわけで\u2026\u2026」","lines":[296]},{"original":"「まぁとりあえずあたしの料理も食べてみてくれるかな？」","lines":[228]},{"original":"「まぁ正直分かりきっていたことではあるけども\u2026\u2026」","lines":[425]},{"original":"「まぁ確かに。それで死んじゃったら悲しいし」","lines":[117]},{"original":"「まぁ食べれないものは食べなければいいのです」","lines":[289]},{"original":"「まぁ魔女っていうと良くある話だからね」","lines":[416]},{"original":"「まさかこんな形で夢が叶う日がやって来るなんて\u2026\u2026」","lines":[326]},{"original":"「まるで仙人豆みたいな言い草なのですけど、絶対にヤバいのですよねそれ」","lines":[124]},{"original":"「みんながやるって言うならあたしも参加しようかな」","lines":[392]},{"original":"「むしろ市販の物を出して女子力高いって言われる方が問題だと思うのですが\u2026\u2026」","lines":[428]},{"original":"「もう茶番はいいからとっとと料理を出すのですよ」","lines":[177]},{"original":"「もしそうだったら、サキュバスの旦那さんは全員亜鉛中毒でこの世にはいなくなっちゃってるもん」","lines":[455]},{"original":"「もちろんあたしのオススメは\u2026\u2026素材の味かな？」","lines":[482]},{"original":"「もっと何か他のネタ考えないと飽きられるよ？」","lines":[225]},{"original":"「もはや赤飯じゃなくて紅蓮飯だぞこれは\u2026\u2026！」","lines":[448]},{"original":"「もーお兄ちゃんまでそんなこと言うんだから。仕方ないなぁ」","lines":[247]},{"original":"「やっぱり大人のレディーには気を使わないといけないって思うし」","lines":[290]},{"original":"「よく調理実習とかでも期待されるからやってたけど\u2026\u2026」","lines":[15]},{"original":"「よーし、お前らエサだぞー」","lines":[429]},{"original":"「よーし、じゃああたしの料理を紹介しちゃおうかな」","lines":[471]},{"original":"「わ、わたしだって\u2026\u2026蓮くんに試食されてもいいもん\u2026\u2026！」","lines":[477]},{"original":"「わ、私だって\u2026\u2026！　た、食べ頃だと思いますし\u2026\u2026！」","lines":[130]},{"original":"「わ、私も流石にビリにはならないと思います\u2026\u2026」","lines":[127]},{"original":"「わたしもたぶん咲ちゃんよりはマシだと思うなぁ」","lines":[330]},{"original":"「んじゃまあ、とりあえず０点ということで」","lines":[234]},{"original":"「アメリカの青いケーキと似たようなもの」","lines":[351]},{"original":"「アルル\u2026\u2026！　我がポンコツ寮の良心の力を見せてくれ\u2026\u2026！！」","lines":[383]},{"original":"「アルルちゃん、百点なのです！！」","lines":[478]},{"original":"「アルルはとりあえず脱がないの！」","lines":[300]},{"original":"「オー、イッツ、ジャンキー\u2026\u2026」","lines":[32,45,47]},{"original":"「ガブッ！」","lines":[55]},{"original":"「ケルベロスの牙は呪いがあるって聞いたけど、ちゃんと解呪した？」","lines":[19]},{"original":"「ケルベロスよ、吾と矛を交えるつもりか？」","lines":[52]},{"original":"「ケンカしてる動物の間に入るなんて初歩的なミスを\u2026\u2026」","lines":[36]},{"original":"「ケンカすんなってばもー」","lines":[192]},{"original":"「ゴメ、連れてって」","lines":[175]},{"original":"「サキュバスの新婚ってこんなばっか食べるのですか\u2026\u2026？」","lines":[166]},{"original":"「サキュバスの若奥さまをテーマにまとめてみました！」","lines":[480]},{"original":"「サキュバスソースはすごいんだもん！　超エロいんだもん！」","lines":[440]},{"original":"「タマちゃん、さっきまでの料理のうち何か食べた？　大丈夫？」","lines":[458]},{"original":"「タマちゃんみたいな貧相なカラダじゃあるまいし０点なわけないじゃん！！」","lines":[241]},{"original":"「タマちゃん審査委員長じゃん。立場的に」","lines":[246]},{"original":"「タマちゃん超レディだしさ、こういうのはマナーだと思って」","lines":[112]},{"original":"「タマと蓮ちゃんと愉快なペットたちは審査員なのです！」","lines":[439]},{"original":"「タマには見えるのですよ、それはそれはドス黒いヘドロが」","lines":[460]},{"original":"「タマは出るとこ出れば超人気の一流素材なのですよ！」","lines":[285]},{"original":"「タマ的魔女のイメージが音を立てて崩れていくのですよ\u2026\u2026！」","lines":[28]},{"original":"「ドナドナド～ナ～ド～ナ～」","lines":[336]},{"original":"「ハラが減った」","lines":[338]},{"original":"「ハラヘリヘリハラッ\u2026\u2026！」","lines":[364]},{"original":"「パ、パンとビールです\u2026\u2026！」","lines":[34]},{"original":"「ヒレは止めろヒレはと言ってあいたたたあたたたたたああぁぁっっっ！！！！」","lines":[268]},{"original":"「ヒーッヒッヒッヒって言いながら鍋をぐーるぐるかき混ぜるアレですよ！」","lines":[491]},{"original":"「ピザが食べたい」","lines":[424]},{"original":"「ヘドロは無理だ」","lines":[20]},{"original":"「ポヘミアンッ」","lines":[215]},{"original":"「メニューは赤飯、お味噌汁、魚、漬物」","lines":[327]},{"original":"「ヤヅロベーさんめちゃお腹膨れてたけどね」","lines":[245]},{"original":"「レディー\u2026\u2026？」","lines":[154]},{"original":"「ワゥッ、ワゥッ！」","lines":[493]},{"original":"「ワンッ、ワンッ！」","lines":[18]},{"original":"「ワンワンッ！　う゛～～～ワワワワンッワンッ！！」","lines":[399]},{"original":"「ワンワンワンッ！」","lines":[355]},{"original":"「一応、うちの実家っぽい感じで仕上げたんですが\u2026\u2026」","lines":[363]},{"original":"「一応、どんな料理か説明してもらっていいですか？」"},{"original":"「一番まともな食べ物なのは認めるけど！！」","lines":[253]},{"original":"「上から食べられないなら下の口であーんしてやるのですよ！！」","lines":[203]},{"original":"「二番手綾崎。勝負はもらった」","lines":[78]},{"original":"「五人合わせても女子力５かゴミめって顔してた」","lines":[171]},{"original":"「亜鉛がゲシュタルト崩壊しそうなのですよ\u2026\u2026」","lines":[375]},{"original":"「亜鉛とか紅蓮とか薬と比べたら天地の差があるけどなぁ\u2026\u2026」","lines":[168]},{"original":"「亜鉛入り生姜焼き！　亜鉛入り肉じゃが！　亜鉛の煮付け！　手作り亜鉛アイス！」","lines":[320]},{"original":"「今度ちょっと作ってみるから、その時はまた味見をお願いしようかな」","lines":[452]},{"original":"「代わりにあたしを食べさせてあげればいいじゃんって♪」","lines":[193]},{"original":"「任せておけ」","lines":[405]},{"original":"「俺といたら、咲が料理するわけないでしょ」","lines":[136]},{"original":"「俺にはタマちゃんのがノリノリに見えるかなー」","lines":[205]},{"original":"「優もやけに自信満々だなぁ」","lines":[488]},{"original":"「全員趣旨を履き違えるななのですよ！　このポンコツどもー！！」","lines":[461]},{"original":"「出るとこ出ればって辺りが自覚あるんだなぁ」","lines":[89]},{"original":"「分かった、分かった！　分かりました！」","lines":[301]},{"original":"「分かってました、これも薄々とは分かってました\u2026\u2026！」","lines":[80]},{"original":"「別にお兄ちゃんがいれば料理が出来なくても困ることなくない？」","lines":[69]},{"original":"「別にその程度、これだけ女の子がいるんだしどうにでもなるんじゃ\u2015\u2015」","lines":[146]},{"original":"「制限時間、食材の制限は一切なし」","lines":[143]},{"original":"「各々がそれぞれ得意料理を作る」","lines":[150]},{"original":"「吾はちょっと用事を思い出した」","lines":[481]},{"original":"「困ったらすぐそれだもんね梨々姉は」","lines":[454]},{"original":"「塩でも、タレでも\u2026\u2026素材の味を楽しんでもいいんだよ？」","lines":[388]},{"original":"「変わり身早いなー」","lines":[116]},{"original":"「好き嫌い以上に食べたら死ぬものとかあるんじゃないの？」","lines":[147]},{"original":"「妨害行為はもちろん禁止で殴り合い等の流血沙汰も禁止なのです」","lines":[446]},{"original":"「妹さん、とりあえず解説を」","lines":[209]},{"original":"「学園長の教育も恐ろしいのですよ\u2026\u2026」","lines":[118]},{"original":"「審査員の意味ねー」","lines":[156]},{"original":"「審査員の皆様、どうぞ召し上がれ！！」","lines":[398]},{"original":"「待ち遠しい」","lines":[350]},{"original":"「待ってました！　待ってたのですよ！」","lines":[145]},{"original":"「得点が一番高いものに女子力女王の称号が与えられるという仕組みなのです」","lines":[317]},{"original":"「必要な栄養素が手早く補給できるし保存性もばっちりだし」","lines":[462]},{"original":"「悲しきかな未発達系女子」","lines":[311]},{"original":"「手料理とか男の子に食べさせるの初めてで少し緊張するけど」"},{"original":"「既成品！　これ既成品だから！！」","lines":[275]},{"original":"「日本人がまだＳＡＭＵＲＡＩ、ＮＩＮＪＡだって思われてるのと同じレベルかな」","lines":[210]},{"original":"「旦那さんも苦労したんだろうなぁ\u2026\u2026」","lines":[279]},{"original":"「最近はチワワが流行ってるかな」","lines":[185]},{"original":"「未来の旦那さまのために一生懸命作ったんだよ？」","lines":[463]},{"original":"「本人がウリだって思ってるならいいのかもなー」","lines":[142]},{"original":"「本大会のルールは至って簡単！」","lines":[92]},{"original":"「梨々愛ちゃん、咲ちゃん、優ちゃん、アルルちゃん、雅妃ちゃん\u2026\u2026」","lines":[213]},{"original":"「梨々愛は置いておいて、早く私のやつを審査」","lines":[140]},{"original":"「物騒なサブタイトルだなぁ」","lines":[371]},{"original":"「犯罪メシかー」","lines":[189]},{"original":"「異議なしの０点なのです」","lines":[259]},{"original":"「異議なし０点」","lines":[486]},{"original":"「私はその、踊り食いに入るんでしょうか\u2026\u2026！？」","lines":[123]},{"original":"「私も舐められるのは嫌い」","lines":[174]},{"original":"「精力うんぬんの前に亜鉛中毒で死ぬわ」"},{"original":"「紅い\u2026\u2026！　紅すぎるのですよ\u2026\u2026！」","lines":[223]},{"original":"「紅だァーーーーーーーーーーーーーーーッ！！」","lines":[153]},{"original":"「聞くだけならしげるでも出来るわ」","lines":[409]},{"original":"「肉棒関係ないでしょ」","lines":[227]},{"original":"「若奥様風の和食を頼んで、これが出て来たら即バツイチなのですよ\u2026\u2026！」","lines":[418]},{"original":"「茶番言うな」","lines":[51]},{"original":"「蓮ちゃんが両手を負傷するというとんでもなくアホな事故が起きたのです」","lines":[63]},{"original":"「蓮ちゃんのケガは大したこっちゃないので別にどうでもいいのですが\u2026\u2026」","lines":[250]},{"original":"「蓮ちゃんのジゴロテクにまんまと騙されるところだったのです！」","lines":[397]},{"original":"「蓮ちゃんの妹なら期待絶大なのですね」","lines":[104]},{"original":"「蓮ちゃんはタマに料理を作ってほしいのですか？」","lines":[485]},{"original":"「蓮はあたしを試食したいって思うの？」","lines":[331]},{"original":"「藤真蓮、意義なし」","lines":[256]},{"original":"「藤真蓮、賛成に五票で満場一致」","lines":[430]},{"original":"「行くよ？　ででーん！」","lines":[232]},{"original":"「見た目は確かに[くれない]紅。でも味には自信がある」"},{"original":"「見た目は確かにくれない。でも味には自信がある」"},{"original":"「見た目は確かに紅。でも味には自信がある」","lines":[226]},{"original":"「見てるだけでよだれと冷や汗が止まらないのです\u2026\u2026！」","lines":[170]},{"original":"「見事な亜鉛尽くしですね、梨々愛選手\u2026\u2026」","lines":[57]},{"original":"「解呪しないとウィルスが脳に達して最悪死に至るって」","lines":[484]},{"original":"「試食するなら試食ルームに行こう」","lines":[475]},{"original":"「試食って限定されるとちょっと困るけど\u2026\u2026」","lines":[474]},{"original":"「試食で済むかどうかは別として」","lines":[340]},{"original":"「試食会なのに何も食べてないからなぁ」","lines":[243]},{"original":"「赤神様の怒りを鎮める人身御供は一人で十分なのです」","lines":[151]},{"original":"「逃がすかアザラシ野郎」","lines":[265]},{"original":"「雅妃ちゃんと言えば魔女！」","lines":[318]},{"original":"「雅妃ちゃんはＳＦ映画のようなペースト状の食事になっても強く生きていけそうですね\u2026\u2026」","lines":[299]},{"original":"「雅妃印のサプリメントご飯だよ」","lines":[216]},{"original":"「雪女らしく和食。あと若奥様風にしてみた」","lines":[152]},{"original":"「願いを聞いてやるからその手を放すがいい」","lines":[260]},{"original":"「食べもせずに、この屈辱\u2026\u2026！」","lines":[266]},{"original":"「魔女と言えば煮込み料理が絶品なのですよ！」","lines":[277]},{"original":"「魔女界隈では日本製の車が流行ってるって。トヨータ」","lines":[278]},{"original":"「黒ネコを飼ってたりしないのですか？」","lines":[280]},{"original":"「鼻が尖ってるというのも嘘なのですか？」","lines":[258]},{"original":"「０点」","lines":[181]},{"original":"『サキュバスを嫁にもらったら一家安泰』。","lines":[87]},{"original":"あ、だからこの寮に入れられたんだっけ。","lines":[308]},{"original":"あと魔女汁。","lines":[329]},{"original":"いや、先輩が変わっているだけかもしれないけど\u2026\u2026。","lines":[314]},{"original":"いやまぁ亜鉛が料理に入るならこれも料理に入るだろうけども。","lines":[229]},{"original":"いやむしろ期待してなかったと言うべきか。","lines":[283]},{"original":"いやもしかしたら年を重ねるとああなるのかもしれないけど。","lines":[402]},{"original":"いよいよお腹の空き具合もピークではある。","lines":[137]},{"original":"こうしてポンコツたちの熾烈な争いが幕を上げた。","lines":[489]},{"original":"こうして昼飯を食べ損なった上に。","lines":[202]},{"original":"ここはタマちゃんにだけ死んでもらう方向でひとつ\u2015\u2015","lines":[305]},{"original":"ここまでくるともういっそ清々しいなぁ。","lines":[272]},{"original":"こっちの誤解も結構あるんだなぁ。","lines":[353]},{"original":"この髪飾りだけは見た気がするけど、全身まともに見るのは初めてだなぁ。","lines":[380]},{"original":"さすがは我がポンコツ寮の正規メンバーである。","lines":[120]},{"original":"さすがは我らが寮監。クイーンオブポンコツやでぇ。","lines":[230]},{"original":"しかしまさかここまで赤いとは。","lines":[102]},{"original":"しかし危険なイベントであることに変わりはない。","lines":[282]},{"original":"しかもそれは老婆だ。","lines":[20,28,223,338,400]},{"original":"しげる"},{"original":"しげる.stand","lines":[23]},{"original":"しげるはケンカかどうかすら分からんけど。","lines":[222]},{"original":"じゃん！","lines":[309]},{"original":"すごい健康志向。うん。","lines":[262]},{"original":"すまん優、俺はまだ死ぬわけにはいかないんだ\u2026\u2026！","lines":[295]},{"original":"せめてジャパニーズ土下座くらいでお茶を濁せないかなぁ。","lines":[84]},{"original":"そういえばポンコツ呼ばわりされたらみんなキレてたもんなぁ\u2026\u2026。","lines":[496]},{"original":"そう思った一日だった。","lines":[106]},{"original":"そう言えば一番食べ物を扱わせちゃダメなタイプだった。","lines":[403]},{"original":"そして、俺の妹ということで評価も高い模様。","lines":[97]},{"original":"そして、誰が一番女子力があるのかを競う。","lines":[114]},{"original":"そしてこちらが愉快なペットたちです。","lines":[221]},{"original":"そしてテーブルの上に料理が並べられる。","lines":[410]},{"original":"その下ネタ雑過ぎるわ。","lines":[17]},{"original":"それぞれが入ったみっつの皿を地面に置く。","lines":[182]},{"original":"そんなことを言っていた気がするけど、絶対信用出来ねぇ\u2026\u2026！","lines":[76]},{"original":"だいたいは見た目通りの脳みそしかないくせに。","lines":[377]},{"original":"ちょっと採点とかそういう次元じゃない。","lines":[352]},{"original":"てかこれがマミー族の服なのか。","lines":[39]},{"original":"てかクジラってのしかかる動物だったのか。","lines":[160]},{"original":"でもどちらでも関係なく食欲が出ない色彩。","lines":[307]},{"original":"でも先輩のナイスバディはこのサプリメントゴハンあってのスタイルなのかもしれない。","lines":[376]},{"original":"でも既成品じゃなぁ\u2026\u2026。","lines":[361]},{"original":"でーん。","lines":[161]},{"original":"というか食べ物の色をしてない。","lines":[263]},{"original":"とりあえずタマちゃんと一緒に紅蓮飯はなかったことにした。","lines":[335]},{"original":"とりあえず先輩のゴハン(薬)も手を付けずに右から左へ受け流す。","lines":[74]},{"original":"とりあえず即答で否定しておく。","lines":[354]},{"original":"とりあえず服には触れない方向で。","lines":[341]},{"original":"どう考えても食べられるものじゃない。","lines":[157]},{"original":"どどーん。","lines":[298]},{"original":"どん！！","lines":[99]},{"original":"な、なんて危険なことを提案するんだこのダメ教師は\u2026\u2026！！","lines":[86]},{"original":"なんてめんどくさい系女子たちなのか。","lines":[25]},{"original":"ほんとゴメは油断ならない。","lines":[288]},{"original":"まぁそれでこそ我らがタマちゃん。","lines":[41]},{"original":"まぁどっちでもいいや。","lines":[62]},{"original":"まぁ何もないならそれでいいや。","lines":[394]},{"original":"まぁ致し方がないところだ。","lines":[271]},{"original":"まさか煮込み料理を作っていたとは。","lines":[162]},{"original":"まるでモノクロ写真を見ているかのようだ。","lines":[83]},{"original":"みんながまさかの食い付き。","lines":[61]},{"original":"もしかしたらマ界ではインフルエンザでも呪いって言うのかもだけど。","lines":[444]},{"original":"やっぱり何もない。","lines":[40]},{"original":"アザラシかもしれんけど。","lines":[52,79,125,130,349,355,356,357,358,364,374,390,391,477,479,486]},{"original":"アルル"},{"original":"アルル.stand","lines":[360]},{"original":"アルルが机の上に置いた料理を見る。","lines":[373]},{"original":"アルルは一体何を思って女子力測定でこれを出したのだろうか。","lines":[60]},{"original":"ウィルスとか言ってる時点で呪いじゃないし。"},{"original":"ケルベロス.stand","lines":[449]},{"original":"コホン、と妹がのどを整える。","lines":[19,26,31,33,34,35,47,150,152,193,336,398,407,462,491]},{"original":"ゴメ"},{"original":"ゴメ.stand","lines":[464]},{"original":"ゴメにもそう思われてんのか。","lines":[467]},{"original":"ゴメは意外にボキャブラリーがあるんだなぁ。","lines":[212]},{"original":"サキュバスなりの愛がズッシリなのかもだけども。","lines":[50,51,58,63,64,66,67,72,89,90,92,93,94,95,104,107,109,111,112,117,134,135,139,142,143,144,145,146,147,163,171,175,189,197,198,209,217,224,226,227,239,242,243,245,248,249,250,252,253,255,258,265,266,268,274,276,278,280,284,285,300,318,322,326,330,339,350,362,363,367,369,370,381,382,383,386,387,392,397,406,408,414,420,428,438,439,456,459,460,487,488]},{"original":"タマ"},{"original":"タマ.stand","lines":[141]},{"original":"タマちゃん(チャイナバージョン)がノリノリでトークを始める。","lines":[75]},{"original":"タマちゃん、自分がディスられることに関しては敏感だからなぁ。","lines":[324]},{"original":"タマちゃんとのシンクロ率は４００％だった。","lines":[441]},{"original":"タマちゃんの目の前で手を振ってみせる。","lines":[286]},{"original":"タマちゃんは同じマ族なのにこの偏見。","lines":[436]},{"original":"テーブルの上にはもちろん何もなく。","lines":[16]},{"original":"ドッグフード、生魚（イワシ）、シャーペンの芯の削りカス。","lines":[22]},{"original":"ヒートアップしてるポチとゴメを引き剥がす。","lines":[18,27,32,45,154,337,399,493]},{"original":"ポチ","lines":[231]},{"original":"マグマよりも赤いものがキッチンで作れるとは思わなんだ。","lines":[293]},{"original":"マ族の業は深い。","lines":[220]},{"original":"メニューを先に聞かされると安心感が違う。"},{"original":"ラベル0"},{"original":"リリア.stand","lines":[287]},{"original":"一応は先生なのに知らなさすぎでは。"},{"original":"中"},{"original":"中距離","lines":[44]},{"original":"二匹を引き剥がそうとしたその時。","lines":[494]},{"original":"今日のごはんは白クジラとケルベロスの希望で宅配ピザになった。","lines":[88]},{"original":"今更そんなことを思い出した。","lines":[14]},{"original":"休日。"},{"original":"体","lines":[348]},{"original":"何かこう、ご飯とか作ってくれそうなオーラがある。癒し系。","lines":[184]},{"original":"何てＤＥＡＤ ＯＲ ＤＥＡＤな家庭なんだ\u2026\u2026！","lines":[132]},{"original":"俺が思ってたよりもみんな女のプライドがあるっぽい。","lines":[294]},{"original":"俺も外国行った時のためにハラキリの練習とかしないといけないんだろうか。","lines":[495]},{"original":"俺も手のケガには気をつけよう。","lines":[133]},{"original":"俺的にはどんぐりか松ぼっくりかくらいの差しかなさそうな気がしてるけども。"},{"original":"側面"},{"original":"側面手上"},{"original":"側面手下"},{"original":"側面手中"},{"original":"側面１"},{"original":"側面２","lines":[53,78,123,128,203,206,213,215,216,232,233,234,235,236,257,260,473,474,484]},{"original":"優"},{"original":"優.stand","lines":[261]},{"original":"優の恨み言を聞こえないフリでやり過ごす。","lines":[401]},{"original":"先ほどまで静かだったペットたちもスタンディングオベーション。","lines":[304]},{"original":"先輩が豪快に笑い声を上げる。","lines":[490]},{"original":"全員の女子力のなさとポンコツさを露呈するだけのイベントだった。"},{"original":"出上速"},{"original":"出下"},{"original":"出右"},{"original":"出左"},{"original":"制服"},{"original":"口１:目３"},{"original":"口１:目Ａ１"},{"original":"口１:目Ａ３"},{"original":"口１:目Ａ４"},{"original":"口１:目Ａ５"},{"original":"口２:目Ａ２"},{"original":"口３:目Ａ１"},{"original":"口３:目Ａ３"},{"original":"口４:目Ａ４","lines":[219]},{"original":"和食なら亜鉛みたいにアンタッチャブルにはそうそうならないだろうし。","lines":[443]},{"original":"咲がもう一度手を広げてみせる。","lines":[437]},{"original":"咲の手にももちろん何も持たれていない。","lines":[346]},{"original":"咲はともかくアルルはきっとなんとか。","lines":[54,80,121,126,417,421,422,423,425,429,430,433,442,448,450,452,453,454,455,457,458,468,470,481,482]},{"original":"咲莉"},{"original":"咲莉.stand","lines":[378]},{"original":"嗚呼、やっぱりアルルもダメだったのか\u2026\u2026。","lines":[427]},{"original":"多少はまともな妹で良かった。多少は。","lines":[96]},{"original":"女の子五人が料理を作る。","lines":[85]},{"original":"女子力が低いっていうのも似たようなもんなのかもしれない。","lines":[0,499]},{"original":"女子力ポンコツ待ったなし","lines":[426]},{"original":"妹もうんうんと同意してくれる。","lines":[323]},{"original":"審査員アイコンタクト。","lines":[183]},{"original":"干物になるか中毒死かの未来しか見えない\u2026\u2026！","lines":[389]},{"original":"当然の結果だけども。","lines":[344]},{"original":"心の中で十字を切っておく。","lines":[211]},{"original":"怜香さん、もっとまともな料理を教えてあげてください。"},{"original":"手下","lines":[372]},{"original":"採点以前の問題である。"},{"original":"斜右上","lines":[379]},{"original":"最後の良心も信じられないとは。","lines":[347]},{"original":"服が着れないだけで、性能的には高スペックなはずだし。","lines":[465]},{"original":"未発達系女子ってちょっと新しいジャンル。"},{"original":"本体","lines":[37]},{"original":"本当に手のかかるペットたちだなぁ。","lines":[55,77,122,127,155,156,166,167,168,169,172,173,176,177,178,179,185,186,187,190,191,194,207,208,471,480,483]},{"original":"梨々愛","lines":[159]},{"original":"正確に言えば灰色い。"},{"original":"正面"},{"original":"正面手上"},{"original":"正面手下"},{"original":"正面手中"},{"original":"正面１"},{"original":"正面２","lines":[24]},{"original":"油断すると鉛筆の削りカスでもゴメが横取りしちゃうからなぁ。"},{"original":"消","lines":[138]},{"original":"熾烈な争いという名の、女子力最下位決定戦が\u2026\u2026！！","lines":[419]},{"original":"現実に引き戻される。","lines":[201]},{"original":"生きて帰るためには、隙を見てなんとか逃げ出すしかない。"},{"original":"目１:口無"},{"original":"目Ａ１:口無"},{"original":"目Ａ２:口無"},{"original":"目Ａ３:口無","lines":[466]},{"original":"直訳すればロリババだけど。","lines":[119]},{"original":"相変わらず思いつき１０００％。"},{"original":"眉ギャグ怒:目ギャグ怒:口ギャグ怒:汗無::頬１"},{"original":"眉ギャグ怒:目ギャグ怒:口ギャグ驚:汗無::頬１"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"},{"original":"眉ギャグ笑:目ギャグ笑:口ギャグ笑:汗無::頬１"},{"original":"眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１"},{"original":"眉怒１:目ギャグ驚:口泣１:汗無::頬１"},{"original":"眉怒１:目悲２:口悲１:汗無::頬１"},{"original":"眉怒１:目悲２:口笑１:汗無::頬１"},{"original":"眉怒１:目笑２:口笑１:汗無::頬１"},{"original":"眉怒１:目閉:口怒１:汗無::頬１"},{"original":"眉怒１:目閉:口笑１:汗無::頬１"},{"original":"眉怒１:目閉:口驚１:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口怒１:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口怒１:汗無::頬３"},{"original":"眉怒１:目Ａ怒１:口笑２:汗無::頬１"},{"original":"眉怒１:目Ａ悲１:口悲１:汗無::頬１"},{"original":"眉怒１:目Ａ悲２:口悲１:汗無::頬１"},{"original":"眉怒１:目Ａ悲２:口笑１:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口照２:汗無::頬３"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口驚１:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口Ａ笑１:汗無::頬１"},{"original":"眉怒１:目Ａ笑２:口笑１:汗無::頬１"},{"original":"眉怒１:目Ａ笑２:口驚１:汗無::頬３"},{"original":"眉怒２:目Ａ怒２:口怒２:汗有::頬１"},{"original":"眉怒２:目Ａ怒２:口怒２:汗無::頬１"},{"original":"眉怒２:目Ａ悲２:口悲２:汗有::頬１"},{"original":"眉怒２:目Ａ悲２:口悲２:汗無::頬１"},{"original":"眉怒２:目Ａ照２:口照２:汗無::頬３"},{"original":"眉怒２:目Ａ驚１:口驚１:汗無::頬１"},{"original":"眉悲１:目ギャグ驚:口驚１:汗有::頬１"},{"original":"眉悲１:目悲２:口悲１:汗無::頬１"},{"original":"眉悲１:目悲２:口泣１:汗無::頬１"},{"original":"眉悲１:目悲２:口笑１:汗無::頬１"},{"original":"眉悲１:目笑２:口笑１:汗無::頬１"},{"original":"眉悲１:目閉:口笑１:汗無::頬１"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ悲１:口照２:汗無::頬１"},{"original":"眉悲１:目Ａ悲２:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ照２:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ照２:口照２:汗無::頬１"},{"original":"眉悲１:目Ａ笑１:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ笑１:口照２:汗無::頬１"},{"original":"眉悲１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉悲１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉悲１:目Ａ笑２:口笑２:汗無::頬１"},{"original":"眉悲１:目Ａ笑２:口笑２:汗無::頬３"},{"original":"眉悲１:目Ａ驚１:口照２:汗無::頬１"},{"original":"眉悲２:目悲２:口悲２:汗無::頬１"},{"original":"眉悲２:目Ａ悲１:口悲２:汗無::頬１"},{"original":"眉悲２:目Ａ悲２:口悲２:汗有::頬１"},{"original":"眉悲２:目Ａ悲２:口悲２:汗無::頬１"},{"original":"眉悲２:目Ａ照２:口笑１:汗無::頬３"},{"original":"眉悲２:目Ａ笑２:口笑２:汗無::頬３"},{"original":"眉泣１:目Ａ泣１:口泣１:汗無::頬１"},{"original":"眉照１:目Ａ照１:口照１:汗照１::頬１"},{"original":"眉照１:目Ａ照１:口照１:汗照１::頬３"},{"original":"眉照２:目Ａ照２:口照２:汗無::頬１"},{"original":"眉照２:目Ａ照２:口照２:汗無::頬３"},{"original":"眉笑１:目悲２:口笑１:汗無::頬１"},{"original":"眉笑１:目悲２:口笑１:汗無::頬３"},{"original":"眉笑１:目悲２:口笑２:汗無::頬１"},{"original":"眉笑１:目笑２:口笑１:汗無::頬１"},{"original":"眉笑１:目笑２:口笑２:汗無::頬１"},{"original":"眉笑１:目閉:口笑２:汗無::頬１"},{"original":"眉笑１:目Ａ悲２:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ照２:口照２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬３"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉笑２:目笑２:口笑１:汗無::頬３"},{"original":"眉笑２:目閉:口笑２:汗無::頬１"},{"original":"眉笑２:目Ａ笑２:口笑１:汗無::頬１"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬１"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬２"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬３"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬４"},{"original":"眉驚１:目Ａ驚１:口悲２:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口照２:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口驚１:汗有::頬１"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬３","lines":[270]},{"original":"確かに魔女と言えば、宅急便か鍋をねるねるしてるアレだ。"},{"original":"私服"},{"original":"種族"},{"original":"種族有"},{"original":"種族裸","lines":[445]},{"original":"空気とかそういう類のものなのかもしれないけど\u2026\u2026。","lines":[237]},{"original":"箸を渡され、食を進められる。","lines":[447]},{"original":"素直に解説を求める。","lines":[315]},{"original":"義理チョコを手作りと言うのと変わらない気がする。","lines":[71]},{"original":"自分の甘さを痛感する。","lines":[100]},{"original":"自殺願望でもあるんじゃないのか、この人\u2026\u2026！？","lines":[15,21,29,30,36,42,43,46,48,49,56,59,68,69,70,73,82,91,103,105,108,110,113,115,116,118,136,140,148,151,153,164,165,170,174,180,188,192,195,196,199,205,210,214,218,225,228,238,240,241,244,246,247,251,256,259,267,269,281,292,301,312,321,327,331,334,340,345,351,359,365,366,368,371,375,384,385,388,393,395,396,405,409,411,412,413,415,416,418,424,431,432,434,440,446,451,461,463,469,472,478,492]},{"original":"蓮","lines":[38]},{"original":"言葉通じるっても言うこと聞かなきゃまったく意味がねぇ。","lines":[200]},{"original":"誰だこんな余計なイベント考えたやつは。","lines":[149]},{"original":"誰も聞いてないタマちゃんの解説にツッコむ。","lines":[342]},{"original":"農家の皆様、漁師の皆様、化学者の皆様ごめんなさい。"},{"original":"近距離","lines":[204]},{"original":"逃げる隙もなく優が審査員席前に現れる。","lines":[306]},{"original":"開き直りとかよりも上のレベル。","lines":[57,65,81,124,129,254,264,273,275,277,279,289,290,291,296,297,299,302,303,310,311,316,317,319,320,325,332,333,475,476,485]},{"original":"雅妃"},{"original":"雅妃.stand"},{"original":"集中線"},{"original":"零距離","lines":[343]},{"original":"食べ物で遊んでるわけじゃなくて、本人たちは大真面目なんです。きっと。"},{"original":"首輪有","lines":[328]},{"original":"魔女ってこういう効率厨みたいな人たちなのかな\u2026\u2026？","lines":[158]},{"original":"黒い。"}],"name":15,"lines":[{"type":3,"title":883},{"subtype":0,"type":5},{"name":1011,"type":2},{"name":827,"type":2},{"name":812,"type":2},{"name":759,"type":2},{"name":817,"type":2},{"name":805,"type":2},{"name":853,"type":2},{"name":877,"type":2},{"name":898,"type":2},{"name":1019,"type":2},{"subtype":0,"type":5},{"label":13,"type":6},{"text":839,"type":0},{"name":1011,"text":602,"type":1},{"text":825,"type":0},{"text":774,"type":0},{"name":827,"text":645,"type":1},{"name":812,"text":616,"type":1},{"name":759,"text":639,"type":1},{"name":1011,"text":473,"type":1},{"text":826,"type":0},{"text":761,"type":0},{"text":906,"type":0},{"text":794,"type":0},{"name":812,"text":582,"type":1},{"name":827,"text":479,"type":1},{"name":759,"text":631,"type":1},{"name":1011,"text":422,"type":1},{"name":1011,"text":561,"type":1},{"name":812,"text":466,"type":1},{"name":827,"text":614,"type":1},{"name":812,"text":481,"type":1},{"name":812,"text":635,"type":1},{"name":812,"text":483,"type":1},{"name":1011,"text":618,"type":1},{"text":897,"type":0},{"text":1012,"type":0},{"text":779,"type":0},{"text":804,"type":0},{"text":796,"type":0},{"name":1011,"text":571,"type":1},{"name":1011,"text":467,"type":1},{"text":836,"type":0},{"name":827,"text":614,"type":1},{"name":1011,"text":458,"type":1},{"name":812,"text":614,"type":1},{"name":1011,"text":458,"type":1},{"name":1011,"text":433,"type":1},{"name":817,"text":459,"type":1},{"name":817,"text":708,"type":1},{"name":805,"text":617,"type":1},{"name":853,"text":527,"type":1},{"name":877,"text":471,"type":1},{"name":898,"text":615,"type":1},{"name":1011,"text":455,"type":1},{"name":1019,"text":722,"type":1},{"name":817,"text":416,"type":1},{"name":1011,"text":525,"type":1},{"text":809,"type":0},{"text":802,"type":0},{"text":797,"type":0},{"name":817,"text":709,"type":1},{"name":817,"text":548,"type":1},{"name":1019,"text":555,"type":1},{"name":817,"text":495,"type":1},{"name":817,"text":514,"type":1},{"name":1011,"text":440,"type":1},{"name":1011,"text":667,"type":1},{"name":1011,"text":403,"type":1},{"text":1009,"type":0},{"name":817,"text":435,"type":1},{"name":1011,"text":526,"type":1},{"text":787,"type":0},{"text":820,"type":0},{"text":776,"type":0},{"name":898,"text":538,"type":1},{"name":853,"text":652,"type":1},{"name":805,"text":577,"type":1},{"name":877,"text":666,"type":1},{"name":1019,"text":532,"type":1},{"name":1011,"text":443,"type":1},{"text":801,"type":0},{"text":766,"type":0},{"text":882,"type":0},{"text":793,"type":0},{"text":741,"type":0},{"text":838,"type":0},{"name":817,"text":664,"type":1},{"name":817,"text":536,"type":1},{"name":1011,"text":573,"type":1},{"name":817,"text":693,"type":1},{"name":817,"text":484,"type":1},{"name":817,"text":474,"type":1},{"name":817,"text":497,"type":1},{"text":881,"type":0},{"text":770,"type":0},{"text":396,"type":0},{"text":792,"type":0},{"text":1010,"type":0},{"text":397,"type":0},{"text":757,"type":0},{"name":1011,"text":550,"type":1},{"name":817,"text":712,"type":1},{"name":1011,"text":567,"type":1},{"text":768,"type":0},{"name":817,"text":478,"type":1},{"name":1011,"text":512,"type":1},{"name":817,"text":434,"type":1},{"name":1011,"text":431,"type":1},{"name":817,"text":430,"type":1},{"name":817,"text":627,"type":1},{"name":1011,"text":566,"type":1},{"text":771,"type":0},{"name":1011,"text":541,"type":1},{"name":1011,"text":674,"type":1},{"name":817,"text":588,"type":1},{"name":1011,"text":678,"type":1},{"text":916,"type":0},{"text":755,"type":0},{"name":877,"text":583,"type":1},{"name":898,"text":528,"type":1},{"name":853,"text":700,"type":1},{"name":1019,"text":592,"type":1},{"name":805,"text":432,"type":1},{"name":877,"text":533,"type":1},{"name":898,"text":607,"type":1},{"name":853,"text":579,"type":1},{"name":1019,"text":486,"type":1},{"name":805,"text":606,"type":1},{"text":398,"type":0},{"text":843,"type":0},{"text":846,"type":0},{"name":817,"text":438,"type":1},{"name":817,"text":558,"type":1},{"name":1011,"text":660,"type":1},{"text":748,"type":0},{"text":908,"type":0},{"name":817,"text":498,"type":1},{"name":1011,"text":695,"type":1},{"text":819,"type":0},{"name":817,"text":692,"type":1},{"name":817,"text":669,"type":1},{"name":817,"text":524,"type":1},{"name":817,"text":682,"type":1},{"name":817,"text":668,"type":1},{"name":817,"text":675,"type":1},{"name":1011,"text":436,"type":1},{"text":1014,"type":0},{"name":812,"text":670,"type":1},{"name":1011,"text":728,"type":1},{"name":812,"text":733,"type":1},{"name":1011,"text":704,"type":1},{"name":827,"text":643,"type":1},{"name":898,"text":575,"type":1},{"name":898,"text":679,"type":1},{"text":790,"type":0},{"text":1026,"type":0},{"text":899,"type":0},{"text":780,"type":0},{"text":784,"type":0},{"text":800,"type":0},{"name":817,"text":452,"type":1},{"name":1011,"text":406,"type":1},{"name":1011,"text":485,"type":1},{"name":898,"text":621,"type":1},{"name":898,"text":494,"type":1},{"name":898,"text":655,"type":1},{"name":898,"text":513,"type":1},{"name":1011,"text":721,"type":1},{"name":817,"text":653,"type":1},{"name":898,"text":489,"type":1},{"name":898,"text":515,"type":1},{"name":1011,"text":701,"type":1},{"name":817,"text":620,"type":1},{"name":898,"text":529,"type":1},{"name":898,"text":595,"type":1},{"name":898,"text":449,"type":1},{"name":898,"text":581,"type":1},{"name":1011,"text":534,"type":1},{"text":740,"type":0},{"text":775,"type":0},{"text":886,"type":0},{"text":842,"type":0},{"name":898,"text":690,"type":1},{"name":898,"text":496,"type":1},{"name":898,"text":423,"type":1},{"name":1011,"text":553,"type":1},{"name":817,"text":697,"type":1},{"name":898,"text":457,"type":1},{"name":898,"text":562,"type":1},{"name":1011,"text":619,"type":1},{"name":812,"text":658,"type":1},{"name":898,"text":439,"type":1},{"name":1011,"text":503,"type":1},{"name":1011,"text":557,"type":1},{"name":817,"text":502,"type":1},{"name":817,"text":491,"type":1},{"name":1011,"text":510,"type":1},{"text":1013,"type":0},{"text":910,"type":0},{"text":750,"type":0},{"name":853,"text":651,"type":1},{"text":1017,"type":0},{"name":1011,"text":661,"type":1},{"name":853,"text":426,"type":1},{"name":898,"text":446,"type":1},{"name":898,"text":507,"type":1},{"name":817,"text":677,"type":1},{"name":1011,"text":688,"type":1},{"text":889,"type":0},{"text":816,"type":0},{"name":853,"text":694,"type":1},{"name":1011,"text":506,"type":1},{"name":853,"text":640,"type":1},{"name":853,"text":732,"type":1},{"name":817,"text":580,"type":1},{"name":1011,"text":482,"type":1},{"text":873,"type":0},{"text":830,"type":0},{"text":772,"type":0},{"text":762,"type":0},{"name":759,"text":703,"type":1},{"name":817,"text":402,"type":1},{"name":1011,"text":598,"type":1},{"name":817,"text":720,"type":1},{"name":817,"text":706,"type":1},{"name":1011,"text":586,"type":1},{"text":745,"type":0},{"text":756,"type":0},{"text":828,"type":0},{"name":853,"text":717,"type":1},{"name":853,"text":492,"type":1},{"name":853,"text":609,"type":1},{"name":853,"text":488,"type":1},{"name":853,"text":500,"type":1},{"text":1006,"type":0},{"name":1011,"text":501,"type":1},{"name":817,"text":463,"type":1},{"name":1011,"text":444,"type":1},{"name":1011,"text":625,"type":1},{"name":817,"text":537,"type":1},{"name":817,"text":727,"type":1},{"name":1011,"text":441,"type":1},{"name":817,"text":642,"type":1},{"name":1011,"text":626,"type":1},{"name":1011,"text":600,"type":1},{"name":817,"text":429,"type":1},{"name":817,"text":542,"type":1},{"name":817,"text":710,"type":1},{"name":1011,"text":8,"type":1},{"name":817,"text":447,"type":1},{"name":817,"text":650,"type":1},{"name":1019,"text":565,"type":1},{"name":817,"text":511,"type":1},{"name":1011,"text":715,"type":1},{"name":853,"text":518,"type":1},{"name":817,"text":739,"type":1},{"name":1011,"text":698,"type":1},{"name":853,"text":734,"type":1},{"text":855,"type":0},{"text":764,"type":0},{"text":785,"type":0},{"name":1019,"text":517,"type":1},{"name":817,"text":729,"type":1},{"name":817,"text":735,"type":1},{"name":1011,"text":464,"type":1},{"name":817,"text":636,"type":1},{"name":1011,"text":454,"type":1},{"text":1000,"type":0},{"text":799,"type":0},{"text":752,"type":0},{"name":1019,"text":445,"type":1},{"name":817,"text":425,"type":1},{"name":1019,"text":687,"type":1},{"name":817,"text":505,"type":1},{"name":1019,"text":736,"type":1},{"name":817,"text":737,"type":1},{"name":1019,"text":689,"type":1},{"name":817,"text":738,"type":1},{"name":1011,"text":523,"type":1},{"text":758,"type":0},{"text":746,"type":0},{"name":817,"text":530,"type":1},{"name":817,"text":630,"type":1},{"text":823,"type":0},{"text":833,"type":0},{"text":795,"type":0},{"name":1019,"text":589,"type":1},{"name":1019,"text":601,"type":1},{"name":1019,"text":475,"type":1},{"name":1011,"text":408,"type":1},{"text":829,"type":0},{"text":844,"type":0},{"text":765,"type":0},{"name":1019,"text":585,"type":1},{"name":1019,"text":568,"type":1},{"text":791,"type":0},{"name":1019,"text":731,"type":1},{"name":817,"text":613,"type":1},{"name":1011,"text":665,"type":1},{"name":1019,"text":427,"type":1},{"name":1019,"text":522,"type":1},{"text":857,"type":0},{"text":751,"type":0},{"text":1018,"type":0},{"text":781,"type":0},{"text":742,"type":0},{"text":763,"type":0},{"name":1019,"text":499,"type":1},{"name":1019,"text":685,"type":1},{"name":1011,"text":456,"type":1},{"text":395,"type":0},{"text":744,"type":0},{"text":1008,"type":0},{"name":1019,"text":490,"type":1},{"name":1019,"text":683,"type":1},{"name":817,"text":730,"type":1},{"name":1019,"text":428,"type":1},{"name":1019,"text":656,"type":1},{"name":1011,"text":400,"type":1},{"name":817,"text":401,"type":1},{"text":885,"type":0},{"text":821,"type":0},{"name":1019,"text":413,"type":1},{"name":817,"text":591,"type":1},{"name":1011,"text":641,"type":1},{"text":1025,"type":0},{"text":743,"type":0},{"name":817,"text":608,"type":1},{"name":1011,"text":714,"type":1},{"name":1019,"text":460,"type":1},{"name":1019,"text":453,"type":1},{"name":1011,"text":509,"type":1},{"text":786,"type":0},{"name":812,"text":632,"type":1},{"name":827,"text":480,"type":1},{"name":759,"text":633,"type":1},{"name":817,"text":560,"type":1},{"name":1011,"text":726,"type":1},{"text":789,"type":0},{"text":1015,"type":0},{"text":1023,"type":0},{"text":888,"type":0},{"name":1011,"text":552,"type":1},{"text":876,"type":0},{"text":894,"type":0},{"text":841,"type":0},{"name":805,"text":424,"type":1},{"name":817,"text":681,"type":1},{"name":1011,"text":610,"type":1},{"text":778,"type":0},{"text":753,"type":0},{"text":788,"type":0},{"name":805,"text":647,"type":1},{"name":805,"text":414,"type":1},{"name":805,"text":549,"type":1},{"name":805,"text":556,"type":1},{"name":1011,"text":465,"type":1},{"text":807,"type":0},{"text":783,"type":0},{"name":817,"text":461,"type":1},{"name":817,"text":648,"type":1},{"name":805,"text":634,"type":1},{"name":1011,"text":409,"type":1},{"name":1011,"text":487,"type":1},{"name":817,"text":451,"type":1},{"name":1011,"text":442,"type":1},{"name":817,"text":559,"type":1},{"name":817,"text":521,"type":1},{"name":1011,"text":696,"type":1},{"text":891,"type":0},{"text":808,"type":0},{"name":805,"text":417,"type":1},{"name":1011,"text":654,"type":1},{"text":782,"type":0},{"text":777,"type":0},{"text":879,"type":0},{"text":893,"type":0},{"text":754,"type":0},{"name":817,"text":493,"type":1},{"name":817,"text":477,"type":1},{"name":817,"text":611,"type":1},{"name":1011,"text":10,"type":1},{"name":1011,"text":9,"type":1},{"name":817,"text":543,"type":1},{"name":817,"text":551,"type":1},{"name":1011,"text":673,"type":1},{"text":887,"type":0},{"name":805,"text":411,"type":1},{"name":805,"text":472,"type":1},{"name":817,"text":593,"type":1},{"name":1011,"text":535,"type":1},{"text":798,"type":0},{"name":1011,"text":584,"type":1},{"name":1011,"text":410,"type":1},{"name":817,"text":711,"type":1},{"name":812,"text":680,"type":1},{"name":827,"text":646,"type":1},{"name":759,"text":576,"type":1},{"text":856,"type":0},{"text":747,"type":0},{"text":769,"type":0},{"text":394,"type":0},{"name":1011,"text":659,"type":1},{"name":817,"text":508,"type":1},{"name":812,"text":563,"type":1},{"name":817,"text":544,"type":1},{"name":1011,"text":705,"type":1},{"text":773,"type":0},{"name":1011,"text":516,"type":1},{"name":1011,"text":407,"type":1},{"name":1011,"text":547,"type":1},{"name":817,"text":412,"type":1},{"name":1011,"text":418,"type":1},{"name":1011,"text":590,"type":1},{"name":877,"text":470,"type":1},{"name":1011,"text":707,"type":1},{"text":909,"type":0},{"name":817,"text":545,"type":1},{"name":877,"text":504,"type":1},{"name":877,"text":420,"type":1},{"name":877,"text":520,"type":1},{"name":1011,"text":638,"type":1},{"name":877,"text":587,"type":1},{"text":884,"type":0},{"text":880,"type":0},{"name":817,"text":594,"type":1},{"name":877,"text":603,"type":1},{"name":877,"text":716,"type":1},{"name":1011,"text":404,"type":1},{"name":1011,"text":405,"type":1},{"name":877,"text":570,"type":1},{"name":1011,"text":437,"type":1},{"text":399,"type":0},{"text":824,"type":0},{"text":875,"type":0},{"name":817,"text":574,"type":1},{"name":817,"text":628,"type":1},{"name":1011,"text":623,"type":1},{"text":822,"type":0},{"name":877,"text":539,"type":1},{"text":874,"type":0},{"text":803,"type":0},{"text":1005,"type":0},{"name":1011,"text":676,"type":1},{"text":1007,"type":0},{"name":877,"text":599,"type":1},{"text":811,"type":0},{"name":877,"text":421,"type":1},{"name":1011,"text":450,"type":1},{"name":877,"text":657,"type":1},{"name":877,"text":469,"type":1},{"name":877,"text":672,"type":1},{"name":877,"text":596,"type":1},{"name":817,"text":569,"type":1},{"name":877,"text":462,"type":1},{"name":877,"text":624,"type":1},{"name":817,"text":540,"type":1},{"name":817,"text":629,"type":1},{"name":1011,"text":663,"type":1},{"name":812,"text":684,"type":1},{"name":1011,"text":691,"type":1},{"text":814,"type":0},{"text":895,"type":0},{"text":915,"type":0},{"text":815,"type":0},{"name":877,"text":564,"type":1},{"name":1011,"text":554,"type":1},{"name":877,"text":531,"type":1},{"name":898,"text":604,"type":1},{"name":1011,"text":572,"type":1},{"name":853,"text":519,"type":1},{"name":853,"text":725,"type":1},{"name":1019,"text":724,"type":1},{"name":1019,"text":546,"type":1},{"name":805,"text":605,"type":1},{"name":1011,"text":612,"type":1},{"name":805,"text":415,"type":1},{"name":898,"text":622,"type":1},{"name":877,"text":671,"type":1},{"name":877,"text":597,"type":1},{"name":898,"text":578,"type":1},{"name":853,"text":723,"type":1},{"name":1019,"text":713,"type":1},{"name":805,"text":699,"type":1},{"name":817,"text":476,"type":1},{"name":817,"text":662,"type":1},{"text":749,"type":0},{"text":858,"type":0},{"name":812,"text":637,"type":1},{"name":1011,"text":468,"type":1},{"name":827,"text":644,"type":1},{"text":837,"type":0},{"text":845,"type":0},{"text":767,"type":0},{"storage":15,"label":11,"type":7},{"subtype":0,"type":5},{"type":3,"title":883},{"subtype":0,"type":5},{"label":11,"type":6},{"storage":16,"label":13,"type":7}],"labels":{"11":501,"13":13}}
+{
+  "names": [
+    1011,
+    827,
+    812,
+    759,
+    817,
+    805,
+    853,
+    877,
+    898,
+    1019
+  ],
+  "strings": [
+    {
+      "original": "$eye"
+    },
+    {
+      "original": "$lip"
+    },
+    {
+      "original": "$lipアルル"
+    },
+    {
+      "original": "$lipタマ"
+    },
+    {
+      "original": "$lip優"
+    },
+    {
+      "original": "$lip咲莉"
+    },
+    {
+      "original": "$lip梨々愛"
+    },
+    {
+      "original": "$lip雅妃",
+      "lines": [
+        251
+      ]
+    },
+    {
+      "original": "%115;「うるせぇ！　ジゴロでもなんでもいいからとりあえず食えこの野郎！！」",
+      "lines": [
+        385
+      ]
+    },
+    {
+      "original": "%115;「一番まともな食べ物なのは認めるけど！！」",
+      "lines": [
+        384
+      ]
+    },
+    {
+      "original": "%115;「既成品！　これ既成品だから！！」"
+    },
+    {
+      "original": "*end"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "0"
+    },
+    {
+      "original": "02cm01_09.ks"
+    },
+    {
+      "original": "02cm01_10.ks"
+    },
+    {
+      "original": "100"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "1500"
+    },
+    {
+      "original": "1900"
+    },
+    {
+      "original": "2000"
+    },
+    {
+      "original": "250"
+    },
+    {
+      "original": "300"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "50"
+    },
+    {
+      "original": "500"
+    },
+    {
+      "original": "900"
+    },
+    {
+      "original": "@"
+    },
+    {
+      "original": "@+100"
+    },
+    {
+      "original": "@-100"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "RandomAction"
+    },
+    {
+      "original": "RandomFlipAction"
+    },
+    {
+      "original": "SinAction"
+    },
+    {
+      "original": "acdec"
+    },
+    {
+      "original": "arle_0169"
+    },
+    {
+      "original": "arle_0170"
+    },
+    {
+      "original": "arle_0171"
+    },
+    {
+      "original": "arle_0172"
+    },
+    {
+      "original": "arle_0173"
+    },
+    {
+      "original": "arle_0174"
+    },
+    {
+      "original": "arle_0175"
+    },
+    {
+      "original": "arle_0176"
+    },
+    {
+      "original": "arle_0177"
+    },
+    {
+      "original": "arle_0178"
+    },
+    {
+      "original": "arle_0179"
+    },
+    {
+      "original": "arle_0180"
+    },
+    {
+      "original": "arle_0181"
+    },
+    {
+      "original": "arle_0182"
+    },
+    {
+      "original": "arle_0183"
+    },
+    {
+      "original": "arle_0184"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg02a"
+    },
+    {
+      "original": "bg03a"
+    },
+    {
+      "original": "bg03a_x"
+    },
+    {
+      "original": "bg99a"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm03"
+    },
+    {
+      "original": "bgm05"
+    },
+    {
+      "original": "bgm06"
+    },
+    {
+      "original": "bgm07"
+    },
+    {
+      "original": "bgm08"
+    },
+    {
+      "original": "bgm09"
+    },
+    {
+      "original": "bgm15"
+    },
+    {
+      "original": "bgm_BGM03"
+    },
+    {
+      "original": "bgm_BGM05"
+    },
+    {
+      "original": "bgm_BGM06"
+    },
+    {
+      "original": "bgm_BGM07"
+    },
+    {
+      "original": "bgm_BGM08"
+    },
+    {
+      "original": "bgm_BGM09"
+    },
+    {
+      "original": "bgm_BGM15"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cg_ic_29"
+    },
+    {
+      "original": "cg_question_mark"
+    },
+    {
+      "original": "cg_red"
+    },
+    {
+      "original": "cg_syo_08a"
+    },
+    {
+      "original": "cg_syo_09a"
+    },
+    {
+      "original": "cg_syo_10a"
+    },
+    {
+      "original": "cg_syo_11a"
+    },
+    {
+      "original": "cg_wh"
+    },
+    {
+      "original": "cg_しげる.stand"
+    },
+    {
+      "original": "cg_アルル.stand"
+    },
+    {
+      "original": "cg_ケルベロス.stand"
+    },
+    {
+      "original": "cg_ゴメ.stand"
+    },
+    {
+      "original": "cg_タマ.stand"
+    },
+    {
+      "original": "cg_リリア.stand"
+    },
+    {
+      "original": "cg_優.stand"
+    },
+    {
+      "original": "cg_咲莉.stand"
+    },
+    {
+      "original": "cg_雅妃.stand"
+    },
+    {
+      "original": "cg_集中線"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "delayrun"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "ecefcd12e7884bbed819e56c4e6fe842"
+    },
+    {
+      "original": "emiri_0446"
+    },
+    {
+      "original": "emiri_0447"
+    },
+    {
+      "original": "emiri_0448"
+    },
+    {
+      "original": "emiri_0449"
+    },
+    {
+      "original": "emiri_0450"
+    },
+    {
+      "original": "emiri_0451"
+    },
+    {
+      "original": "emiri_0452"
+    },
+    {
+      "original": "emiri_0453"
+    },
+    {
+      "original": "emiri_0454"
+    },
+    {
+      "original": "emiri_0455"
+    },
+    {
+      "original": "emiri_0456"
+    },
+    {
+      "original": "emiri_0457"
+    },
+    {
+      "original": "emiri_0458"
+    },
+    {
+      "original": "emiri_0459"
+    },
+    {
+      "original": "emiri_0460"
+    },
+    {
+      "original": "emiri_0461"
+    },
+    {
+      "original": "emiri_0462"
+    },
+    {
+      "original": "emiri_0463"
+    },
+    {
+      "original": "emiri_0464"
+    },
+    {
+      "original": "emiri_0466"
+    },
+    {
+      "original": "emiri_0467"
+    },
+    {
+      "original": "emiri_0468"
+    },
+    {
+      "original": "emiri_0469"
+    },
+    {
+      "original": "emiri_0470"
+    },
+    {
+      "original": "emiri_0471"
+    },
+    {
+      "original": "emo_タマ"
+    },
+    {
+      "original": "emotion"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "ev"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "evcut"
+    },
+    {
+      "original": "event"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eye"
+    },
+    {
+      "original": "eyecatch"
+    },
+    {
+      "original": "eyeflipdisable"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "flash"
+    },
+    {
+      "original": "gome_0028"
+    },
+    {
+      "original": "gome_0029"
+    },
+    {
+      "original": "gome_0030"
+    },
+    {
+      "original": "gome_0031"
+    },
+    {
+      "original": "gome_0032"
+    },
+    {
+      "original": "gome_0033"
+    },
+    {
+      "original": "gome_0034"
+    },
+    {
+      "original": "gome_0035"
+    },
+    {
+      "original": "gome_0036"
+    },
+    {
+      "original": "gome_0037"
+    },
+    {
+      "original": "gome_0038"
+    },
+    {
+      "original": "gome_0039"
+    },
+    {
+      "original": "gome_0040"
+    },
+    {
+      "original": "gome_0041"
+    },
+    {
+      "original": "gome_0042"
+    },
+    {
+      "original": "ic_29"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "layer"
+    },
+    {
+      "original": "left"
+    },
+    {
+      "original": "light"
+    },
+    {
+      "original": "line"
+    },
+    {
+      "original": "map27b"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "miyabi_0226"
+    },
+    {
+      "original": "miyabi_0227"
+    },
+    {
+      "original": "miyabi_0228"
+    },
+    {
+      "original": "miyabi_0229"
+    },
+    {
+      "original": "miyabi_0230"
+    },
+    {
+      "original": "miyabi_0231"
+    },
+    {
+      "original": "miyabi_0232"
+    },
+    {
+      "original": "miyabi_0233"
+    },
+    {
+      "original": "miyabi_0234"
+    },
+    {
+      "original": "miyabi_0235"
+    },
+    {
+      "original": "miyabi_0236"
+    },
+    {
+      "original": "miyabi_0237"
+    },
+    {
+      "original": "miyabi_0238"
+    },
+    {
+      "original": "miyabi_0239"
+    },
+    {
+      "original": "miyabi_0240"
+    },
+    {
+      "original": "miyabi_0241"
+    },
+    {
+      "original": "miyabi_0242"
+    },
+    {
+      "original": "miyabi_0243"
+    },
+    {
+      "original": "miyabi_0244"
+    },
+    {
+      "original": "miyabi_0245"
+    },
+    {
+      "original": "miyabi_0246"
+    },
+    {
+      "original": "miyabi_0247"
+    },
+    {
+      "original": "miyabi_0248"
+    },
+    {
+      "original": "miyabi_0249"
+    },
+    {
+      "original": "miyabi_0250"
+    },
+    {
+      "original": "miyabi_0251"
+    },
+    {
+      "original": "miyabi_0252"
+    },
+    {
+      "original": "miyabi_0253"
+    },
+    {
+      "original": "miyabi_0254"
+    },
+    {
+      "original": "miyabi_0255"
+    },
+    {
+      "original": "miyabi_0256"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "opacity"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "pochi_0017"
+    },
+    {
+      "original": "pochi_0018"
+    },
+    {
+      "original": "pochi_0019"
+    },
+    {
+      "original": "pochi_0020"
+    },
+    {
+      "original": "pochi_0021"
+    },
+    {
+      "original": "pochi_0022"
+    },
+    {
+      "original": "pochi_0023"
+    },
+    {
+      "original": "pochi_0025"
+    },
+    {
+      "original": "pretrans"
+    },
+    {
+      "original": "question_mark"
+    },
+    {
+      "original": "red"
+    },
+    {
+      "original": "riria_0598"
+    },
+    {
+      "original": "riria_0599"
+    },
+    {
+      "original": "riria_0600"
+    },
+    {
+      "original": "riria_0601"
+    },
+    {
+      "original": "riria_0602"
+    },
+    {
+      "original": "riria_0603"
+    },
+    {
+      "original": "riria_0604"
+    },
+    {
+      "original": "riria_0605"
+    },
+    {
+      "original": "riria_0606"
+    },
+    {
+      "original": "riria_0607"
+    },
+    {
+      "original": "riria_0608"
+    },
+    {
+      "original": "riria_0609"
+    },
+    {
+      "original": "riria_0610"
+    },
+    {
+      "original": "riria_0611"
+    },
+    {
+      "original": "riria_0612"
+    },
+    {
+      "original": "riria_0613"
+    },
+    {
+      "original": "riria_0614"
+    },
+    {
+      "original": "riria_0615"
+    },
+    {
+      "original": "riria_0616"
+    },
+    {
+      "original": "riria_0621"
+    },
+    {
+      "original": "riria_0622"
+    },
+    {
+      "original": "riria_0623"
+    },
+    {
+      "original": "riria_0624"
+    },
+    {
+      "original": "riria_0625"
+    },
+    {
+      "original": "riria_0626"
+    },
+    {
+      "original": "riria_0627"
+    },
+    {
+      "original": "riria_0628"
+    },
+    {
+      "original": "rotate"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "seキラキラー"
+    },
+    {
+      "original": "seシャキン"
+    },
+    {
+      "original": "seドサッと荷物を置く音"
+    },
+    {
+      "original": "seファンファーレ"
+    },
+    {
+      "original": "se引きずる"
+    },
+    {
+      "original": "se心音ガシャン"
+    },
+    {
+      "original": "se心音ガーン"
+    },
+    {
+      "original": "se心音グサッ"
+    },
+    {
+      "original": "se心音チーン"
+    },
+    {
+      "original": "se心音ドーン"
+    },
+    {
+      "original": "se心音ピキーン"
+    },
+    {
+      "original": "se心音怒り"
+    },
+    {
+      "original": "se心音爆発"
+    },
+    {
+      "original": "se心音落雷"
+    },
+    {
+      "original": "se抱きつく音"
+    },
+    {
+      "original": "se機械音レジ"
+    },
+    {
+      "original": "se爆発ドカーン"
+    },
+    {
+      "original": "se締め付け"
+    },
+    {
+      "original": "shigeru_0005"
+    },
+    {
+      "original": "shigeru_0006"
+    },
+    {
+      "original": "shigeru_0007"
+    },
+    {
+      "original": "shigeru_0008"
+    },
+    {
+      "original": "shigeru_0009"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "stop"
+    },
+    {
+      "original": "stopaction"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "sync"
+    },
+    {
+      "original": "syo_08a"
+    },
+    {
+      "original": "syo_09a"
+    },
+    {
+      "original": "syo_10a"
+    },
+    {
+      "original": "syo_11a"
+    },
+    {
+      "original": "tama_0234"
+    },
+    {
+      "original": "tama_0235"
+    },
+    {
+      "original": "tama_0236"
+    },
+    {
+      "original": "tama_0237"
+    },
+    {
+      "original": "tama_0238"
+    },
+    {
+      "original": "tama_0239"
+    },
+    {
+      "original": "tama_0240"
+    },
+    {
+      "original": "tama_0241"
+    },
+    {
+      "original": "tama_0242"
+    },
+    {
+      "original": "tama_0243"
+    },
+    {
+      "original": "tama_0244"
+    },
+    {
+      "original": "tama_0245"
+    },
+    {
+      "original": "tama_0246"
+    },
+    {
+      "original": "tama_0247"
+    },
+    {
+      "original": "tama_0248"
+    },
+    {
+      "original": "tama_0249"
+    },
+    {
+      "original": "tama_0250"
+    },
+    {
+      "original": "tama_0251"
+    },
+    {
+      "original": "tama_0252"
+    },
+    {
+      "original": "tama_0253"
+    },
+    {
+      "original": "tama_0255"
+    },
+    {
+      "original": "tama_0256"
+    },
+    {
+      "original": "tama_0257"
+    },
+    {
+      "original": "tama_0258"
+    },
+    {
+      "original": "tama_0259"
+    },
+    {
+      "original": "tama_0260"
+    },
+    {
+      "original": "tama_0261"
+    },
+    {
+      "original": "tama_0262"
+    },
+    {
+      "original": "tama_0263"
+    },
+    {
+      "original": "tama_0264"
+    },
+    {
+      "original": "tama_0265"
+    },
+    {
+      "original": "tama_0266"
+    },
+    {
+      "original": "tama_0268"
+    },
+    {
+      "original": "tama_0269"
+    },
+    {
+      "original": "tama_0270"
+    },
+    {
+      "original": "tama_0271"
+    },
+    {
+      "original": "tama_0272"
+    },
+    {
+      "original": "tama_0273"
+    },
+    {
+      "original": "tama_0274"
+    },
+    {
+      "original": "tama_0275"
+    },
+    {
+      "original": "tama_0276"
+    },
+    {
+      "original": "tama_0277"
+    },
+    {
+      "original": "tama_0278"
+    },
+    {
+      "original": "tama_0279"
+    },
+    {
+      "original": "tama_0280"
+    },
+    {
+      "original": "tama_0282"
+    },
+    {
+      "original": "tama_0283"
+    },
+    {
+      "original": "tama_0284"
+    },
+    {
+      "original": "tama_0285"
+    },
+    {
+      "original": "tama_0286"
+    },
+    {
+      "original": "tama_0287"
+    },
+    {
+      "original": "tama_0288"
+    },
+    {
+      "original": "tama_0289"
+    },
+    {
+      "original": "tama_0290"
+    },
+    {
+      "original": "tama_0291"
+    },
+    {
+      "original": "tama_0292"
+    },
+    {
+      "original": "tama_0293"
+    },
+    {
+      "original": "tama_0294"
+    },
+    {
+      "original": "tama_0295"
+    },
+    {
+      "original": "tama_0296"
+    },
+    {
+      "original": "tama_0297"
+    },
+    {
+      "original": "tama_0298"
+    },
+    {
+      "original": "tama_0299"
+    },
+    {
+      "original": "tama_0300"
+    },
+    {
+      "original": "tama_0301"
+    },
+    {
+      "original": "tama_0302"
+    },
+    {
+      "original": "tama_0303"
+    },
+    {
+      "original": "tama_0304"
+    },
+    {
+      "original": "tama_0305"
+    },
+    {
+      "original": "tama_0306"
+    },
+    {
+      "original": "tama_0307"
+    },
+    {
+      "original": "tama_0308"
+    },
+    {
+      "original": "tama_0309"
+    },
+    {
+      "original": "tama_0310"
+    },
+    {
+      "original": "tama_0311"
+    },
+    {
+      "original": "tama_0312"
+    },
+    {
+      "original": "tama_0313"
+    },
+    {
+      "original": "tama_0314"
+    },
+    {
+      "original": "tama_0315"
+    },
+    {
+      "original": "tama_0316"
+    },
+    {
+      "original": "tama_0317"
+    },
+    {
+      "original": "tama_0318"
+    },
+    {
+      "original": "tama_0319"
+    },
+    {
+      "original": "tama_0320"
+    },
+    {
+      "original": "tama_0321"
+    },
+    {
+      "original": "tama_0322"
+    },
+    {
+      "original": "tama_0323"
+    },
+    {
+      "original": "tama_0324"
+    },
+    {
+      "original": "tama_0325"
+    },
+    {
+      "original": "tama_0326"
+    },
+    {
+      "original": "tama_0327"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "top"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "true"
+    },
+    {
+      "original": "universal"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "vlstop"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "wh"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "yu_0180"
+    },
+    {
+      "original": "yu_0181"
+    },
+    {
+      "original": "yu_0182"
+    },
+    {
+      "original": "yu_0183"
+    },
+    {
+      "original": "yu_0184"
+    },
+    {
+      "original": "yu_0185"
+    },
+    {
+      "original": "yu_0186"
+    },
+    {
+      "original": "yu_0187"
+    },
+    {
+      "original": "yu_0188"
+    },
+    {
+      "original": "yu_0189"
+    },
+    {
+      "original": "yu_0190"
+    },
+    {
+      "original": "yu_0191"
+    },
+    {
+      "original": "yu_0192"
+    },
+    {
+      "original": "yu_0193"
+    },
+    {
+      "original": "yu_0194"
+    },
+    {
+      "original": "yu_0195"
+    },
+    {
+      "original": "yu_0196"
+    },
+    {
+      "original": "yu_0197"
+    },
+    {
+      "original": "yu_0198"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        404
+      ]
+    },
+    {
+      "original": "…………しかし。",
+      "lines": [
+        313
+      ]
+    },
+    {
+      "original": "……これは手料理に入るんだろうか？",
+      "lines": [
+        98
+      ]
+    },
+    {
+      "original": "……それを、このメンツで。",
+      "lines": [
+        101
+      ]
+    },
+    {
+      "original": "……まぁ、そこまでは言い過ぎかもしれないけど。",
+      "lines": [
+        131
+      ]
+    },
+    {
+      "original": "……みんな、自分が最下位にはならないと思ってるんだなぁ。",
+      "lines": [
+        435
+      ]
+    },
+    {
+      "original": "……料理はいずこに？",
+      "lines": [
+        321
+      ]
+    },
+    {
+      "original": "「(タマちゃん、また余計なことを……！)」",
+      "lines": [
+        322
+      ]
+    },
+    {
+      "original": "「(申し訳ない、申し訳ないのです……)」",
+      "lines": [
+        224
+      ]
+    },
+    {
+      "original": "「[あか]紅い……！　[あか]紅すぎるのですよ……！」",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "「――ならないか」",
+      "lines": [
+        431
+      ]
+    },
+    {
+      "original": "「……………………」",
+      "lines": [
+        432
+      ]
+    },
+    {
+      "original": "「…………え？」",
+      "lines": [
+        164
+      ]
+    },
+    {
+      "original": "「……えっと、梨々愛選手？」",
+      "lines": [
+        412
+      ]
+    },
+    {
+      "original": "「……でもうちの妹は可愛いだけで家事は一切しなかった」",
+      "lines": [
+        292
+      ]
+    },
+    {
+      "original": "「……なんか、いろいろと大変だったんですね」",
+      "lines": [
+        365
+      ]
+    },
+    {
+      "original": "「……タマちゃん」",
+      "lines": [
+        396
+      ]
+    },
+    {
+      "original": "「……残すところは咲だけか」",
+      "lines": [
+        390
+      ]
+    },
+    {
+      "original": "「……結構、胸に刺さりますねこれ」",
+      "lines": [
+        414
+      ]
+    },
+    {
+      "original": "「……蓮ちゃん、ようやく妹の手料理を食べるチャンスじゃないですか！」",
+      "lines": [
+        325
+      ]
+    },
+    {
+      "original": "「あ、あと空腹感がなくなる薬とかも混ぜてあるからダイエットにもなるよ？」",
+      "lines": [
+        356
+      ]
+    },
+    {
+      "original": "「あ、でもそんなに自信はないですけど……！」",
+      "lines": [
+        479
+      ]
+    },
+    {
+      "original": "「あ、はい。すみません、つい……えへへ……」",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "「あ、ポチはちゃんと狂ケル病の予防接種を受けてるので問題ないのですよ」",
+      "lines": [
+        374
+      ]
+    },
+    {
+      "original": "「あ、味には自信があるんですけども……」",
+      "lines": [
+        415
+      ]
+    },
+    {
+      "original": "「あぁ、そうだな……」"
+    },
+    {
+      "original": "「あかい……！　あかすぎるのですよ……！」",
+      "lines": [
+        422
+      ]
+    },
+    {
+      "original": "「あたしをそこらのマ族と同じにしないで欲しいなぁ」",
+      "lines": [
+        450
+      ]
+    },
+    {
+      "original": "「あたし料理なんて全然出来ないし、考えたんだ」",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "「あっ、ゴメ！　こら！」",
+      "lines": [
+        187
+      ]
+    },
+    {
+      "original": "「あっ、自分で未来の旦那様だなんてやだもうー♪　ばしばしっ♪」",
+      "lines": [
+        349
+      ]
+    },
+    {
+      "original": "「あの、私もできました……」",
+      "lines": [
+        274
+      ]
+    },
+    {
+      "original": "「あれ、そうなのですか？」",
+      "lines": [
+        206
+      ]
+    },
+    {
+      "original": "「あんなのを見せられたらこうなるのも無理はない」",
+      "lines": [
+        302
+      ]
+    },
+    {
+      "original": "「あんまり料理っぽい料理はしてないからねー」",
+      "lines": [
+        319
+      ]
+    },
+    {
+      "original": "「あーなるほど。それは食感が変わっていいかもしれないね」",
+      "lines": [
+        248
+      ]
+    },
+    {
+      "original": "「あ～なるほど～それじゃあしょうがないですね～」",
+      "lines": [
+        111
+      ]
+    },
+    {
+      "original": "「いいですか蓮ちゃん！　タマを除外したのにはちゃーんと深い理由があるのですから！」",
+      "lines": [
+        110
+      ]
+    },
+    {
+      "original": "「いえ、そんなことは」",
+      "lines": [
+        125
+      ]
+    },
+    {
+      "original": "「いつも蓮さんばかりに作らせて悪いと思ってましたし」",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "「いてえぇええぇえぇえぇぇぇぇえぇっっっ！！！！！！」",
+      "lines": [
+        109
+      ]
+    },
+    {
+      "original": "「いま、サラッとバカにしやがったのですね？」",
+      "lines": [
+        72
+      ]
+    },
+    {
+      "original": "「いま『女の子』のカテゴリにタマが入ってなかった気がするのですが」",
+      "lines": [
+        148
+      ]
+    },
+    {
+      "original": "「いや、それは禁止するまでもないだろ」",
+      "lines": [
+        434
+      ]
+    },
+    {
+      "original": "「いや、そんなこと言われても……」",
+      "lines": [
+        134
+      ]
+    },
+    {
+      "original": "「いやぁ始まってもいないのにこの白熱っぷり！」",
+      "lines": [
+        194
+      ]
+    },
+    {
+      "original": "「いやあぁあぁぁぁーっ！　せめて、せめてひとくちーっ！！」",
+      "lines": [
+        68
+      ]
+    },
+    {
+      "original": "「いやいやいや、とんでもないことってまた大げさな」",
+      "lines": [
+        244
+      ]
+    },
+    {
+      "original": "「いやいやいや、レディーファーストって言うじゃん？」",
+      "lines": [
+        368
+      ]
+    },
+    {
+      "original": "「いやでも自分で作ったのなら、そこそこの女子力ってこともないかとは……」",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "「いや別にそんなつもりで言ったわけでは……」",
+      "lines": [
+        240
+      ]
+    },
+    {
+      "original": "「いや本当においしいかもしれないし一応」",
+      "lines": [
+        273
+      ]
+    },
+    {
+      "original": "「いや魔女が鍋をねるねるするのなんて、もうずいぶんと昔のことなんだけど……」",
+      "lines": [
+        207
+      ]
+    },
+    {
+      "original": "「うぅぅぅ、ひどいよぉ……」",
+      "lines": [
+        252
+      ]
+    },
+    {
+      "original": "「うるせぇ、お前が死ぬのです！　このゲスがー！！」"
+    },
+    {
+      "original": "「うるせぇ！　ジゴロでもなんでもいいからとりあえず食えこの野郎！！」",
+      "lines": [
+        178
+      ]
+    },
+    {
+      "original": "「うん、だから、たまーにかな、たまーに、うん」",
+      "lines": [
+        451
+      ]
+    },
+    {
+      "original": "「うん。何を？」",
+      "lines": [
+        367
+      ]
+    },
+    {
+      "original": "「うーん、こちらもなかなか女子力皆無なのですよ」",
+      "lines": [
+        163
+      ]
+    },
+    {
+      "original": "「うーん、これはぁ……灰？」",
+      "lines": [
+        333
+      ]
+    },
+    {
+      "original": "「うーん、今回は効率点がなかったのが敗因かなぁ」",
+      "lines": [
+        269
+      ]
+    },
+    {
+      "original": "「え、あれって煮込み料理してるの？」",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "「え、何それ。聞いてないんだけど」",
+      "lines": [
+        312
+      ]
+    },
+    {
+      "original": "「えぇ……それは大変身に余る光栄なのですが……」",
+      "lines": [
+        190
+      ]
+    },
+    {
+      "original": "「えぇぇぇえぇえぇぇーーーっっっ！？」",
+      "lines": [
+        46,
+        48
+      ]
+    },
+    {
+      "original": "「えっ」",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "「えー、というわけで」",
+      "lines": [
+        332
+      ]
+    },
+    {
+      "original": "「えー、何で？　こんなに効率がいいのに？」",
+      "lines": [
+        362
+      ]
+    },
+    {
+      "original": "「えーと、アルルちゃん？」",
+      "lines": [
+        457
+      ]
+    },
+    {
+      "original": "「えー！？　なんでなんでなんでー！？」",
+      "lines": [
+        239
+      ]
+    },
+    {
+      "original": "「え！？　タマが先に食べるのですか！？」",
+      "lines": [
+        267
+      ]
+    },
+    {
+      "original": "「え？　そうなの？　薬剤師じゃなくて？」",
+      "lines": [
+        359
+      ]
+    },
+    {
+      "original": "「おおおっ……！　こ、これはっ……！？」",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "「おかわり」",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "「おかわりならまだあるからケンカすんなって――」",
+      "lines": [
+        492
+      ]
+    },
+    {
+      "original": "「おーそうするか」",
+      "lines": [
+        453
+      ]
+    },
+    {
+      "original": "「お兄ちゃん、好きな調理法選んでいいよ？」",
+      "lines": [
+        417
+      ]
+    },
+    {
+      "original": "「お兄ちゃん、茶番はそれくらいでいい？」",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "「お兄ちゃんは何だかんだ世話焼きだからねぇ」",
+      "lines": [
+        391
+      ]
+    },
+    {
+      "original": "「お前は女じゃないって言われてるみたいで……うぅ……」",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "「お前らちゃんと自分の分のエサあんだからケンカすんなってばー」",
+      "lines": [
+        94
+      ]
+    },
+    {
+      "original": "「お昼も食べられて女子力も測定できる……あぁ、なんて天才的な企画なのですか！」",
+      "lines": [
+        291
+      ]
+    },
+    {
+      "original": "「お母さんもおばあちゃんも通ってきた道だって言ってたし、仕方ないよね（遠い目）」",
+      "lines": [
+        487
+      ]
+    },
+    {
+      "original": "「かー！　うるさいのですよこの発情アクマどもがー！」",
+      "lines": [
+        382
+      ]
+    },
+    {
+      "original": "「かー！　キンキンに冷えてやがるのです！　夏場のビールはうますぎるのですよー！」",
+      "lines": [
+        107
+      ]
+    },
+    {
+      "original": "「かー！　失礼しちゃうのですまったく！　そこまでひどくはないのです！」",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "「くぅ～ん、くぅ～ん」",
+      "lines": [
+        337
+      ]
+    },
+    {
+      "original": "「くーん、くーん」",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "「ぐああぁああぁあぁぁっっ！！！！」",
+      "lines": [
+        218
+      ]
+    },
+    {
+      "original": "「こういうの、こういうのでいいんですよねぇ」",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "「こうなっては吾も伝家の宝刀『のしかかり』をお見舞いしてあいたたたたマジでいたああぁあぁ！！！」",
+      "lines": [
+        93
+      ]
+    },
+    {
+      "original": "「この五人の中で誰が一番の料理上手なのかを、はっきりさせるのですよ！」",
+      "lines": [
+        165
+      ]
+    },
+    {
+      "original": "「この灰はなんだか説明してもらえますか？」",
+      "lines": [
+        129
+      ]
+    },
+    {
+      "original": "「この面子ならビリになることはまずないかな」",
+      "lines": [
+        366
+      ]
+    },
+    {
+      "original": "「これ、どうも見たまんまみたいだよ？」",
+      "lines": [
+        235
+      ]
+    },
+    {
+      "original": "「これ、箸がいつもの三倍で動くくらいおいしいから」",
+      "lines": [
+        172
+      ]
+    },
+    {
+      "original": "「これだけ亜鉛を食べれば……ねぇ？　ふふふ……♪」",
+      "lines": [
+        316
+      ]
+    },
+    {
+      "original": "「これはこれでいいところのある料理なんだよ？」",
+      "lines": [
+        198
+      ]
+    },
+    {
+      "original": "「これは今後もエキセントリックな展開が予想されるのですよ……」",
+      "lines": [
+        233
+      ]
+    },
+    {
+      "original": "「こんな見た目をしてるけど、味は完璧」",
+      "lines": [
+        381
+      ]
+    },
+    {
+      "original": "「ごくごくごくごくごく！！！」",
+      "lines": [
+        167
+      ]
+    },
+    {
+      "original": "「ご飯の亜鉛ふりかけ！　亜鉛入り玉子焼き！」",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "「ご飯を作る人がいないのです」",
+      "lines": [
+        186
+      ]
+    },
+    {
+      "original": "「さ、遠慮しないで食べて食べて？」",
+      "lines": [
+        95
+      ]
+    },
+    {
+      "original": "「さぁ、みんなでレッツ女子力測定なのです！」",
+      "lines": [
+        139
+      ]
+    },
+    {
+      "original": "「さぁ、第一回、ポンコツ寮女子力効果測定大会　～食中毒には気をつけよう～　が始まりました」",
+      "lines": [
+        310
+      ]
+    },
+    {
+      "original": "「さぁ、遠慮はいらないから食べて？」",
+      "lines": [
+        236
+      ]
+    },
+    {
+      "original": "「さぁ、食べてみて」",
+      "lines": [
+        238
+      ]
+    },
+    {
+      "original": "「ささ、タマちゃんお先にどうぞ」",
+      "lines": [
+        197
+      ]
+    },
+    {
+      "original": "「さすがのタマも金属を食事として出されるとは思わなかったのです」",
+      "lines": [
+        195
+      ]
+    },
+    {
+      "original": "「さて、のっけからとんでもない逸品でしたけども」",
+      "lines": [
+        421
+      ]
+    },
+    {
+      "original": "「しっつれいなロリババねぇ、ほんとロリババ」",
+      "lines": [
+        276
+      ]
+    },
+    {
+      "original": "「じゃあ、ほうきにも乗らないのですか？」",
+      "lines": [
+        214
+      ]
+    },
+    {
+      "original": "「じゃあとりあえず二番目、優さんどうぞ」",
+      "lines": [
+        208
+      ]
+    },
+    {
+      "original": "「せっかくママ直伝の亜鉛ご飯なのにぃ……」",
+      "lines": [
+        406
+      ]
+    },
+    {
+      "original": "「そ、そう言われてみれば……」",
+      "lines": [
+        334
+      ]
+    },
+    {
+      "original": "「そういう感じでご納得頂ければ幸いです」",
+      "lines": [
+        199
+      ]
+    },
+    {
+      "original": "「そうですねぇ、どの選手もあまりレベルが変わると思えないですからね……」",
+      "lines": [
+        255
+      ]
+    },
+    {
+      "original": "「そうですね！　ここはひとまず置いておいて次の審査に行くのです！」",
+      "lines": [
+        108
+      ]
+    },
+    {
+      "original": "「そこまでは、ね」",
+      "lines": [
+        169
+      ]
+    },
+    {
+      "original": "「そして、デザートに奮発して亜鉛の塊を用意してみました！　どーん！」",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "「そして時刻はもうすぐお昼時なのですよ」",
+      "lines": [
+        173
+      ]
+    },
+    {
+      "original": "「その、夜も仲良しっていうか……ねぇ？」",
+      "lines": [
+        411
+      ]
+    },
+    {
+      "original": "「そりゃあ俺だって、可愛い妹の手料理を食べる経験もしてみたかった……」",
+      "lines": [
+        264
+      ]
+    },
+    {
+      "original": "「それじゃあ、次はあたしだね」",
+      "lines": [
+        257
+      ]
+    },
+    {
+      "original": "「それじゃ採点にならない」",
+      "lines": [
+        473
+      ]
+    },
+    {
+      "original": "「それなら私も構わない」",
+      "lines": [
+        423
+      ]
+    },
+    {
+      "original": "「それにお兄ちゃんだったら、例えヘドロでも妹が作ったものは喜んで食べてくれるよね？」",
+      "lines": [
+        370
+      ]
+    },
+    {
+      "original": "「それに手作りビールとか酒類製造免許がないと犯罪なのです」",
+      "lines": [
+        303
+      ]
+    },
+    {
+      "original": "「それに栄養を取るだけならこれで十分だし、あっはっはー」",
+      "lines": [
+        281
+      ]
+    },
+    {
+      "original": "「それは本人見れば分かるでしょ」",
+      "lines": [
+        144
+      ]
+    },
+    {
+      "original": "「それをタマたちが試食し、点数を決める」",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "「それ呪いじゃなくて狂犬病じゃないの普通に」",
+      "lines": [
+        73
+      ]
+    },
+    {
+      "original": "「そんなのないない、あるわけないよよー」",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "「そんなのほっとけばいいのに」",
+      "lines": [
+        122
+      ]
+    },
+    {
+      "original": "「そんなのわたしだって結構やる方だもん！　普段やらないだけで！」",
+      "lines": [
+        176
+      ]
+    },
+    {
+      "original": "「そんなわけないでしょー？」",
+      "lines": [
+        284
+      ]
+    },
+    {
+      "original": "「そんなバカな……！」",
+      "lines": [
+        470
+      ]
+    },
+    {
+      "original": "「そんな投げやりなお兄ちゃんいやー！　じゃあ試食してー！」",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "「たとえ家事が苦手でも女の方が稼げばどうかな？　な？」",
+      "lines": [
+        126
+      ]
+    },
+    {
+      "original": "「たぶん梨々姉よりはマシだと思うし」",
+      "lines": [
+        180
+      ]
+    },
+    {
+      "original": "「たまにってことは、一応食べるってことなのか……」",
+      "lines": [
+        393
+      ]
+    },
+    {
+      "original": "「だいぶ責められ損だよね、俺たち」",
+      "lines": [
+        90
+      ]
+    },
+    {
+      "original": "「だったら、この際はっきりさせてしまおうなのです！」",
+      "lines": [
+        242
+      ]
+    },
+    {
+      "original": "「だったら蓮ちゃんが先に食べればいいのですよ」",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "「ちょっと待って！　今、蓮くんに女としてすごくバカにされた気がする！」",
+      "lines": [
+        442
+      ]
+    },
+    {
+      "original": "「ちーがーうってば。ここにあるでしょ、ここに」",
+      "lines": [
+        459
+      ]
+    },
+    {
+      "original": "「っざけんななのですよこの小娘が！！」",
+      "lines": [
+        115
+      ]
+    },
+    {
+      "original": "「って、こいつらも食べるの？」",
+      "lines": [
+        249
+      ]
+    },
+    {
+      "original": "「っは！？　いけない！　いけないのですよ！」",
+      "lines": [
+        386
+      ]
+    },
+    {
+      "original": "「っは！？　ビールの魔力に危うく騙されるところだったのです！」",
+      "lines": [
+        408
+      ]
+    },
+    {
+      "original": "「で、でもタマも蓮ちゃんみたいな便利な肉棒がいたら料理なんて……！」",
+      "lines": [
+        420
+      ]
+    },
+    {
+      "original": "「で、咲莉ちゃんはどんなヘドロを生成したのですか？」",
+      "lines": [
+        476
+      ]
+    },
+    {
+      "original": "「でも、蓮に試食したいって言われたらもっと困るな……」",
+      "lines": [
+        413
+      ]
+    },
+    {
+      "original": "「でもそれでもいいと、俺はいつしか思うようになっていたんだ……！」",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "「でも一点だけとんでもない事態が起こっているのですよ」",
+      "lines": [
+        357
+      ]
+    },
+    {
+      "original": "「でも一生懸命作りました！　蓮お兄さんのために……！」",
+      "lines": [
+        103
+      ]
+    },
+    {
+      "original": "「というかタマちゃん、しれっと自分を除外してない？」",
+      "lines": [
+        387
+      ]
+    },
+    {
+      "original": "「というわけで、アルルちゃんは測定不能なので０点です」",
+      "lines": [
+        345
+      ]
+    },
+    {
+      "original": "「とりあえず残りの年少組に期待したいところ」",
+      "lines": [
+        188
+      ]
+    },
+    {
+      "original": "「とりあえず０点ってことで」",
+      "lines": [
+        469
+      ]
+    },
+    {
+      "original": "「とりあえず０点でいいよもう」",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "「とんでもないとは穏やかじゃないけど、どういうこと？」",
+      "lines": [
+        358
+      ]
+    },
+    {
+      "original": "「ど、どうぞっ……！！」",
+      "lines": [
+        196
+      ]
+    },
+    {
+      "original": "「どうですかね、審査員のタマさん。初戦を終えてみて」",
+      "lines": [
+        135
+      ]
+    },
+    {
+      "original": "「どうですか解説の蓮ちゃんさん？」",
+      "lines": [
+        369
+      ]
+    },
+    {
+      "original": "「どうみても『ザキヤマ』って書いてあるのですよ」",
+      "lines": [
+        339
+      ]
+    },
+    {
+      "original": "「などと申しており」",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "「なんで自分のイワシより先にドッグフードと鉛筆の芯を先に食べるんだお前は！！」",
+      "lines": [
+        191
+      ]
+    },
+    {
+      "original": "「なんで！？　なんでこんなに愛情の詰まった手料理がー！？」",
+      "lines": [
+        407
+      ]
+    },
+    {
+      "original": "「なんという灯台下暗し」",
+      "lines": [
+        468
+      ]
+    },
+    {
+      "original": "「ね、お兄ちゃん？　あたしのカラダなら二万点はあるよね？　ね？」",
+      "lines": [
+        254
+      ]
+    },
+    {
+      "original": "「ねぇ、食べないならそろそろ次に行ってもいいかな？」",
+      "lines": [
+        113
+      ]
+    },
+    {
+      "original": "「はぁ、俺たちは審査員ですか」",
+      "lines": [
+        105
+      ]
+    },
+    {
+      "original": "「はい、俺が悪かったです。全面的に」",
+      "lines": [
+        297
+      ]
+    },
+    {
+      "original": "「はい、召し上がれ」",
+      "lines": [
+        456
+      ]
+    },
+    {
+      "original": "「はい、咲莉ちゃん０点」",
+      "lines": [
+        433
+      ]
+    },
+    {
+      "original": "「はいお兄ちゃんどーぞ♪　召・し・上・が・れ♪」",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "「はいはい、終わり終わり」",
+      "lines": [
+        472
+      ]
+    },
+    {
+      "original": "「はい？」",
+      "lines": [
+        91
+      ]
+    },
+    {
+      "original": "「はっきり？　何をはっきりさせるって？」",
+      "lines": [
+        438
+      ]
+    },
+    {
+      "original": "「ははーん、バカには見えないとかそういう系なのですか？」",
+      "lines": [
+        155
+      ]
+    },
+    {
+      "original": "「はーい！　梨々愛選手、料理出来ました！」",
+      "lines": [
+        400
+      ]
+    },
+    {
+      "original": "「はーらーへったなーッ……！」",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "「ひどいです！　五人揃って農家のおじさんくらいの女子力だと思われてるなんて！」",
+      "lines": [
+        483
+      ]
+    },
+    {
+      "original": "「ふぎゃー！　ネタとか言った！　咲ちゃんひどいーーー！！」",
+      "lines": [
+        128
+      ]
+    },
+    {
+      "original": "「ふたりよりはマシな気がする」",
+      "lines": [
+        217
+      ]
+    },
+    {
+      "original": "「ほうほう、これは中々期待出来るのですよ」",
+      "lines": [
+        179
+      ]
+    },
+    {
+      "original": "「ほんとたまーに。稀に良くあるレベルって感じで、うん」",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "「ぼりぼりぼりぼり」",
+      "lines": [
+        121
+      ]
+    },
+    {
+      "original": "「まぁあたしは結構自信あるし？　いんじゃないのやってみれば」",
+      "lines": [
+        395
+      ]
+    },
+    {
+      "original": "「まぁとにかくこれでアルルのターンも終了なわけで……」",
+      "lines": [
+        296
+      ]
+    },
+    {
+      "original": "「まぁとりあえずあたしの料理も食べてみてくれるかな？」",
+      "lines": [
+        228
+      ]
+    },
+    {
+      "original": "「まぁ正直分かりきっていたことではあるけども……」",
+      "lines": [
+        425
+      ]
+    },
+    {
+      "original": "「まぁ確かに。それで死んじゃったら悲しいし」",
+      "lines": [
+        117
+      ]
+    },
+    {
+      "original": "「まぁ食べれないものは食べなければいいのです」",
+      "lines": [
+        289
+      ]
+    },
+    {
+      "original": "「まぁ魔女っていうと良くある話だからね」",
+      "lines": [
+        416
+      ]
+    },
+    {
+      "original": "「まさかこんな形で夢が叶う日がやって来るなんて……」",
+      "lines": [
+        326
+      ]
+    },
+    {
+      "original": "「まるで仙人豆みたいな言い草なのですけど、絶対にヤバいのですよねそれ」",
+      "lines": [
+        124
+      ]
+    },
+    {
+      "original": "「みんながやるって言うならあたしも参加しようかな」",
+      "lines": [
+        392
+      ]
+    },
+    {
+      "original": "「むしろ市販の物を出して女子力高いって言われる方が問題だと思うのですが……」",
+      "lines": [
+        428
+      ]
+    },
+    {
+      "original": "「もう茶番はいいからとっとと料理を出すのですよ」",
+      "lines": [
+        177
+      ]
+    },
+    {
+      "original": "「もしそうだったら、サキュバスの旦那さんは全員亜鉛中毒でこの世にはいなくなっちゃってるもん」",
+      "lines": [
+        455
+      ]
+    },
+    {
+      "original": "「もちろんあたしのオススメは……素材の味かな？」",
+      "lines": [
+        482
+      ]
+    },
+    {
+      "original": "「もっと何か他のネタ考えないと飽きられるよ？」",
+      "lines": [
+        225
+      ]
+    },
+    {
+      "original": "「もはや赤飯じゃなくて紅蓮飯だぞこれは……！」",
+      "lines": [
+        448
+      ]
+    },
+    {
+      "original": "「もーお兄ちゃんまでそんなこと言うんだから。仕方ないなぁ」",
+      "lines": [
+        247
+      ]
+    },
+    {
+      "original": "「やっぱり大人のレディーには気を使わないといけないって思うし」",
+      "lines": [
+        290
+      ]
+    },
+    {
+      "original": "「よく調理実習とかでも期待されるからやってたけど……」",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "「よーし、お前らエサだぞー」",
+      "lines": [
+        429
+      ]
+    },
+    {
+      "original": "「よーし、じゃああたしの料理を紹介しちゃおうかな」",
+      "lines": [
+        471
+      ]
+    },
+    {
+      "original": "「わ、わたしだって……蓮くんに試食されてもいいもん……！」",
+      "lines": [
+        477
+      ]
+    },
+    {
+      "original": "「わ、私だって……！　た、食べ頃だと思いますし……！」",
+      "lines": [
+        130
+      ]
+    },
+    {
+      "original": "「わ、私も流石にビリにはならないと思います……」",
+      "lines": [
+        127
+      ]
+    },
+    {
+      "original": "「わたしもたぶん咲ちゃんよりはマシだと思うなぁ」",
+      "lines": [
+        330
+      ]
+    },
+    {
+      "original": "「んじゃまあ、とりあえず０点ということで」",
+      "lines": [
+        234
+      ]
+    },
+    {
+      "original": "「アメリカの青いケーキと似たようなもの」",
+      "lines": [
+        351
+      ]
+    },
+    {
+      "original": "「アルル……！　我がポンコツ寮の良心の力を見せてくれ……！！」",
+      "lines": [
+        383
+      ]
+    },
+    {
+      "original": "「アルルちゃん、百点なのです！！」",
+      "lines": [
+        478
+      ]
+    },
+    {
+      "original": "「アルルはとりあえず脱がないの！」",
+      "lines": [
+        300
+      ]
+    },
+    {
+      "original": "「オー、イッツ、ジャンキー……」",
+      "lines": [
+        32,
+        45,
+        47
+      ]
+    },
+    {
+      "original": "「ガブッ！」",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "「ケルベロスの牙は呪いがあるって聞いたけど、ちゃんと解呪した？」",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "「ケルベロスよ、吾と矛を交えるつもりか？」",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "「ケンカしてる動物の間に入るなんて初歩的なミスを……」",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "「ケンカすんなってばもー」",
+      "lines": [
+        192
+      ]
+    },
+    {
+      "original": "「ゴメ、連れてって」",
+      "lines": [
+        175
+      ]
+    },
+    {
+      "original": "「サキュバスの新婚ってこんなばっか食べるのですか……？」",
+      "lines": [
+        166
+      ]
+    },
+    {
+      "original": "「サキュバスの若奥さまをテーマにまとめてみました！」",
+      "lines": [
+        480
+      ]
+    },
+    {
+      "original": "「サキュバスソースはすごいんだもん！　超エロいんだもん！」",
+      "lines": [
+        440
+      ]
+    },
+    {
+      "original": "「タマちゃん、さっきまでの料理のうち何か食べた？　大丈夫？」",
+      "lines": [
+        458
+      ]
+    },
+    {
+      "original": "「タマちゃんみたいな貧相なカラダじゃあるまいし０点なわけないじゃん！！」",
+      "lines": [
+        241
+      ]
+    },
+    {
+      "original": "「タマちゃん審査委員長じゃん。立場的に」",
+      "lines": [
+        246
+      ]
+    },
+    {
+      "original": "「タマちゃん超レディだしさ、こういうのはマナーだと思って」",
+      "lines": [
+        112
+      ]
+    },
+    {
+      "original": "「タマと蓮ちゃんと愉快なペットたちは審査員なのです！」",
+      "lines": [
+        439
+      ]
+    },
+    {
+      "original": "「タマには見えるのですよ、それはそれはドス黒いヘドロが」",
+      "lines": [
+        460
+      ]
+    },
+    {
+      "original": "「タマは出るとこ出れば超人気の一流素材なのですよ！」",
+      "lines": [
+        285
+      ]
+    },
+    {
+      "original": "「タマ的魔女のイメージが音を立てて崩れていくのですよ……！」",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "「ドナドナド～ナ～ド～ナ～」",
+      "lines": [
+        336
+      ]
+    },
+    {
+      "original": "「ハラが減った」",
+      "lines": [
+        338
+      ]
+    },
+    {
+      "original": "「ハラヘリヘリハラッ……！」",
+      "lines": [
+        364
+      ]
+    },
+    {
+      "original": "「パ、パンとビールです……！」",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "「ヒレは止めろヒレはと言ってあいたたたあたたたたたああぁぁっっっ！！！！」",
+      "lines": [
+        268
+      ]
+    },
+    {
+      "original": "「ヒーッヒッヒッヒって言いながら鍋をぐーるぐるかき混ぜるアレですよ！」",
+      "lines": [
+        491
+      ]
+    },
+    {
+      "original": "「ピザが食べたい」",
+      "lines": [
+        424
+      ]
+    },
+    {
+      "original": "「ヘドロは無理だ」",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "「ポヘミアンッ」",
+      "lines": [
+        215
+      ]
+    },
+    {
+      "original": "「メニューは赤飯、お味噌汁、魚、漬物」",
+      "lines": [
+        327
+      ]
+    },
+    {
+      "original": "「ヤヅロベーさんめちゃお腹膨れてたけどね」",
+      "lines": [
+        245
+      ]
+    },
+    {
+      "original": "「レディー……？」",
+      "lines": [
+        154
+      ]
+    },
+    {
+      "original": "「ワゥッ、ワゥッ！」",
+      "lines": [
+        493
+      ]
+    },
+    {
+      "original": "「ワンッ、ワンッ！」",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "「ワンワンッ！　う゛～～～ワワワワンッワンッ！！」",
+      "lines": [
+        399
+      ]
+    },
+    {
+      "original": "「ワンワンワンッ！」",
+      "lines": [
+        355
+      ]
+    },
+    {
+      "original": "「一応、うちの実家っぽい感じで仕上げたんですが……」",
+      "lines": [
+        363
+      ]
+    },
+    {
+      "original": "「一応、どんな料理か説明してもらっていいですか？」"
+    },
+    {
+      "original": "「一番まともな食べ物なのは認めるけど！！」",
+      "lines": [
+        253
+      ]
+    },
+    {
+      "original": "「上から食べられないなら下の口であーんしてやるのですよ！！」",
+      "lines": [
+        203
+      ]
+    },
+    {
+      "original": "「二番手綾崎。勝負はもらった」",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "「五人合わせても女子力５かゴミめって顔してた」",
+      "lines": [
+        171
+      ]
+    },
+    {
+      "original": "「亜鉛がゲシュタルト崩壊しそうなのですよ……」",
+      "lines": [
+        375
+      ]
+    },
+    {
+      "original": "「亜鉛とか紅蓮とか薬と比べたら天地の差があるけどなぁ……」",
+      "lines": [
+        168
+      ]
+    },
+    {
+      "original": "「亜鉛入り生姜焼き！　亜鉛入り肉じゃが！　亜鉛の煮付け！　手作り亜鉛アイス！」",
+      "lines": [
+        320
+      ]
+    },
+    {
+      "original": "「今度ちょっと作ってみるから、その時はまた味見をお願いしようかな」",
+      "lines": [
+        452
+      ]
+    },
+    {
+      "original": "「代わりにあたしを食べさせてあげればいいじゃんって♪」",
+      "lines": [
+        193
+      ]
+    },
+    {
+      "original": "「任せておけ」",
+      "lines": [
+        405
+      ]
+    },
+    {
+      "original": "「俺といたら、咲が料理するわけないでしょ」",
+      "lines": [
+        136
+      ]
+    },
+    {
+      "original": "「俺にはタマちゃんのがノリノリに見えるかなー」",
+      "lines": [
+        205
+      ]
+    },
+    {
+      "original": "「優もやけに自信満々だなぁ」",
+      "lines": [
+        488
+      ]
+    },
+    {
+      "original": "「全員趣旨を履き違えるななのですよ！　このポンコツどもー！！」",
+      "lines": [
+        461
+      ]
+    },
+    {
+      "original": "「出るとこ出ればって辺りが自覚あるんだなぁ」",
+      "lines": [
+        89
+      ]
+    },
+    {
+      "original": "「分かった、分かった！　分かりました！」",
+      "lines": [
+        301
+      ]
+    },
+    {
+      "original": "「分かってました、これも薄々とは分かってました……！」",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "「別にお兄ちゃんがいれば料理が出来なくても困ることなくない？」",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "「別にその程度、これだけ女の子がいるんだしどうにでもなるんじゃ――」",
+      "lines": [
+        146
+      ]
+    },
+    {
+      "original": "「制限時間、食材の制限は一切なし」",
+      "lines": [
+        143
+      ]
+    },
+    {
+      "original": "「各々がそれぞれ得意料理を作る」",
+      "lines": [
+        150
+      ]
+    },
+    {
+      "original": "「吾はちょっと用事を思い出した」",
+      "lines": [
+        481
+      ]
+    },
+    {
+      "original": "「困ったらすぐそれだもんね梨々姉は」",
+      "lines": [
+        454
+      ]
+    },
+    {
+      "original": "「塩でも、タレでも……素材の味を楽しんでもいいんだよ？」",
+      "lines": [
+        388
+      ]
+    },
+    {
+      "original": "「変わり身早いなー」",
+      "lines": [
+        116
+      ]
+    },
+    {
+      "original": "「好き嫌い以上に食べたら死ぬものとかあるんじゃないの？」",
+      "lines": [
+        147
+      ]
+    },
+    {
+      "original": "「妨害行為はもちろん禁止で殴り合い等の流血沙汰も禁止なのです」",
+      "lines": [
+        446
+      ]
+    },
+    {
+      "original": "「妹さん、とりあえず解説を」",
+      "lines": [
+        209
+      ]
+    },
+    {
+      "original": "「学園長の教育も恐ろしいのですよ……」",
+      "lines": [
+        118
+      ]
+    },
+    {
+      "original": "「審査員の意味ねー」",
+      "lines": [
+        156
+      ]
+    },
+    {
+      "original": "「審査員の皆様、どうぞ召し上がれ！！」",
+      "lines": [
+        398
+      ]
+    },
+    {
+      "original": "「待ち遠しい」",
+      "lines": [
+        350
+      ]
+    },
+    {
+      "original": "「待ってました！　待ってたのですよ！」",
+      "lines": [
+        145
+      ]
+    },
+    {
+      "original": "「得点が一番高いものに女子力女王の称号が与えられるという仕組みなのです」",
+      "lines": [
+        317
+      ]
+    },
+    {
+      "original": "「必要な栄養素が手早く補給できるし保存性もばっちりだし」",
+      "lines": [
+        462
+      ]
+    },
+    {
+      "original": "「悲しきかな未発達系女子」",
+      "lines": [
+        311
+      ]
+    },
+    {
+      "original": "「手料理とか男の子に食べさせるの初めてで少し緊張するけど」"
+    },
+    {
+      "original": "「既成品！　これ既成品だから！！」",
+      "lines": [
+        275
+      ]
+    },
+    {
+      "original": "「日本人がまだＳＡＭＵＲＡＩ、ＮＩＮＪＡだって思われてるのと同じレベルかな」",
+      "lines": [
+        210
+      ]
+    },
+    {
+      "original": "「旦那さんも苦労したんだろうなぁ……」",
+      "lines": [
+        279
+      ]
+    },
+    {
+      "original": "「最近はチワワが流行ってるかな」",
+      "lines": [
+        185
+      ]
+    },
+    {
+      "original": "「未来の旦那さまのために一生懸命作ったんだよ？」",
+      "lines": [
+        463
+      ]
+    },
+    {
+      "original": "「本人がウリだって思ってるならいいのかもなー」",
+      "lines": [
+        142
+      ]
+    },
+    {
+      "original": "「本大会のルールは至って簡単！」",
+      "lines": [
+        92
+      ]
+    },
+    {
+      "original": "「梨々愛ちゃん、咲ちゃん、優ちゃん、アルルちゃん、雅妃ちゃん……」",
+      "lines": [
+        213
+      ]
+    },
+    {
+      "original": "「梨々愛は置いておいて、早く私のやつを審査」",
+      "lines": [
+        140
+      ]
+    },
+    {
+      "original": "「物騒なサブタイトルだなぁ」",
+      "lines": [
+        371
+      ]
+    },
+    {
+      "original": "「犯罪メシかー」",
+      "lines": [
+        189
+      ]
+    },
+    {
+      "original": "「異議なしの０点なのです」",
+      "lines": [
+        259
+      ]
+    },
+    {
+      "original": "「異議なし０点」",
+      "lines": [
+        486
+      ]
+    },
+    {
+      "original": "「私はその、踊り食いに入るんでしょうか……！？」",
+      "lines": [
+        123
+      ]
+    },
+    {
+      "original": "「私も舐められるのは嫌い」",
+      "lines": [
+        174
+      ]
+    },
+    {
+      "original": "「精力うんぬんの前に亜鉛中毒で死ぬわ」"
+    },
+    {
+      "original": "「紅い……！　紅すぎるのですよ……！」",
+      "lines": [
+        223
+      ]
+    },
+    {
+      "original": "「紅だァーーーーーーーーーーーーーーーッ！！」",
+      "lines": [
+        153
+      ]
+    },
+    {
+      "original": "「聞くだけならしげるでも出来るわ」",
+      "lines": [
+        409
+      ]
+    },
+    {
+      "original": "「肉棒関係ないでしょ」",
+      "lines": [
+        227
+      ]
+    },
+    {
+      "original": "「若奥様風の和食を頼んで、これが出て来たら即バツイチなのですよ……！」",
+      "lines": [
+        418
+      ]
+    },
+    {
+      "original": "「茶番言うな」",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "「蓮ちゃんが両手を負傷するというとんでもなくアホな事故が起きたのです」",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "「蓮ちゃんのケガは大したこっちゃないので別にどうでもいいのですが……」",
+      "lines": [
+        250
+      ]
+    },
+    {
+      "original": "「蓮ちゃんのジゴロテクにまんまと騙されるところだったのです！」",
+      "lines": [
+        397
+      ]
+    },
+    {
+      "original": "「蓮ちゃんの妹なら期待絶大なのですね」",
+      "lines": [
+        104
+      ]
+    },
+    {
+      "original": "「蓮ちゃんはタマに料理を作ってほしいのですか？」",
+      "lines": [
+        485
+      ]
+    },
+    {
+      "original": "「蓮はあたしを試食したいって思うの？」",
+      "lines": [
+        331
+      ]
+    },
+    {
+      "original": "「藤真蓮、意義なし」",
+      "lines": [
+        256
+      ]
+    },
+    {
+      "original": "「藤真蓮、賛成に五票で満場一致」",
+      "lines": [
+        430
+      ]
+    },
+    {
+      "original": "「行くよ？　ででーん！」",
+      "lines": [
+        232
+      ]
+    },
+    {
+      "original": "「見た目は確かに[くれない]紅。でも味には自信がある」"
+    },
+    {
+      "original": "「見た目は確かにくれない。でも味には自信がある」"
+    },
+    {
+      "original": "「見た目は確かに紅。でも味には自信がある」",
+      "lines": [
+        226
+      ]
+    },
+    {
+      "original": "「見てるだけでよだれと冷や汗が止まらないのです……！」",
+      "lines": [
+        170
+      ]
+    },
+    {
+      "original": "「見事な亜鉛尽くしですね、梨々愛選手……」",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "「解呪しないとウィルスが脳に達して最悪死に至るって」",
+      "lines": [
+        484
+      ]
+    },
+    {
+      "original": "「試食するなら試食ルームに行こう」",
+      "lines": [
+        475
+      ]
+    },
+    {
+      "original": "「試食って限定されるとちょっと困るけど……」",
+      "lines": [
+        474
+      ]
+    },
+    {
+      "original": "「試食で済むかどうかは別として」",
+      "lines": [
+        340
+      ]
+    },
+    {
+      "original": "「試食会なのに何も食べてないからなぁ」",
+      "lines": [
+        243
+      ]
+    },
+    {
+      "original": "「赤神様の怒りを鎮める人身御供は一人で十分なのです」",
+      "lines": [
+        151
+      ]
+    },
+    {
+      "original": "「逃がすかアザラシ野郎」",
+      "lines": [
+        265
+      ]
+    },
+    {
+      "original": "「雅妃ちゃんと言えば魔女！」",
+      "lines": [
+        318
+      ]
+    },
+    {
+      "original": "「雅妃ちゃんはＳＦ映画のようなペースト状の食事になっても強く生きていけそうですね……」",
+      "lines": [
+        299
+      ]
+    },
+    {
+      "original": "「雅妃印のサプリメントご飯だよ」",
+      "lines": [
+        216
+      ]
+    },
+    {
+      "original": "「雪女らしく和食。あと若奥様風にしてみた」",
+      "lines": [
+        152
+      ]
+    },
+    {
+      "original": "「願いを聞いてやるからその手を放すがいい」",
+      "lines": [
+        260
+      ]
+    },
+    {
+      "original": "「食べもせずに、この屈辱……！」",
+      "lines": [
+        266
+      ]
+    },
+    {
+      "original": "「魔女と言えば煮込み料理が絶品なのですよ！」",
+      "lines": [
+        277
+      ]
+    },
+    {
+      "original": "「魔女界隈では日本製の車が流行ってるって。トヨータ」",
+      "lines": [
+        278
+      ]
+    },
+    {
+      "original": "「黒ネコを飼ってたりしないのですか？」",
+      "lines": [
+        280
+      ]
+    },
+    {
+      "original": "「鼻が尖ってるというのも嘘なのですか？」",
+      "lines": [
+        258
+      ]
+    },
+    {
+      "original": "「０点」",
+      "lines": [
+        181
+      ]
+    },
+    {
+      "original": "『サキュバスを嫁にもらったら一家安泰』。",
+      "lines": [
+        87
+      ]
+    },
+    {
+      "original": "あ、だからこの寮に入れられたんだっけ。",
+      "lines": [
+        308
+      ]
+    },
+    {
+      "original": "あと魔女汁。",
+      "lines": [
+        329
+      ]
+    },
+    {
+      "original": "いや、先輩が変わっているだけかもしれないけど……。",
+      "lines": [
+        314
+      ]
+    },
+    {
+      "original": "いやまぁ亜鉛が料理に入るならこれも料理に入るだろうけども。",
+      "lines": [
+        229
+      ]
+    },
+    {
+      "original": "いやむしろ期待してなかったと言うべきか。",
+      "lines": [
+        283
+      ]
+    },
+    {
+      "original": "いやもしかしたら年を重ねるとああなるのかもしれないけど。",
+      "lines": [
+        402
+      ]
+    },
+    {
+      "original": "いよいよお腹の空き具合もピークではある。",
+      "lines": [
+        137
+      ]
+    },
+    {
+      "original": "こうしてポンコツたちの熾烈な争いが幕を上げた。",
+      "lines": [
+        489
+      ]
+    },
+    {
+      "original": "こうして昼飯を食べ損なった上に。",
+      "lines": [
+        202
+      ]
+    },
+    {
+      "original": "ここはタマちゃんにだけ死んでもらう方向でひとつ――",
+      "lines": [
+        305
+      ]
+    },
+    {
+      "original": "ここまでくるともういっそ清々しいなぁ。",
+      "lines": [
+        272
+      ]
+    },
+    {
+      "original": "こっちの誤解も結構あるんだなぁ。",
+      "lines": [
+        353
+      ]
+    },
+    {
+      "original": "この髪飾りだけは見た気がするけど、全身まともに見るのは初めてだなぁ。",
+      "lines": [
+        380
+      ]
+    },
+    {
+      "original": "さすがは我がポンコツ寮の正規メンバーである。",
+      "lines": [
+        120
+      ]
+    },
+    {
+      "original": "さすがは我らが寮監。クイーンオブポンコツやでぇ。",
+      "lines": [
+        230
+      ]
+    },
+    {
+      "original": "しかしまさかここまで赤いとは。",
+      "lines": [
+        102
+      ]
+    },
+    {
+      "original": "しかし危険なイベントであることに変わりはない。",
+      "lines": [
+        282
+      ]
+    },
+    {
+      "original": "しかもそれは老婆だ。",
+      "lines": [
+        20,
+        28,
+        223,
+        338,
+        400
+      ]
+    },
+    {
+      "original": "しげる"
+    },
+    {
+      "original": "しげる.stand",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "しげるはケンカかどうかすら分からんけど。",
+      "lines": [
+        222
+      ]
+    },
+    {
+      "original": "じゃん！",
+      "lines": [
+        309
+      ]
+    },
+    {
+      "original": "すごい健康志向。うん。",
+      "lines": [
+        262
+      ]
+    },
+    {
+      "original": "すまん優、俺はまだ死ぬわけにはいかないんだ……！",
+      "lines": [
+        295
+      ]
+    },
+    {
+      "original": "せめてジャパニーズ土下座くらいでお茶を濁せないかなぁ。",
+      "lines": [
+        84
+      ]
+    },
+    {
+      "original": "そういえばポンコツ呼ばわりされたらみんなキレてたもんなぁ……。",
+      "lines": [
+        496
+      ]
+    },
+    {
+      "original": "そう思った一日だった。",
+      "lines": [
+        106
+      ]
+    },
+    {
+      "original": "そう言えば一番食べ物を扱わせちゃダメなタイプだった。",
+      "lines": [
+        403
+      ]
+    },
+    {
+      "original": "そして、俺の妹ということで評価も高い模様。",
+      "lines": [
+        97
+      ]
+    },
+    {
+      "original": "そして、誰が一番女子力があるのかを競う。",
+      "lines": [
+        114
+      ]
+    },
+    {
+      "original": "そしてこちらが愉快なペットたちです。",
+      "lines": [
+        221
+      ]
+    },
+    {
+      "original": "そしてテーブルの上に料理が並べられる。",
+      "lines": [
+        410
+      ]
+    },
+    {
+      "original": "その下ネタ雑過ぎるわ。",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "それぞれが入ったみっつの皿を地面に置く。",
+      "lines": [
+        182
+      ]
+    },
+    {
+      "original": "そんなことを言っていた気がするけど、絶対信用出来ねぇ……！",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "だいたいは見た目通りの脳みそしかないくせに。",
+      "lines": [
+        377
+      ]
+    },
+    {
+      "original": "ちょっと採点とかそういう次元じゃない。",
+      "lines": [
+        352
+      ]
+    },
+    {
+      "original": "てかこれがマミー族の服なのか。",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "てかクジラってのしかかる動物だったのか。",
+      "lines": [
+        160
+      ]
+    },
+    {
+      "original": "でもどちらでも関係なく食欲が出ない色彩。",
+      "lines": [
+        307
+      ]
+    },
+    {
+      "original": "でも先輩のナイスバディはこのサプリメントゴハンあってのスタイルなのかもしれない。",
+      "lines": [
+        376
+      ]
+    },
+    {
+      "original": "でも既成品じゃなぁ……。",
+      "lines": [
+        361
+      ]
+    },
+    {
+      "original": "でーん。",
+      "lines": [
+        161
+      ]
+    },
+    {
+      "original": "というか食べ物の色をしてない。",
+      "lines": [
+        263
+      ]
+    },
+    {
+      "original": "とりあえずタマちゃんと一緒に紅蓮飯はなかったことにした。",
+      "lines": [
+        335
+      ]
+    },
+    {
+      "original": "とりあえず先輩のゴハン(薬)も手を付けずに右から左へ受け流す。",
+      "lines": [
+        74
+      ]
+    },
+    {
+      "original": "とりあえず即答で否定しておく。",
+      "lines": [
+        354
+      ]
+    },
+    {
+      "original": "とりあえず服には触れない方向で。",
+      "lines": [
+        341
+      ]
+    },
+    {
+      "original": "どう考えても食べられるものじゃない。",
+      "lines": [
+        157
+      ]
+    },
+    {
+      "original": "どどーん。",
+      "lines": [
+        298
+      ]
+    },
+    {
+      "original": "どん！！",
+      "lines": [
+        99
+      ]
+    },
+    {
+      "original": "な、なんて危険なことを提案するんだこのダメ教師は……！！",
+      "lines": [
+        86
+      ]
+    },
+    {
+      "original": "なんてめんどくさい系女子たちなのか。",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "ほんとゴメは油断ならない。",
+      "lines": [
+        288
+      ]
+    },
+    {
+      "original": "まぁそれでこそ我らがタマちゃん。",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "まぁどっちでもいいや。",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "まぁ何もないならそれでいいや。",
+      "lines": [
+        394
+      ]
+    },
+    {
+      "original": "まぁ致し方がないところだ。",
+      "lines": [
+        271
+      ]
+    },
+    {
+      "original": "まさか煮込み料理を作っていたとは。",
+      "lines": [
+        162
+      ]
+    },
+    {
+      "original": "まるでモノクロ写真を見ているかのようだ。",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "みんながまさかの食い付き。",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "もしかしたらマ界ではインフルエンザでも呪いって言うのかもだけど。",
+      "lines": [
+        444
+      ]
+    },
+    {
+      "original": "やっぱり何もない。",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "アザラシかもしれんけど。",
+      "lines": [
+        52,
+        79,
+        125,
+        130,
+        349,
+        355,
+        356,
+        357,
+        358,
+        364,
+        374,
+        390,
+        391,
+        477,
+        479,
+        486
+      ]
+    },
+    {
+      "original": "アルル"
+    },
+    {
+      "original": "アルル.stand",
+      "lines": [
+        360
+      ]
+    },
+    {
+      "original": "アルルが机の上に置いた料理を見る。",
+      "lines": [
+        373
+      ]
+    },
+    {
+      "original": "アルルは一体何を思って女子力測定でこれを出したのだろうか。",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "ウィルスとか言ってる時点で呪いじゃないし。"
+    },
+    {
+      "original": "ケルベロス.stand",
+      "lines": [
+        449
+      ]
+    },
+    {
+      "original": "コホン、と妹がのどを整える。",
+      "lines": [
+        19,
+        26,
+        31,
+        33,
+        34,
+        35,
+        47,
+        150,
+        152,
+        193,
+        336,
+        398,
+        407,
+        462,
+        491
+      ]
+    },
+    {
+      "original": "ゴメ"
+    },
+    {
+      "original": "ゴメ.stand",
+      "lines": [
+        464
+      ]
+    },
+    {
+      "original": "ゴメにもそう思われてんのか。",
+      "lines": [
+        467
+      ]
+    },
+    {
+      "original": "ゴメは意外にボキャブラリーがあるんだなぁ。",
+      "lines": [
+        212
+      ]
+    },
+    {
+      "original": "サキュバスなりの愛がズッシリなのかもだけども。",
+      "lines": [
+        50,
+        51,
+        58,
+        63,
+        64,
+        66,
+        67,
+        72,
+        89,
+        90,
+        92,
+        93,
+        94,
+        95,
+        104,
+        107,
+        109,
+        111,
+        112,
+        117,
+        134,
+        135,
+        139,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        163,
+        171,
+        175,
+        189,
+        197,
+        198,
+        209,
+        217,
+        224,
+        226,
+        227,
+        239,
+        242,
+        243,
+        245,
+        248,
+        249,
+        250,
+        252,
+        253,
+        255,
+        258,
+        265,
+        266,
+        268,
+        274,
+        276,
+        278,
+        280,
+        284,
+        285,
+        300,
+        318,
+        322,
+        326,
+        330,
+        339,
+        350,
+        362,
+        363,
+        367,
+        369,
+        370,
+        381,
+        382,
+        383,
+        386,
+        387,
+        392,
+        397,
+        406,
+        408,
+        414,
+        420,
+        428,
+        438,
+        439,
+        456,
+        459,
+        460,
+        487,
+        488
+      ]
+    },
+    {
+      "original": "タマ"
+    },
+    {
+      "original": "タマ.stand",
+      "lines": [
+        141
+      ]
+    },
+    {
+      "original": "タマちゃん(チャイナバージョン)がノリノリでトークを始める。",
+      "lines": [
+        75
+      ]
+    },
+    {
+      "original": "タマちゃん、自分がディスられることに関しては敏感だからなぁ。",
+      "lines": [
+        324
+      ]
+    },
+    {
+      "original": "タマちゃんとのシンクロ率は４００％だった。",
+      "lines": [
+        441
+      ]
+    },
+    {
+      "original": "タマちゃんの目の前で手を振ってみせる。",
+      "lines": [
+        286
+      ]
+    },
+    {
+      "original": "タマちゃんは同じマ族なのにこの偏見。",
+      "lines": [
+        436
+      ]
+    },
+    {
+      "original": "テーブルの上にはもちろん何もなく。",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "ドッグフード、生魚（イワシ）、シャーペンの芯の削りカス。",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "ヒートアップしてるポチとゴメを引き剥がす。",
+      "lines": [
+        18,
+        27,
+        32,
+        45,
+        154,
+        337,
+        399,
+        493
+      ]
+    },
+    {
+      "original": "ポチ",
+      "lines": [
+        231
+      ]
+    },
+    {
+      "original": "マグマよりも赤いものがキッチンで作れるとは思わなんだ。",
+      "lines": [
+        293
+      ]
+    },
+    {
+      "original": "マ族の業は深い。",
+      "lines": [
+        220
+      ]
+    },
+    {
+      "original": "メニューを先に聞かされると安心感が違う。"
+    },
+    {
+      "original": "ラベル0"
+    },
+    {
+      "original": "リリア.stand",
+      "lines": [
+        287
+      ]
+    },
+    {
+      "original": "一応は先生なのに知らなさすぎでは。"
+    },
+    {
+      "original": "中"
+    },
+    {
+      "original": "中距離",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "二匹を引き剥がそうとしたその時。",
+      "lines": [
+        494
+      ]
+    },
+    {
+      "original": "今日のごはんは白クジラとケルベロスの希望で宅配ピザになった。",
+      "lines": [
+        88
+      ]
+    },
+    {
+      "original": "今更そんなことを思い出した。",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "休日。"
+    },
+    {
+      "original": "体",
+      "lines": [
+        348
+      ]
+    },
+    {
+      "original": "何かこう、ご飯とか作ってくれそうなオーラがある。癒し系。",
+      "lines": [
+        184
+      ]
+    },
+    {
+      "original": "何てＤＥＡＤ ＯＲ ＤＥＡＤな家庭なんだ……！",
+      "lines": [
+        132
+      ]
+    },
+    {
+      "original": "俺が思ってたよりもみんな女のプライドがあるっぽい。",
+      "lines": [
+        294
+      ]
+    },
+    {
+      "original": "俺も外国行った時のためにハラキリの練習とかしないといけないんだろうか。",
+      "lines": [
+        495
+      ]
+    },
+    {
+      "original": "俺も手のケガには気をつけよう。",
+      "lines": [
+        133
+      ]
+    },
+    {
+      "original": "俺的にはどんぐりか松ぼっくりかくらいの差しかなさそうな気がしてるけども。"
+    },
+    {
+      "original": "側面"
+    },
+    {
+      "original": "側面手上"
+    },
+    {
+      "original": "側面手下"
+    },
+    {
+      "original": "側面手中"
+    },
+    {
+      "original": "側面１"
+    },
+    {
+      "original": "側面２",
+      "lines": [
+        53,
+        78,
+        123,
+        128,
+        203,
+        206,
+        213,
+        215,
+        216,
+        232,
+        233,
+        234,
+        235,
+        236,
+        257,
+        260,
+        473,
+        474,
+        484
+      ]
+    },
+    {
+      "original": "優"
+    },
+    {
+      "original": "優.stand",
+      "lines": [
+        261
+      ]
+    },
+    {
+      "original": "優の恨み言を聞こえないフリでやり過ごす。",
+      "lines": [
+        401
+      ]
+    },
+    {
+      "original": "先ほどまで静かだったペットたちもスタンディングオベーション。",
+      "lines": [
+        304
+      ]
+    },
+    {
+      "original": "先輩が豪快に笑い声を上げる。",
+      "lines": [
+        490
+      ]
+    },
+    {
+      "original": "全員の女子力のなさとポンコツさを露呈するだけのイベントだった。"
+    },
+    {
+      "original": "出上速"
+    },
+    {
+      "original": "出下"
+    },
+    {
+      "original": "出右"
+    },
+    {
+      "original": "出左"
+    },
+    {
+      "original": "制服"
+    },
+    {
+      "original": "口１:目３"
+    },
+    {
+      "original": "口１:目Ａ１"
+    },
+    {
+      "original": "口１:目Ａ３"
+    },
+    {
+      "original": "口１:目Ａ４"
+    },
+    {
+      "original": "口１:目Ａ５"
+    },
+    {
+      "original": "口２:目Ａ２"
+    },
+    {
+      "original": "口３:目Ａ１"
+    },
+    {
+      "original": "口３:目Ａ３"
+    },
+    {
+      "original": "口４:目Ａ４",
+      "lines": [
+        219
+      ]
+    },
+    {
+      "original": "和食なら亜鉛みたいにアンタッチャブルにはそうそうならないだろうし。",
+      "lines": [
+        443
+      ]
+    },
+    {
+      "original": "咲がもう一度手を広げてみせる。",
+      "lines": [
+        437
+      ]
+    },
+    {
+      "original": "咲の手にももちろん何も持たれていない。",
+      "lines": [
+        346
+      ]
+    },
+    {
+      "original": "咲はともかくアルルはきっとなんとか。",
+      "lines": [
+        54,
+        80,
+        121,
+        126,
+        417,
+        421,
+        422,
+        423,
+        425,
+        429,
+        430,
+        433,
+        442,
+        448,
+        450,
+        452,
+        453,
+        454,
+        455,
+        457,
+        458,
+        468,
+        470,
+        481,
+        482
+      ]
+    },
+    {
+      "original": "咲莉"
+    },
+    {
+      "original": "咲莉.stand",
+      "lines": [
+        378
+      ]
+    },
+    {
+      "original": "嗚呼、やっぱりアルルもダメだったのか……。",
+      "lines": [
+        427
+      ]
+    },
+    {
+      "original": "多少はまともな妹で良かった。多少は。",
+      "lines": [
+        96
+      ]
+    },
+    {
+      "original": "女の子五人が料理を作る。",
+      "lines": [
+        85
+      ]
+    },
+    {
+      "original": "女子力が低いっていうのも似たようなもんなのかもしれない。",
+      "lines": [
+        0,
+        499
+      ]
+    },
+    {
+      "original": "女子力ポンコツ待ったなし",
+      "lines": [
+        426
+      ]
+    },
+    {
+      "original": "妹もうんうんと同意してくれる。",
+      "lines": [
+        323
+      ]
+    },
+    {
+      "original": "審査員アイコンタクト。",
+      "lines": [
+        183
+      ]
+    },
+    {
+      "original": "干物になるか中毒死かの未来しか見えない……！",
+      "lines": [
+        389
+      ]
+    },
+    {
+      "original": "当然の結果だけども。",
+      "lines": [
+        344
+      ]
+    },
+    {
+      "original": "心の中で十字を切っておく。",
+      "lines": [
+        211
+      ]
+    },
+    {
+      "original": "怜香さん、もっとまともな料理を教えてあげてください。"
+    },
+    {
+      "original": "手下",
+      "lines": [
+        372
+      ]
+    },
+    {
+      "original": "採点以前の問題である。"
+    },
+    {
+      "original": "斜右上",
+      "lines": [
+        379
+      ]
+    },
+    {
+      "original": "最後の良心も信じられないとは。",
+      "lines": [
+        347
+      ]
+    },
+    {
+      "original": "服が着れないだけで、性能的には高スペックなはずだし。",
+      "lines": [
+        465
+      ]
+    },
+    {
+      "original": "未発達系女子ってちょっと新しいジャンル。"
+    },
+    {
+      "original": "本体",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "本当に手のかかるペットたちだなぁ。",
+      "lines": [
+        55,
+        77,
+        122,
+        127,
+        155,
+        156,
+        166,
+        167,
+        168,
+        169,
+        172,
+        173,
+        176,
+        177,
+        178,
+        179,
+        185,
+        186,
+        187,
+        190,
+        191,
+        194,
+        207,
+        208,
+        471,
+        480,
+        483
+      ]
+    },
+    {
+      "original": "梨々愛",
+      "lines": [
+        159
+      ]
+    },
+    {
+      "original": "正確に言えば灰色い。"
+    },
+    {
+      "original": "正面"
+    },
+    {
+      "original": "正面手上"
+    },
+    {
+      "original": "正面手下"
+    },
+    {
+      "original": "正面手中"
+    },
+    {
+      "original": "正面１"
+    },
+    {
+      "original": "正面２",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "油断すると鉛筆の削りカスでもゴメが横取りしちゃうからなぁ。"
+    },
+    {
+      "original": "消",
+      "lines": [
+        138
+      ]
+    },
+    {
+      "original": "熾烈な争いという名の、女子力最下位決定戦が……！！",
+      "lines": [
+        419
+      ]
+    },
+    {
+      "original": "現実に引き戻される。",
+      "lines": [
+        201
+      ]
+    },
+    {
+      "original": "生きて帰るためには、隙を見てなんとか逃げ出すしかない。"
+    },
+    {
+      "original": "目１:口無"
+    },
+    {
+      "original": "目Ａ１:口無"
+    },
+    {
+      "original": "目Ａ２:口無"
+    },
+    {
+      "original": "目Ａ３:口無",
+      "lines": [
+        466
+      ]
+    },
+    {
+      "original": "直訳すればロリババだけど。",
+      "lines": [
+        119
+      ]
+    },
+    {
+      "original": "相変わらず思いつき１０００％。"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ怒:口ギャグ怒:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ怒:口ギャグ驚:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ笑:目ギャグ笑:口ギャグ笑:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目ギャグ驚:口泣１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目悲２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目閉:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目閉:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目閉:口驚１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒１:汗無::頬３"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ悲１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ悲２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口照２:汗無::頬３"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口驚１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口Ａ笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑２:口驚１:汗無::頬３"
+    },
+    {
+      "original": "眉怒２:目Ａ怒２:口怒２:汗有::頬１"
+    },
+    {
+      "original": "眉怒２:目Ａ怒２:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉怒２:目Ａ悲２:口悲２:汗有::頬１"
+    },
+    {
+      "original": "眉怒２:目Ａ悲２:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉怒２:目Ａ照２:口照２:汗無::頬３"
+    },
+    {
+      "original": "眉怒２:目Ａ驚１:口驚１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目ギャグ驚:口驚１:汗有::頬１"
+    },
+    {
+      "original": "眉悲１:目悲２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目悲２:口泣１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目閉:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ照２:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ照２:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑２:口笑２:汗無::頬３"
+    },
+    {
+      "original": "眉悲１:目Ａ驚１:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目悲２:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目Ａ悲１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目Ａ悲２:口悲２:汗有::頬１"
+    },
+    {
+      "original": "眉悲２:目Ａ悲２:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目Ａ照２:口笑１:汗無::頬３"
+    },
+    {
+      "original": "眉悲２:目Ａ笑２:口笑２:汗無::頬３"
+    },
+    {
+      "original": "眉泣１:目Ａ泣１:口泣１:汗無::頬１"
+    },
+    {
+      "original": "眉照１:目Ａ照１:口照１:汗照１::頬１"
+    },
+    {
+      "original": "眉照１:目Ａ照１:口照１:汗照１::頬３"
+    },
+    {
+      "original": "眉照２:目Ａ照２:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉照２:目Ａ照２:口照２:汗無::頬３"
+    },
+    {
+      "original": "眉笑１:目悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目悲２:口笑１:汗無::頬３"
+    },
+    {
+      "original": "眉笑１:目悲２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目閉:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ照２:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬３"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑１:汗無::頬３"
+    },
+    {
+      "original": "眉笑２:目閉:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬３"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬４"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗有::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬３",
+      "lines": [
+        270
+      ]
+    },
+    {
+      "original": "確かに魔女と言えば、宅急便か鍋をねるねるしてるアレだ。"
+    },
+    {
+      "original": "私服"
+    },
+    {
+      "original": "種族"
+    },
+    {
+      "original": "種族有"
+    },
+    {
+      "original": "種族裸",
+      "lines": [
+        445
+      ]
+    },
+    {
+      "original": "空気とかそういう類のものなのかもしれないけど……。",
+      "lines": [
+        237
+      ]
+    },
+    {
+      "original": "箸を渡され、食を進められる。",
+      "lines": [
+        447
+      ]
+    },
+    {
+      "original": "素直に解説を求める。",
+      "lines": [
+        315
+      ]
+    },
+    {
+      "original": "義理チョコを手作りと言うのと変わらない気がする。",
+      "lines": [
+        71
+      ]
+    },
+    {
+      "original": "自分の甘さを痛感する。",
+      "lines": [
+        100
+      ]
+    },
+    {
+      "original": "自殺願望でもあるんじゃないのか、この人……！？",
+      "lines": [
+        15,
+        21,
+        29,
+        30,
+        36,
+        42,
+        43,
+        46,
+        48,
+        49,
+        56,
+        59,
+        68,
+        69,
+        70,
+        73,
+        82,
+        91,
+        103,
+        105,
+        108,
+        110,
+        113,
+        115,
+        116,
+        118,
+        136,
+        140,
+        148,
+        151,
+        153,
+        164,
+        165,
+        170,
+        174,
+        180,
+        188,
+        192,
+        195,
+        196,
+        199,
+        205,
+        210,
+        214,
+        218,
+        225,
+        228,
+        238,
+        240,
+        241,
+        244,
+        246,
+        247,
+        251,
+        256,
+        259,
+        267,
+        269,
+        281,
+        292,
+        301,
+        312,
+        321,
+        327,
+        331,
+        334,
+        340,
+        345,
+        351,
+        359,
+        365,
+        366,
+        368,
+        371,
+        375,
+        384,
+        385,
+        388,
+        393,
+        395,
+        396,
+        405,
+        409,
+        411,
+        412,
+        413,
+        415,
+        416,
+        418,
+        424,
+        431,
+        432,
+        434,
+        440,
+        446,
+        451,
+        461,
+        463,
+        469,
+        472,
+        478,
+        492
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "言葉通じるっても言うこと聞かなきゃまったく意味がねぇ。",
+      "lines": [
+        200
+      ]
+    },
+    {
+      "original": "誰だこんな余計なイベント考えたやつは。",
+      "lines": [
+        149
+      ]
+    },
+    {
+      "original": "誰も聞いてないタマちゃんの解説にツッコむ。",
+      "lines": [
+        342
+      ]
+    },
+    {
+      "original": "農家の皆様、漁師の皆様、化学者の皆様ごめんなさい。"
+    },
+    {
+      "original": "近距離",
+      "lines": [
+        204
+      ]
+    },
+    {
+      "original": "逃げる隙もなく優が審査員席前に現れる。",
+      "lines": [
+        306
+      ]
+    },
+    {
+      "original": "開き直りとかよりも上のレベル。",
+      "lines": [
+        57,
+        65,
+        81,
+        124,
+        129,
+        254,
+        264,
+        273,
+        275,
+        277,
+        279,
+        289,
+        290,
+        291,
+        296,
+        297,
+        299,
+        302,
+        303,
+        310,
+        311,
+        316,
+        317,
+        319,
+        320,
+        325,
+        332,
+        333,
+        475,
+        476,
+        485
+      ]
+    },
+    {
+      "original": "雅妃"
+    },
+    {
+      "original": "雅妃.stand"
+    },
+    {
+      "original": "集中線"
+    },
+    {
+      "original": "零距離",
+      "lines": [
+        343
+      ]
+    },
+    {
+      "original": "食べ物で遊んでるわけじゃなくて、本人たちは大真面目なんです。きっと。"
+    },
+    {
+      "original": "首輪有",
+      "lines": [
+        328
+      ]
+    },
+    {
+      "original": "魔女ってこういう効率厨みたいな人たちなのかな……？",
+      "lines": [
+        158
+      ]
+    },
+    {
+      "original": "黒い。"
+    }
+  ],
+  "name": 15,
+  "lines": [
+    {
+      "type": 3,
+      "title": 883
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 1011,
+      "type": 2
+    },
+    {
+      "name": 827,
+      "type": 2
+    },
+    {
+      "name": 812,
+      "type": 2
+    },
+    {
+      "name": 759,
+      "type": 2
+    },
+    {
+      "name": 817,
+      "type": 2
+    },
+    {
+      "name": 805,
+      "type": 2
+    },
+    {
+      "name": 853,
+      "type": 2
+    },
+    {
+      "name": 877,
+      "type": 2
+    },
+    {
+      "name": 898,
+      "type": 2
+    },
+    {
+      "name": 1019,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 13,
+      "type": 6
+    },
+    {
+      "text": 839,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 602,
+      "type": 1
+    },
+    {
+      "text": 825,
+      "type": 0
+    },
+    {
+      "text": 774,
+      "type": 0
+    },
+    {
+      "name": 827,
+      "text": 645,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 616,
+      "type": 1
+    },
+    {
+      "name": 759,
+      "text": 639,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 473,
+      "type": 1
+    },
+    {
+      "text": 826,
+      "type": 0
+    },
+    {
+      "text": 761,
+      "type": 0
+    },
+    {
+      "text": 906,
+      "type": 0
+    },
+    {
+      "text": 794,
+      "type": 0
+    },
+    {
+      "name": 812,
+      "text": 582,
+      "type": 1
+    },
+    {
+      "name": 827,
+      "text": 479,
+      "type": 1
+    },
+    {
+      "name": 759,
+      "text": 631,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 422,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 561,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 466,
+      "type": 1
+    },
+    {
+      "name": 827,
+      "text": 614,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 481,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 635,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 483,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 618,
+      "type": 1
+    },
+    {
+      "text": 897,
+      "type": 0
+    },
+    {
+      "text": 1012,
+      "type": 0
+    },
+    {
+      "text": 779,
+      "type": 0
+    },
+    {
+      "text": 804,
+      "type": 0
+    },
+    {
+      "text": 796,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 571,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 467,
+      "type": 1
+    },
+    {
+      "text": 836,
+      "type": 0
+    },
+    {
+      "name": 827,
+      "text": 614,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 458,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 614,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 458,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 433,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 459,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 708,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 617,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 527,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 471,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 615,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 455,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 722,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 416,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 525,
+      "type": 1
+    },
+    {
+      "text": 809,
+      "type": 0
+    },
+    {
+      "text": 802,
+      "type": 0
+    },
+    {
+      "text": 797,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 709,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 548,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 555,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 495,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 514,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 440,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 667,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 403,
+      "type": 1
+    },
+    {
+      "text": 1009,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 435,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 526,
+      "type": 1
+    },
+    {
+      "text": 787,
+      "type": 0
+    },
+    {
+      "text": 820,
+      "type": 0
+    },
+    {
+      "text": 776,
+      "type": 0
+    },
+    {
+      "name": 898,
+      "text": 538,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 652,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 577,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 666,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 532,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 443,
+      "type": 1
+    },
+    {
+      "text": 801,
+      "type": 0
+    },
+    {
+      "text": 766,
+      "type": 0
+    },
+    {
+      "text": 882,
+      "type": 0
+    },
+    {
+      "text": 793,
+      "type": 0
+    },
+    {
+      "text": 741,
+      "type": 0
+    },
+    {
+      "text": 838,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 664,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 536,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 573,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 693,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 484,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 474,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 497,
+      "type": 1
+    },
+    {
+      "text": 881,
+      "type": 0
+    },
+    {
+      "text": 770,
+      "type": 0
+    },
+    {
+      "text": 396,
+      "type": 0
+    },
+    {
+      "text": 792,
+      "type": 0
+    },
+    {
+      "text": 1010,
+      "type": 0
+    },
+    {
+      "text": 397,
+      "type": 0
+    },
+    {
+      "text": 757,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 550,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 712,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 567,
+      "type": 1
+    },
+    {
+      "text": 768,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 478,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 512,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 434,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 431,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 430,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 627,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 566,
+      "type": 1
+    },
+    {
+      "text": 771,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 541,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 674,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 588,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 678,
+      "type": 1
+    },
+    {
+      "text": 916,
+      "type": 0
+    },
+    {
+      "text": 755,
+      "type": 0
+    },
+    {
+      "name": 877,
+      "text": 583,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 528,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 700,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 592,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 432,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 533,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 607,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 579,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 486,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 606,
+      "type": 1
+    },
+    {
+      "text": 398,
+      "type": 0
+    },
+    {
+      "text": 843,
+      "type": 0
+    },
+    {
+      "text": 846,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 438,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 558,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 660,
+      "type": 1
+    },
+    {
+      "text": 748,
+      "type": 0
+    },
+    {
+      "text": 908,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 498,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 695,
+      "type": 1
+    },
+    {
+      "text": 819,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 692,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 669,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 524,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 682,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 668,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 675,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 436,
+      "type": 1
+    },
+    {
+      "text": 1014,
+      "type": 0
+    },
+    {
+      "name": 812,
+      "text": 670,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 728,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 733,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 704,
+      "type": 1
+    },
+    {
+      "name": 827,
+      "text": 643,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 575,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 679,
+      "type": 1
+    },
+    {
+      "text": 790,
+      "type": 0
+    },
+    {
+      "text": 1026,
+      "type": 0
+    },
+    {
+      "text": 899,
+      "type": 0
+    },
+    {
+      "text": 780,
+      "type": 0
+    },
+    {
+      "text": 784,
+      "type": 0
+    },
+    {
+      "text": 800,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 452,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 406,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 485,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 621,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 494,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 655,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 513,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 721,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 653,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 489,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 515,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 701,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 620,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 529,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 595,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 449,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 581,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 534,
+      "type": 1
+    },
+    {
+      "text": 740,
+      "type": 0
+    },
+    {
+      "text": 775,
+      "type": 0
+    },
+    {
+      "text": 886,
+      "type": 0
+    },
+    {
+      "text": 842,
+      "type": 0
+    },
+    {
+      "name": 898,
+      "text": 690,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 496,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 423,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 553,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 697,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 457,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 562,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 619,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 658,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 439,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 503,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 557,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 502,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 491,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 510,
+      "type": 1
+    },
+    {
+      "text": 1013,
+      "type": 0
+    },
+    {
+      "text": 910,
+      "type": 0
+    },
+    {
+      "text": 750,
+      "type": 0
+    },
+    {
+      "name": 853,
+      "text": 651,
+      "type": 1
+    },
+    {
+      "text": 1017,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 661,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 426,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 446,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 507,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 677,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 688,
+      "type": 1
+    },
+    {
+      "text": 889,
+      "type": 0
+    },
+    {
+      "text": 816,
+      "type": 0
+    },
+    {
+      "name": 853,
+      "text": 694,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 506,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 640,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 732,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 580,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 482,
+      "type": 1
+    },
+    {
+      "text": 873,
+      "type": 0
+    },
+    {
+      "text": 830,
+      "type": 0
+    },
+    {
+      "text": 772,
+      "type": 0
+    },
+    {
+      "text": 762,
+      "type": 0
+    },
+    {
+      "name": 759,
+      "text": 703,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 402,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 598,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 720,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 706,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 586,
+      "type": 1
+    },
+    {
+      "text": 745,
+      "type": 0
+    },
+    {
+      "text": 756,
+      "type": 0
+    },
+    {
+      "text": 828,
+      "type": 0
+    },
+    {
+      "name": 853,
+      "text": 717,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 492,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 609,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 488,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 500,
+      "type": 1
+    },
+    {
+      "text": 1006,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 501,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 463,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 444,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 625,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 537,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 727,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 441,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 642,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 626,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 600,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 429,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 542,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 710,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 8,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 447,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 650,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 565,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 511,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 715,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 518,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 739,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 698,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 734,
+      "type": 1
+    },
+    {
+      "text": 855,
+      "type": 0
+    },
+    {
+      "text": 764,
+      "type": 0
+    },
+    {
+      "text": 785,
+      "type": 0
+    },
+    {
+      "name": 1019,
+      "text": 517,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 729,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 735,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 464,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 636,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 454,
+      "type": 1
+    },
+    {
+      "text": 1000,
+      "type": 0
+    },
+    {
+      "text": 799,
+      "type": 0
+    },
+    {
+      "text": 752,
+      "type": 0
+    },
+    {
+      "name": 1019,
+      "text": 445,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 425,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 687,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 505,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 736,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 737,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 689,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 738,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 523,
+      "type": 1
+    },
+    {
+      "text": 758,
+      "type": 0
+    },
+    {
+      "text": 746,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 530,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 630,
+      "type": 1
+    },
+    {
+      "text": 823,
+      "type": 0
+    },
+    {
+      "text": 833,
+      "type": 0
+    },
+    {
+      "text": 795,
+      "type": 0
+    },
+    {
+      "name": 1019,
+      "text": 589,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 601,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 475,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 408,
+      "type": 1
+    },
+    {
+      "text": 829,
+      "type": 0
+    },
+    {
+      "text": 844,
+      "type": 0
+    },
+    {
+      "text": 765,
+      "type": 0
+    },
+    {
+      "name": 1019,
+      "text": 585,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 568,
+      "type": 1
+    },
+    {
+      "text": 791,
+      "type": 0
+    },
+    {
+      "name": 1019,
+      "text": 731,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 613,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 665,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 427,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 522,
+      "type": 1
+    },
+    {
+      "text": 857,
+      "type": 0
+    },
+    {
+      "text": 751,
+      "type": 0
+    },
+    {
+      "text": 1018,
+      "type": 0
+    },
+    {
+      "text": 781,
+      "type": 0
+    },
+    {
+      "text": 742,
+      "type": 0
+    },
+    {
+      "text": 763,
+      "type": 0
+    },
+    {
+      "name": 1019,
+      "text": 499,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 685,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 456,
+      "type": 1
+    },
+    {
+      "text": 395,
+      "type": 0
+    },
+    {
+      "text": 744,
+      "type": 0
+    },
+    {
+      "text": 1008,
+      "type": 0
+    },
+    {
+      "name": 1019,
+      "text": 490,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 683,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 730,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 428,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 656,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 400,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 401,
+      "type": 1
+    },
+    {
+      "text": 885,
+      "type": 0
+    },
+    {
+      "text": 821,
+      "type": 0
+    },
+    {
+      "name": 1019,
+      "text": 413,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 591,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 641,
+      "type": 1
+    },
+    {
+      "text": 1025,
+      "type": 0
+    },
+    {
+      "text": 743,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 608,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 714,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 460,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 453,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 509,
+      "type": 1
+    },
+    {
+      "text": 786,
+      "type": 0
+    },
+    {
+      "name": 812,
+      "text": 632,
+      "type": 1
+    },
+    {
+      "name": 827,
+      "text": 480,
+      "type": 1
+    },
+    {
+      "name": 759,
+      "text": 633,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 560,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 726,
+      "type": 1
+    },
+    {
+      "text": 789,
+      "type": 0
+    },
+    {
+      "text": 1015,
+      "type": 0
+    },
+    {
+      "text": 1023,
+      "type": 0
+    },
+    {
+      "text": 888,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 552,
+      "type": 1
+    },
+    {
+      "text": 876,
+      "type": 0
+    },
+    {
+      "text": 894,
+      "type": 0
+    },
+    {
+      "text": 841,
+      "type": 0
+    },
+    {
+      "name": 805,
+      "text": 424,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 681,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 610,
+      "type": 1
+    },
+    {
+      "text": 778,
+      "type": 0
+    },
+    {
+      "text": 753,
+      "type": 0
+    },
+    {
+      "text": 788,
+      "type": 0
+    },
+    {
+      "name": 805,
+      "text": 647,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 414,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 549,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 556,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 465,
+      "type": 1
+    },
+    {
+      "text": 807,
+      "type": 0
+    },
+    {
+      "text": 783,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 461,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 648,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 634,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 409,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 487,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 451,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 442,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 559,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 521,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 696,
+      "type": 1
+    },
+    {
+      "text": 891,
+      "type": 0
+    },
+    {
+      "text": 808,
+      "type": 0
+    },
+    {
+      "name": 805,
+      "text": 417,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 654,
+      "type": 1
+    },
+    {
+      "text": 782,
+      "type": 0
+    },
+    {
+      "text": 777,
+      "type": 0
+    },
+    {
+      "text": 879,
+      "type": 0
+    },
+    {
+      "text": 893,
+      "type": 0
+    },
+    {
+      "text": 754,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 493,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 477,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 611,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 10,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 9,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 543,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 551,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 673,
+      "type": 1
+    },
+    {
+      "text": 887,
+      "type": 0
+    },
+    {
+      "name": 805,
+      "text": 411,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 472,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 593,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 535,
+      "type": 1
+    },
+    {
+      "text": 798,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 584,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 410,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 711,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 680,
+      "type": 1
+    },
+    {
+      "name": 827,
+      "text": 646,
+      "type": 1
+    },
+    {
+      "name": 759,
+      "text": 576,
+      "type": 1
+    },
+    {
+      "text": 856,
+      "type": 0
+    },
+    {
+      "text": 747,
+      "type": 0
+    },
+    {
+      "text": 769,
+      "type": 0
+    },
+    {
+      "text": 394,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 659,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 508,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 563,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 544,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 705,
+      "type": 1
+    },
+    {
+      "text": 773,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 516,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 407,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 547,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 412,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 418,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 590,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 470,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 707,
+      "type": 1
+    },
+    {
+      "text": 909,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 545,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 504,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 420,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 520,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 638,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 587,
+      "type": 1
+    },
+    {
+      "text": 884,
+      "type": 0
+    },
+    {
+      "text": 880,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 594,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 603,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 716,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 404,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 405,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 570,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 437,
+      "type": 1
+    },
+    {
+      "text": 399,
+      "type": 0
+    },
+    {
+      "text": 824,
+      "type": 0
+    },
+    {
+      "text": 875,
+      "type": 0
+    },
+    {
+      "name": 817,
+      "text": 574,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 628,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 623,
+      "type": 1
+    },
+    {
+      "text": 822,
+      "type": 0
+    },
+    {
+      "name": 877,
+      "text": 539,
+      "type": 1
+    },
+    {
+      "text": 874,
+      "type": 0
+    },
+    {
+      "text": 803,
+      "type": 0
+    },
+    {
+      "text": 1005,
+      "type": 0
+    },
+    {
+      "name": 1011,
+      "text": 676,
+      "type": 1
+    },
+    {
+      "text": 1007,
+      "type": 0
+    },
+    {
+      "name": 877,
+      "text": 599,
+      "type": 1
+    },
+    {
+      "text": 811,
+      "type": 0
+    },
+    {
+      "name": 877,
+      "text": 421,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 450,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 657,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 469,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 672,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 596,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 569,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 462,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 624,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 540,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 629,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 663,
+      "type": 1
+    },
+    {
+      "name": 812,
+      "text": 684,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 691,
+      "type": 1
+    },
+    {
+      "text": 814,
+      "type": 0
+    },
+    {
+      "text": 895,
+      "type": 0
+    },
+    {
+      "text": 915,
+      "type": 0
+    },
+    {
+      "text": 815,
+      "type": 0
+    },
+    {
+      "name": 877,
+      "text": 564,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 554,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 531,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 604,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 572,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 519,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 725,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 724,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 546,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 605,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 612,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 415,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 622,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 671,
+      "type": 1
+    },
+    {
+      "name": 877,
+      "text": 597,
+      "type": 1
+    },
+    {
+      "name": 898,
+      "text": 578,
+      "type": 1
+    },
+    {
+      "name": 853,
+      "text": 723,
+      "type": 1
+    },
+    {
+      "name": 1019,
+      "text": 713,
+      "type": 1
+    },
+    {
+      "name": 805,
+      "text": 699,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 476,
+      "type": 1
+    },
+    {
+      "name": 817,
+      "text": 662,
+      "type": 1
+    },
+    {
+      "text": 749,
+      "type": 0
+    },
+    {
+      "text": 858,
+      "type": 0
+    },
+    {
+      "name": 812,
+      "text": 637,
+      "type": 1
+    },
+    {
+      "name": 1011,
+      "text": 468,
+      "type": 1
+    },
+    {
+      "name": 827,
+      "text": 644,
+      "type": 1
+    },
+    {
+      "text": 837,
+      "type": 0
+    },
+    {
+      "text": 845,
+      "type": 0
+    },
+    {
+      "text": 767,
+      "type": 0
+    },
+    {
+      "storage": 15,
+      "label": 11,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 883
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 11,
+      "type": 6
+    },
+    {
+      "storage": 16,
+      "label": 13,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "11": 501,
+    "13": 13
+  }
+}

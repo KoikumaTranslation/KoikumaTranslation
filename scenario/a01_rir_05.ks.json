@@ -1,1 +1,6681 @@
-{"names":[801,929,834,820],"strings":[{"original":"$eye"},{"original":"$lip"},{"original":"$lip優"},{"original":"$lip怜香"},{"original":"$lip梨々愛"},{"original":"$lip梨々愛影"},{"original":"*dress"},{"original":"*dummy1"},{"original":"*dummyselect1"},{"original":"*end"},{"original":"*endscene_h"},{"original":"*face"},{"original":"*gameend_scnsel"},{"original":"*mouth"},{"original":"*start"},{"original":"*startscene_h"},{"original":"*合流"},{"original":"1"},{"original":"1000"},{"original":"1500"},{"original":"1800"},{"original":"2000"},{"original":"250"},{"original":"300"},{"original":"3000"},{"original":"350"},{"original":"50"},{"original":"500"},{"original":"750"},{"original":"900"},{"original":"@"},{"original":"@+10"},{"original":"@+100"},{"original":"@-10"},{"original":"@-100"},{"original":"@seladd text=\"制服にぶっかける\" target=*dress"},{"original":"@seladd text=\"口の中で飲ませる\" target=*mouth"},{"original":"@seladd text=\"顔にぶっかける\"   target=*face"},{"original":"@発射カウント_1"},{"original":"@発射カウント_10"},{"original":"@発射カウント_2"},{"original":"@発射カウント_3"},{"original":"@発射カウント_4"},{"original":"@発射カウント_5"},{"original":"@発射カウント_6"},{"original":"@発射カウント_7"},{"original":"@発射カウント_8"},{"original":"@発射カウント_9"},{"original":"MoveAction"},{"original":"RandomAction"},{"original":"RandomFlipAction"},{"original":"SinAction"},{"original":"a01_rir_05.ks"},{"original":"a01_rir_06.ks"},{"original":"acdec"},{"original":"all"},{"original":"angry_mark"},{"original":"bg"},{"original":"bg10a"},{"original":"bg11a"},{"original":"bg12a"},{"original":"bgm"},{"original":"bgm02"},{"original":"bgm03"},{"original":"bgm05"},{"original":"bgm06"},{"original":"bgm08"},{"original":"bgm11"},{"original":"bgm_BGM02"},{"original":"bgm_BGM03"},{"original":"bgm_BGM05"},{"original":"bgm_BGM06"},{"original":"bgm_BGM08"},{"original":"bgm_BGM11"},{"original":"bgv_rir_01"},{"original":"bgv_rir_02"},{"original":"bgv_rir_03"},{"original":"both"},{"original":"cdown"},{"original":"cdowncls"},{"original":"cg_@発射カウント_1"},{"original":"cg_@発射カウント_10"},{"original":"cg_@発射カウント_2"},{"original":"cg_@発射カウント_3"},{"original":"cg_@発射カウント_4"},{"original":"cg_@発射カウント_5"},{"original":"cg_@発射カウント_6"},{"original":"cg_@発射カウント_7"},{"original":"cg_@発射カウント_8"},{"original":"cg_@発射カウント_9"},{"original":"cg_angry_mark"},{"original":"cg_ev_rir08a"},{"original":"cg_ev_rir08b"},{"original":"cg_ev_rir08c"},{"original":"cg_ev_rir08d"},{"original":"cg_ev_rir08e"},{"original":"cg_ev_rir08f"},{"original":"cg_ev_rir08g"},{"original":"cg_ev_rir08h"},{"original":"cg_ev_rir08i"},{"original":"cg_ev_rir08j"},{"original":"cg_ev_rir08k"},{"original":"cg_ev_rir08l"},{"original":"cg_ev_rir08m"},{"original":"cg_ev_rir08n"},{"original":"cg_ev_rir08o"},{"original":"cg_ev_rir08p"},{"original":"cg_ic_10"},{"original":"cg_ic_11"},{"original":"cg_question_mark"},{"original":"cg_wh"},{"original":"cg_リリア.stand"},{"original":"cg_優.stand"},{"original":"cg_怜香.stand"},{"original":"cg_集中線"},{"original":"character"},{"original":"crossfade"},{"original":"d373f56df0843144bd323c657de8e50b"},{"original":"del"},{"original":"doBoxBlur"},{"original":"emo_梨々愛"},{"original":"emotion"},{"original":"endrecollection"},{"original":"env"},{"original":"envupdate"},{"original":"ev"},{"original":"ev_rir08a"},{"original":"ev_rir08b"},{"original":"ev_rir08c"},{"original":"ev_rir08d"},{"original":"ev_rir08e"},{"original":"ev_rir08f"},{"original":"ev_rir08g"},{"original":"ev_rir08h"},{"original":"ev_rir08i"},{"original":"ev_rir08j"},{"original":"ev_rir08k"},{"original":"ev_rir08l"},{"original":"ev_rir08m"},{"original":"ev_rir08n"},{"original":"ev_rir08o"},{"original":"ev_rir08p"},{"original":"eval"},{"original":"evcut"},{"original":"event"},{"original":"exit"},{"original":"eye"},{"original":"eyecatch"},{"original":"eyeflipdisable"},{"original":"f.sceneview"},{"original":"flash"},{"original":"hloopse"},{"original":"hlse"},{"original":"hse"},{"original":"ic_10"},{"original":"ic_11"},{"original":"init"},{"original":"layer"},{"original":"left"},{"original":"light"},{"original":"line"},{"original":"loop"},{"original":"map27b"},{"original":"meswinload"},{"original":"msgchange"},{"original":"msgoff"},{"original":"name"},{"original":"new"},{"original":"opacity"},{"original":"order"},{"original":"page"},{"original":"playvoice"},{"original":"pretrans"},{"original":"question_mark"},{"original":"reika_0113"},{"original":"reika_0114"},{"original":"reika_0115"},{"original":"reika_0116"},{"original":"reika_0117"},{"original":"reika_0118"},{"original":"reika_0119"},{"original":"reika_0120"},{"original":"reika_0121"},{"original":"reika_0122"},{"original":"reika_0123"},{"original":"reika_0124"},{"original":"reika_0125"},{"original":"reika_0126"},{"original":"reika_0127"},{"original":"reika_0128"},{"original":"reika_0128_02"},{"original":"reika_0129"},{"original":"reika_0130"},{"original":"reika_0131"},{"original":"riria_1331"},{"original":"riria_1332"},{"original":"riria_1333"},{"original":"riria_1334"},{"original":"riria_1335"},{"original":"riria_1336"},{"original":"riria_1337"},{"original":"riria_1338"},{"original":"riria_1339"},{"original":"riria_1340"},{"original":"riria_1341"},{"original":"riria_1342"},{"original":"riria_1343"},{"original":"riria_1344"},{"original":"riria_1345"},{"original":"riria_1346"},{"original":"riria_1347"},{"original":"riria_1348"},{"original":"riria_1349"},{"original":"riria_1350"},{"original":"riria_1351"},{"original":"riria_1352"},{"original":"riria_1353"},{"original":"riria_1354"},{"original":"riria_1355"},{"original":"riria_1356"},{"original":"riria_1357"},{"original":"riria_1358"},{"original":"riria_1359"},{"original":"riria_1360"},{"original":"riria_1361"},{"original":"riria_1362"},{"original":"riria_1363"},{"original":"riria_1364"},{"original":"riria_1365"},{"original":"riria_1366"},{"original":"riria_1367"},{"original":"riria_1368"},{"original":"riria_1369"},{"original":"riria_1370"},{"original":"riria_1371"},{"original":"riria_1372"},{"original":"riria_1373"},{"original":"riria_1374"},{"original":"riria_1375"},{"original":"riria_1376"},{"original":"riria_1377"},{"original":"riria_1378"},{"original":"riria_1379"},{"original":"riria_1380"},{"original":"riria_1381"},{"original":"riria_1382"},{"original":"riria_1383"},{"original":"riria_1384"},{"original":"riria_1385"},{"original":"riria_1386"},{"original":"riria_1387"},{"original":"riria_1388"},{"original":"riria_1389"},{"original":"riria_1390"},{"original":"riria_1391"},{"original":"riria_1392"},{"original":"riria_1393"},{"original":"riria_1394"},{"original":"riria_1395"},{"original":"riria_1396"},{"original":"riria_1397"},{"original":"riria_1398"},{"original":"riria_1399"},{"original":"riria_1400"},{"original":"riria_1401"},{"original":"riria_1402"},{"original":"riria_1403"},{"original":"riria_1404"},{"original":"riria_1405"},{"original":"riria_1406"},{"original":"riria_1407"},{"original":"riria_1408"},{"original":"riria_1409"},{"original":"riria_1410"},{"original":"riria_1411"},{"original":"riria_1412"},{"original":"riria_1413"},{"original":"riria_1414"},{"original":"riria_1415"},{"original":"riria_1416"},{"original":"riria_1417"},{"original":"riria_1418"},{"original":"riria_1419"},{"original":"riria_1420"},{"original":"riria_1421"},{"original":"riria_1422"},{"original":"riria_1423"},{"original":"riria_1424"},{"original":"riria_1425"},{"original":"riria_1426"},{"original":"riria_1427"},{"original":"riria_1428"},{"original":"riria_1429"},{"original":"riria_1430"},{"original":"riria_1431"},{"original":"riria_1432"},{"original":"riria_1433"},{"original":"riria_1434"},{"original":"riria_1435"},{"original":"riria_1436"},{"original":"riria_1437"},{"original":"riria_1438"},{"original":"riria_1439"},{"original":"riria_1440"},{"original":"riria_1441"},{"original":"riria_1442"},{"original":"riria_1443"},{"original":"riria_1444"},{"original":"riria_1445"},{"original":"riria_1446"},{"original":"riria_1447"},{"original":"riria_1448"},{"original":"riria_1449"},{"original":"riria_1450"},{"original":"riria_1451"},{"original":"riria_1452"},{"original":"riria_1453"},{"original":"riria_1454"},{"original":"riria_1455"},{"original":"riria_1456"},{"original":"riria_1457"},{"original":"riria_1458"},{"original":"riria_1459"},{"original":"riria_1460"},{"original":"riria_1461"},{"original":"riria_1462"},{"original":"riria_1463"},{"original":"riria_1464"},{"original":"riria_1465"},{"original":"riria_1466"},{"original":"riria_1467"},{"original":"riria_1468"},{"original":"riria_1469"},{"original":"riria_1470"},{"original":"riria_1471"},{"original":"riria_1472"},{"original":"riria_1473"},{"original":"riria_1474"},{"original":"riria_1475"},{"original":"riria_1476"},{"original":"riria_1477"},{"original":"riria_1478"},{"original":"riria_1479"},{"original":"riria_1480"},{"original":"riria_1481"},{"original":"riria_1482"},{"original":"riria_1483"},{"original":"riria_1484"},{"original":"riria_1485"},{"original":"riria_1486"},{"original":"riria_1487"},{"original":"riria_1488"},{"original":"riria_1489"},{"original":"riria_1490"},{"original":"riria_1491"},{"original":"riria_1492"},{"original":"riria_1493"},{"original":"riria_1494"},{"original":"riria_1495"},{"original":"riria_1496"},{"original":"riria_1497"},{"original":"riria_1499"},{"original":"riria_1500"},{"original":"riria_1501"},{"original":"riria_1502"},{"original":"riria_1503"},{"original":"riria_1504"},{"original":"rotate"},{"original":"se"},{"original":"seladd"},{"original":"sezip"},{"original":"seガタッと物音"},{"original":"seキラキラー"},{"original":"seギャグ走りの音"},{"original":"se布団擦れ"},{"original":"se平手強"},{"original":"se心音怒り"},{"original":"se抱きつく音"},{"original":"se擬音ピストン中"},{"original":"se擬音ピストン速"},{"original":"se擬音ピストン遅"},{"original":"se擬音プシャッ"},{"original":"se擬音射精内"},{"original":"se擬音挿入１挿"},{"original":"se擬音挿入Ａ"},{"original":"se擬音膣圧大"},{"original":"se環境音ネコ鈴"},{"original":"se環境音学園チャイム"},{"original":"se締め付け"},{"original":"seＨヌチュloop"},{"original":"sf.hsel_f<0"},{"original":"sf.hsel_f>0"},{"original":"sf.replay_rir_04h"},{"original":"stage"},{"original":"start.ks"},{"original":"stop"},{"original":"stopaction"},{"original":"stopvoice"},{"original":"storage"},{"original":"sync"},{"original":"target"},{"original":"thlabel_endscene_h"},{"original":"thlabel_startscene_h"},{"original":"time"},{"original":"trans"},{"original":"true"},{"original":"type"},{"original":"universal"},{"original":"update"},{"original":"visvalue"},{"original":"voice"},{"original":"wait"},{"original":"wh"},{"original":"xpos"},{"original":"ypos"},{"original":"yu_0496"},{"original":"yu_0498"},{"original":"yu_0499"},{"original":"yu_0500"},{"original":"yu_0501"},{"original":"yu_0502"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[8]},{"original":"「\u2015\u2015ということがあって」","lines":[90]},{"original":"「\u2026\u2026じゃあ、ちょっとだけだからな」","lines":[318]},{"original":"「\u2026\u2026梨々愛がだめって言っても、休ませないからな？」","lines":[170]},{"original":"「ぁあんっ\u2026\u2026はぅぁっ、あっ、はぁっ、はぁーっ\u2026\u2026！」","lines":[346]},{"original":"「あ、あ、あ、あ、あぁぁぁぁぁぁんっ♪　きてぇぇえぇぇぇぇぇぇっ♪」","lines":[9]},{"original":"「あ、あのなぁ\u2026\u2026」","lines":[162]},{"original":"「あ、すごっ\u2026\u2026おく、きもちいっ\u2026\u2026！　なにこれ、すごいぃぃぃっ\u2026\u2026！」","lines":[449]},{"original":"「あ、そうだママ！　聞いて聞いて！」","lines":[362]},{"original":"「あぁぁぁっ\u2026\u2026せーえき、すごぉい\u2026\u2026♪」","lines":[161]},{"original":"「あぁぁぁっ\u2026\u2026！　おくっ\u2026\u2026んぁっ\u2026\u2026！　おくに、きてるよぉぉっ\u2026\u2026！」","lines":[349]},{"original":"「あぁあぁぁぁぁっ\u2026\u2026♪　はっ、あっ\u2026\u2026あああぁあぁぁぁぁぁっ\u2026\u2026♪」","lines":[326]},{"original":"「あぁあんっ！　せーえき、かきだされちゃってるっ！　もったいなぃっ！　はぁんっ！」","lines":[144]},{"original":"「あぁっ、んぁっ、あぁぁっ\u2026\u2026！　はぁんっ\u2026\u2026！」","lines":[203]},{"original":"「あぁんっ、はぁんっ、やぁあんっ\u2026\u2026！　あぁーっ\u2026\u2026！」","lines":[280]},{"original":"「ああぁぁっ\u2026\u2026！　すごい、出てる\u2026\u2026！　中で、しゃせーされちゃってるっ\u2026\u2026！」","lines":[163]},{"original":"「ああぁんっ！　んぁぁっ\u2026\u2026！　はぁはぁ、あぁっ\u2026\u2026！」","lines":[338]},{"original":"「あかちゃんのおへや、またいっぱいにしてぇぇぇ♪」","lines":[358]},{"original":"「あかちゃんのおへやぁぁ\u2026\u2026もっといっぱいになっちゃうぅぅぅぅ\u2026\u2026♪」","lines":[411]},{"original":"「あたしがいなかったら、梨々愛はもっとバカ娘に育っていただろうな」","lines":[341]},{"original":"「あっ♪　あっ♪　あっ♪　あっ♪　んぁ、んふぁっ♪」","lines":[337]},{"original":"「あっ、あぁっ♪　はっ、ああぁっ♪　だして、中にいっぱいだしてぇっ♪」","lines":[150]},{"original":"「あっ、あっ、あっ、あぁぁっー、あぁぁんっ\u2026\u2026♪」","lines":[282]},{"original":"「あっ、いくっ\u2026\u2026！　中出しされていくうぅぅっ\u2026\u2026！！」","lines":[134]},{"original":"「あは、そんなに早くわたしの中に入りたかったんだ\u2026\u2026？」","lines":[293]},{"original":"「あは、まだ出てる\u2026\u2026♪」","lines":[160]},{"original":"「あふぅぅぅうぅうぅっ\u2026\u2026♪」","lines":[342]},{"original":"「あんっ♪　もっと大きいの、きちゃうっ♪　はぁあんっ♪」","lines":[269]},{"original":"「あんっ！　あぁんっ！　はぁんっ！　やぁんっ！　んぃああぁぁっ！」","lines":[126]},{"original":"「いいからいいから、気にしない気にしない♪」","lines":[141]},{"original":"「いいよ、好きに動いて\u2026\u2026？」","lines":[322]},{"original":"「いいよ、蓮くんの好きにして\u2026\u2026♪」","lines":[202]},{"original":"「いきすぎて、おかしくなっちゃうよぉぉっ\u2026\u2026！」","lines":[145]},{"original":"「いきなり、すごぉいっ\u2026\u2026！　んぁっ、すごいぃっ\u2026\u2026！」","lines":[284]},{"original":"「いくうぅぅぅううぅうぅぅぅうぅうぅぅぅぅっ♪」","lines":[283]},{"original":"「いっちゃうっ！　いっちゃうっ！　もぉ、いくぅぅ\u2026\u2026！」","lines":[345]},{"original":"「いってぇっ♪　いってぇぇぇっ♪　ふぁぁあぁっ♪」","lines":[295]},{"original":"「うぁ\u2026\u2026！　そ、そんなに締め付けられたら\u2026\u2026！」","lines":[413]},{"original":"「うちのバカ娘は、ピルってのは避妊薬だってことを噛み砕いて説明しないと分からなかったんだぞ」","lines":[207]},{"original":"「うっ、うぅぅっ\u2026\u2026！　も、もうだめ、いきすぎてしんじゃいそう\u2026\u2026！」","lines":[45]},{"original":"「うわ、キレてる\u2026\u2026」","lines":[328]},{"original":"「うん\u2026\u2026かきだしちゃった分、またいっぱいにしてくれなくちゃだめだよ\u2026\u2026？」","lines":[18]},{"original":"「うん、まぁ、エロいな\u2026\u2026」","lines":[23]},{"original":"「う゛ぅ゛ぅ゛ぅ゛ぅ゛ぅ゛ぅ゛ぅ゛\u2026\u2026！！」","lines":[85]},{"original":"「え\u2026\u2026ここでキスするのか\u2026\u2026？」","lines":[261]},{"original":"「え、あ、ちょ\u2026\u2026！　あ、梨々愛っ\u2026\u2026！？」","lines":[418]},{"original":"「えぇ？　どういうことです？」","lines":[75]},{"original":"「えへへーそうだよ、あたしエロいんだよーえへへへー♪」","lines":[36]},{"original":"「お、おい！？　り、梨々愛！？　どこ行くんだよ！？」","lines":[446]},{"original":"「お、おう」","lines":[301]},{"original":"「おなかの中、赤ちゃんのお部屋まであったかいのでいっぱいになっちゃった\u2026\u2026♪」","lines":[209]},{"original":"「おねがい、いって\u2026\u2026！　もっとめちゃくちゃにしていいから、はやくだしてぇっ\u2026\u2026！！」","lines":[335]},{"original":"「おま○こでご奉仕しちゃうからぁっ♪　あぁんっ♪」","lines":[414]},{"original":"「お母さん、しーっ！　しぃーっ！」","lines":[486]},{"original":"「お金を人質に取るなんてサイッテー！」","lines":[281]},{"original":"「からだの、一番奥まで届いてぇ\u2026\u2026！　はぁああぁぁぁああぁああんっ！」","lines":[184]},{"original":"「きしゅ\u2026\u2026よけいにきもちよくて\u2026\u2026いっちゃぅっ\u2026\u2026！」","lines":[77]},{"original":"「きゅぅ～～～ん♪」","lines":[99,260]},{"original":"「くす、だぁめ\u2026\u2026♪」","lines":[314]},{"original":"「くす、またわたしの中でぱんぱんにかたくなってきちゃってる\u2026\u2026♪」","lines":[363]},{"original":"「くす、またわたしの中に\u2026\u2026いっぱいきたぁ\u2026\u2026♪」","lines":[294]},{"original":"「くす、最後まで全部搾りとってあげる\u2026\u2026♪」","lines":[136]},{"original":"「くす、蓮くん、可愛い\u2026\u2026♪」","lines":[103]},{"original":"「くす、蓮くんどうする\u2026\u2026？　どうしちゃう\u2026\u2026？」","lines":[112]},{"original":"「ぐぬぬ\u2026\u2026」","lines":[119]},{"original":"「ここじゃなかったらいいの\u2026\u2026？」","lines":[123]},{"original":"「ここなら誰もいないし、大丈夫だよね♪」","lines":[168]},{"original":"「こんなの、すぐにいっちゃうっ\u2026\u2026！　あぁぁっ、だめぇぇぇ、気持ち良すぎだよぉ\u2026\u2026！」","lines":[63]},{"original":"「ごめん\u2026\u2026俺はそんなつもりで言ったんじゃないだ\u2026\u2026」","lines":[306]},{"original":"「ごめん梨々愛\u2026\u2026俺、中で\u2026\u2026」","lines":[105]},{"original":"「さ、流石に学園の中じゃマズイって\u2026\u2026」","lines":[120]},{"original":"「じゃ、蓮くんこっちこっち」","lines":[71]},{"original":"「じゃあ\u2026\u2026わたしのこと、褒めて\u2026\u2026？」","lines":[48]},{"original":"「じゃあ、キレてるもん！　キレッキレだもん！」","lines":[176]},{"original":"「じゅるっ、じゅるっ、ちゅるるるっ\u2026\u2026！　んぁっ、んんんんんんんっ\u2026\u2026！」","lines":[266]},{"original":"「す、好きなとこで出していいって言ったのに\u2026\u2026うぁあぁぁぁぁあぁっ！」","lines":[302]},{"original":"「すごい、おま○こしあわせ\u2026\u2026♪」","lines":[325]},{"original":"「すごい、ぐちゃぐちゃいってるっ♪　音、いっぱいでちゃってるぅっ♪」","lines":[129]},{"original":"「すごい、カタくておっきいぃぃ\u2026\u2026♪」","lines":[151]},{"original":"「すごい、気持ちいいっ♪　あぁ、気持ちいいよぉっ♪」","lines":[289]},{"original":"「すごいっ♪　んぁあっ♪　すごぉぃいっ♪　はぅぁあっ♪」","lines":[334]},{"original":"「ずぼずぼ、ぐちゅぐちゅって、腰振っちゃうからぁっ♪」","lines":[463]},{"original":"「ぜ、全然うらやましくなんかないだからねっ！」","lines":[460]},{"original":"「そ、そんなことないもん！　わたしだってすぐにもっとエロくなるし！」","lines":[477]},{"original":"「そ、そんなの今からやるところだったんだもん！」","lines":[456]},{"original":"「そう、あたしのがエロい」","lines":[10]},{"original":"「そういうこと、ここで言うか\u2026\u2026？」","lines":[22]},{"original":"「そういうことでいいよもう\u2026\u2026」","lines":[12]},{"original":"「そういうわけじゃないけどさ\u2026\u2026」","lines":[485]},{"original":"「そうかそうか、だったら小遣いを減らしてやってもいいんだぞ？」","lines":[444]},{"original":"「その、いろいろとごめんなさい\u2026\u2026」","lines":[104]},{"original":"「そんなこと言われても\u2026\u2026」","lines":[196]},{"original":"「そんなに激しくしちゃ、だめぇぇっ\u2026\u2026！　んあぁっ\u2026\u2026！　やぁあんっ\u2026\u2026！」","lines":[429]},{"original":"「そんなに興味ないですけど一応聞きますが\u2026\u2026」","lines":[462]},{"original":"「そんなサルみたいなえっちしたくないし！」","lines":[28]},{"original":"「そんな唸り声出して、どうかしたか\u2026\u2026？」","lines":[438]},{"original":"「そんな栄養ドリンクみたいな言い方されても\u2026\u2026」","lines":[480]},{"original":"「た、叩いたね！？　蓮くんにも叩かれたことないのに！？」","lines":[406]},{"original":"「たしかに、孫を溺愛しそうだよなぁ」","lines":[331]},{"original":"「だから\u2026\u2026蓮くんが出したいときに出して\u2026\u2026♪」","lines":[46]},{"original":"「だから、キレてないってば！　もぉう！」","lines":[125]},{"original":"「だからと言って大丈夫かと言われたらＮＯだと思うが\u2026\u2026」","lines":[215]},{"original":"「だして、いっぱいだしてっ\u2026\u2026♪」","lines":[403]},{"original":"「だって、わたしみたいな子に育っちゃう\u2026\u2026」","lines":[395]},{"original":"「だって、ハーフとかクォーターって、最近はすっごい多いと思うよ？」","lines":[183]},{"original":"「だめ、あっ、いくっ\u2026\u2026！　もうだめ、いく、いくっ\u2026\u2026！　いくっ、ああぁぁぁっ\u2026\u2026！！」","lines":[32]},{"original":"「だもん！　だもん！　だもん！（エコー）」","lines":[416]},{"original":"「ちっがーう！」","lines":[89]},{"original":"「ちゅーしてくれるまで教室に戻らないからぁ\u2026\u2026！」","lines":[107]},{"original":"「ちょ、ちょっと梨々愛\u2026\u2026！」","lines":[470]},{"original":"「ったく\u2026\u2026あたしみたいにこんな濡らしやがって\u2026\u2026血は争えないな\u2026\u2026」","lines":[81]},{"original":"「って、わたしはこれくらいじゃ満足しないんだからね！」","lines":[479]},{"original":"「ってあいたぁっ！！」","lines":[308]},{"original":"「で、でも\u2026\u2026危険なのには変わりないし\u2026\u2026」","lines":[118]},{"original":"「で、でもここじゃ本当に流石にマズいって\u2026\u2026！」","lines":[445]},{"original":"「で、でもわたしは嬉しかったよ！　蓮くんが責任取るって言ってくれて！」","lines":[468]},{"original":"「というか、保健室でエッチなんかするなこのバカども！」","lines":[439]},{"original":"「というか、飲んでるなら言ってくれればよかったのに\u2026\u2026」","lines":[476]},{"original":"「とりあえずお前が汚したシーツとっとと洗って来い！」","lines":[392]},{"original":"「どうなのって？？」","lines":[17]},{"original":"「どう？　エロい？」","lines":[357]},{"original":"「どくどくどくってぇぇぇっ、はいってきたぁぁぁっ\u2026\u2026♪」","lines":[59]},{"original":"「なるほど\u2026\u2026」","lines":[397]},{"original":"「なるほどなぁ\u2026\u2026」","lines":[20]},{"original":"「なんか、呆れるを通り越して感心するよ\u2026\u2026」","lines":[415]},{"original":"「なんだ？　おしっこか？」","lines":[340]},{"original":"「にんしんしちゃうくらい、いっぱいきてぇぇっ♪　んぃぁぁぁっ♪」","lines":[171]},{"original":"「ねぇ\u2026\u2026キスぅ\u2026\u2026キスして\u2026\u2026！　んぃぁあっ\u2026\u2026！」","lines":[169]},{"original":"「はぁぁあんっ\u2026\u2026！　わたし、もういっちゃいそう\u2026\u2026！」","lines":[329]},{"original":"「はぁあんっ！　やあぁあんっ！　あ、あぁぁぁっ！」","lines":[189]},{"original":"「はぁはぁ\u2026\u2026んぁ、あぁんっ\u2026\u2026ちゅるちゅる\u2026\u2026♪」","lines":[292]},{"original":"「はぁはぁはぁ\u2026\u2026！！」","lines":[361]},{"original":"「はぁはぁはぁはぁ、あぁん\u2026\u2026♪」","lines":[271]},{"original":"「はっ、はぁっ、はぁぁーっ！　ふぁっ、やぁあんっ！　きてぇぇっ！」","lines":[208]},{"original":"「はやくせーえきだしてとまってくれないと\u2026\u2026おかしくなりすぎちゃうぅぅぅ\u2026\u2026！！」","lines":[197]},{"original":"「ひゃぁあぁぁぁぁああぁあぁんっ♪」","lines":[173]},{"original":"「ひゃぁあんっ\u2026\u2026！　キスで、わたしのお口、ふさいでぇええぇっ\u2026\u2026！」","lines":[332]},{"original":"「ふぁあぁぁぁぁぁっ♪　はぁぁあんっ♪　んいぃぃっ♪」","lines":[279]},{"original":"「ふあぁぁあぁあああああぁっ♪」","lines":[273]},{"original":"「ふあぁぁああぁぁっ！　いくいくいくっ！　あぁあぁあぁぁあぁんっ！」","lines":[451]},{"original":"「ふんっ、あんた薄いし浅すぎる」","lines":[464]},{"original":"「ふんっ、それは負け惜しみだな」","lines":[42]},{"original":"「ぷんぷん！」","lines":[194]},{"original":"「ま、待って\u2026\u2026！　いった、いったからっ\u2026\u2026！　あっ、ああっ、やぁぁっ！！」","lines":[195]},{"original":"「また、いっちゃうからぁっ\u2026\u2026！　あぁあんっ\u2026\u2026！　だめだめだめだめぇぇぇっ\u2026\u2026！」","lines":[327]},{"original":"「またいっぱい出すから大丈夫だ\u2026\u2026！」","lines":[312]},{"original":"「まだまだせーえき、出せるよね\u2026\u2026？」","lines":[442]},{"original":"「みたいなギリギリのラインを楽しんでほしくてですね\u2026\u2026」","lines":[110]},{"original":"「もうこんなにカタくしちゃって\u2026\u2026♪」","lines":[38]},{"original":"「もうすぐ授業始まるけど」","lines":[484]},{"original":"「もうママにはわたしの服、貸してあげないんだから！」","lines":[420]},{"original":"「もうママ！　蓮くんには内緒って言ったでしょ！」","lines":[69]},{"original":"「もう他の子にそんなこと言わない\u2026\u2026？」","lines":[186]},{"original":"「もぉ、らめぇぇっ\u2026\u2026！　はぁ\u2026\u2026あぁあんっ\u2026\u2026！」","lines":[290]},{"original":"「もっと\u2026\u2026いっぱいちょうだいっ♪　わたしに、いっぱいちょうだぁいっ♪」","lines":[360]},{"original":"「もっとたぷたぷあったかくなってぇぇぇ\u2026\u2026幸せいっぱいになっちゃうぅぅぅ\u2026\u2026♪」","lines":[157]},{"original":"「もっとわたしで興奮して\u2026\u2026おねがい\u2026\u2026♪」","lines":[156]},{"original":"「もっと気持ちよくなって\u2026\u2026？」","lines":[267]},{"original":"「や、やばい\u2026\u2026お、俺\u2026\u2026もう\u2026\u2026！」","lines":[339]},{"original":"「やぁあんっ♪　んぁっ、んぁっ♪　あっ♪　ああぁっー♪」","lines":[214]},{"original":"「やぁあんっ、んぃぁっ、ふぁあっ、はぁああぁんっ\u2026\u2026！」","lines":[49]},{"original":"「やっぱりキレてるんじゃん\u2026\u2026」","lines":[135]},{"original":"「やっぱり蓮くんだってエッチしたかったんだね\u2026\u2026♪」","lines":[478]},{"original":"「やろうと思ってた時に言われるとやる気がなくなるよ！」","lines":[78]},{"original":"「やーしゃしゃしゃしゃしゃ」","lines":[97]},{"original":"「り、梨々愛\u2026\u2026んんん\u2026\u2026」","lines":[274]},{"original":"「り、梨々愛ぁ\u2026\u2026！」","lines":[351]},{"original":"「り、梨々愛っ\u2026\u2026！　くぁっ\u2026\u2026！」","lines":[330]},{"original":"「わたし\u2026\u2026もうずっと、何回もいってるからぁ\u2026\u2026♪」","lines":[100]},{"original":"「わたし、スイッチ入っちゃった\u2026\u2026♪」","lines":[450]},{"original":"「わたし、蓮くんにエロい、枯れるって褒められちゃった♪」","lines":[142]},{"original":"「わたしでいっぱい、気持ち良くなっていいんだよ\u2026\u2026♪」","lines":[399]},{"original":"「わたしね、子供が生まれたらどーーーしても決めてることが密かにあるの」","lines":[149]},{"original":"「わたしのいりぐち\u2026\u2026じゅぶじゅぶって、攻められちゃってる\u2026\u2026♪」","lines":[30]},{"original":"「わたしの方が\u2026\u2026？」","lines":[31]},{"original":"「わたしの方がえっちだもん！！」","lines":[29]},{"original":"「わたしの方が！！」","lines":[58]},{"original":"「わたしはサキュバスだから、他の子の方がエロいって言われるの嫌なの！」","lines":[272]},{"original":"「わたしも、いくからぁ、きてぇぇっ！　んぁあぁあっ！」","lines":[333]},{"original":"「わたしも、おち○ちんがいけるように頑張るからぁっ♪」","lines":[146]},{"original":"「んぁあっ、はぅぁっ\u2026\u2026！　あっ、あっ\u2026\u2026んっ、んっ\u2026\u2026やあぁぁんっ\u2026\u2026！」","lines":[344]},{"original":"「んぁっ♪　いっちゃうぅっ♪　んあぁっ♪　いかせちゃうぅぅっ♪　ひゃぁあぁんっ♪」","lines":[291]},{"original":"「んあぁあぁぁぁあああぁあああぁぁっ♪　中出し、すごすぎぃぃいぃっ♪」","lines":[128]},{"original":"「んあぁあぁぁっ\u2026\u2026♪」","lines":[348]},{"original":"「んあぁあああぁぁぁあああぁぁあぁぁぁっーーーーーー♪」","lines":[324]},{"original":"「んあっ、あっ、ああっ！　あんっ！　はぁんっ！」","lines":[201]},{"original":"「んぃぁあぁあぁあぁぁぁぁああああっ♪」","lines":[359]},{"original":"「んぃあぁぁぁぁあっ\u2026\u2026♪　みたされちゃぅうぅぅ\u2026\u2026♪」","lines":[350]},{"original":"「んぃあぁぁあああぁっ、はぁあぁあぁんんっ、んんんんぃいぃいぃっ\u2026\u2026♪」","lines":[94]},{"original":"「んちゅっ\u2026\u2026♪」","lines":[182]},{"original":"「んちゅっ、ちゅぱっ\u2026\u2026！　はぁはぁ\u2026\u2026んぁっ、ちゅっ、ちゅるる\u2026\u2026！　んぁっ\u2026\u2026！」","lines":[175]},{"original":"「んちゅる、れろっ、じゅるっ、ちゅぱっ\u2026\u2026！　んっ、んんんっ、んっ\u2026\u2026！」","lines":[185]},{"original":"「んちゅるるっ、れろっ\u2026\u2026！　んんんんんんんっ\u2026\u2026！」","lines":[174]},{"original":"「んっ、ちゅ、じゅるっ\u2026\u2026！　んふっ、んっ、んんっ、は、んんんっ\u2026\u2026！」","lines":[187]},{"original":"「んふぅうぅぅうぅぅぅぅぅぅうぅぅぅぅぅぅっ\u2026\u2026♪」","lines":[96]},{"original":"「んふっ、んっ\u2026\u2026♪」","lines":[188]},{"original":"「んふっ、んふっ、んふぅぅぅっ\u2026\u2026♪」","lines":[371]},{"original":"「んんん\u2026\u2026わけわかんなくなっちゃうぅ\u2026\u2026♪」","lines":[95]},{"original":"「んんんっ\u2026\u2026蓮くん\u2026\u2026♪」","lines":[303]},{"original":"「んんんんんんっ\u2026\u2026♪　しあわせぇ\u2026\u2026♪」","lines":[391]},{"original":"「アクマとのハーフとかクォーターって実際どうなの？」","lines":[396]},{"original":"「イッツ、グローバルって感じ？」","lines":[435]},{"original":"「カルチャーショックすぎて頭が痛くなってきました\u2026\u2026」","lines":[84]},{"original":"「キ、キス\u2026\u2026してくれなきゃダメなんだからねっ\u2026\u2026！」","lines":[44]},{"original":"「キレてないですよ！！」","lines":[47]},{"original":"「キレてるやつはキレてないですよって言うものなんだよ」","lines":[427]},{"original":"「サキュバスは恋人ができると、赤飯の代わりにピルご飯を食べるのが伝統なの\u2026\u2026」","lines":[117]},{"original":"「ナマえっち、出来るよ\u2026\u2026？」","lines":[430]},{"original":"「ピルご飯って何ですか？」","lines":[431]},{"original":"「ピルをふりかけにして白米をもりもり食べるんだよ」","lines":[102]},{"original":"「マ、マジか\u2026\u2026」","lines":[408]},{"original":"「マ、ママっ！？」","lines":[401]},{"original":"「ママとは絶対に別居したい」","lines":[441]},{"original":"「中に出したいけど、でもちょっと危険\u2026\u2026」","lines":[370]},{"original":"「中出し、すごすぎて\u2026\u2026あたま真っ白になっちゃう\u2026\u2026♪」","lines":[407]},{"original":"「何をバカなことを言ってるんだお前たちは」","lines":[469]},{"original":"「保健室はラブホじゃねーんだぞ！」","lines":[394]},{"original":"「全然そんなことないと思うけど？」","lines":[455]},{"original":"「全然エロくなんかないぞ」","lines":[343]},{"original":"「出してっ♪　出してぇっ♪　はぁんっ♪　せーえき、いっぱい出してぇぇっ♪」","lines":[268]},{"original":"「出してっ！　いっぱい、出してっ！　んぁっ、はぁんっ！」","lines":[106]},{"original":"「困ってる蓮くん、可愛い\u2026\u2026♪」","lines":[172]},{"original":"「声、いっぱい出ちゃうからぁ、おねがいっ\u2026\u2026！！」","lines":[434]},{"original":"「娘にピルご飯食べさせてました」","lines":[385]},{"original":"「子供ができたら責任取る」","lines":[393]},{"original":"「学園でイジメられたりしない\u2026\u2026？」","lines":[412]},{"original":"「孫までそんなバカ娘みたいに育つのは勘弁だ」","lines":[433]},{"original":"「実は\u2026\u2026こっそりピルご飯食べてました」","lines":[7]},{"original":"「実はこの前\u2015\u2015」","lines":[437]},{"original":"「実は今日もグイッと一発ピルを飲んできまして\u2026\u2026」","lines":[11]},{"original":"「寮でならいいの？」","lines":[402]},{"original":"「怜香さんと別居？　なんでさ？」","lines":[155]},{"original":"「梨々愛\u2026\u2026すごく気持ちいい\u2026\u2026！」","lines":[364]},{"original":"「梨々愛\u2026\u2026エロすぎるよ\u2026\u2026俺、枯れそうだ\u2026\u2026」","lines":[243]},{"original":"「梨々愛\u2026\u2026制服にかけるぞ\u2026\u2026！」","lines":[251]},{"original":"「梨々愛\u2026\u2026前みたいに飲んでほしい\u2026\u2026！」","lines":[140]},{"original":"「梨々愛\u2026\u2026動くよ\u2026\u2026」","lines":[235]},{"original":"「梨々愛\u2026\u2026顔にかけるぞ\u2026\u2026！」","lines":[24]},{"original":"「梨々愛\u2026\u2026？」","lines":[213]},{"original":"「梨々愛、もうイク\u2026\u2026！　出そうだ\u2026\u2026！」","lines":[43]},{"original":"「梨々愛、もしかしてキレてる？」","lines":[98]},{"original":"「梨々愛、チャイム鳴っちゃったぞ\u2026\u2026戻らなくちゃ\u2026\u2026」","lines":[158]},{"original":"「梨々愛っ\u2026\u2026！」","lines":[336]},{"original":"「梨々愛っ\u2026\u2026！！　俺、もう\u2026\u2026！！」","lines":[454]},{"original":"「梨々愛なんてあたしから見たらまだまだひよっこだ」","lines":[390]},{"original":"「梨々愛に聞きたいことがあるんだけど\u2015\u2015」","lines":[64]},{"original":"「梨々愛のがエロいのはよーく分かってるよ」","lines":[133]},{"original":"「梨々愛の中、すごいぐちゃぐちゃで気持ちいい\u2026\u2026」","lines":[74]},{"original":"「梨々愛はエロいなーよしよし」","lines":[419]},{"original":"「梨々愛はピル飲んでちゃーんと避妊してるからな」","lines":[76]},{"original":"「梨々愛は世界一エロいぞーよーしよしよしよし」","lines":[400]},{"original":"「決めてること\u2026\u2026？」","lines":[307]},{"original":"「生理きたばっかりだから、今日は大丈夫だから\u2026\u2026ね？」","lines":[116]},{"original":"「生理終わったばっかり、だ・か・ら\u2015\u2015」","lines":[443]},{"original":"「確かに興奮したけどさぁ\u2026\u2026」","lines":[124]},{"original":"「確かに誰もいないけどさ\u2026\u2026」","lines":[82]},{"original":"「簡単に騙されると軽い女だと思ったら大間違いですぞ！」","lines":[417]},{"original":"「蓮、ねんねちゃん梨々愛に騙されるなよ」","lines":[388]},{"original":"「蓮くんが男前すぎてまた濡れてきちゃいそう\u2026\u2026♪」","lines":[101]},{"original":"「蓮くんに、エロ気スイッチ\u2026\u2026押されちゃった\u2026\u2026♪」","lines":[216]},{"original":"「蓮くんの、好きなところにだしてぇぇっ\u2026\u2026♪」","lines":[313]},{"original":"「蓮くんのおち○ちん\u2026\u2026まだまだ元気だもんね\u2026\u2026？」","lines":[33]},{"original":"「蓮くんのばぁかぁーーーーーーー！」","lines":[270]},{"original":"「蓮くんの好きな、わたしの奥にっ、いっぱい出してっ！」","lines":[461]},{"original":"「蓮なんかあたしだったら二秒でピュだぞ」","lines":[21]},{"original":"「褒められた」","lines":[70]},{"original":"「言わないよ」","lines":[440]},{"original":"「言わない方が興奮してくれるかと思って\u2026\u2026」","lines":[111]},{"original":"「説得力ないなぁ、もう\u2026\u2026♪」","lines":[65]},{"original":"「身を持ってそれを体験してるし\u2026\u2026」","lines":[39]},{"original":"「連れてすぐに戻ってくる！」","lines":[132]},{"original":"あっさりと俺のペニスを咥え込んでしまう。","lines":[93]},{"original":"いつだって梨々愛とイチャイチャしていたい。","lines":[73]},{"original":"いつも通りなでなでしてほしいのだろう。","lines":[19]},{"original":"いや、エロいというよりは変態か\u2026\u2026？","lines":[83]},{"original":"いや、思いっきり騙されてましたやん。","lines":[354]},{"original":"いや、抜けても抜くつもりなんてない\u2026\u2026。","lines":[365]},{"original":"お互いの絶頂が止まり、俺たちは肩で息をする。","lines":[27]},{"original":"き、気のせいだろうか\u2026\u2026？","lines":[200]},{"original":"けれども、梨々愛はさらに絶頂でシーツを汚していく。","lines":[297]},{"original":"けれども、膣口と膣襞がギュウと締まりをみせる。","lines":[138]},{"original":"ここが保健室だということに構ってられない\u2026\u2026。","lines":[410]},{"original":"この人、神出鬼没だよなぁ\u2026\u2026。","lines":[458]},{"original":"この母親はキメ顔で何を言ってるんだ\u2026\u2026。","lines":[265]},{"original":"これじゃ、抜けないぞ\u2026\u2026！？","lines":[310]},{"original":"こんなすごいのを経験したら\u2026\u2026外に出せないぞ\u2026\u2026。","lines":[13]},{"original":"ご覧の通りここは学園だ。","lines":[14]},{"original":"しかも男女が通う共学なわけで\u2026\u2026。","lines":[353]},{"original":"しっかり固定されていて、ペニスを抜くことができない\u2026\u2026。","lines":[152]},{"original":"じゅぶじゅぶと膣口を掻き回し、愛液が溢れ出す。","lines":[432]},{"original":"ずいぶんとジャンキーな食べ物だなオイ。","lines":[309]},{"original":"そうは言うものの、俺の中には満足感がある。","lines":[299]},{"original":"そして、ようやく射精が止まる\u2026\u2026。","lines":[109]},{"original":"そして、梨々愛の手が俺のズボンの中に侵入してくる。","lines":[35]},{"original":"そして、脱兎の如く走り去っていく。","lines":[205]},{"original":"その度に甘くて大きな声を上げ、身体を震えさせる。","lines":[180]},{"original":"その目的もすっかり忘れてしまっている。","lines":[193]},{"original":"それでも俺はピストンをすることをやめない。","lines":[372]},{"original":"それでも梨々愛の足は俺を強く固定している。","lines":[211]},{"original":"それに触発されたわけじゃないけれど、俺の限界が近い\u2026\u2026。","lines":[424]},{"original":"そんなに俺と子供を作るのが嫌なのか\u2026\u2026？","lines":[305]},{"original":"そんな微笑みとは裏腹に俺の表情は晴れない\u2026\u2026。","lines":[368]},{"original":"そんな結合部からは、さらに精液が溢れ出している。","lines":[181]},{"original":"ただ一心不乱に相手を求める\u2026\u2026。","lines":[87]},{"original":"だけど、一応中庭だし\u2026\u2026。","lines":[57]},{"original":"つまり\u2026\u2026嫉妬\u2026\u2026？","lines":[422]},{"original":"つまりは避妊薬だ。","lines":[53]},{"original":"でも、どうして梨々愛は怒っているのだろうか\u2026\u2026？","lines":[483]},{"original":"でも、梨々愛に対しては理解のあるいいお母さんだよなぁ。","lines":[473]},{"original":"でもなんだか興奮するのは何故なんだ\u2026\u2026。","lines":[68]},{"original":"でも今はご機嫌を取っておいた方がいいだろう。","lines":[51]},{"original":"というか\u2026\u2026キレてるって感じではないのだけど。","lines":[459]},{"original":"というか、なんで張り合ってるんだろうか\u2026\u2026。","lines":[66]},{"original":"と言ってもそれは完全に本心ではない。","lines":[423]},{"original":"ど、どうして梨々愛はそんなものを\u2026\u2026。","lines":[52]},{"original":"どちらかというと、拗ねている感じ。","lines":[356]},{"original":"どぷんっ！　どぷどぷっ！　どぷぷぷっ！　ぶぴゅううっ！！","lines":[453]},{"original":"なんか、大人の余裕みたいなものを感じる。","lines":[428]},{"original":"なんか深く考えた俺が馬鹿でした。","lines":[26]},{"original":"なんだか、背後にメラメラしたものを感じる。","lines":[466]},{"original":"なんだろう、この感じは\u2026\u2026。","lines":[347]},{"original":"びゅるるるるっ！！　どくどくっ、びゅるるるーーー！！！","lines":[275]},{"original":"びゅるるるるるるるるるっ！！！　びゅっびゅっびゅっ！！！","lines":[426]},{"original":"まさか\u2026\u2026俺との関係はその程度のものだった\u2026\u2026？","lines":[114]},{"original":"まさに、体は正直だった\u2026\u2026。","lines":[287]},{"original":"また、膣壁もキュウキュウと締まる。","lines":[374]},{"original":"まるで、離れたくないという意思の表れみたいだ\u2026\u2026。","lines":[92]},{"original":"むしろ、したくないわけがない。","lines":[199]},{"original":"もうこれ以上ないくらいに汚れてしまっている。","lines":[137]},{"original":"もう止まれそうにない\u2026\u2026。","lines":[321]},{"original":"もっともっと、梨々愛の中に出したい\u2026\u2026。","lines":[436]},{"original":"もはやどこからツッコミを入れていいのか分からんぞ\u2026\u2026。","lines":[320]},{"original":"もはやまともな判断が下せそうにない\u2026\u2026。","lines":[264]},{"original":"や、やばい\u2026\u2026！","lines":[55]},{"original":"わたしの方がエッチだもん。","lines":[387]},{"original":"アドレナリンが出ていたとはいえ、覚悟を決めるしかない。","lines":[474]},{"original":"イカン、イカンぞ\u2026\u2026。","lines":[88]},{"original":"イチャイチャするのはマズいんじゃないか\u2026\u2026？","lines":[50]},{"original":"キレる梨々愛を初めて見た。","lines":[471]},{"original":"サラッとこの人は何を言ってるんだろうか\u2026\u2026。","lines":[198]},{"original":"シーツは愛液ですっかり染みになっている。","lines":[0,218,230,238,246,254,378,490]},{"original":"ジェラシックワールド","lines":[108]},{"original":"ズボンのチャックがあっさりと開けられてしまう。","lines":[457]},{"original":"ドドーン。","lines":[482]},{"original":"バリバリのキャリアウーマンって感じ。","lines":[113]},{"original":"パンツ越しに息子をグッと握られる。","lines":[421]},{"original":"ピル。","lines":[159]},{"original":"ペニスを力いっぱい前進させ、梨々愛を突き上げる。","lines":[115]},{"original":"ヤバい\u2026\u2026これは逃げられそうにないぞ\u2026\u2026。"},{"original":"リリア.stand","lines":[373]},{"original":"一向に離れようとはしない。","lines":[167]},{"original":"一番奥にキスをするために、ピストンを激しく繰り返す。","lines":[148]},{"original":"亀頭が膣口から見え隠れを繰り返す。","lines":[165]},{"original":"亀頭につるつるしたような感触が\u2026\u2026。","lines":[122]},{"original":"保健室だった。","lines":[369]},{"original":"俺\u2026\u2026二回も梨々愛の中に\u2026\u2026。","lines":[448]},{"original":"俺、つくづく梨々愛に甘いな\u2026\u2026。","lines":[319]},{"original":"俺、完全に酔っているな\u2026\u2026。","lines":[398]},{"original":"俺が想像しているよりも世の中は進んでいるんだな\u2026\u2026。","lines":[60]},{"original":"俺が考えているよりも事態は深刻なのかもしれない。","lines":[79]},{"original":"俺たちは何をやっているんだろうか。","lines":[177]},{"original":"俺たちは舌と舌を絡めたキスをする。","lines":[475]},{"original":"俺には梨々愛がいるのに\u2026\u2026心頭滅却\u2026\u2026。","lines":[316]},{"original":"俺のペニスは萎えることを知らない。","lines":[127]},{"original":"俺はあっという間にベッドに押し倒されてしまった。","lines":[487]},{"original":"俺はしばらく猫の縄張り争いを見届ける羽目になった。","lines":[143]},{"original":"俺はしょっぱなから激し目に腰を突き出す。","lines":[277]},{"original":"俺はそのまま、梨々愛の膣内に生で射精をする。","lines":[288]},{"original":"俺はその両方で精液を搾り取られるみたいに刺激される。","lines":[355]},{"original":"俺はたっぷりと、梨々愛の奥に精液を吐き出していく。","lines":[300]},{"original":"俺はより肩で息をする\u2026\u2026。","lines":[323]},{"original":"俺は再びピストンを開始する。","lines":[86]},{"original":"俺は周囲を確認してみるが、周りに人はいなかった。","lines":[54]},{"original":"俺は教室での言葉を思い出す。","lines":[40]},{"original":"俺は梨々愛同様に教室から飛び出した。","lines":[425]},{"original":"俺は真剣に覚悟を決めたというのに\u2026\u2026。"},{"original":"側面手上"},{"original":"側面手下","lines":[7,8,11,17,21,38]},{"original":"優"},{"original":"優.stand","lines":[80]},{"original":"冷静になって考えてみると、俺たちアホっぽいな。"},{"original":"出前"},{"original":"出左"},{"original":"制服","lines":[223]},{"original":"制服にぶっかける","lines":[130]},{"original":"前戯などもなしに、俺はいきなり梨々愛に挿入をする。","lines":[311]},{"original":"危険でもいいから、もっと梨々愛の中に出したい\u2026\u2026。","lines":[225]},{"original":"口の中で飲ませる","lines":[179]},{"original":"口を塞ぐという名目だけれど\u2015\u2015","lines":[409]},{"original":"唐突に怜香さんが保健室に現れる。","lines":[178]},{"original":"唾液をだらしなく垂らすこともためらわない。","lines":[139]},{"original":"完全に、エッチな雰囲気に飲み込まれている\u2026\u2026。","lines":[375]},{"original":"少しもうろうとする意識の中、俺はそんなことを考えていた。","lines":[154]},{"original":"左右の動きも加え、快感を貪っていく\u2026\u2026。","lines":[16]},{"original":"幸いにも誰にも聞こえていないからセーフっぽいが。","lines":[472]},{"original":"幼馴染の母親の濡れ具合なんて知りとうなかった。","lines":[296]},{"original":"徐々に射精は弱まっていく。","lines":[407,411,412,413,415,417,419,431,434,451,454,455,456,461,464,468,469,470,476,485]},{"original":"怜香"},{"original":"怜香.stand","lines":[452]},{"original":"怜香さんが梨々愛を鼻で笑う。","lines":[404]},{"original":"怜香さんってああ見えても、過保護っぽいところあるし。","lines":[481]},{"original":"怜香さんってちょっと男勝りで怖い女性だ。","lines":[37]},{"original":"思わず俺も立ち上がって、梨々愛を追いかけようとする。","lines":[206]},{"original":"愛液もその度に溢れてきて、かなりの大洪水だ。"},{"original":"手上"},{"original":"手下","lines":[315]},{"original":"挑発するみたいに梨々愛が腰を振る。","lines":[34]},{"original":"教室だというのに謎な宣言を大声で告げた梨々愛。","lines":[41]},{"original":"教室を飛び出した梨々愛は中庭にいた。"},{"original":"斜右上","lines":[91]},{"original":"本音を言えば、俺だって梨々愛とキスしたいし\u2026\u2026。","lines":[23,29,31,32,33,42,44,46,48,58,69,71,75,77,81,82,84,89,94,95,96,99,100,101,103,106,110,111,116,117,119,120,123,126,128,129,134,135,136,141,142,144,145,146,149,150,151,156,157,160,161,162,163,168,169,170,171,172,173,174,175,176,182,183,184,185,186,187,188,189,194,195,196,197,201,202,203,207,208,209,214,215,216,260,268,269,270,271,272,273,279,280,281,282,283,284,289,290,291,293,294,301,302,303,307,312,313,314,322,324,325,326,328,329,330,331,332,333,334,335,337,338,339,340,341,342,343,344,345,346,348,349,350,357,358,359,360,361,362,363,370,371,388,392,394,395,396,399,401,403,408,414,416,420,427,433,437,440,441,442,444,445,449,450,460,462,463,477,478,479,480,484,486]},{"original":"梨々愛","lines":[192]},{"original":"梨々愛\u2026\u2026もうイっちゃったんだ\u2026\u2026。","lines":[61]},{"original":"梨々愛からしてみれば、浮気みたいなものなのだろう。","lines":[25]},{"original":"梨々愛が俺たちを見ながら唸り声を上げていた。","lines":[447]},{"original":"梨々愛が喜んでくれているならそれでいいか。","lines":[285]},{"original":"梨々愛が大きな喘ぎ声と共に絶頂を迎える。","lines":[72]},{"original":"梨々愛が近づき、頭を差し出してくる。","lines":[386]},{"original":"梨々愛に中出しを二回もキメてしまった俺氏。","lines":[121]},{"original":"梨々愛に手を引かれ、連れてこられた場所\u2015\u2015","lines":[131]},{"original":"梨々愛のアソコは既に愛液でドロドロだ。","lines":[317]},{"original":"梨々愛の膣内でガチガチに硬く勃起してしまう。","lines":[276]},{"original":"梨々愛の足のせいで、ペニスを抜くことができない。","lines":[190]},{"original":"梨々愛の身体が小刻みに震えている。","lines":[56]},{"original":"梨々愛はそう言っていた。","lines":[204]},{"original":"梨々愛は何度も絶頂を迎える。","lines":[304]},{"original":"梨々愛は絶頂の余韻に浸り、微笑む。","lines":[366]},{"original":"梨々愛は絶頂後の余韻がまだ残っている\u2026\u2026。"},{"original":"梨々愛影","lines":[62]},{"original":"機嫌を損ねるのも仕方がない。"},{"original":"正面手上"},{"original":"正面手下","lines":[389]},{"original":"流石に今日はもう出ないのでやめてください。","lines":[147]},{"original":"浅瀬の部分を攻めるように腰を振っていく。"},{"original":"消"},{"original":"消右","lines":[298]},{"original":"潮吹きみたいにピュッピュッと残りの精液を吐き出す。","lines":[467]},{"original":"猫の縄張り争い的な\u2026\u2026？","lines":[15]},{"original":"男子たちがトイレに走って行ったらどうするんだよ\u2026\u2026。","lines":[210]},{"original":"目元を細めて懇願する梨々愛。"},{"original":"眉ギャグ怒:目ギャグ怒:口ギャグ怒:汗無::頬１"},{"original":"眉ギャグ怒:目ギャグ怒:口ギャグ泣:汗無::頬１"},{"original":"眉ギャグ怒:目ギャグ怒:口怒１:汗無::頬１"},{"original":"眉ギャグ怒:目ギャグ怒:口怒２:汗無::頬１"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"},{"original":"眉ギャグ笑:目ギャグ笑:口ギャグ笑:汗無::頬１"},{"original":"眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１"},{"original":"眉怒１:目ギャグ怒:口怒１:汗無::頬１"},{"original":"眉怒１:目悲２:口怒１:汗無::頬１"},{"original":"眉怒１:目悲２:口笑１:汗無::頬１"},{"original":"眉怒１:目笑２:口笑１:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口怒１:汗無::頬１"},{"original":"眉怒１:目Ａ怒１:口怒２:汗無::頬１"},{"original":"眉怒１:目Ａ悲２:口笑１:汗無::頬１"},{"original":"眉怒１:目Ａ照２:口怒１:汗無::頬１"},{"original":"眉怒１:目Ａ照２:口怒２:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬２"},{"original":"眉怒１:目Ａ笑２:口笑１:汗無::頬１"},{"original":"眉怒２:目ギャグ怒:口怒２:汗無::頬１"},{"original":"眉怒２:目Ａ怒２:口ギャグ泣:汗無::頬１"},{"original":"眉怒２:目Ａ怒２:口怒２:汗無::頬１"},{"original":"眉悲１:目悲２:口怒１:汗無::頬１"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬２"},{"original":"眉悲１:目Ａ悲１:口笑１:汗無::頬１"},{"original":"眉悲１:目Ａ照２:口悲１:汗無::頬２"},{"original":"眉悲１:目Ａ笑１:口悲１:汗無::頬１"},{"original":"眉悲２:目Ａ照２:口怒１:汗無::頬１"},{"original":"眉悲２:目Ａ照２:口悲２:汗無::頬１"},{"original":"眉悲２:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉照１:目Ａ照１:口照１:汗無::頬２"},{"original":"眉照２:目Ａ悲１:口照２:汗無::頬３"},{"original":"眉照２:目Ａ悲２:口照２:汗無::頬３"},{"original":"眉照２:目Ａ照２:口照２:汗無::頬２"},{"original":"眉照２:目Ａ照２:口照２:汗無::頬３"},{"original":"眉照２:目Ａ笑１:口照２:汗無::頬２"},{"original":"眉照２:目Ａ笑１:口照２:汗無::頬３"},{"original":"眉笑１:目悲２:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ悲１:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ悲２:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ照２:口照２:汗無::頬２"},{"original":"眉笑１:目Ａ照２:口笑１:汗無::頬２"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬２"},{"original":"眉笑１:目Ａ笑１:口閉:汗無::頬１"},{"original":"眉笑１:目Ａ驚１:口笑１:汗無::頬１"},{"original":"眉笑２:目笑２:口笑１:汗無::頬１"},{"original":"眉笑２:目Ａ笑１:口笑２:汗無::頬３"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬１"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬２"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬３"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬２","lines":[67]},{"original":"確かに梨々愛はエロいけど、そうじゃない時もあるからだ。","lines":[164]},{"original":"突き上げたペニスが、梨々愛の一番奥にぶつかる。","lines":[153]},{"original":"突き出す動きだけではない。","lines":[278]},{"original":"精液が弾け、どくどくと中に注がれていく。","lines":[191]},{"original":"絡ませる舌の力が弱まっていくのを感じる\u2026\u2026。","lines":[352]},{"original":"絶頂をしている梨々愛の足が、俺の腰をより締め付ける。","lines":[367]},{"original":"腰がガクガクと痙攣するみたいに震えている。","lines":[263]},{"original":"腰を引くことができず、ペニスはより奥へ侵入していく。","lines":[212]},{"original":"膣内でペニスがさらに膨張し、より膣襞の感触を味わえる。","lines":[286]},{"original":"膣口がギュウと力強い締りでペニスを刺激する。","lines":[166]},{"original":"膣襞も気持ちいいけど、ここも気持ちいい\u2026\u2026！","lines":[9,10,12,18,20,22,24,28,30,36,39,43,45,47,49,59,63,64,65,70,74,76,78,85,90,97,98,102,104,105,107,112,118,124,125,133,140,155,158,213,235,243,251,261,266,267,274,292,295,306,308,318,327,336,351,364,385,390,391,393,397,400,402,406,418,429,430,435,438,439,443,446]},{"original":"蓮","lines":[405]},{"original":"親バカっぽいところ、あるしなぁ\u2026\u2026。","lines":[465]},{"original":"親子喧嘩\u2026\u2026ではない。","lines":[262]},{"original":"足を絡められ、俺の身体がホールドされてしまう。"},{"original":"近距離"},{"original":"集中線"},{"original":"零距離","lines":[221]},{"original":"顔にぶっかける"}],"name":52,"lines":[{"type":3,"title":764},{"subtype":0,"type":5},{"name":801,"type":2},{"name":929,"type":2},{"name":834,"type":2},{"subtype":0,"type":5},{"label":14,"type":6},{"name":801,"text":651,"type":1},{"name":801,"text":424,"type":1},{"name":929,"text":429,"type":1},{"name":929,"text":509,"type":1},{"name":801,"text":653,"type":1},{"name":929,"text":511,"type":1},{"text":709,"type":0},{"text":710,"type":0},{"text":861,"type":0},{"text":817,"type":0},{"name":801,"text":543,"type":1},{"name":929,"text":465,"type":1},{"text":697,"type":0},{"name":929,"text":547,"type":1},{"name":801,"text":688,"type":1},{"name":929,"text":510,"type":1},{"name":834,"text":466,"type":1},{"name":929,"text":661,"type":1},{"text":837,"type":0},{"text":742,"type":0},{"text":701,"type":0},{"name":929,"text":518,"type":1},{"name":834,"text":599,"type":1},{"name":929,"text":597,"type":1},{"name":834,"text":598,"type":1},{"name":834,"text":529,"type":1},{"name":834,"text":685,"type":1},{"text":830,"type":0},{"text":717,"type":0},{"name":929,"text":471,"type":1},{"text":825,"type":0},{"name":801,"text":572,"type":1},{"name":929,"text":693,"type":1},{"text":797,"type":0},{"text":831,"type":0},{"name":834,"text":565,"type":1},{"name":929,"text":663,"type":1},{"name":834,"text":627,"type":1},{"name":929,"text":463,"type":1},{"name":834,"text":523,"type":1},{"name":929,"text":628,"type":1},{"name":834,"text":496,"type":1},{"name":929,"text":584,"type":1},{"text":761,"type":0},{"text":734,"type":0},{"text":738,"type":0},{"text":730,"type":0},{"text":796,"type":0},{"text":757,"type":0},{"text":847,"type":0},{"text":728,"type":0},{"name":834,"text":600,"type":1},{"name":929,"text":545,"type":1},{"text":782,"type":0},{"text":836,"type":0},{"text":852,"type":0},{"name":929,"text":491,"type":1},{"name":929,"text":669,"type":1},{"name":929,"text":692,"type":1},{"text":736,"type":0},{"text":918,"type":0},{"text":733,"type":0},{"name":834,"text":575,"type":1},{"name":929,"text":689,"type":1},{"name":834,"text":495,"type":1},{"text":840,"type":0},{"text":696,"type":0},{"name":929,"text":671,"type":1},{"name":834,"text":470,"type":1},{"name":929,"text":673,"type":1},{"name":834,"text":480,"type":1},{"name":929,"text":587,"type":1},{"text":783,"type":0},{"text":803,"type":0},{"name":834,"text":534,"type":1},{"name":834,"text":679,"type":1},{"text":698,"type":0},{"name":834,"text":626,"type":1},{"name":929,"text":467,"type":1},{"text":795,"type":0},{"text":727,"type":0},{"text":760,"type":0},{"name":834,"text":531,"type":1},{"name":929,"text":425,"type":1},{"text":833,"type":0},{"text":750,"type":0},{"text":695,"type":0},{"name":834,"text":612,"type":1},{"name":834,"text":621,"type":1},{"name":834,"text":618,"type":1},{"name":929,"text":588,"type":1},{"name":929,"text":664,"type":1},{"name":834,"text":481,"type":1},{"name":834,"text":592,"type":1},{"name":834,"text":682,"type":1},{"name":929,"text":633,"type":1},{"name":834,"text":486,"type":1},{"name":929,"text":514,"type":1},{"name":929,"text":493,"type":1},{"name":834,"text":644,"type":1},{"name":929,"text":532,"type":1},{"text":765,"type":0},{"text":716,"type":0},{"name":834,"text":571,"type":1},{"name":834,"text":691,"type":1},{"name":929,"text":487,"type":1},{"text":768,"type":0},{"text":747,"type":0},{"text":771,"type":0},{"name":834,"text":676,"type":1},{"name":834,"text":630,"type":1},{"name":929,"text":537,"type":1},{"name":834,"text":488,"type":1},{"name":834,"text":494,"type":1},{"text":842,"type":0},{"text":777,"type":0},{"name":834,"text":489,"type":1},{"name":929,"text":678,"type":1},{"name":929,"text":524,"type":1},{"name":834,"text":452,"type":1},{"text":787,"type":0},{"name":834,"text":606,"type":1},{"name":834,"text":501,"type":1},{"text":808,"type":0},{"text":843,"type":0},{"text":694,"type":0},{"name":929,"text":670,"type":1},{"name":834,"text":447,"type":1},{"name":834,"text":585,"type":1},{"name":834,"text":485,"type":1},{"text":752,"type":0},{"text":704,"type":0},{"text":814,"type":0},{"name":929,"text":659,"type":1},{"name":834,"text":453,"type":1},{"name":834,"text":594,"type":1},{"text":789,"type":0},{"name":834,"text":436,"type":1},{"name":834,"text":456,"type":1},{"name":834,"text":603,"type":1},{"text":856,"type":0},{"text":775,"type":0},{"name":834,"text":596,"type":1},{"name":834,"text":445,"type":1},{"name":834,"text":502,"type":1},{"text":712,"type":0},{"text":920,"type":0},{"text":816,"type":0},{"name":929,"text":655,"type":1},{"name":834,"text":580,"type":1},{"name":834,"text":579,"type":1},{"name":929,"text":665,"type":1},{"text":770,"type":0},{"name":834,"text":449,"type":1},{"name":834,"text":433,"type":1},{"name":834,"text":430,"type":1},{"name":834,"text":439,"type":1},{"text":919,"type":0},{"text":776,"type":0},{"text":928,"type":0},{"text":774,"type":0},{"name":834,"text":490,"type":1},{"name":834,"text":551,"type":1},{"name":834,"text":427,"type":1},{"name":834,"text":550,"type":1},{"name":834,"text":645,"type":1},{"name":834,"text":559,"type":1},{"name":834,"text":616,"type":1},{"name":834,"text":614,"type":1},{"name":834,"text":497,"type":1},{"text":784,"type":0},{"text":813,"type":0},{"text":811,"type":0},{"text":719,"type":0},{"text":726,"type":0},{"name":834,"text":613,"type":1},{"name":834,"text":528,"type":1},{"name":834,"text":479,"type":1},{"name":834,"text":615,"type":1},{"name":834,"text":576,"type":1},{"name":834,"text":617,"type":1},{"name":834,"text":619,"type":1},{"name":834,"text":553,"type":1},{"text":846,"type":0},{"text":922,"type":0},{"text":835,"type":0},{"text":720,"type":0},{"name":834,"text":566,"type":1},{"name":834,"text":567,"type":1},{"name":834,"text":515,"type":1},{"name":834,"text":558,"type":1},{"text":763,"type":0},{"text":751,"type":0},{"text":702,"type":0},{"name":834,"text":609,"type":1},{"name":834,"text":455,"type":1},{"name":834,"text":437,"type":1},{"text":848,"type":0},{"text":718,"type":0},{"text":826,"type":0},{"name":834,"text":462,"type":1},{"name":834,"text":557,"type":1},{"name":834,"text":474,"type":1},{"text":862,"type":0},{"text":722,"type":0},{"text":926,"type":0},{"name":929,"text":662,"type":1},{"name":834,"text":583,"type":1},{"name":834,"text":525,"type":1},{"name":834,"text":683,"type":1},{"subtype":0,"type":5},{"type":3,"title":764},{"subtype":0,"type":5},{"subtype":1,"type":5},{"text":936,"type":4},{"storage":52,"label":11,"type":7},{"text":807,"type":4},{"storage":52,"label":6,"type":7},{"text":810,"type":4},{"storage":52,"label":13,"type":7},{"subtype":2,"type":5},{"label":8,"type":6},{"subtype":0,"type":5},{"type":3,"title":764},{"subtype":0,"type":5},{"name":929,"type":2},{"subtype":0,"type":5},{"label":11,"type":6},{"name":929,"text":660,"type":1},{"storage":52,"label":16,"type":7},{"subtype":0,"type":5},{"type":3,"title":764},{"subtype":0,"type":5},{"name":929,"type":2},{"subtype":0,"type":5},{"label":6,"type":6},{"name":929,"text":657,"type":1},{"storage":52,"label":16,"type":7},{"subtype":0,"type":5},{"type":3,"title":764},{"subtype":0,"type":5},{"name":929,"type":2},{"subtype":0,"type":5},{"label":13,"type":6},{"name":929,"text":658,"type":1},{"storage":52,"label":16,"type":7},{"subtype":0,"type":5},{"type":3,"title":764},{"subtype":0,"type":5},{"name":834,"type":2},{"name":929,"type":2},{"subtype":0,"type":5},{"label":16,"type":6},{"name":834,"text":481,"type":1},{"name":929,"text":468,"type":1},{"text":932,"type":0},{"text":925,"type":0},{"text":756,"type":0},{"text":707,"type":0},{"name":929,"text":498,"type":1},{"name":929,"text":581,"type":1},{"name":834,"text":643,"type":1},{"name":834,"text":451,"type":1},{"name":834,"text":686,"type":1},{"name":834,"text":556,"type":1},{"name":834,"text":601,"type":1},{"name":834,"text":562,"type":1},{"name":929,"text":589,"type":1},{"text":745,"type":0},{"text":845,"type":0},{"text":790,"type":0},{"text":921,"type":0},{"name":834,"text":561,"type":1},{"name":834,"text":438,"type":1},{"name":834,"text":478,"type":1},{"name":834,"text":446,"type":1},{"name":834,"text":458,"type":1},{"name":834,"text":457,"type":1},{"text":839,"type":0},{"text":927,"type":0},{"text":748,"type":0},{"text":791,"type":0},{"name":834,"text":503,"type":1},{"name":834,"text":577,"type":1},{"name":834,"text":605,"type":1},{"name":929,"text":554,"type":1},{"name":834,"text":448,"type":1},{"name":834,"text":484,"type":1},{"name":929,"text":460,"type":1},{"text":819,"type":0},{"text":703,"type":0},{"text":859,"type":0},{"text":715,"type":0},{"text":793,"type":0},{"name":834,"text":473,"type":1},{"name":834,"text":499,"type":1},{"name":834,"text":622,"type":1},{"text":849,"type":0},{"text":724,"type":0},{"name":929,"text":492,"type":1},{"name":834,"text":675,"type":1},{"name":929,"text":536,"type":1},{"text":714,"type":0},{"text":708,"type":0},{"text":809,"type":0},{"name":834,"text":569,"type":1},{"name":834,"text":684,"type":1},{"name":834,"text":482,"type":1},{"text":829,"type":0},{"text":786,"type":0},{"text":844,"type":0},{"name":929,"text":426,"type":1},{"text":780,"type":0},{"text":755,"type":0},{"text":753,"type":0},{"name":834,"text":454,"type":1},{"text":794,"type":0},{"name":834,"text":608,"type":1},{"name":834,"text":500,"type":1},{"name":834,"text":435,"type":1},{"name":929,"text":568,"type":1},{"name":834,"text":464,"type":1},{"name":834,"text":552,"type":1},{"name":834,"text":591,"type":1},{"name":834,"text":522,"type":1},{"name":834,"text":560,"type":1},{"name":834,"text":602,"type":1},{"name":834,"text":504,"type":1},{"name":834,"text":475,"type":1},{"name":929,"text":666,"type":1},{"name":834,"text":444,"type":1},{"name":834,"text":440,"type":1},{"name":834,"text":582,"type":1},{"name":834,"text":549,"type":1},{"name":834,"text":443,"type":1},{"name":834,"text":450,"type":1},{"name":834,"text":642,"type":1},{"name":834,"text":604,"type":1},{"name":834,"text":459,"type":1},{"name":834,"text":428,"type":1},{"text":744,"type":0},{"name":834,"text":607,"type":1},{"name":834,"text":434,"type":1},{"name":834,"text":611,"type":1},{"name":929,"text":590,"type":1},{"text":923,"type":0},{"text":711,"type":0},{"text":699,"type":0},{"text":792,"type":0},{"text":739,"type":0},{"name":834,"text":544,"type":1},{"name":834,"text":441,"type":1},{"name":834,"text":610,"type":1},{"name":834,"text":578,"type":1},{"name":834,"text":555,"type":1},{"name":834,"text":432,"type":1},{"name":834,"text":483,"type":1},{"name":929,"text":656,"type":1},{"text":700,"type":0},{"text":850,"type":0},{"text":924,"type":0},{"text":725,"type":0},{"text":778,"type":0},{"name":834,"text":637,"type":1},{"name":834,"text":620,"type":1},{"text":721,"type":0},{"text":773,"type":0},{"text":749,"type":0},{"text":815,"type":0},{"storage":52,"label":7,"type":7},{"subtype":0,"type":5},{"type":3,"title":764},{"subtype":0,"type":5},{"name":929,"type":2},{"name":834,"type":2},{"name":820,"type":2},{"subtype":0,"type":5},{"label":7,"type":6},{"name":929,"text":647,"type":1},{"text":841,"type":0},{"text":758,"type":0},{"name":834,"text":681,"type":1},{"text":855,"type":0},{"name":929,"text":668,"type":1},{"name":929,"text":623,"type":1},{"name":834,"text":542,"type":1},{"name":929,"text":648,"type":1},{"name":834,"text":640,"type":1},{"name":834,"text":527,"type":1},{"name":834,"text":624,"type":1},{"name":929,"text":546,"type":1},{"text":781,"type":0},{"name":834,"text":595,"type":1},{"name":929,"text":674,"type":1},{"name":834,"text":635,"type":1},{"name":929,"text":654,"type":1},{"name":834,"text":526,"type":1},{"text":823,"type":0},{"text":930,"type":0},{"name":929,"text":521,"type":1},{"name":820,"text":638,"type":1},{"name":834,"text":634,"type":1},{"text":812,"type":0},{"text":705,"type":0},{"name":820,"text":442,"type":1},{"name":820,"text":649,"type":1},{"name":820,"text":461,"type":1},{"name":834,"text":476,"type":1},{"name":820,"text":548,"type":1},{"name":834,"text":530,"type":1},{"name":820,"text":680,"type":1},{"name":929,"text":469,"type":1},{"name":820,"text":672,"type":1},{"name":834,"text":574,"type":1},{"text":769,"type":0},{"text":729,"type":0},{"text":737,"type":0},{"text":723,"type":0},{"text":798,"type":0},{"text":746,"type":0},{"name":834,"text":629,"type":1},{"text":741,"type":0},{"name":929,"text":516,"type":1},{"name":929,"text":631,"type":1},{"name":820,"text":632,"type":1},{"text":713,"type":0},{"name":834,"text":650,"type":1},{"name":820,"text":646,"type":1},{"name":929,"text":625,"type":1},{"text":754,"type":0},{"name":834,"text":652,"type":1},{"name":929,"text":519,"type":1},{"name":929,"text":540,"type":1},{"name":834,"text":690,"type":1},{"name":834,"text":636,"type":1},{"name":834,"text":570,"type":1},{"name":929,"text":677,"type":1},{"name":834,"text":513,"type":1},{"name":834,"text":538,"type":1},{"name":929,"text":472,"type":1},{"text":838,"type":0},{"text":779,"type":0},{"name":834,"text":431,"type":1},{"name":834,"text":593,"type":1},{"name":820,"text":563,"type":1},{"text":822,"type":0},{"text":740,"type":0},{"name":820,"text":667,"type":1},{"name":820,"text":641,"type":1},{"name":820,"text":508,"type":1},{"text":766,"type":0},{"text":706,"type":0},{"text":735,"type":0},{"name":834,"text":506,"type":1},{"name":820,"text":687,"type":1},{"name":834,"text":517,"type":1},{"name":834,"text":505,"type":1},{"name":820,"text":564,"type":1},{"text":931,"type":0},{"text":743,"type":0},{"text":860,"type":0},{"name":820,"text":539,"type":1},{"name":820,"text":639,"type":1},{"name":820,"text":533,"type":1},{"text":762,"type":0},{"text":818,"type":0},{"text":732,"type":0},{"text":759,"type":0},{"text":785,"type":0},{"name":820,"text":541,"type":1},{"name":834,"text":507,"type":1},{"name":834,"text":586,"type":1},{"name":834,"text":535,"type":1},{"name":834,"text":520,"type":1},{"text":824,"type":0},{"text":767,"type":0},{"text":731,"type":0},{"name":834,"text":573,"type":1},{"name":820,"text":512,"type":1},{"name":834,"text":477,"type":1},{"text":788,"type":0},{"storage":52,"label":9,"type":7},{"subtype":0,"type":5},{"type":3,"title":764},{"subtype":0,"type":5},{"label":9,"type":6},{"storage":53,"label":14,"type":7}],"labels":{"16":259,"6":242,"7":384,"8":228,"9":492,"11":234,"13":250,"14":6}}
+{
+  "names": [
+    801,
+    929,
+    834,
+    820
+  ],
+  "strings": [
+    {
+      "original": "$eye"
+    },
+    {
+      "original": "$lip"
+    },
+    {
+      "original": "$lip優"
+    },
+    {
+      "original": "$lip怜香"
+    },
+    {
+      "original": "$lip梨々愛"
+    },
+    {
+      "original": "$lip梨々愛影"
+    },
+    {
+      "original": "*dress"
+    },
+    {
+      "original": "*dummy1"
+    },
+    {
+      "original": "*dummyselect1"
+    },
+    {
+      "original": "*end"
+    },
+    {
+      "original": "*endscene_h"
+    },
+    {
+      "original": "*face"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*mouth"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "*startscene_h"
+    },
+    {
+      "original": "*合流"
+    },
+    {
+      "original": "1"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "1500"
+    },
+    {
+      "original": "1800"
+    },
+    {
+      "original": "2000"
+    },
+    {
+      "original": "250"
+    },
+    {
+      "original": "300"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "350"
+    },
+    {
+      "original": "50"
+    },
+    {
+      "original": "500"
+    },
+    {
+      "original": "750"
+    },
+    {
+      "original": "900"
+    },
+    {
+      "original": "@"
+    },
+    {
+      "original": "@+10"
+    },
+    {
+      "original": "@+100"
+    },
+    {
+      "original": "@-10"
+    },
+    {
+      "original": "@-100"
+    },
+    {
+      "original": "@seladd text=\"制服にぶっかける\" target=*dress"
+    },
+    {
+      "original": "@seladd text=\"口の中で飲ませる\" target=*mouth"
+    },
+    {
+      "original": "@seladd text=\"顔にぶっかける\"   target=*face"
+    },
+    {
+      "original": "@発射カウント_1"
+    },
+    {
+      "original": "@発射カウント_10"
+    },
+    {
+      "original": "@発射カウント_2"
+    },
+    {
+      "original": "@発射カウント_3"
+    },
+    {
+      "original": "@発射カウント_4"
+    },
+    {
+      "original": "@発射カウント_5"
+    },
+    {
+      "original": "@発射カウント_6"
+    },
+    {
+      "original": "@発射カウント_7"
+    },
+    {
+      "original": "@発射カウント_8"
+    },
+    {
+      "original": "@発射カウント_9"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "RandomAction"
+    },
+    {
+      "original": "RandomFlipAction"
+    },
+    {
+      "original": "SinAction"
+    },
+    {
+      "original": "a01_rir_05.ks"
+    },
+    {
+      "original": "a01_rir_06.ks"
+    },
+    {
+      "original": "acdec"
+    },
+    {
+      "original": "all"
+    },
+    {
+      "original": "angry_mark"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg10a"
+    },
+    {
+      "original": "bg11a"
+    },
+    {
+      "original": "bg12a"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm02"
+    },
+    {
+      "original": "bgm03"
+    },
+    {
+      "original": "bgm05"
+    },
+    {
+      "original": "bgm06"
+    },
+    {
+      "original": "bgm08"
+    },
+    {
+      "original": "bgm11"
+    },
+    {
+      "original": "bgm_BGM02"
+    },
+    {
+      "original": "bgm_BGM03"
+    },
+    {
+      "original": "bgm_BGM05"
+    },
+    {
+      "original": "bgm_BGM06"
+    },
+    {
+      "original": "bgm_BGM08"
+    },
+    {
+      "original": "bgm_BGM11"
+    },
+    {
+      "original": "bgv_rir_01"
+    },
+    {
+      "original": "bgv_rir_02"
+    },
+    {
+      "original": "bgv_rir_03"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cdown"
+    },
+    {
+      "original": "cdowncls"
+    },
+    {
+      "original": "cg_@発射カウント_1"
+    },
+    {
+      "original": "cg_@発射カウント_10"
+    },
+    {
+      "original": "cg_@発射カウント_2"
+    },
+    {
+      "original": "cg_@発射カウント_3"
+    },
+    {
+      "original": "cg_@発射カウント_4"
+    },
+    {
+      "original": "cg_@発射カウント_5"
+    },
+    {
+      "original": "cg_@発射カウント_6"
+    },
+    {
+      "original": "cg_@発射カウント_7"
+    },
+    {
+      "original": "cg_@発射カウント_8"
+    },
+    {
+      "original": "cg_@発射カウント_9"
+    },
+    {
+      "original": "cg_angry_mark"
+    },
+    {
+      "original": "cg_ev_rir08a"
+    },
+    {
+      "original": "cg_ev_rir08b"
+    },
+    {
+      "original": "cg_ev_rir08c"
+    },
+    {
+      "original": "cg_ev_rir08d"
+    },
+    {
+      "original": "cg_ev_rir08e"
+    },
+    {
+      "original": "cg_ev_rir08f"
+    },
+    {
+      "original": "cg_ev_rir08g"
+    },
+    {
+      "original": "cg_ev_rir08h"
+    },
+    {
+      "original": "cg_ev_rir08i"
+    },
+    {
+      "original": "cg_ev_rir08j"
+    },
+    {
+      "original": "cg_ev_rir08k"
+    },
+    {
+      "original": "cg_ev_rir08l"
+    },
+    {
+      "original": "cg_ev_rir08m"
+    },
+    {
+      "original": "cg_ev_rir08n"
+    },
+    {
+      "original": "cg_ev_rir08o"
+    },
+    {
+      "original": "cg_ev_rir08p"
+    },
+    {
+      "original": "cg_ic_10"
+    },
+    {
+      "original": "cg_ic_11"
+    },
+    {
+      "original": "cg_question_mark"
+    },
+    {
+      "original": "cg_wh"
+    },
+    {
+      "original": "cg_リリア.stand"
+    },
+    {
+      "original": "cg_優.stand"
+    },
+    {
+      "original": "cg_怜香.stand"
+    },
+    {
+      "original": "cg_集中線"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "d373f56df0843144bd323c657de8e50b"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "emo_梨々愛"
+    },
+    {
+      "original": "emotion"
+    },
+    {
+      "original": "endrecollection"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "ev"
+    },
+    {
+      "original": "ev_rir08a"
+    },
+    {
+      "original": "ev_rir08b"
+    },
+    {
+      "original": "ev_rir08c"
+    },
+    {
+      "original": "ev_rir08d"
+    },
+    {
+      "original": "ev_rir08e"
+    },
+    {
+      "original": "ev_rir08f"
+    },
+    {
+      "original": "ev_rir08g"
+    },
+    {
+      "original": "ev_rir08h"
+    },
+    {
+      "original": "ev_rir08i"
+    },
+    {
+      "original": "ev_rir08j"
+    },
+    {
+      "original": "ev_rir08k"
+    },
+    {
+      "original": "ev_rir08l"
+    },
+    {
+      "original": "ev_rir08m"
+    },
+    {
+      "original": "ev_rir08n"
+    },
+    {
+      "original": "ev_rir08o"
+    },
+    {
+      "original": "ev_rir08p"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "evcut"
+    },
+    {
+      "original": "event"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eye"
+    },
+    {
+      "original": "eyecatch"
+    },
+    {
+      "original": "eyeflipdisable"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "flash"
+    },
+    {
+      "original": "hloopse"
+    },
+    {
+      "original": "hlse"
+    },
+    {
+      "original": "hse"
+    },
+    {
+      "original": "ic_10"
+    },
+    {
+      "original": "ic_11"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "layer"
+    },
+    {
+      "original": "left"
+    },
+    {
+      "original": "light"
+    },
+    {
+      "original": "line"
+    },
+    {
+      "original": "loop"
+    },
+    {
+      "original": "map27b"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "msgchange"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "name"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "opacity"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "playvoice"
+    },
+    {
+      "original": "pretrans"
+    },
+    {
+      "original": "question_mark"
+    },
+    {
+      "original": "reika_0113"
+    },
+    {
+      "original": "reika_0114"
+    },
+    {
+      "original": "reika_0115"
+    },
+    {
+      "original": "reika_0116"
+    },
+    {
+      "original": "reika_0117"
+    },
+    {
+      "original": "reika_0118"
+    },
+    {
+      "original": "reika_0119"
+    },
+    {
+      "original": "reika_0120"
+    },
+    {
+      "original": "reika_0121"
+    },
+    {
+      "original": "reika_0122"
+    },
+    {
+      "original": "reika_0123"
+    },
+    {
+      "original": "reika_0124"
+    },
+    {
+      "original": "reika_0125"
+    },
+    {
+      "original": "reika_0126"
+    },
+    {
+      "original": "reika_0127"
+    },
+    {
+      "original": "reika_0128"
+    },
+    {
+      "original": "reika_0128_02"
+    },
+    {
+      "original": "reika_0129"
+    },
+    {
+      "original": "reika_0130"
+    },
+    {
+      "original": "reika_0131"
+    },
+    {
+      "original": "riria_1331"
+    },
+    {
+      "original": "riria_1332"
+    },
+    {
+      "original": "riria_1333"
+    },
+    {
+      "original": "riria_1334"
+    },
+    {
+      "original": "riria_1335"
+    },
+    {
+      "original": "riria_1336"
+    },
+    {
+      "original": "riria_1337"
+    },
+    {
+      "original": "riria_1338"
+    },
+    {
+      "original": "riria_1339"
+    },
+    {
+      "original": "riria_1340"
+    },
+    {
+      "original": "riria_1341"
+    },
+    {
+      "original": "riria_1342"
+    },
+    {
+      "original": "riria_1343"
+    },
+    {
+      "original": "riria_1344"
+    },
+    {
+      "original": "riria_1345"
+    },
+    {
+      "original": "riria_1346"
+    },
+    {
+      "original": "riria_1347"
+    },
+    {
+      "original": "riria_1348"
+    },
+    {
+      "original": "riria_1349"
+    },
+    {
+      "original": "riria_1350"
+    },
+    {
+      "original": "riria_1351"
+    },
+    {
+      "original": "riria_1352"
+    },
+    {
+      "original": "riria_1353"
+    },
+    {
+      "original": "riria_1354"
+    },
+    {
+      "original": "riria_1355"
+    },
+    {
+      "original": "riria_1356"
+    },
+    {
+      "original": "riria_1357"
+    },
+    {
+      "original": "riria_1358"
+    },
+    {
+      "original": "riria_1359"
+    },
+    {
+      "original": "riria_1360"
+    },
+    {
+      "original": "riria_1361"
+    },
+    {
+      "original": "riria_1362"
+    },
+    {
+      "original": "riria_1363"
+    },
+    {
+      "original": "riria_1364"
+    },
+    {
+      "original": "riria_1365"
+    },
+    {
+      "original": "riria_1366"
+    },
+    {
+      "original": "riria_1367"
+    },
+    {
+      "original": "riria_1368"
+    },
+    {
+      "original": "riria_1369"
+    },
+    {
+      "original": "riria_1370"
+    },
+    {
+      "original": "riria_1371"
+    },
+    {
+      "original": "riria_1372"
+    },
+    {
+      "original": "riria_1373"
+    },
+    {
+      "original": "riria_1374"
+    },
+    {
+      "original": "riria_1375"
+    },
+    {
+      "original": "riria_1376"
+    },
+    {
+      "original": "riria_1377"
+    },
+    {
+      "original": "riria_1378"
+    },
+    {
+      "original": "riria_1379"
+    },
+    {
+      "original": "riria_1380"
+    },
+    {
+      "original": "riria_1381"
+    },
+    {
+      "original": "riria_1382"
+    },
+    {
+      "original": "riria_1383"
+    },
+    {
+      "original": "riria_1384"
+    },
+    {
+      "original": "riria_1385"
+    },
+    {
+      "original": "riria_1386"
+    },
+    {
+      "original": "riria_1387"
+    },
+    {
+      "original": "riria_1388"
+    },
+    {
+      "original": "riria_1389"
+    },
+    {
+      "original": "riria_1390"
+    },
+    {
+      "original": "riria_1391"
+    },
+    {
+      "original": "riria_1392"
+    },
+    {
+      "original": "riria_1393"
+    },
+    {
+      "original": "riria_1394"
+    },
+    {
+      "original": "riria_1395"
+    },
+    {
+      "original": "riria_1396"
+    },
+    {
+      "original": "riria_1397"
+    },
+    {
+      "original": "riria_1398"
+    },
+    {
+      "original": "riria_1399"
+    },
+    {
+      "original": "riria_1400"
+    },
+    {
+      "original": "riria_1401"
+    },
+    {
+      "original": "riria_1402"
+    },
+    {
+      "original": "riria_1403"
+    },
+    {
+      "original": "riria_1404"
+    },
+    {
+      "original": "riria_1405"
+    },
+    {
+      "original": "riria_1406"
+    },
+    {
+      "original": "riria_1407"
+    },
+    {
+      "original": "riria_1408"
+    },
+    {
+      "original": "riria_1409"
+    },
+    {
+      "original": "riria_1410"
+    },
+    {
+      "original": "riria_1411"
+    },
+    {
+      "original": "riria_1412"
+    },
+    {
+      "original": "riria_1413"
+    },
+    {
+      "original": "riria_1414"
+    },
+    {
+      "original": "riria_1415"
+    },
+    {
+      "original": "riria_1416"
+    },
+    {
+      "original": "riria_1417"
+    },
+    {
+      "original": "riria_1418"
+    },
+    {
+      "original": "riria_1419"
+    },
+    {
+      "original": "riria_1420"
+    },
+    {
+      "original": "riria_1421"
+    },
+    {
+      "original": "riria_1422"
+    },
+    {
+      "original": "riria_1423"
+    },
+    {
+      "original": "riria_1424"
+    },
+    {
+      "original": "riria_1425"
+    },
+    {
+      "original": "riria_1426"
+    },
+    {
+      "original": "riria_1427"
+    },
+    {
+      "original": "riria_1428"
+    },
+    {
+      "original": "riria_1429"
+    },
+    {
+      "original": "riria_1430"
+    },
+    {
+      "original": "riria_1431"
+    },
+    {
+      "original": "riria_1432"
+    },
+    {
+      "original": "riria_1433"
+    },
+    {
+      "original": "riria_1434"
+    },
+    {
+      "original": "riria_1435"
+    },
+    {
+      "original": "riria_1436"
+    },
+    {
+      "original": "riria_1437"
+    },
+    {
+      "original": "riria_1438"
+    },
+    {
+      "original": "riria_1439"
+    },
+    {
+      "original": "riria_1440"
+    },
+    {
+      "original": "riria_1441"
+    },
+    {
+      "original": "riria_1442"
+    },
+    {
+      "original": "riria_1443"
+    },
+    {
+      "original": "riria_1444"
+    },
+    {
+      "original": "riria_1445"
+    },
+    {
+      "original": "riria_1446"
+    },
+    {
+      "original": "riria_1447"
+    },
+    {
+      "original": "riria_1448"
+    },
+    {
+      "original": "riria_1449"
+    },
+    {
+      "original": "riria_1450"
+    },
+    {
+      "original": "riria_1451"
+    },
+    {
+      "original": "riria_1452"
+    },
+    {
+      "original": "riria_1453"
+    },
+    {
+      "original": "riria_1454"
+    },
+    {
+      "original": "riria_1455"
+    },
+    {
+      "original": "riria_1456"
+    },
+    {
+      "original": "riria_1457"
+    },
+    {
+      "original": "riria_1458"
+    },
+    {
+      "original": "riria_1459"
+    },
+    {
+      "original": "riria_1460"
+    },
+    {
+      "original": "riria_1461"
+    },
+    {
+      "original": "riria_1462"
+    },
+    {
+      "original": "riria_1463"
+    },
+    {
+      "original": "riria_1464"
+    },
+    {
+      "original": "riria_1465"
+    },
+    {
+      "original": "riria_1466"
+    },
+    {
+      "original": "riria_1467"
+    },
+    {
+      "original": "riria_1468"
+    },
+    {
+      "original": "riria_1469"
+    },
+    {
+      "original": "riria_1470"
+    },
+    {
+      "original": "riria_1471"
+    },
+    {
+      "original": "riria_1472"
+    },
+    {
+      "original": "riria_1473"
+    },
+    {
+      "original": "riria_1474"
+    },
+    {
+      "original": "riria_1475"
+    },
+    {
+      "original": "riria_1476"
+    },
+    {
+      "original": "riria_1477"
+    },
+    {
+      "original": "riria_1478"
+    },
+    {
+      "original": "riria_1479"
+    },
+    {
+      "original": "riria_1480"
+    },
+    {
+      "original": "riria_1481"
+    },
+    {
+      "original": "riria_1482"
+    },
+    {
+      "original": "riria_1483"
+    },
+    {
+      "original": "riria_1484"
+    },
+    {
+      "original": "riria_1485"
+    },
+    {
+      "original": "riria_1486"
+    },
+    {
+      "original": "riria_1487"
+    },
+    {
+      "original": "riria_1488"
+    },
+    {
+      "original": "riria_1489"
+    },
+    {
+      "original": "riria_1490"
+    },
+    {
+      "original": "riria_1491"
+    },
+    {
+      "original": "riria_1492"
+    },
+    {
+      "original": "riria_1493"
+    },
+    {
+      "original": "riria_1494"
+    },
+    {
+      "original": "riria_1495"
+    },
+    {
+      "original": "riria_1496"
+    },
+    {
+      "original": "riria_1497"
+    },
+    {
+      "original": "riria_1499"
+    },
+    {
+      "original": "riria_1500"
+    },
+    {
+      "original": "riria_1501"
+    },
+    {
+      "original": "riria_1502"
+    },
+    {
+      "original": "riria_1503"
+    },
+    {
+      "original": "riria_1504"
+    },
+    {
+      "original": "rotate"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "seladd"
+    },
+    {
+      "original": "sezip"
+    },
+    {
+      "original": "seガタッと物音"
+    },
+    {
+      "original": "seキラキラー"
+    },
+    {
+      "original": "seギャグ走りの音"
+    },
+    {
+      "original": "se布団擦れ"
+    },
+    {
+      "original": "se平手強"
+    },
+    {
+      "original": "se心音怒り"
+    },
+    {
+      "original": "se抱きつく音"
+    },
+    {
+      "original": "se擬音ピストン中"
+    },
+    {
+      "original": "se擬音ピストン速"
+    },
+    {
+      "original": "se擬音ピストン遅"
+    },
+    {
+      "original": "se擬音プシャッ"
+    },
+    {
+      "original": "se擬音射精内"
+    },
+    {
+      "original": "se擬音挿入１挿"
+    },
+    {
+      "original": "se擬音挿入Ａ"
+    },
+    {
+      "original": "se擬音膣圧大"
+    },
+    {
+      "original": "se環境音ネコ鈴"
+    },
+    {
+      "original": "se環境音学園チャイム"
+    },
+    {
+      "original": "se締め付け"
+    },
+    {
+      "original": "seＨヌチュloop"
+    },
+    {
+      "original": "sf.hsel_f<0"
+    },
+    {
+      "original": "sf.hsel_f>0"
+    },
+    {
+      "original": "sf.replay_rir_04h"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "stop"
+    },
+    {
+      "original": "stopaction"
+    },
+    {
+      "original": "stopvoice"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "sync"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "thlabel_endscene_h"
+    },
+    {
+      "original": "thlabel_startscene_h"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "true"
+    },
+    {
+      "original": "type"
+    },
+    {
+      "original": "universal"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "voice"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "wh"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "yu_0496"
+    },
+    {
+      "original": "yu_0498"
+    },
+    {
+      "original": "yu_0499"
+    },
+    {
+      "original": "yu_0500"
+    },
+    {
+      "original": "yu_0501"
+    },
+    {
+      "original": "yu_0502"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        8
+      ]
+    },
+    {
+      "original": "「――ということがあって」",
+      "lines": [
+        90
+      ]
+    },
+    {
+      "original": "「……じゃあ、ちょっとだけだからな」",
+      "lines": [
+        318
+      ]
+    },
+    {
+      "original": "「……梨々愛がだめって言っても、休ませないからな？」",
+      "lines": [
+        170
+      ]
+    },
+    {
+      "original": "「ぁあんっ……はぅぁっ、あっ、はぁっ、はぁーっ……！」",
+      "lines": [
+        346
+      ]
+    },
+    {
+      "original": "「あ、あ、あ、あ、あぁぁぁぁぁぁんっ♪　きてぇぇえぇぇぇぇぇぇっ♪」",
+      "lines": [
+        9
+      ]
+    },
+    {
+      "original": "「あ、あのなぁ……」",
+      "lines": [
+        162
+      ]
+    },
+    {
+      "original": "「あ、すごっ……おく、きもちいっ……！　なにこれ、すごいぃぃぃっ……！」",
+      "lines": [
+        449
+      ]
+    },
+    {
+      "original": "「あ、そうだママ！　聞いて聞いて！」",
+      "lines": [
+        362
+      ]
+    },
+    {
+      "original": "「あぁぁぁっ……せーえき、すごぉい……♪」",
+      "lines": [
+        161
+      ]
+    },
+    {
+      "original": "「あぁぁぁっ……！　おくっ……んぁっ……！　おくに、きてるよぉぉっ……！」",
+      "lines": [
+        349
+      ]
+    },
+    {
+      "original": "「あぁあぁぁぁぁっ……♪　はっ、あっ……あああぁあぁぁぁぁぁっ……♪」",
+      "lines": [
+        326
+      ]
+    },
+    {
+      "original": "「あぁあんっ！　せーえき、かきだされちゃってるっ！　もったいなぃっ！　はぁんっ！」",
+      "lines": [
+        144
+      ]
+    },
+    {
+      "original": "「あぁっ、んぁっ、あぁぁっ……！　はぁんっ……！」",
+      "lines": [
+        203
+      ]
+    },
+    {
+      "original": "「あぁんっ、はぁんっ、やぁあんっ……！　あぁーっ……！」",
+      "lines": [
+        280
+      ]
+    },
+    {
+      "original": "「ああぁぁっ……！　すごい、出てる……！　中で、しゃせーされちゃってるっ……！」",
+      "lines": [
+        163
+      ]
+    },
+    {
+      "original": "「ああぁんっ！　んぁぁっ……！　はぁはぁ、あぁっ……！」",
+      "lines": [
+        338
+      ]
+    },
+    {
+      "original": "「あかちゃんのおへや、またいっぱいにしてぇぇぇ♪」",
+      "lines": [
+        358
+      ]
+    },
+    {
+      "original": "「あかちゃんのおへやぁぁ……もっといっぱいになっちゃうぅぅぅぅ……♪」",
+      "lines": [
+        411
+      ]
+    },
+    {
+      "original": "「あたしがいなかったら、梨々愛はもっとバカ娘に育っていただろうな」",
+      "lines": [
+        341
+      ]
+    },
+    {
+      "original": "「あっ♪　あっ♪　あっ♪　あっ♪　んぁ、んふぁっ♪」",
+      "lines": [
+        337
+      ]
+    },
+    {
+      "original": "「あっ、あぁっ♪　はっ、ああぁっ♪　だして、中にいっぱいだしてぇっ♪」",
+      "lines": [
+        150
+      ]
+    },
+    {
+      "original": "「あっ、あっ、あっ、あぁぁっー、あぁぁんっ……♪」",
+      "lines": [
+        282
+      ]
+    },
+    {
+      "original": "「あっ、いくっ……！　中出しされていくうぅぅっ……！！」",
+      "lines": [
+        134
+      ]
+    },
+    {
+      "original": "「あは、そんなに早くわたしの中に入りたかったんだ……？」",
+      "lines": [
+        293
+      ]
+    },
+    {
+      "original": "「あは、まだ出てる……♪」",
+      "lines": [
+        160
+      ]
+    },
+    {
+      "original": "「あふぅぅぅうぅうぅっ……♪」",
+      "lines": [
+        342
+      ]
+    },
+    {
+      "original": "「あんっ♪　もっと大きいの、きちゃうっ♪　はぁあんっ♪」",
+      "lines": [
+        269
+      ]
+    },
+    {
+      "original": "「あんっ！　あぁんっ！　はぁんっ！　やぁんっ！　んぃああぁぁっ！」",
+      "lines": [
+        126
+      ]
+    },
+    {
+      "original": "「いいからいいから、気にしない気にしない♪」",
+      "lines": [
+        141
+      ]
+    },
+    {
+      "original": "「いいよ、好きに動いて……？」",
+      "lines": [
+        322
+      ]
+    },
+    {
+      "original": "「いいよ、蓮くんの好きにして……♪」",
+      "lines": [
+        202
+      ]
+    },
+    {
+      "original": "「いきすぎて、おかしくなっちゃうよぉぉっ……！」",
+      "lines": [
+        145
+      ]
+    },
+    {
+      "original": "「いきなり、すごぉいっ……！　んぁっ、すごいぃっ……！」",
+      "lines": [
+        284
+      ]
+    },
+    {
+      "original": "「いくうぅぅぅううぅうぅぅぅうぅうぅぅぅぅっ♪」",
+      "lines": [
+        283
+      ]
+    },
+    {
+      "original": "「いっちゃうっ！　いっちゃうっ！　もぉ、いくぅぅ……！」",
+      "lines": [
+        345
+      ]
+    },
+    {
+      "original": "「いってぇっ♪　いってぇぇぇっ♪　ふぁぁあぁっ♪」",
+      "lines": [
+        295
+      ]
+    },
+    {
+      "original": "「うぁ……！　そ、そんなに締め付けられたら……！」",
+      "lines": [
+        413
+      ]
+    },
+    {
+      "original": "「うちのバカ娘は、ピルってのは避妊薬だってことを噛み砕いて説明しないと分からなかったんだぞ」",
+      "lines": [
+        207
+      ]
+    },
+    {
+      "original": "「うっ、うぅぅっ……！　も、もうだめ、いきすぎてしんじゃいそう……！」",
+      "lines": [
+        45
+      ]
+    },
+    {
+      "original": "「うわ、キレてる……」",
+      "lines": [
+        328
+      ]
+    },
+    {
+      "original": "「うん……かきだしちゃった分、またいっぱいにしてくれなくちゃだめだよ……？」",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "「うん、まぁ、エロいな……」",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "「う゛ぅ゛ぅ゛ぅ゛ぅ゛ぅ゛ぅ゛ぅ゛……！！」",
+      "lines": [
+        85
+      ]
+    },
+    {
+      "original": "「え……ここでキスするのか……？」",
+      "lines": [
+        261
+      ]
+    },
+    {
+      "original": "「え、あ、ちょ……！　あ、梨々愛っ……！？」",
+      "lines": [
+        418
+      ]
+    },
+    {
+      "original": "「えぇ？　どういうことです？」",
+      "lines": [
+        75
+      ]
+    },
+    {
+      "original": "「えへへーそうだよ、あたしエロいんだよーえへへへー♪」",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "「お、おい！？　り、梨々愛！？　どこ行くんだよ！？」",
+      "lines": [
+        446
+      ]
+    },
+    {
+      "original": "「お、おう」",
+      "lines": [
+        301
+      ]
+    },
+    {
+      "original": "「おなかの中、赤ちゃんのお部屋まであったかいのでいっぱいになっちゃった……♪」",
+      "lines": [
+        209
+      ]
+    },
+    {
+      "original": "「おねがい、いって……！　もっとめちゃくちゃにしていいから、はやくだしてぇっ……！！」",
+      "lines": [
+        335
+      ]
+    },
+    {
+      "original": "「おま○こでご奉仕しちゃうからぁっ♪　あぁんっ♪」",
+      "lines": [
+        414
+      ]
+    },
+    {
+      "original": "「お母さん、しーっ！　しぃーっ！」",
+      "lines": [
+        486
+      ]
+    },
+    {
+      "original": "「お金を人質に取るなんてサイッテー！」",
+      "lines": [
+        281
+      ]
+    },
+    {
+      "original": "「からだの、一番奥まで届いてぇ……！　はぁああぁぁぁああぁああんっ！」",
+      "lines": [
+        184
+      ]
+    },
+    {
+      "original": "「きしゅ……よけいにきもちよくて……いっちゃぅっ……！」",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "「きゅぅ～～～ん♪」",
+      "lines": [
+        99,
+        260
+      ]
+    },
+    {
+      "original": "「くす、だぁめ……♪」",
+      "lines": [
+        314
+      ]
+    },
+    {
+      "original": "「くす、またわたしの中でぱんぱんにかたくなってきちゃってる……♪」",
+      "lines": [
+        363
+      ]
+    },
+    {
+      "original": "「くす、またわたしの中に……いっぱいきたぁ……♪」",
+      "lines": [
+        294
+      ]
+    },
+    {
+      "original": "「くす、最後まで全部搾りとってあげる……♪」",
+      "lines": [
+        136
+      ]
+    },
+    {
+      "original": "「くす、蓮くん、可愛い……♪」",
+      "lines": [
+        103
+      ]
+    },
+    {
+      "original": "「くす、蓮くんどうする……？　どうしちゃう……？」",
+      "lines": [
+        112
+      ]
+    },
+    {
+      "original": "「ぐぬぬ……」",
+      "lines": [
+        119
+      ]
+    },
+    {
+      "original": "「ここじゃなかったらいいの……？」",
+      "lines": [
+        123
+      ]
+    },
+    {
+      "original": "「ここなら誰もいないし、大丈夫だよね♪」",
+      "lines": [
+        168
+      ]
+    },
+    {
+      "original": "「こんなの、すぐにいっちゃうっ……！　あぁぁっ、だめぇぇぇ、気持ち良すぎだよぉ……！」",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "「ごめん……俺はそんなつもりで言ったんじゃないだ……」",
+      "lines": [
+        306
+      ]
+    },
+    {
+      "original": "「ごめん梨々愛……俺、中で……」",
+      "lines": [
+        105
+      ]
+    },
+    {
+      "original": "「さ、流石に学園の中じゃマズイって……」",
+      "lines": [
+        120
+      ]
+    },
+    {
+      "original": "「じゃ、蓮くんこっちこっち」",
+      "lines": [
+        71
+      ]
+    },
+    {
+      "original": "「じゃあ……わたしのこと、褒めて……？」",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "「じゃあ、キレてるもん！　キレッキレだもん！」",
+      "lines": [
+        176
+      ]
+    },
+    {
+      "original": "「じゅるっ、じゅるっ、ちゅるるるっ……！　んぁっ、んんんんんんんっ……！」",
+      "lines": [
+        266
+      ]
+    },
+    {
+      "original": "「す、好きなとこで出していいって言ったのに……うぁあぁぁぁぁあぁっ！」",
+      "lines": [
+        302
+      ]
+    },
+    {
+      "original": "「すごい、おま○こしあわせ……♪」",
+      "lines": [
+        325
+      ]
+    },
+    {
+      "original": "「すごい、ぐちゃぐちゃいってるっ♪　音、いっぱいでちゃってるぅっ♪」",
+      "lines": [
+        129
+      ]
+    },
+    {
+      "original": "「すごい、カタくておっきいぃぃ……♪」",
+      "lines": [
+        151
+      ]
+    },
+    {
+      "original": "「すごい、気持ちいいっ♪　あぁ、気持ちいいよぉっ♪」",
+      "lines": [
+        289
+      ]
+    },
+    {
+      "original": "「すごいっ♪　んぁあっ♪　すごぉぃいっ♪　はぅぁあっ♪」",
+      "lines": [
+        334
+      ]
+    },
+    {
+      "original": "「ずぼずぼ、ぐちゅぐちゅって、腰振っちゃうからぁっ♪」",
+      "lines": [
+        463
+      ]
+    },
+    {
+      "original": "「ぜ、全然うらやましくなんかないだからねっ！」",
+      "lines": [
+        460
+      ]
+    },
+    {
+      "original": "「そ、そんなことないもん！　わたしだってすぐにもっとエロくなるし！」",
+      "lines": [
+        477
+      ]
+    },
+    {
+      "original": "「そ、そんなの今からやるところだったんだもん！」",
+      "lines": [
+        456
+      ]
+    },
+    {
+      "original": "「そう、あたしのがエロい」",
+      "lines": [
+        10
+      ]
+    },
+    {
+      "original": "「そういうこと、ここで言うか……？」",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "「そういうことでいいよもう……」",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "「そういうわけじゃないけどさ……」",
+      "lines": [
+        485
+      ]
+    },
+    {
+      "original": "「そうかそうか、だったら小遣いを減らしてやってもいいんだぞ？」",
+      "lines": [
+        444
+      ]
+    },
+    {
+      "original": "「その、いろいろとごめんなさい……」",
+      "lines": [
+        104
+      ]
+    },
+    {
+      "original": "「そんなこと言われても……」",
+      "lines": [
+        196
+      ]
+    },
+    {
+      "original": "「そんなに激しくしちゃ、だめぇぇっ……！　んあぁっ……！　やぁあんっ……！」",
+      "lines": [
+        429
+      ]
+    },
+    {
+      "original": "「そんなに興味ないですけど一応聞きますが……」",
+      "lines": [
+        462
+      ]
+    },
+    {
+      "original": "「そんなサルみたいなえっちしたくないし！」",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "「そんな唸り声出して、どうかしたか……？」",
+      "lines": [
+        438
+      ]
+    },
+    {
+      "original": "「そんな栄養ドリンクみたいな言い方されても……」",
+      "lines": [
+        480
+      ]
+    },
+    {
+      "original": "「た、叩いたね！？　蓮くんにも叩かれたことないのに！？」",
+      "lines": [
+        406
+      ]
+    },
+    {
+      "original": "「たしかに、孫を溺愛しそうだよなぁ」",
+      "lines": [
+        331
+      ]
+    },
+    {
+      "original": "「だから……蓮くんが出したいときに出して……♪」",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "「だから、キレてないってば！　もぉう！」",
+      "lines": [
+        125
+      ]
+    },
+    {
+      "original": "「だからと言って大丈夫かと言われたらＮＯだと思うが……」",
+      "lines": [
+        215
+      ]
+    },
+    {
+      "original": "「だして、いっぱいだしてっ……♪」",
+      "lines": [
+        403
+      ]
+    },
+    {
+      "original": "「だって、わたしみたいな子に育っちゃう……」",
+      "lines": [
+        395
+      ]
+    },
+    {
+      "original": "「だって、ハーフとかクォーターって、最近はすっごい多いと思うよ？」",
+      "lines": [
+        183
+      ]
+    },
+    {
+      "original": "「だめ、あっ、いくっ……！　もうだめ、いく、いくっ……！　いくっ、ああぁぁぁっ……！！」",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "「だもん！　だもん！　だもん！（エコー）」",
+      "lines": [
+        416
+      ]
+    },
+    {
+      "original": "「ちっがーう！」",
+      "lines": [
+        89
+      ]
+    },
+    {
+      "original": "「ちゅーしてくれるまで教室に戻らないからぁ……！」",
+      "lines": [
+        107
+      ]
+    },
+    {
+      "original": "「ちょ、ちょっと梨々愛……！」",
+      "lines": [
+        470
+      ]
+    },
+    {
+      "original": "「ったく……あたしみたいにこんな濡らしやがって……血は争えないな……」",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "「って、わたしはこれくらいじゃ満足しないんだからね！」",
+      "lines": [
+        479
+      ]
+    },
+    {
+      "original": "「ってあいたぁっ！！」",
+      "lines": [
+        308
+      ]
+    },
+    {
+      "original": "「で、でも……危険なのには変わりないし……」",
+      "lines": [
+        118
+      ]
+    },
+    {
+      "original": "「で、でもここじゃ本当に流石にマズいって……！」",
+      "lines": [
+        445
+      ]
+    },
+    {
+      "original": "「で、でもわたしは嬉しかったよ！　蓮くんが責任取るって言ってくれて！」",
+      "lines": [
+        468
+      ]
+    },
+    {
+      "original": "「というか、保健室でエッチなんかするなこのバカども！」",
+      "lines": [
+        439
+      ]
+    },
+    {
+      "original": "「というか、飲んでるなら言ってくれればよかったのに……」",
+      "lines": [
+        476
+      ]
+    },
+    {
+      "original": "「とりあえずお前が汚したシーツとっとと洗って来い！」",
+      "lines": [
+        392
+      ]
+    },
+    {
+      "original": "「どうなのって？？」",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "「どう？　エロい？」",
+      "lines": [
+        357
+      ]
+    },
+    {
+      "original": "「どくどくどくってぇぇぇっ、はいってきたぁぁぁっ……♪」",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "「なるほど……」",
+      "lines": [
+        397
+      ]
+    },
+    {
+      "original": "「なるほどなぁ……」",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "「なんか、呆れるを通り越して感心するよ……」",
+      "lines": [
+        415
+      ]
+    },
+    {
+      "original": "「なんだ？　おしっこか？」",
+      "lines": [
+        340
+      ]
+    },
+    {
+      "original": "「にんしんしちゃうくらい、いっぱいきてぇぇっ♪　んぃぁぁぁっ♪」",
+      "lines": [
+        171
+      ]
+    },
+    {
+      "original": "「ねぇ……キスぅ……キスして……！　んぃぁあっ……！」",
+      "lines": [
+        169
+      ]
+    },
+    {
+      "original": "「はぁぁあんっ……！　わたし、もういっちゃいそう……！」",
+      "lines": [
+        329
+      ]
+    },
+    {
+      "original": "「はぁあんっ！　やあぁあんっ！　あ、あぁぁぁっ！」",
+      "lines": [
+        189
+      ]
+    },
+    {
+      "original": "「はぁはぁ……んぁ、あぁんっ……ちゅるちゅる……♪」",
+      "lines": [
+        292
+      ]
+    },
+    {
+      "original": "「はぁはぁはぁ……！！」",
+      "lines": [
+        361
+      ]
+    },
+    {
+      "original": "「はぁはぁはぁはぁ、あぁん……♪」",
+      "lines": [
+        271
+      ]
+    },
+    {
+      "original": "「はっ、はぁっ、はぁぁーっ！　ふぁっ、やぁあんっ！　きてぇぇっ！」",
+      "lines": [
+        208
+      ]
+    },
+    {
+      "original": "「はやくせーえきだしてとまってくれないと……おかしくなりすぎちゃうぅぅぅ……！！」",
+      "lines": [
+        197
+      ]
+    },
+    {
+      "original": "「ひゃぁあぁぁぁぁああぁあぁんっ♪」",
+      "lines": [
+        173
+      ]
+    },
+    {
+      "original": "「ひゃぁあんっ……！　キスで、わたしのお口、ふさいでぇええぇっ……！」",
+      "lines": [
+        332
+      ]
+    },
+    {
+      "original": "「ふぁあぁぁぁぁぁっ♪　はぁぁあんっ♪　んいぃぃっ♪」",
+      "lines": [
+        279
+      ]
+    },
+    {
+      "original": "「ふあぁぁあぁあああああぁっ♪」",
+      "lines": [
+        273
+      ]
+    },
+    {
+      "original": "「ふあぁぁああぁぁっ！　いくいくいくっ！　あぁあぁあぁぁあぁんっ！」",
+      "lines": [
+        451
+      ]
+    },
+    {
+      "original": "「ふんっ、あんた薄いし浅すぎる」",
+      "lines": [
+        464
+      ]
+    },
+    {
+      "original": "「ふんっ、それは負け惜しみだな」",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "「ぷんぷん！」",
+      "lines": [
+        194
+      ]
+    },
+    {
+      "original": "「ま、待って……！　いった、いったからっ……！　あっ、ああっ、やぁぁっ！！」",
+      "lines": [
+        195
+      ]
+    },
+    {
+      "original": "「また、いっちゃうからぁっ……！　あぁあんっ……！　だめだめだめだめぇぇぇっ……！」",
+      "lines": [
+        327
+      ]
+    },
+    {
+      "original": "「またいっぱい出すから大丈夫だ……！」",
+      "lines": [
+        312
+      ]
+    },
+    {
+      "original": "「まだまだせーえき、出せるよね……？」",
+      "lines": [
+        442
+      ]
+    },
+    {
+      "original": "「みたいなギリギリのラインを楽しんでほしくてですね……」",
+      "lines": [
+        110
+      ]
+    },
+    {
+      "original": "「もうこんなにカタくしちゃって……♪」",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "「もうすぐ授業始まるけど」",
+      "lines": [
+        484
+      ]
+    },
+    {
+      "original": "「もうママにはわたしの服、貸してあげないんだから！」",
+      "lines": [
+        420
+      ]
+    },
+    {
+      "original": "「もうママ！　蓮くんには内緒って言ったでしょ！」",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "「もう他の子にそんなこと言わない……？」",
+      "lines": [
+        186
+      ]
+    },
+    {
+      "original": "「もぉ、らめぇぇっ……！　はぁ……あぁあんっ……！」",
+      "lines": [
+        290
+      ]
+    },
+    {
+      "original": "「もっと……いっぱいちょうだいっ♪　わたしに、いっぱいちょうだぁいっ♪」",
+      "lines": [
+        360
+      ]
+    },
+    {
+      "original": "「もっとたぷたぷあったかくなってぇぇぇ……幸せいっぱいになっちゃうぅぅぅ……♪」",
+      "lines": [
+        157
+      ]
+    },
+    {
+      "original": "「もっとわたしで興奮して……おねがい……♪」",
+      "lines": [
+        156
+      ]
+    },
+    {
+      "original": "「もっと気持ちよくなって……？」",
+      "lines": [
+        267
+      ]
+    },
+    {
+      "original": "「や、やばい……お、俺……もう……！」",
+      "lines": [
+        339
+      ]
+    },
+    {
+      "original": "「やぁあんっ♪　んぁっ、んぁっ♪　あっ♪　ああぁっー♪」",
+      "lines": [
+        214
+      ]
+    },
+    {
+      "original": "「やぁあんっ、んぃぁっ、ふぁあっ、はぁああぁんっ……！」",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "「やっぱりキレてるんじゃん……」",
+      "lines": [
+        135
+      ]
+    },
+    {
+      "original": "「やっぱり蓮くんだってエッチしたかったんだね……♪」",
+      "lines": [
+        478
+      ]
+    },
+    {
+      "original": "「やろうと思ってた時に言われるとやる気がなくなるよ！」",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "「やーしゃしゃしゃしゃしゃ」",
+      "lines": [
+        97
+      ]
+    },
+    {
+      "original": "「り、梨々愛……んんん……」",
+      "lines": [
+        274
+      ]
+    },
+    {
+      "original": "「り、梨々愛ぁ……！」",
+      "lines": [
+        351
+      ]
+    },
+    {
+      "original": "「り、梨々愛っ……！　くぁっ……！」",
+      "lines": [
+        330
+      ]
+    },
+    {
+      "original": "「わたし……もうずっと、何回もいってるからぁ……♪」",
+      "lines": [
+        100
+      ]
+    },
+    {
+      "original": "「わたし、スイッチ入っちゃった……♪」",
+      "lines": [
+        450
+      ]
+    },
+    {
+      "original": "「わたし、蓮くんにエロい、枯れるって褒められちゃった♪」",
+      "lines": [
+        142
+      ]
+    },
+    {
+      "original": "「わたしでいっぱい、気持ち良くなっていいんだよ……♪」",
+      "lines": [
+        399
+      ]
+    },
+    {
+      "original": "「わたしね、子供が生まれたらどーーーしても決めてることが密かにあるの」",
+      "lines": [
+        149
+      ]
+    },
+    {
+      "original": "「わたしのいりぐち……じゅぶじゅぶって、攻められちゃってる……♪」",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "「わたしの方が……？」",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "「わたしの方がえっちだもん！！」",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "「わたしの方が！！」",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "「わたしはサキュバスだから、他の子の方がエロいって言われるの嫌なの！」",
+      "lines": [
+        272
+      ]
+    },
+    {
+      "original": "「わたしも、いくからぁ、きてぇぇっ！　んぁあぁあっ！」",
+      "lines": [
+        333
+      ]
+    },
+    {
+      "original": "「わたしも、おち○ちんがいけるように頑張るからぁっ♪」",
+      "lines": [
+        146
+      ]
+    },
+    {
+      "original": "「んぁあっ、はぅぁっ……！　あっ、あっ……んっ、んっ……やあぁぁんっ……！」",
+      "lines": [
+        344
+      ]
+    },
+    {
+      "original": "「んぁっ♪　いっちゃうぅっ♪　んあぁっ♪　いかせちゃうぅぅっ♪　ひゃぁあぁんっ♪」",
+      "lines": [
+        291
+      ]
+    },
+    {
+      "original": "「んあぁあぁぁぁあああぁあああぁぁっ♪　中出し、すごすぎぃぃいぃっ♪」",
+      "lines": [
+        128
+      ]
+    },
+    {
+      "original": "「んあぁあぁぁっ……♪」",
+      "lines": [
+        348
+      ]
+    },
+    {
+      "original": "「んあぁあああぁぁぁあああぁぁあぁぁぁっーーーーーー♪」",
+      "lines": [
+        324
+      ]
+    },
+    {
+      "original": "「んあっ、あっ、ああっ！　あんっ！　はぁんっ！」",
+      "lines": [
+        201
+      ]
+    },
+    {
+      "original": "「んぃぁあぁあぁあぁぁぁぁああああっ♪」",
+      "lines": [
+        359
+      ]
+    },
+    {
+      "original": "「んぃあぁぁぁぁあっ……♪　みたされちゃぅうぅぅ……♪」",
+      "lines": [
+        350
+      ]
+    },
+    {
+      "original": "「んぃあぁぁあああぁっ、はぁあぁあぁんんっ、んんんんぃいぃいぃっ……♪」",
+      "lines": [
+        94
+      ]
+    },
+    {
+      "original": "「んちゅっ……♪」",
+      "lines": [
+        182
+      ]
+    },
+    {
+      "original": "「んちゅっ、ちゅぱっ……！　はぁはぁ……んぁっ、ちゅっ、ちゅるる……！　んぁっ……！」",
+      "lines": [
+        175
+      ]
+    },
+    {
+      "original": "「んちゅる、れろっ、じゅるっ、ちゅぱっ……！　んっ、んんんっ、んっ……！」",
+      "lines": [
+        185
+      ]
+    },
+    {
+      "original": "「んちゅるるっ、れろっ……！　んんんんんんんっ……！」",
+      "lines": [
+        174
+      ]
+    },
+    {
+      "original": "「んっ、ちゅ、じゅるっ……！　んふっ、んっ、んんっ、は、んんんっ……！」",
+      "lines": [
+        187
+      ]
+    },
+    {
+      "original": "「んふぅうぅぅうぅぅぅぅぅぅうぅぅぅぅぅぅっ……♪」",
+      "lines": [
+        96
+      ]
+    },
+    {
+      "original": "「んふっ、んっ……♪」",
+      "lines": [
+        188
+      ]
+    },
+    {
+      "original": "「んふっ、んふっ、んふぅぅぅっ……♪」",
+      "lines": [
+        371
+      ]
+    },
+    {
+      "original": "「んんん……わけわかんなくなっちゃうぅ……♪」",
+      "lines": [
+        95
+      ]
+    },
+    {
+      "original": "「んんんっ……蓮くん……♪」",
+      "lines": [
+        303
+      ]
+    },
+    {
+      "original": "「んんんんんんっ……♪　しあわせぇ……♪」",
+      "lines": [
+        391
+      ]
+    },
+    {
+      "original": "「アクマとのハーフとかクォーターって実際どうなの？」",
+      "lines": [
+        396
+      ]
+    },
+    {
+      "original": "「イッツ、グローバルって感じ？」",
+      "lines": [
+        435
+      ]
+    },
+    {
+      "original": "「カルチャーショックすぎて頭が痛くなってきました……」",
+      "lines": [
+        84
+      ]
+    },
+    {
+      "original": "「キ、キス……してくれなきゃダメなんだからねっ……！」",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "「キレてないですよ！！」",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "「キレてるやつはキレてないですよって言うものなんだよ」",
+      "lines": [
+        427
+      ]
+    },
+    {
+      "original": "「サキュバスは恋人ができると、赤飯の代わりにピルご飯を食べるのが伝統なの……」",
+      "lines": [
+        117
+      ]
+    },
+    {
+      "original": "「ナマえっち、出来るよ……？」",
+      "lines": [
+        430
+      ]
+    },
+    {
+      "original": "「ピルご飯って何ですか？」",
+      "lines": [
+        431
+      ]
+    },
+    {
+      "original": "「ピルをふりかけにして白米をもりもり食べるんだよ」",
+      "lines": [
+        102
+      ]
+    },
+    {
+      "original": "「マ、マジか……」",
+      "lines": [
+        408
+      ]
+    },
+    {
+      "original": "「マ、ママっ！？」",
+      "lines": [
+        401
+      ]
+    },
+    {
+      "original": "「ママとは絶対に別居したい」",
+      "lines": [
+        441
+      ]
+    },
+    {
+      "original": "「中に出したいけど、でもちょっと危険……」",
+      "lines": [
+        370
+      ]
+    },
+    {
+      "original": "「中出し、すごすぎて……あたま真っ白になっちゃう……♪」",
+      "lines": [
+        407
+      ]
+    },
+    {
+      "original": "「何をバカなことを言ってるんだお前たちは」",
+      "lines": [
+        469
+      ]
+    },
+    {
+      "original": "「保健室はラブホじゃねーんだぞ！」",
+      "lines": [
+        394
+      ]
+    },
+    {
+      "original": "「全然そんなことないと思うけど？」",
+      "lines": [
+        455
+      ]
+    },
+    {
+      "original": "「全然エロくなんかないぞ」",
+      "lines": [
+        343
+      ]
+    },
+    {
+      "original": "「出してっ♪　出してぇっ♪　はぁんっ♪　せーえき、いっぱい出してぇぇっ♪」",
+      "lines": [
+        268
+      ]
+    },
+    {
+      "original": "「出してっ！　いっぱい、出してっ！　んぁっ、はぁんっ！」",
+      "lines": [
+        106
+      ]
+    },
+    {
+      "original": "「困ってる蓮くん、可愛い……♪」",
+      "lines": [
+        172
+      ]
+    },
+    {
+      "original": "「声、いっぱい出ちゃうからぁ、おねがいっ……！！」",
+      "lines": [
+        434
+      ]
+    },
+    {
+      "original": "「娘にピルご飯食べさせてました」",
+      "lines": [
+        385
+      ]
+    },
+    {
+      "original": "「子供ができたら責任取る」",
+      "lines": [
+        393
+      ]
+    },
+    {
+      "original": "「学園でイジメられたりしない……？」",
+      "lines": [
+        412
+      ]
+    },
+    {
+      "original": "「孫までそんなバカ娘みたいに育つのは勘弁だ」",
+      "lines": [
+        433
+      ]
+    },
+    {
+      "original": "「実は……こっそりピルご飯食べてました」",
+      "lines": [
+        7
+      ]
+    },
+    {
+      "original": "「実はこの前――」",
+      "lines": [
+        437
+      ]
+    },
+    {
+      "original": "「実は今日もグイッと一発ピルを飲んできまして……」",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "「寮でならいいの？」",
+      "lines": [
+        402
+      ]
+    },
+    {
+      "original": "「怜香さんと別居？　なんでさ？」",
+      "lines": [
+        155
+      ]
+    },
+    {
+      "original": "「梨々愛……すごく気持ちいい……！」",
+      "lines": [
+        364
+      ]
+    },
+    {
+      "original": "「梨々愛……エロすぎるよ……俺、枯れそうだ……」",
+      "lines": [
+        243
+      ]
+    },
+    {
+      "original": "「梨々愛……制服にかけるぞ……！」",
+      "lines": [
+        251
+      ]
+    },
+    {
+      "original": "「梨々愛……前みたいに飲んでほしい……！」",
+      "lines": [
+        140
+      ]
+    },
+    {
+      "original": "「梨々愛……動くよ……」",
+      "lines": [
+        235
+      ]
+    },
+    {
+      "original": "「梨々愛……顔にかけるぞ……！」",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "「梨々愛……？」",
+      "lines": [
+        213
+      ]
+    },
+    {
+      "original": "「梨々愛、もうイク……！　出そうだ……！」",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "「梨々愛、もしかしてキレてる？」",
+      "lines": [
+        98
+      ]
+    },
+    {
+      "original": "「梨々愛、チャイム鳴っちゃったぞ……戻らなくちゃ……」",
+      "lines": [
+        158
+      ]
+    },
+    {
+      "original": "「梨々愛っ……！」",
+      "lines": [
+        336
+      ]
+    },
+    {
+      "original": "「梨々愛っ……！！　俺、もう……！！」",
+      "lines": [
+        454
+      ]
+    },
+    {
+      "original": "「梨々愛なんてあたしから見たらまだまだひよっこだ」",
+      "lines": [
+        390
+      ]
+    },
+    {
+      "original": "「梨々愛に聞きたいことがあるんだけど――」",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "「梨々愛のがエロいのはよーく分かってるよ」",
+      "lines": [
+        133
+      ]
+    },
+    {
+      "original": "「梨々愛の中、すごいぐちゃぐちゃで気持ちいい……」",
+      "lines": [
+        74
+      ]
+    },
+    {
+      "original": "「梨々愛はエロいなーよしよし」",
+      "lines": [
+        419
+      ]
+    },
+    {
+      "original": "「梨々愛はピル飲んでちゃーんと避妊してるからな」",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "「梨々愛は世界一エロいぞーよーしよしよしよし」",
+      "lines": [
+        400
+      ]
+    },
+    {
+      "original": "「決めてること……？」",
+      "lines": [
+        307
+      ]
+    },
+    {
+      "original": "「生理きたばっかりだから、今日は大丈夫だから……ね？」",
+      "lines": [
+        116
+      ]
+    },
+    {
+      "original": "「生理終わったばっかり、だ・か・ら――」",
+      "lines": [
+        443
+      ]
+    },
+    {
+      "original": "「確かに興奮したけどさぁ……」",
+      "lines": [
+        124
+      ]
+    },
+    {
+      "original": "「確かに誰もいないけどさ……」",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "「簡単に騙されると軽い女だと思ったら大間違いですぞ！」",
+      "lines": [
+        417
+      ]
+    },
+    {
+      "original": "「蓮、ねんねちゃん梨々愛に騙されるなよ」",
+      "lines": [
+        388
+      ]
+    },
+    {
+      "original": "「蓮くんが男前すぎてまた濡れてきちゃいそう……♪」",
+      "lines": [
+        101
+      ]
+    },
+    {
+      "original": "「蓮くんに、エロ気スイッチ……押されちゃった……♪」",
+      "lines": [
+        216
+      ]
+    },
+    {
+      "original": "「蓮くんの、好きなところにだしてぇぇっ……♪」",
+      "lines": [
+        313
+      ]
+    },
+    {
+      "original": "「蓮くんのおち○ちん……まだまだ元気だもんね……？」",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "「蓮くんのばぁかぁーーーーーーー！」",
+      "lines": [
+        270
+      ]
+    },
+    {
+      "original": "「蓮くんの好きな、わたしの奥にっ、いっぱい出してっ！」",
+      "lines": [
+        461
+      ]
+    },
+    {
+      "original": "「蓮なんかあたしだったら二秒でピュだぞ」",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "「褒められた」",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "「言わないよ」",
+      "lines": [
+        440
+      ]
+    },
+    {
+      "original": "「言わない方が興奮してくれるかと思って……」",
+      "lines": [
+        111
+      ]
+    },
+    {
+      "original": "「説得力ないなぁ、もう……♪」",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "「身を持ってそれを体験してるし……」",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "「連れてすぐに戻ってくる！」",
+      "lines": [
+        132
+      ]
+    },
+    {
+      "original": "あっさりと俺のペニスを咥え込んでしまう。",
+      "lines": [
+        93
+      ]
+    },
+    {
+      "original": "いつだって梨々愛とイチャイチャしていたい。",
+      "lines": [
+        73
+      ]
+    },
+    {
+      "original": "いつも通りなでなでしてほしいのだろう。",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "いや、エロいというよりは変態か……？",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "いや、思いっきり騙されてましたやん。",
+      "lines": [
+        354
+      ]
+    },
+    {
+      "original": "いや、抜けても抜くつもりなんてない……。",
+      "lines": [
+        365
+      ]
+    },
+    {
+      "original": "お互いの絶頂が止まり、俺たちは肩で息をする。",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "き、気のせいだろうか……？",
+      "lines": [
+        200
+      ]
+    },
+    {
+      "original": "けれども、梨々愛はさらに絶頂でシーツを汚していく。",
+      "lines": [
+        297
+      ]
+    },
+    {
+      "original": "けれども、膣口と膣襞がギュウと締まりをみせる。",
+      "lines": [
+        138
+      ]
+    },
+    {
+      "original": "ここが保健室だということに構ってられない……。",
+      "lines": [
+        410
+      ]
+    },
+    {
+      "original": "この人、神出鬼没だよなぁ……。",
+      "lines": [
+        458
+      ]
+    },
+    {
+      "original": "この母親はキメ顔で何を言ってるんだ……。",
+      "lines": [
+        265
+      ]
+    },
+    {
+      "original": "これじゃ、抜けないぞ……！？",
+      "lines": [
+        310
+      ]
+    },
+    {
+      "original": "こんなすごいのを経験したら……外に出せないぞ……。",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "ご覧の通りここは学園だ。",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "しかも男女が通う共学なわけで……。",
+      "lines": [
+        353
+      ]
+    },
+    {
+      "original": "しっかり固定されていて、ペニスを抜くことができない……。",
+      "lines": [
+        152
+      ]
+    },
+    {
+      "original": "じゅぶじゅぶと膣口を掻き回し、愛液が溢れ出す。",
+      "lines": [
+        432
+      ]
+    },
+    {
+      "original": "ずいぶんとジャンキーな食べ物だなオイ。",
+      "lines": [
+        309
+      ]
+    },
+    {
+      "original": "そうは言うものの、俺の中には満足感がある。",
+      "lines": [
+        299
+      ]
+    },
+    {
+      "original": "そして、ようやく射精が止まる……。",
+      "lines": [
+        109
+      ]
+    },
+    {
+      "original": "そして、梨々愛の手が俺のズボンの中に侵入してくる。",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "そして、脱兎の如く走り去っていく。",
+      "lines": [
+        205
+      ]
+    },
+    {
+      "original": "その度に甘くて大きな声を上げ、身体を震えさせる。",
+      "lines": [
+        180
+      ]
+    },
+    {
+      "original": "その目的もすっかり忘れてしまっている。",
+      "lines": [
+        193
+      ]
+    },
+    {
+      "original": "それでも俺はピストンをすることをやめない。",
+      "lines": [
+        372
+      ]
+    },
+    {
+      "original": "それでも梨々愛の足は俺を強く固定している。",
+      "lines": [
+        211
+      ]
+    },
+    {
+      "original": "それに触発されたわけじゃないけれど、俺の限界が近い……。",
+      "lines": [
+        424
+      ]
+    },
+    {
+      "original": "そんなに俺と子供を作るのが嫌なのか……？",
+      "lines": [
+        305
+      ]
+    },
+    {
+      "original": "そんな微笑みとは裏腹に俺の表情は晴れない……。",
+      "lines": [
+        368
+      ]
+    },
+    {
+      "original": "そんな結合部からは、さらに精液が溢れ出している。",
+      "lines": [
+        181
+      ]
+    },
+    {
+      "original": "ただ一心不乱に相手を求める……。",
+      "lines": [
+        87
+      ]
+    },
+    {
+      "original": "だけど、一応中庭だし……。",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "つまり……嫉妬……？",
+      "lines": [
+        422
+      ]
+    },
+    {
+      "original": "つまりは避妊薬だ。",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "でも、どうして梨々愛は怒っているのだろうか……？",
+      "lines": [
+        483
+      ]
+    },
+    {
+      "original": "でも、梨々愛に対しては理解のあるいいお母さんだよなぁ。",
+      "lines": [
+        473
+      ]
+    },
+    {
+      "original": "でもなんだか興奮するのは何故なんだ……。",
+      "lines": [
+        68
+      ]
+    },
+    {
+      "original": "でも今はご機嫌を取っておいた方がいいだろう。",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "というか……キレてるって感じではないのだけど。",
+      "lines": [
+        459
+      ]
+    },
+    {
+      "original": "というか、なんで張り合ってるんだろうか……。",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "と言ってもそれは完全に本心ではない。",
+      "lines": [
+        423
+      ]
+    },
+    {
+      "original": "ど、どうして梨々愛はそんなものを……。",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "どちらかというと、拗ねている感じ。",
+      "lines": [
+        356
+      ]
+    },
+    {
+      "original": "どぷんっ！　どぷどぷっ！　どぷぷぷっ！　ぶぴゅううっ！！",
+      "lines": [
+        453
+      ]
+    },
+    {
+      "original": "なんか、大人の余裕みたいなものを感じる。",
+      "lines": [
+        428
+      ]
+    },
+    {
+      "original": "なんか深く考えた俺が馬鹿でした。",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "なんだか、背後にメラメラしたものを感じる。",
+      "lines": [
+        466
+      ]
+    },
+    {
+      "original": "なんだろう、この感じは……。",
+      "lines": [
+        347
+      ]
+    },
+    {
+      "original": "びゅるるるるっ！！　どくどくっ、びゅるるるーーー！！！",
+      "lines": [
+        275
+      ]
+    },
+    {
+      "original": "びゅるるるるるるるるるっ！！！　びゅっびゅっびゅっ！！！",
+      "lines": [
+        426
+      ]
+    },
+    {
+      "original": "まさか……俺との関係はその程度のものだった……？",
+      "lines": [
+        114
+      ]
+    },
+    {
+      "original": "まさに、体は正直だった……。",
+      "lines": [
+        287
+      ]
+    },
+    {
+      "original": "また、膣壁もキュウキュウと締まる。",
+      "lines": [
+        374
+      ]
+    },
+    {
+      "original": "まるで、離れたくないという意思の表れみたいだ……。",
+      "lines": [
+        92
+      ]
+    },
+    {
+      "original": "むしろ、したくないわけがない。",
+      "lines": [
+        199
+      ]
+    },
+    {
+      "original": "もうこれ以上ないくらいに汚れてしまっている。",
+      "lines": [
+        137
+      ]
+    },
+    {
+      "original": "もう止まれそうにない……。",
+      "lines": [
+        321
+      ]
+    },
+    {
+      "original": "もっともっと、梨々愛の中に出したい……。",
+      "lines": [
+        436
+      ]
+    },
+    {
+      "original": "もはやどこからツッコミを入れていいのか分からんぞ……。",
+      "lines": [
+        320
+      ]
+    },
+    {
+      "original": "もはやまともな判断が下せそうにない……。",
+      "lines": [
+        264
+      ]
+    },
+    {
+      "original": "や、やばい……！",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "わたしの方がエッチだもん。",
+      "lines": [
+        387
+      ]
+    },
+    {
+      "original": "アドレナリンが出ていたとはいえ、覚悟を決めるしかない。",
+      "lines": [
+        474
+      ]
+    },
+    {
+      "original": "イカン、イカンぞ……。",
+      "lines": [
+        88
+      ]
+    },
+    {
+      "original": "イチャイチャするのはマズいんじゃないか……？",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "キレる梨々愛を初めて見た。",
+      "lines": [
+        471
+      ]
+    },
+    {
+      "original": "サラッとこの人は何を言ってるんだろうか……。",
+      "lines": [
+        198
+      ]
+    },
+    {
+      "original": "シーツは愛液ですっかり染みになっている。",
+      "lines": [
+        0,
+        218,
+        230,
+        238,
+        246,
+        254,
+        378,
+        490
+      ]
+    },
+    {
+      "original": "ジェラシックワールド",
+      "lines": [
+        108
+      ]
+    },
+    {
+      "original": "ズボンのチャックがあっさりと開けられてしまう。",
+      "lines": [
+        457
+      ]
+    },
+    {
+      "original": "ドドーン。",
+      "lines": [
+        482
+      ]
+    },
+    {
+      "original": "バリバリのキャリアウーマンって感じ。",
+      "lines": [
+        113
+      ]
+    },
+    {
+      "original": "パンツ越しに息子をグッと握られる。",
+      "lines": [
+        421
+      ]
+    },
+    {
+      "original": "ピル。",
+      "lines": [
+        159
+      ]
+    },
+    {
+      "original": "ペニスを力いっぱい前進させ、梨々愛を突き上げる。",
+      "lines": [
+        115
+      ]
+    },
+    {
+      "original": "ヤバい……これは逃げられそうにないぞ……。"
+    },
+    {
+      "original": "リリア.stand",
+      "lines": [
+        373
+      ]
+    },
+    {
+      "original": "一向に離れようとはしない。",
+      "lines": [
+        167
+      ]
+    },
+    {
+      "original": "一番奥にキスをするために、ピストンを激しく繰り返す。",
+      "lines": [
+        148
+      ]
+    },
+    {
+      "original": "亀頭が膣口から見え隠れを繰り返す。",
+      "lines": [
+        165
+      ]
+    },
+    {
+      "original": "亀頭につるつるしたような感触が……。",
+      "lines": [
+        122
+      ]
+    },
+    {
+      "original": "保健室だった。",
+      "lines": [
+        369
+      ]
+    },
+    {
+      "original": "俺……二回も梨々愛の中に……。",
+      "lines": [
+        448
+      ]
+    },
+    {
+      "original": "俺、つくづく梨々愛に甘いな……。",
+      "lines": [
+        319
+      ]
+    },
+    {
+      "original": "俺、完全に酔っているな……。",
+      "lines": [
+        398
+      ]
+    },
+    {
+      "original": "俺が想像しているよりも世の中は進んでいるんだな……。",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "俺が考えているよりも事態は深刻なのかもしれない。",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "俺たちは何をやっているんだろうか。",
+      "lines": [
+        177
+      ]
+    },
+    {
+      "original": "俺たちは舌と舌を絡めたキスをする。",
+      "lines": [
+        475
+      ]
+    },
+    {
+      "original": "俺には梨々愛がいるのに……心頭滅却……。",
+      "lines": [
+        316
+      ]
+    },
+    {
+      "original": "俺のペニスは萎えることを知らない。",
+      "lines": [
+        127
+      ]
+    },
+    {
+      "original": "俺はあっという間にベッドに押し倒されてしまった。",
+      "lines": [
+        487
+      ]
+    },
+    {
+      "original": "俺はしばらく猫の縄張り争いを見届ける羽目になった。",
+      "lines": [
+        143
+      ]
+    },
+    {
+      "original": "俺はしょっぱなから激し目に腰を突き出す。",
+      "lines": [
+        277
+      ]
+    },
+    {
+      "original": "俺はそのまま、梨々愛の膣内に生で射精をする。",
+      "lines": [
+        288
+      ]
+    },
+    {
+      "original": "俺はその両方で精液を搾り取られるみたいに刺激される。",
+      "lines": [
+        355
+      ]
+    },
+    {
+      "original": "俺はたっぷりと、梨々愛の奥に精液を吐き出していく。",
+      "lines": [
+        300
+      ]
+    },
+    {
+      "original": "俺はより肩で息をする……。",
+      "lines": [
+        323
+      ]
+    },
+    {
+      "original": "俺は再びピストンを開始する。",
+      "lines": [
+        86
+      ]
+    },
+    {
+      "original": "俺は周囲を確認してみるが、周りに人はいなかった。",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "俺は教室での言葉を思い出す。",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "俺は梨々愛同様に教室から飛び出した。",
+      "lines": [
+        425
+      ]
+    },
+    {
+      "original": "俺は真剣に覚悟を決めたというのに……。"
+    },
+    {
+      "original": "側面手上"
+    },
+    {
+      "original": "側面手下",
+      "lines": [
+        7,
+        8,
+        11,
+        17,
+        21,
+        38
+      ]
+    },
+    {
+      "original": "優"
+    },
+    {
+      "original": "優.stand",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "冷静になって考えてみると、俺たちアホっぽいな。"
+    },
+    {
+      "original": "出前"
+    },
+    {
+      "original": "出左"
+    },
+    {
+      "original": "制服",
+      "lines": [
+        223
+      ]
+    },
+    {
+      "original": "制服にぶっかける",
+      "lines": [
+        130
+      ]
+    },
+    {
+      "original": "前戯などもなしに、俺はいきなり梨々愛に挿入をする。",
+      "lines": [
+        311
+      ]
+    },
+    {
+      "original": "危険でもいいから、もっと梨々愛の中に出したい……。",
+      "lines": [
+        225
+      ]
+    },
+    {
+      "original": "口の中で飲ませる",
+      "lines": [
+        179
+      ]
+    },
+    {
+      "original": "口を塞ぐという名目だけれど――",
+      "lines": [
+        409
+      ]
+    },
+    {
+      "original": "唐突に怜香さんが保健室に現れる。",
+      "lines": [
+        178
+      ]
+    },
+    {
+      "original": "唾液をだらしなく垂らすこともためらわない。",
+      "lines": [
+        139
+      ]
+    },
+    {
+      "original": "完全に、エッチな雰囲気に飲み込まれている……。",
+      "lines": [
+        375
+      ]
+    },
+    {
+      "original": "少しもうろうとする意識の中、俺はそんなことを考えていた。",
+      "lines": [
+        154
+      ]
+    },
+    {
+      "original": "左右の動きも加え、快感を貪っていく……。",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "幸いにも誰にも聞こえていないからセーフっぽいが。",
+      "lines": [
+        472
+      ]
+    },
+    {
+      "original": "幼馴染の母親の濡れ具合なんて知りとうなかった。",
+      "lines": [
+        296
+      ]
+    },
+    {
+      "original": "徐々に射精は弱まっていく。",
+      "lines": [
+        407,
+        411,
+        412,
+        413,
+        415,
+        417,
+        419,
+        431,
+        434,
+        451,
+        454,
+        455,
+        456,
+        461,
+        464,
+        468,
+        469,
+        470,
+        476,
+        485
+      ]
+    },
+    {
+      "original": "怜香"
+    },
+    {
+      "original": "怜香.stand",
+      "lines": [
+        452
+      ]
+    },
+    {
+      "original": "怜香さんが梨々愛を鼻で笑う。",
+      "lines": [
+        404
+      ]
+    },
+    {
+      "original": "怜香さんってああ見えても、過保護っぽいところあるし。",
+      "lines": [
+        481
+      ]
+    },
+    {
+      "original": "怜香さんってちょっと男勝りで怖い女性だ。",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "思わず俺も立ち上がって、梨々愛を追いかけようとする。",
+      "lines": [
+        206
+      ]
+    },
+    {
+      "original": "愛液もその度に溢れてきて、かなりの大洪水だ。"
+    },
+    {
+      "original": "手上"
+    },
+    {
+      "original": "手下",
+      "lines": [
+        315
+      ]
+    },
+    {
+      "original": "挑発するみたいに梨々愛が腰を振る。",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "教室だというのに謎な宣言を大声で告げた梨々愛。",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "教室を飛び出した梨々愛は中庭にいた。"
+    },
+    {
+      "original": "斜右上",
+      "lines": [
+        91
+      ]
+    },
+    {
+      "original": "本音を言えば、俺だって梨々愛とキスしたいし……。",
+      "lines": [
+        23,
+        29,
+        31,
+        32,
+        33,
+        42,
+        44,
+        46,
+        48,
+        58,
+        69,
+        71,
+        75,
+        77,
+        81,
+        82,
+        84,
+        89,
+        94,
+        95,
+        96,
+        99,
+        100,
+        101,
+        103,
+        106,
+        110,
+        111,
+        116,
+        117,
+        119,
+        120,
+        123,
+        126,
+        128,
+        129,
+        134,
+        135,
+        136,
+        141,
+        142,
+        144,
+        145,
+        146,
+        149,
+        150,
+        151,
+        156,
+        157,
+        160,
+        161,
+        162,
+        163,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        194,
+        195,
+        196,
+        197,
+        201,
+        202,
+        203,
+        207,
+        208,
+        209,
+        214,
+        215,
+        216,
+        260,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        289,
+        290,
+        291,
+        293,
+        294,
+        301,
+        302,
+        303,
+        307,
+        312,
+        313,
+        314,
+        322,
+        324,
+        325,
+        326,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        348,
+        349,
+        350,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        370,
+        371,
+        388,
+        392,
+        394,
+        395,
+        396,
+        399,
+        401,
+        403,
+        408,
+        414,
+        416,
+        420,
+        427,
+        433,
+        437,
+        440,
+        441,
+        442,
+        444,
+        445,
+        449,
+        450,
+        460,
+        462,
+        463,
+        477,
+        478,
+        479,
+        480,
+        484,
+        486
+      ]
+    },
+    {
+      "original": "梨々愛",
+      "lines": [
+        192
+      ]
+    },
+    {
+      "original": "梨々愛……もうイっちゃったんだ……。",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "梨々愛からしてみれば、浮気みたいなものなのだろう。",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "梨々愛が俺たちを見ながら唸り声を上げていた。",
+      "lines": [
+        447
+      ]
+    },
+    {
+      "original": "梨々愛が喜んでくれているならそれでいいか。",
+      "lines": [
+        285
+      ]
+    },
+    {
+      "original": "梨々愛が大きな喘ぎ声と共に絶頂を迎える。",
+      "lines": [
+        72
+      ]
+    },
+    {
+      "original": "梨々愛が近づき、頭を差し出してくる。",
+      "lines": [
+        386
+      ]
+    },
+    {
+      "original": "梨々愛に中出しを二回もキメてしまった俺氏。",
+      "lines": [
+        121
+      ]
+    },
+    {
+      "original": "梨々愛に手を引かれ、連れてこられた場所――",
+      "lines": [
+        131
+      ]
+    },
+    {
+      "original": "梨々愛のアソコは既に愛液でドロドロだ。",
+      "lines": [
+        317
+      ]
+    },
+    {
+      "original": "梨々愛の膣内でガチガチに硬く勃起してしまう。",
+      "lines": [
+        276
+      ]
+    },
+    {
+      "original": "梨々愛の足のせいで、ペニスを抜くことができない。",
+      "lines": [
+        190
+      ]
+    },
+    {
+      "original": "梨々愛の身体が小刻みに震えている。",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "梨々愛はそう言っていた。",
+      "lines": [
+        204
+      ]
+    },
+    {
+      "original": "梨々愛は何度も絶頂を迎える。",
+      "lines": [
+        304
+      ]
+    },
+    {
+      "original": "梨々愛は絶頂の余韻に浸り、微笑む。",
+      "lines": [
+        366
+      ]
+    },
+    {
+      "original": "梨々愛は絶頂後の余韻がまだ残っている……。"
+    },
+    {
+      "original": "梨々愛影",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "機嫌を損ねるのも仕方がない。"
+    },
+    {
+      "original": "正面手上"
+    },
+    {
+      "original": "正面手下",
+      "lines": [
+        389
+      ]
+    },
+    {
+      "original": "流石に今日はもう出ないのでやめてください。",
+      "lines": [
+        147
+      ]
+    },
+    {
+      "original": "浅瀬の部分を攻めるように腰を振っていく。"
+    },
+    {
+      "original": "消"
+    },
+    {
+      "original": "消右",
+      "lines": [
+        298
+      ]
+    },
+    {
+      "original": "潮吹きみたいにピュッピュッと残りの精液を吐き出す。",
+      "lines": [
+        467
+      ]
+    },
+    {
+      "original": "猫の縄張り争い的な……？",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "男子たちがトイレに走って行ったらどうするんだよ……。",
+      "lines": [
+        210
+      ]
+    },
+    {
+      "original": "目元を細めて懇願する梨々愛。"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ怒:口ギャグ怒:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ怒:口ギャグ泣:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ怒:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ怒:目ギャグ怒:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ笑:目ギャグ笑:口ギャグ笑:汗無::頬１"
+    },
+    {
+      "original": "眉ギャグ驚:目ギャグ驚:口ギャグ驚:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目ギャグ怒:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目悲２:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ照２:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ照２:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉怒１:目Ａ笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒２:目ギャグ怒:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉怒２:目Ａ怒２:口ギャグ泣:汗無::頬１"
+    },
+    {
+      "original": "眉怒２:目Ａ怒２:口怒２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目悲２:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ照２:口悲１:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目Ａ照２:口怒１:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目Ａ照２:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉悲２:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉照１:目Ａ照１:口照１:汗無::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ悲１:口照２:汗無::頬３"
+    },
+    {
+      "original": "眉照２:目Ａ悲２:口照２:汗無::頬３"
+    },
+    {
+      "original": "眉照２:目Ａ照２:口照２:汗無::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ照２:口照２:汗無::頬３"
+    },
+    {
+      "original": "眉照２:目Ａ笑１:口照２:汗無::頬２"
+    },
+    {
+      "original": "眉照２:目Ａ笑１:口照２:汗無::頬３"
+    },
+    {
+      "original": "眉笑１:目悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ悲１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ悲２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ照２:口照２:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目Ａ照２:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口閉:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ驚１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑１:口笑２:汗無::頬３"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬３"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬２",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "確かに梨々愛はエロいけど、そうじゃない時もあるからだ。",
+      "lines": [
+        164
+      ]
+    },
+    {
+      "original": "突き上げたペニスが、梨々愛の一番奥にぶつかる。",
+      "lines": [
+        153
+      ]
+    },
+    {
+      "original": "突き出す動きだけではない。",
+      "lines": [
+        278
+      ]
+    },
+    {
+      "original": "精液が弾け、どくどくと中に注がれていく。",
+      "lines": [
+        191
+      ]
+    },
+    {
+      "original": "絡ませる舌の力が弱まっていくのを感じる……。",
+      "lines": [
+        352
+      ]
+    },
+    {
+      "original": "絶頂をしている梨々愛の足が、俺の腰をより締め付ける。",
+      "lines": [
+        367
+      ]
+    },
+    {
+      "original": "腰がガクガクと痙攣するみたいに震えている。",
+      "lines": [
+        263
+      ]
+    },
+    {
+      "original": "腰を引くことができず、ペニスはより奥へ侵入していく。",
+      "lines": [
+        212
+      ]
+    },
+    {
+      "original": "膣内でペニスがさらに膨張し、より膣襞の感触を味わえる。",
+      "lines": [
+        286
+      ]
+    },
+    {
+      "original": "膣口がギュウと力強い締りでペニスを刺激する。",
+      "lines": [
+        166
+      ]
+    },
+    {
+      "original": "膣襞も気持ちいいけど、ここも気持ちいい……！",
+      "lines": [
+        9,
+        10,
+        12,
+        18,
+        20,
+        22,
+        24,
+        28,
+        30,
+        36,
+        39,
+        43,
+        45,
+        47,
+        49,
+        59,
+        63,
+        64,
+        65,
+        70,
+        74,
+        76,
+        78,
+        85,
+        90,
+        97,
+        98,
+        102,
+        104,
+        105,
+        107,
+        112,
+        118,
+        124,
+        125,
+        133,
+        140,
+        155,
+        158,
+        213,
+        235,
+        243,
+        251,
+        261,
+        266,
+        267,
+        274,
+        292,
+        295,
+        306,
+        308,
+        318,
+        327,
+        336,
+        351,
+        364,
+        385,
+        390,
+        391,
+        393,
+        397,
+        400,
+        402,
+        406,
+        418,
+        429,
+        430,
+        435,
+        438,
+        439,
+        443,
+        446
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        405
+      ]
+    },
+    {
+      "original": "親バカっぽいところ、あるしなぁ……。",
+      "lines": [
+        465
+      ]
+    },
+    {
+      "original": "親子喧嘩……ではない。",
+      "lines": [
+        262
+      ]
+    },
+    {
+      "original": "足を絡められ、俺の身体がホールドされてしまう。"
+    },
+    {
+      "original": "近距離"
+    },
+    {
+      "original": "集中線"
+    },
+    {
+      "original": "零距離",
+      "lines": [
+        221
+      ]
+    },
+    {
+      "original": "顔にぶっかける"
+    }
+  ],
+  "name": 52,
+  "lines": [
+    {
+      "type": 3,
+      "title": 764
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 801,
+      "type": 2
+    },
+    {
+      "name": 929,
+      "type": 2
+    },
+    {
+      "name": 834,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 14,
+      "type": 6
+    },
+    {
+      "name": 801,
+      "text": 651,
+      "type": 1
+    },
+    {
+      "name": 801,
+      "text": 424,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 429,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 509,
+      "type": 1
+    },
+    {
+      "name": 801,
+      "text": 653,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 511,
+      "type": 1
+    },
+    {
+      "text": 709,
+      "type": 0
+    },
+    {
+      "text": 710,
+      "type": 0
+    },
+    {
+      "text": 861,
+      "type": 0
+    },
+    {
+      "text": 817,
+      "type": 0
+    },
+    {
+      "name": 801,
+      "text": 543,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 465,
+      "type": 1
+    },
+    {
+      "text": 697,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 547,
+      "type": 1
+    },
+    {
+      "name": 801,
+      "text": 688,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 510,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 466,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 661,
+      "type": 1
+    },
+    {
+      "text": 837,
+      "type": 0
+    },
+    {
+      "text": 742,
+      "type": 0
+    },
+    {
+      "text": 701,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 518,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 599,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 597,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 598,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 529,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 685,
+      "type": 1
+    },
+    {
+      "text": 830,
+      "type": 0
+    },
+    {
+      "text": 717,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 471,
+      "type": 1
+    },
+    {
+      "text": 825,
+      "type": 0
+    },
+    {
+      "name": 801,
+      "text": 572,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 693,
+      "type": 1
+    },
+    {
+      "text": 797,
+      "type": 0
+    },
+    {
+      "text": 831,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 565,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 663,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 627,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 463,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 523,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 628,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 496,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 584,
+      "type": 1
+    },
+    {
+      "text": 761,
+      "type": 0
+    },
+    {
+      "text": 734,
+      "type": 0
+    },
+    {
+      "text": 738,
+      "type": 0
+    },
+    {
+      "text": 730,
+      "type": 0
+    },
+    {
+      "text": 796,
+      "type": 0
+    },
+    {
+      "text": 757,
+      "type": 0
+    },
+    {
+      "text": 847,
+      "type": 0
+    },
+    {
+      "text": 728,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 600,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 545,
+      "type": 1
+    },
+    {
+      "text": 782,
+      "type": 0
+    },
+    {
+      "text": 836,
+      "type": 0
+    },
+    {
+      "text": 852,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 491,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 669,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 692,
+      "type": 1
+    },
+    {
+      "text": 736,
+      "type": 0
+    },
+    {
+      "text": 918,
+      "type": 0
+    },
+    {
+      "text": 733,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 575,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 689,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 495,
+      "type": 1
+    },
+    {
+      "text": 840,
+      "type": 0
+    },
+    {
+      "text": 696,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 671,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 470,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 673,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 480,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 587,
+      "type": 1
+    },
+    {
+      "text": 783,
+      "type": 0
+    },
+    {
+      "text": 803,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 534,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 679,
+      "type": 1
+    },
+    {
+      "text": 698,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 626,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 467,
+      "type": 1
+    },
+    {
+      "text": 795,
+      "type": 0
+    },
+    {
+      "text": 727,
+      "type": 0
+    },
+    {
+      "text": 760,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 531,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 425,
+      "type": 1
+    },
+    {
+      "text": 833,
+      "type": 0
+    },
+    {
+      "text": 750,
+      "type": 0
+    },
+    {
+      "text": 695,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 612,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 621,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 618,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 588,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 664,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 481,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 592,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 682,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 633,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 486,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 514,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 493,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 644,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 532,
+      "type": 1
+    },
+    {
+      "text": 765,
+      "type": 0
+    },
+    {
+      "text": 716,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 571,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 691,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 487,
+      "type": 1
+    },
+    {
+      "text": 768,
+      "type": 0
+    },
+    {
+      "text": 747,
+      "type": 0
+    },
+    {
+      "text": 771,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 676,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 630,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 537,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 488,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 494,
+      "type": 1
+    },
+    {
+      "text": 842,
+      "type": 0
+    },
+    {
+      "text": 777,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 489,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 678,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 524,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 452,
+      "type": 1
+    },
+    {
+      "text": 787,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 606,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 501,
+      "type": 1
+    },
+    {
+      "text": 808,
+      "type": 0
+    },
+    {
+      "text": 843,
+      "type": 0
+    },
+    {
+      "text": 694,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 670,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 447,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 585,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 485,
+      "type": 1
+    },
+    {
+      "text": 752,
+      "type": 0
+    },
+    {
+      "text": 704,
+      "type": 0
+    },
+    {
+      "text": 814,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 659,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 453,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 594,
+      "type": 1
+    },
+    {
+      "text": 789,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 436,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 456,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 603,
+      "type": 1
+    },
+    {
+      "text": 856,
+      "type": 0
+    },
+    {
+      "text": 775,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 596,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 445,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 502,
+      "type": 1
+    },
+    {
+      "text": 712,
+      "type": 0
+    },
+    {
+      "text": 920,
+      "type": 0
+    },
+    {
+      "text": 816,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 655,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 580,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 579,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 665,
+      "type": 1
+    },
+    {
+      "text": 770,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 449,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 433,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 430,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 439,
+      "type": 1
+    },
+    {
+      "text": 919,
+      "type": 0
+    },
+    {
+      "text": 776,
+      "type": 0
+    },
+    {
+      "text": 928,
+      "type": 0
+    },
+    {
+      "text": 774,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 490,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 551,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 427,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 550,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 645,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 559,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 616,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 614,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 497,
+      "type": 1
+    },
+    {
+      "text": 784,
+      "type": 0
+    },
+    {
+      "text": 813,
+      "type": 0
+    },
+    {
+      "text": 811,
+      "type": 0
+    },
+    {
+      "text": 719,
+      "type": 0
+    },
+    {
+      "text": 726,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 613,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 528,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 479,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 615,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 576,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 617,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 619,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 553,
+      "type": 1
+    },
+    {
+      "text": 846,
+      "type": 0
+    },
+    {
+      "text": 922,
+      "type": 0
+    },
+    {
+      "text": 835,
+      "type": 0
+    },
+    {
+      "text": 720,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 566,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 567,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 515,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 558,
+      "type": 1
+    },
+    {
+      "text": 763,
+      "type": 0
+    },
+    {
+      "text": 751,
+      "type": 0
+    },
+    {
+      "text": 702,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 609,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 455,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 437,
+      "type": 1
+    },
+    {
+      "text": 848,
+      "type": 0
+    },
+    {
+      "text": 718,
+      "type": 0
+    },
+    {
+      "text": 826,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 462,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 557,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 474,
+      "type": 1
+    },
+    {
+      "text": 862,
+      "type": 0
+    },
+    {
+      "text": 722,
+      "type": 0
+    },
+    {
+      "text": 926,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 662,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 583,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 525,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 683,
+      "type": 1
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 764
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "subtype": 1,
+      "type": 5
+    },
+    {
+      "text": 936,
+      "type": 4
+    },
+    {
+      "storage": 52,
+      "label": 11,
+      "type": 7
+    },
+    {
+      "text": 807,
+      "type": 4
+    },
+    {
+      "storage": 52,
+      "label": 6,
+      "type": 7
+    },
+    {
+      "text": 810,
+      "type": 4
+    },
+    {
+      "storage": 52,
+      "label": 13,
+      "type": 7
+    },
+    {
+      "subtype": 2,
+      "type": 5
+    },
+    {
+      "label": 8,
+      "type": 6
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 764
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 929,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 11,
+      "type": 6
+    },
+    {
+      "name": 929,
+      "text": 660,
+      "type": 1
+    },
+    {
+      "storage": 52,
+      "label": 16,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 764
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 929,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 6,
+      "type": 6
+    },
+    {
+      "name": 929,
+      "text": 657,
+      "type": 1
+    },
+    {
+      "storage": 52,
+      "label": 16,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 764
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 929,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 13,
+      "type": 6
+    },
+    {
+      "name": 929,
+      "text": 658,
+      "type": 1
+    },
+    {
+      "storage": 52,
+      "label": 16,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 764
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 834,
+      "type": 2
+    },
+    {
+      "name": 929,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 16,
+      "type": 6
+    },
+    {
+      "name": 834,
+      "text": 481,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 468,
+      "type": 1
+    },
+    {
+      "text": 932,
+      "type": 0
+    },
+    {
+      "text": 925,
+      "type": 0
+    },
+    {
+      "text": 756,
+      "type": 0
+    },
+    {
+      "text": 707,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 498,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 581,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 643,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 451,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 686,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 556,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 601,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 562,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 589,
+      "type": 1
+    },
+    {
+      "text": 745,
+      "type": 0
+    },
+    {
+      "text": 845,
+      "type": 0
+    },
+    {
+      "text": 790,
+      "type": 0
+    },
+    {
+      "text": 921,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 561,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 438,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 478,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 446,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 458,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 457,
+      "type": 1
+    },
+    {
+      "text": 839,
+      "type": 0
+    },
+    {
+      "text": 927,
+      "type": 0
+    },
+    {
+      "text": 748,
+      "type": 0
+    },
+    {
+      "text": 791,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 503,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 577,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 605,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 554,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 448,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 484,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 460,
+      "type": 1
+    },
+    {
+      "text": 819,
+      "type": 0
+    },
+    {
+      "text": 703,
+      "type": 0
+    },
+    {
+      "text": 859,
+      "type": 0
+    },
+    {
+      "text": 715,
+      "type": 0
+    },
+    {
+      "text": 793,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 473,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 499,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 622,
+      "type": 1
+    },
+    {
+      "text": 849,
+      "type": 0
+    },
+    {
+      "text": 724,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 492,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 675,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 536,
+      "type": 1
+    },
+    {
+      "text": 714,
+      "type": 0
+    },
+    {
+      "text": 708,
+      "type": 0
+    },
+    {
+      "text": 809,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 569,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 684,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 482,
+      "type": 1
+    },
+    {
+      "text": 829,
+      "type": 0
+    },
+    {
+      "text": 786,
+      "type": 0
+    },
+    {
+      "text": 844,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 426,
+      "type": 1
+    },
+    {
+      "text": 780,
+      "type": 0
+    },
+    {
+      "text": 755,
+      "type": 0
+    },
+    {
+      "text": 753,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 454,
+      "type": 1
+    },
+    {
+      "text": 794,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 608,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 500,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 435,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 568,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 464,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 552,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 591,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 522,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 560,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 602,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 504,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 475,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 666,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 444,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 440,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 582,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 549,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 443,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 450,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 642,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 604,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 459,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 428,
+      "type": 1
+    },
+    {
+      "text": 744,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 607,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 434,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 611,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 590,
+      "type": 1
+    },
+    {
+      "text": 923,
+      "type": 0
+    },
+    {
+      "text": 711,
+      "type": 0
+    },
+    {
+      "text": 699,
+      "type": 0
+    },
+    {
+      "text": 792,
+      "type": 0
+    },
+    {
+      "text": 739,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 544,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 441,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 610,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 578,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 555,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 432,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 483,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 656,
+      "type": 1
+    },
+    {
+      "text": 700,
+      "type": 0
+    },
+    {
+      "text": 850,
+      "type": 0
+    },
+    {
+      "text": 924,
+      "type": 0
+    },
+    {
+      "text": 725,
+      "type": 0
+    },
+    {
+      "text": 778,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 637,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 620,
+      "type": 1
+    },
+    {
+      "text": 721,
+      "type": 0
+    },
+    {
+      "text": 773,
+      "type": 0
+    },
+    {
+      "text": 749,
+      "type": 0
+    },
+    {
+      "text": 815,
+      "type": 0
+    },
+    {
+      "storage": 52,
+      "label": 7,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 764
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 929,
+      "type": 2
+    },
+    {
+      "name": 834,
+      "type": 2
+    },
+    {
+      "name": 820,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 7,
+      "type": 6
+    },
+    {
+      "name": 929,
+      "text": 647,
+      "type": 1
+    },
+    {
+      "text": 841,
+      "type": 0
+    },
+    {
+      "text": 758,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 681,
+      "type": 1
+    },
+    {
+      "text": 855,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 668,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 623,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 542,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 648,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 640,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 527,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 624,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 546,
+      "type": 1
+    },
+    {
+      "text": 781,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 595,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 674,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 635,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 654,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 526,
+      "type": 1
+    },
+    {
+      "text": 823,
+      "type": 0
+    },
+    {
+      "text": 930,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 521,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 638,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 634,
+      "type": 1
+    },
+    {
+      "text": 812,
+      "type": 0
+    },
+    {
+      "text": 705,
+      "type": 0
+    },
+    {
+      "name": 820,
+      "text": 442,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 649,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 461,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 476,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 548,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 530,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 680,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 469,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 672,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 574,
+      "type": 1
+    },
+    {
+      "text": 769,
+      "type": 0
+    },
+    {
+      "text": 729,
+      "type": 0
+    },
+    {
+      "text": 737,
+      "type": 0
+    },
+    {
+      "text": 723,
+      "type": 0
+    },
+    {
+      "text": 798,
+      "type": 0
+    },
+    {
+      "text": 746,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 629,
+      "type": 1
+    },
+    {
+      "text": 741,
+      "type": 0
+    },
+    {
+      "name": 929,
+      "text": 516,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 631,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 632,
+      "type": 1
+    },
+    {
+      "text": 713,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 650,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 646,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 625,
+      "type": 1
+    },
+    {
+      "text": 754,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 652,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 519,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 540,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 690,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 636,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 570,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 677,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 513,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 538,
+      "type": 1
+    },
+    {
+      "name": 929,
+      "text": 472,
+      "type": 1
+    },
+    {
+      "text": 838,
+      "type": 0
+    },
+    {
+      "text": 779,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 431,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 593,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 563,
+      "type": 1
+    },
+    {
+      "text": 822,
+      "type": 0
+    },
+    {
+      "text": 740,
+      "type": 0
+    },
+    {
+      "name": 820,
+      "text": 667,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 641,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 508,
+      "type": 1
+    },
+    {
+      "text": 766,
+      "type": 0
+    },
+    {
+      "text": 706,
+      "type": 0
+    },
+    {
+      "text": 735,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 506,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 687,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 517,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 505,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 564,
+      "type": 1
+    },
+    {
+      "text": 931,
+      "type": 0
+    },
+    {
+      "text": 743,
+      "type": 0
+    },
+    {
+      "text": 860,
+      "type": 0
+    },
+    {
+      "name": 820,
+      "text": 539,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 639,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 533,
+      "type": 1
+    },
+    {
+      "text": 762,
+      "type": 0
+    },
+    {
+      "text": 818,
+      "type": 0
+    },
+    {
+      "text": 732,
+      "type": 0
+    },
+    {
+      "text": 759,
+      "type": 0
+    },
+    {
+      "text": 785,
+      "type": 0
+    },
+    {
+      "name": 820,
+      "text": 541,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 507,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 586,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 535,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 520,
+      "type": 1
+    },
+    {
+      "text": 824,
+      "type": 0
+    },
+    {
+      "text": 767,
+      "type": 0
+    },
+    {
+      "text": 731,
+      "type": 0
+    },
+    {
+      "name": 834,
+      "text": 573,
+      "type": 1
+    },
+    {
+      "name": 820,
+      "text": 512,
+      "type": 1
+    },
+    {
+      "name": 834,
+      "text": 477,
+      "type": 1
+    },
+    {
+      "text": 788,
+      "type": 0
+    },
+    {
+      "storage": 52,
+      "label": 9,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 764
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 9,
+      "type": 6
+    },
+    {
+      "storage": 53,
+      "label": 14,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "6": 242,
+    "7": 384,
+    "8": 228,
+    "9": 492,
+    "11": 234,
+    "13": 250,
+    "14": 6
+  }
+}

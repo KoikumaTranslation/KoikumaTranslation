@@ -1,1 +1,1954 @@
-{"names":[248,238,287],"strings":[{"original":"$eye"},{"original":"$lip"},{"original":"$lip凛"},{"original":"*end"},{"original":"*gameend_scnsel"},{"original":"*start"},{"original":"1000"},{"original":"300"},{"original":"3000"},{"original":"500"},{"original":"6e4ec513ddc3768df44581c1b425a6ac"},{"original":"900"},{"original":"MoveAction"},{"original":"RandomAction"},{"original":"RandomFlipAction"},{"original":"SinAction"},{"original":"acdec"},{"original":"bg"},{"original":"bg08a"},{"original":"bg08a_v"},{"original":"bgm"},{"original":"bgm07"},{"original":"bgm09"},{"original":"bgm_BGM07"},{"original":"bgm_BGM09"},{"original":"both"},{"original":"cg_ic_13"},{"original":"cg_obi"},{"original":"cg_wh"},{"original":"cg_凛.stand"},{"original":"character"},{"original":"crossfade"},{"original":"del"},{"original":"delayrun"},{"original":"doBoxBlur"},{"original":"env"},{"original":"envupdate"},{"original":"ev"},{"original":"eval"},{"original":"event"},{"original":"exit"},{"original":"eye"},{"original":"eyecatch"},{"original":"eyeflipdisable"},{"original":"f.sceneview"},{"original":"facemask"},{"original":"g01_rin_01.ks"},{"original":"g01_rin_02.ks"},{"original":"ic_13"},{"original":"init"},{"original":"layer"},{"original":"meswinload"},{"original":"msgoff"},{"original":"msgwin"},{"original":"new"},{"original":"obi"},{"original":"order"},{"original":"originx"},{"original":"originy"},{"original":"page"},{"original":"rin_0283"},{"original":"rin_0284"},{"original":"rin_0285"},{"original":"rin_0286"},{"original":"rin_0287"},{"original":"rin_0288"},{"original":"rin_0289"},{"original":"rin_0290"},{"original":"rin_0291"},{"original":"rin_0292"},{"original":"rin_0293"},{"original":"rin_0294"},{"original":"rin_0295"},{"original":"rin_0296"},{"original":"rin_0297"},{"original":"rin_0298"},{"original":"rin_0299"},{"original":"rin_0300"},{"original":"rin_0301"},{"original":"rin_0302"},{"original":"rin_0303"},{"original":"rin_0304"},{"original":"rin_0305"},{"original":"rin_0306"},{"original":"rin_0307"},{"original":"rin_0308"},{"original":"rin_0309"},{"original":"rin_0310"},{"original":"rin_0311"},{"original":"rin_0312"},{"original":"rin_0313"},{"original":"rin_0314"},{"original":"rin_0315"},{"original":"rin_0316"},{"original":"rin_0317"},{"original":"rin_0318"},{"original":"rin_0319"},{"original":"rin_0320"},{"original":"rin_0321"},{"original":"rin_0322"},{"original":"se"},{"original":"stage"},{"original":"start.ks"},{"original":"storage"},{"original":"target"},{"original":"tencho_0008"},{"original":"tencho_0009"},{"original":"tencho_0010"},{"original":"tencho_0011"},{"original":"tencho_0012"},{"original":"tencho_0013"},{"original":"tencho_0014"},{"original":"tencho_0015"},{"original":"time"},{"original":"trans"},{"original":"true"},{"original":"universal"},{"original":"update"},{"original":"visvalue"},{"original":"wait"},{"original":"wh"},{"original":"xpos"},{"original":"ypos"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[10]},{"original":"「あ、あぁ\u2026\u2026」","lines":[49]},{"original":"「あの、凛センパイに質問が」","lines":[87]},{"original":"「あれはライバル企業ですから！　うちも負けませんよー！」","lines":[15]},{"original":"「いいのいいの」","lines":[115]},{"original":"「いえ、どうでもよくないんですけど%D$vl1;今はとりあえず置いておきます！」"},{"original":"「いえ、どうでもよくないんですけど今はとりあえず置いておきます！」","lines":[117]},{"original":"「いや、だから持ち帰らないって\u2026\u2026」","lines":[94]},{"original":"「いや、流石にそんなことはしないって\u2026\u2026」","lines":[37]},{"original":"「いらっしゃいませー！！　お弁当はいかがですかー！！」","lines":[81]},{"original":"「うますぎるっ\u2026\u2026！」","lines":[43]},{"original":"「ええそりゃあもう！　今日は一段と楽しいです！」","lines":[69]},{"original":"「え？　いいの？」","lines":[82]},{"original":"「おいしいですか！？」","lines":[36]},{"original":"「おー！」","lines":[61]},{"original":"「お袋の懐かしい味がするって人気があるんですよー！」","lines":[73]},{"original":"「こ、これは\u2026\u2026！？」","lines":[89]},{"original":"「こっちが一方的にそう思ってるだけですが！」","lines":[58]},{"original":"「この売れ行きがいい弁当は何弁当なの？」","lines":[104]},{"original":"「この時期は常に死にかけの状態なんです！」","lines":[60]},{"original":"「これは、うちの柴崎家で大人気のとり天丼です！」","lines":[35]},{"original":"「さぁ、さっそくですがお仕事をしましょー！」","lines":[85]},{"original":"「そうですよ！　うちのコンビニは、こういう厨房で作るお弁当にも力を入れてるんですから！」","lines":[110]},{"original":"「そうなの！？」","lines":[26]},{"original":"「それじゃ、後はもろもろよろしく！」","lines":[53]},{"original":"「それで凛ちゃんに質問があるんだけど」","lines":[52]},{"original":"「それとも凛って呼び捨てで呼んじゃったりしますか！？」","lines":[83]},{"original":"「それなら朝早くから仕込んで作った甲斐がありましたー！」","lines":[19]},{"original":"「それに、採用してあげないと凛ちゃんが可哀そうだから」","lines":[91]},{"original":"「それにしてもこのとり天丼マジでおいしいね」","lines":[16]},{"original":"「だって、いつも凛ちゃんからあなたの話を聞かされてたんだもの」","lines":[17]},{"original":"「ちょ、ちょっと店長！？　そんなこと蓮センパイに言わないでくださいよー！」","lines":[21]},{"original":"「て、店長ー！」","lines":[103]},{"original":"「でも、この時期は持ち帰ったお弁当以外でも死にかけてますから大丈夫ですよ！」","lines":[25]},{"original":"「というわけで、凛ちゃんには新人の指導を任せちゃうわね」","lines":[63]},{"original":"「なるほど」","lines":[42]},{"original":"「なんか、いつもよりも楽しそうだね」","lines":[86]},{"original":"「なんだかセコイーマートみたいだなぁ」","lines":[127]},{"original":"「はい！　頑張りましょー！」","lines":[29]},{"original":"「もー\u2026\u2026！　店長ったらぁ\u2026\u2026！」","lines":[50]},{"original":"「もー！　センパイだなんてやめてくださいよー！」","lines":[126]},{"original":"「んじゃ、そのためにもバイト頑張らないとな！」","lines":[108]},{"original":"「んんん？　どういうこと？」","lines":[84]},{"original":"「ん？　これ、凛ちゃんが作ってるの？」","lines":[122]},{"original":"「バイトが終わったら、手取り足取り教えますか\u2026\u2026？」","lines":[98]},{"original":"「ボクがこっそり持ち帰ってたことがバレたせいで\u2026\u2026！」","lines":[51]},{"original":"「ボクのことはこれまで通り普通に呼んでください！」","lines":[114]},{"original":"「ボクの発情期の話はどうでもいいんですよ！」","lines":[62]},{"original":"「ママの味を完全再現しているんです！」","lines":[88]},{"original":"「ライバルなのか\u2026\u2026」","lines":[121]},{"original":"「レシピだったら、後で教えてあげますよ\u2026\u2026？」","lines":[109]},{"original":"「人虎族の発情期は死にそうになるレベルですごいんですよ」","lines":[38]},{"original":"「作り立てですよー！！%D$vl1;　おいしーですよー！！」"},{"original":"「作り立てですよー！！　おいしーですよー！！」","lines":[27]},{"original":"「凛ちゃん、いろいろと頑張りなさいよ！」","lines":[34]},{"original":"「分からないことがあればなんでも聞いてください！」","lines":[20]},{"original":"「同じ職場で働けるかも！　ってあんなに喜んでたものねー」","lines":[116]},{"original":"「問題なのは、ボクが持ち帰る予定の廃棄弁当を蓮センパイが持っていくかもしれないことです！」","lines":[30]},{"original":"「店長、おもしろい人だね」","lines":[14]},{"original":"「店長さん、そんな簡単に採用していいんですか\u2026\u2026？」","lines":[99]},{"original":"「店長の許可が下りたやつだけにしときなよ\u2026\u2026」","lines":[97]},{"original":"「廃棄\u2026\u2026特に最近はその取り決めが厳しいんですよ！」","lines":[93]},{"original":"「廃棄弁当の持ち帰りは禁止ですよ！」","lines":[120]},{"original":"「廃棄弁当はボクが持ち帰るからダメですけど\u2015\u2015」","lines":[105]},{"original":"「当たったくらいじゃヘコたれません！」","lines":[102]},{"original":"「当たったって食中毒？　大丈夫だったの？」","lines":[92]},{"original":"「持ち帰って寮のみんなにも食べさせてあげたいくらいだ」","lines":[7]},{"original":"「採用ッ！！」","lines":[101]},{"original":"「最近、お弁当が当たってしまったことでそのことが露見しまして\u2026\u2026」","lines":[100]},{"original":"「欲に負け続け、こっそり廃棄弁当を持ち帰ってました\u2026\u2026」","lines":[54]},{"original":"「無慈悲なスルー！」","lines":[68]},{"original":"「良かったら試食してみますか？」","lines":[9]},{"original":"「蓮センパイ、やりましたねっ！」","lines":[59]},{"original":"「蓮センパイ、よくぞ聞いてくれました！」","lines":[33]},{"original":"「蓮センパイ、今日からよろしくお願いします！」","lines":[78]},{"original":"あぁ\u2026\u2026母さん、元気にしてるかな\u2026\u2026？","lines":[48]},{"original":"あんまりジロジロ見るのはよくないけどつい、ね\u2026\u2026。","lines":[65]},{"original":"あんまり味わった経験がないから分からないが\u2015\u2015","lines":[13]},{"original":"いや、そんなことはないはずだけど\u2026\u2026。","lines":[24]},{"original":"うわぁ、頑張ろう。","lines":[64]},{"original":"お袋の味、か。","lines":[31]},{"original":"こうして俺はコンビニ『ルォーソン』で働くことになった。","lines":[106]},{"original":"この時期は常に死にかけの状態。","lines":[118]},{"original":"そして、その悪びれず懲りない精神。","lines":[74]},{"original":"その味を簡潔に説明するなら、懐かしいという印象。","lines":[41]},{"original":"その声は、普段よりもいささか楽し気に聞こえる気がした。","lines":[70]},{"original":"それならお言葉に甘えて\u2026\u2026と試食することに。","lines":[56]},{"original":"それに、自炊派なのでルォーソンに関することにも疎い。","lines":[46]},{"original":"それに、見ていて飽きないとう感じ。","lines":[125]},{"original":"だけど、レシピを教えてくれるのは純粋に嬉しい。","lines":[79]},{"original":"ちょっぴりお胸がホロリ。","lines":[76]},{"original":"でも、俺はこの味をどこかで食べたような気がする\u2026\u2026。","lines":[123]},{"original":"と、凛ちゃんは顔を赤面させてそんなことを言う。","lines":[28]},{"original":"と、店長は去り際に凛ちゃんを優しく小突いていく。","lines":[66]},{"original":"どんな味がするんだろう\u2026\u2026？","lines":[47]},{"original":"なんだか、ついつい凛ちゃんのこと見ちゃうな\u2026\u2026。","lines":[113]},{"original":"みたいな感じなんだろうか\u2026\u2026？","lines":[119]},{"original":"むしろいいと思います。","lines":[72]},{"original":"もぐもぐもぐ。","lines":[22]},{"original":"よく分からないけど、店長なりの考えがあるようで一安心。","lines":[90]},{"original":"ダメじゃん。","lines":[12]},{"original":"バイトってこんなに簡単に決まるものなんだろうか？","lines":[0,131]},{"original":"バイトです！","lines":[80]},{"original":"ポロリじゃなくてホロリ。","lines":[112]},{"original":"ヤバイと思ったが性欲が抑えきれなかった。"},{"original":"ラベル0","lines":[77]},{"original":"不思議と、そう思わせてくれる素朴な味わい。","lines":[111]},{"original":"人間には発情期ってないからよく分からないけども\u2026\u2026。","lines":[39]},{"original":"俺たちは街頭で弁当の販売を始めた。","lines":[71]},{"original":"俺はとり天丼をパクリと一口。","lines":[128]},{"original":"俺は不慣れながらも凛ちゃんとバイトに勤しんだ。"},{"original":"側面手上"},{"original":"側面手下","lines":[9,17,21,29,33,34,35,37,38,43,50,51,52,54,59,60,61,62,68,82,83,85,87,89,93,97,98,100,101,103,104,105,109,114,115,116,120,121,122,127]},{"original":"凛"},{"original":"凛.stand","lines":[18]},{"original":"凛ちゃん、俺の何を話してたんだろう\u2026\u2026？","lines":[44]},{"original":"凛ちゃんって、いつもニコニコしてるよなぁ。","lines":[32]},{"original":"凛ちゃんと一緒に働くことになった。","lines":[75]},{"original":"別に俺の母親のとり天丼を食べたことはない。","lines":[95]},{"original":"別に廃棄弁当にあり付こうとは思ってない。","lines":[23]},{"original":"少なくとも適当に採用をしているわけじゃなさそうだ。","lines":[11]},{"original":"展開の速さについていけねぇ\u2026\u2026。","lines":[8]},{"original":"幕、開けました。","lines":[7,15,16,19,20,25,26,27]},{"original":"店長","lines":[107]},{"original":"意味がさっぱり分からん。"},{"original":"手上"},{"original":"手下","lines":[124]},{"original":"手取り足取りという単語が気になるけど\u2026\u2026。","lines":[67]},{"original":"料理をする身としては少し気になるなぁ。"},{"original":"斜右上","lines":[96]},{"original":"晩飯用に人数分を買って帰ろうかなぁって。"},{"original":"正面手上"},{"original":"正面手下","lines":[57]},{"original":"気になることは、捨てるほどある。"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１:漫符無"},{"original":"眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬２:漫符無"},{"original":"眉怒１:目Ａ怒１:口怒１:汗無::頬１:漫符無"},{"original":"眉怒１:目Ａ怒１:口怒１:汗無::頬２:漫符無"},{"original":"眉怒１:目Ａ悲２:口怒１:汗無::頬１:漫符無"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬１:漫符無"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬２:漫符無"},{"original":"眉怒１:目Ａ笑２:口ギャグ笑:汗無::頬３:漫符無"},{"original":"眉怒１:目Ａ笑２:口ギャグ驚:汗無::頬１:漫符無"},{"original":"眉怒１:目Ａ笑２:口笑１:汗無::頬１:漫符無"},{"original":"眉怒２:目Ａ怒２:口怒２:汗無::頬１:漫符無"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬１:漫符無"},{"original":"眉悲１:目Ａ悲１:口笑１:汗無::頬２:漫符無"},{"original":"眉悲１:目Ａ悲２:口笑１:汗有::頬１:漫符無"},{"original":"眉悲１:目Ａ悲２:口笑１:汗無::頬１:漫符無"},{"original":"眉悲１:目Ａ照２:口笑１:汗無::頬２:漫符無"},{"original":"眉悲１:目Ａ笑１:口笑１:汗無::頬１:漫符無"},{"original":"眉悲２:目Ａ悲２:口悲２:汗有::頬１:漫符無"},{"original":"眉照１:目Ａ照１:口照１:汗照１::頬２:漫符無"},{"original":"眉照２:目Ａ悲１:口ギャグ笑:汗無::頬２:漫符無"},{"original":"眉照２:目Ａ悲１:口照２:汗無::頬３:漫符無"},{"original":"眉笑１:目Ａ悲２:口笑１:汗無::頬２:漫符無"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１:漫符無"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬１:漫符無"},{"original":"眉笑２:目Ａ笑２:口笑２:汗無::頬２:漫符無"},{"original":"眉驚１:目Ａ驚１:口驚１:汗無::頬２:漫符無"},{"original":"私服","lines":[55]},{"original":"自慢じゃないが俺はバイトの経験がない。","lines":[10,14,30,36,42,49,53,58,63,69,73,81,84,86,88,91,92,94,99,102,108,110,117,126]},{"original":"蓮","lines":[40]},{"original":"街中に凛ちゃんの元気ハツラツな声が響き渡る。","lines":[45]},{"original":"見ているこっちまで元気がもらえる。"},{"original":"近距離"},{"original":"顔"}],"name":46,"lines":[{"type":3,"title":227},{"subtype":0,"type":5},{"name":248,"type":2},{"name":238,"type":2},{"name":287,"type":2},{"subtype":0,"type":5},{"label":5,"type":6},{"name":248,"text":192,"type":1},{"text":247,"type":0},{"name":238,"text":197,"type":1},{"name":287,"text":126,"type":1},{"text":246,"type":0},{"text":226,"type":0},{"text":203,"type":0},{"name":287,"text":184,"type":1},{"name":248,"text":129,"type":1},{"name":248,"text":155,"type":1},{"name":238,"text":156,"type":1},{"text":240,"type":0},{"name":248,"text":153,"type":1},{"name":248,"text":181,"type":1},{"name":238,"text":157,"type":1},{"text":224,"type":0},{"text":245,"type":0},{"text":204,"type":0},{"name":248,"text":159,"type":1},{"name":248,"text":149,"type":1},{"name":248,"text":179,"type":1},{"text":218,"type":0},{"name":238,"text":164,"type":1},{"name":287,"text":183,"type":1},{"text":206,"type":0},{"text":242,"type":0},{"name":238,"text":199,"type":1},{"name":238,"text":180,"type":1},{"name":238,"text":146,"type":1},{"name":287,"text":139,"type":1},{"name":238,"text":134,"type":1},{"name":238,"text":177,"type":1},{"text":233,"type":0},{"text":288,"type":0},{"text":210,"type":0},{"name":287,"text":161,"type":1},{"name":238,"text":136,"type":1},{"text":241,"type":0},{"text":289,"type":0},{"text":213,"type":0},{"text":220,"type":0},{"text":201,"type":0},{"name":287,"text":127,"type":1},{"name":238,"text":165,"type":1},{"name":238,"text":171,"type":1},{"name":238,"text":151,"type":1},{"name":287,"text":150,"type":1},{"name":238,"text":195,"type":1},{"text":286,"type":0},{"text":212,"type":0},{"text":258,"type":0},{"name":287,"text":143,"type":1},{"name":238,"text":198,"type":1},{"name":238,"text":145,"type":1},{"name":238,"text":140,"type":1},{"name":238,"text":173,"type":1},{"name":287,"text":160,"type":1},{"text":205,"type":0},{"text":202,"type":0},{"text":219,"type":0},{"text":253,"type":0},{"name":238,"text":196,"type":1},{"name":287,"text":137,"type":1},{"text":211,"type":0},{"text":234,"type":0},{"text":223,"type":0},{"name":287,"text":141,"type":1},{"text":209,"type":0},{"text":243,"type":0},{"text":216,"type":0},{"text":231,"type":0},{"text":200,"type":0},{"text":215,"type":0},{"text":228,"type":0},{"name":287,"text":135,"type":1},{"name":238,"text":138,"type":1},{"name":238,"text":152,"type":1},{"name":287,"text":168,"type":1},{"name":238,"text":147,"type":1},{"name":287,"text":162,"type":1},{"name":238,"text":128,"type":1},{"name":287,"text":174,"type":1},{"name":238,"text":142,"type":1},{"text":225,"type":0},{"name":287,"text":154,"type":1},{"name":287,"text":191,"type":1},{"name":238,"text":187,"type":1},{"name":287,"text":133,"type":1},{"text":244,"type":0},{"text":255,"type":0},{"name":238,"text":186,"type":1},{"name":238,"text":170,"type":1},{"name":287,"text":185,"type":1},{"name":238,"text":194,"type":1},{"name":238,"text":193,"type":1},{"name":287,"text":190,"type":1},{"name":238,"text":158,"type":1},{"name":238,"text":144,"type":1},{"name":238,"text":189,"type":1},{"text":207,"type":0},{"text":249,"type":0},{"name":287,"text":167,"type":1},{"name":238,"text":176,"type":1},{"name":287,"text":148,"type":1},{"text":232,"type":0},{"text":229,"type":0},{"text":221,"type":0},{"name":238,"text":172,"type":1},{"name":238,"text":130,"type":1},{"name":238,"text":182,"type":1},{"name":287,"text":132,"type":1},{"text":208,"type":0},{"text":222,"type":0},{"name":238,"text":188,"type":1},{"name":238,"text":175,"type":1},{"name":238,"text":169,"type":1},{"text":217,"type":0},{"text":252,"type":0},{"text":214,"type":0},{"name":287,"text":166,"type":1},{"name":238,"text":163,"type":1},{"text":235,"type":0},{"storage":46,"label":3,"type":7},{"subtype":0,"type":5},{"type":3,"title":227},{"subtype":0,"type":5},{"label":3,"type":6},{"storage":47,"label":5,"type":7}],"labels":{"3":133,"5":6}}
+{
+  "names": [
+    248,
+    238,
+    287
+  ],
+  "strings": [
+    {
+      "original": "$eye"
+    },
+    {
+      "original": "$lip"
+    },
+    {
+      "original": "$lip凛"
+    },
+    {
+      "original": "*end"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "300"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "500"
+    },
+    {
+      "original": "6e4ec513ddc3768df44581c1b425a6ac"
+    },
+    {
+      "original": "900"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "RandomAction"
+    },
+    {
+      "original": "RandomFlipAction"
+    },
+    {
+      "original": "SinAction"
+    },
+    {
+      "original": "acdec"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg08a"
+    },
+    {
+      "original": "bg08a_v"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm07"
+    },
+    {
+      "original": "bgm09"
+    },
+    {
+      "original": "bgm_BGM07"
+    },
+    {
+      "original": "bgm_BGM09"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cg_ic_13"
+    },
+    {
+      "original": "cg_obi"
+    },
+    {
+      "original": "cg_wh"
+    },
+    {
+      "original": "cg_凛.stand"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "delayrun"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "ev"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "event"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eye"
+    },
+    {
+      "original": "eyecatch"
+    },
+    {
+      "original": "eyeflipdisable"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "facemask"
+    },
+    {
+      "original": "g01_rin_01.ks"
+    },
+    {
+      "original": "g01_rin_02.ks"
+    },
+    {
+      "original": "ic_13"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "layer"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "msgwin"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "obi"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "originx"
+    },
+    {
+      "original": "originy"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "rin_0283"
+    },
+    {
+      "original": "rin_0284"
+    },
+    {
+      "original": "rin_0285"
+    },
+    {
+      "original": "rin_0286"
+    },
+    {
+      "original": "rin_0287"
+    },
+    {
+      "original": "rin_0288"
+    },
+    {
+      "original": "rin_0289"
+    },
+    {
+      "original": "rin_0290"
+    },
+    {
+      "original": "rin_0291"
+    },
+    {
+      "original": "rin_0292"
+    },
+    {
+      "original": "rin_0293"
+    },
+    {
+      "original": "rin_0294"
+    },
+    {
+      "original": "rin_0295"
+    },
+    {
+      "original": "rin_0296"
+    },
+    {
+      "original": "rin_0297"
+    },
+    {
+      "original": "rin_0298"
+    },
+    {
+      "original": "rin_0299"
+    },
+    {
+      "original": "rin_0300"
+    },
+    {
+      "original": "rin_0301"
+    },
+    {
+      "original": "rin_0302"
+    },
+    {
+      "original": "rin_0303"
+    },
+    {
+      "original": "rin_0304"
+    },
+    {
+      "original": "rin_0305"
+    },
+    {
+      "original": "rin_0306"
+    },
+    {
+      "original": "rin_0307"
+    },
+    {
+      "original": "rin_0308"
+    },
+    {
+      "original": "rin_0309"
+    },
+    {
+      "original": "rin_0310"
+    },
+    {
+      "original": "rin_0311"
+    },
+    {
+      "original": "rin_0312"
+    },
+    {
+      "original": "rin_0313"
+    },
+    {
+      "original": "rin_0314"
+    },
+    {
+      "original": "rin_0315"
+    },
+    {
+      "original": "rin_0316"
+    },
+    {
+      "original": "rin_0317"
+    },
+    {
+      "original": "rin_0318"
+    },
+    {
+      "original": "rin_0319"
+    },
+    {
+      "original": "rin_0320"
+    },
+    {
+      "original": "rin_0321"
+    },
+    {
+      "original": "rin_0322"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "tencho_0008"
+    },
+    {
+      "original": "tencho_0009"
+    },
+    {
+      "original": "tencho_0010"
+    },
+    {
+      "original": "tencho_0011"
+    },
+    {
+      "original": "tencho_0012"
+    },
+    {
+      "original": "tencho_0013"
+    },
+    {
+      "original": "tencho_0014"
+    },
+    {
+      "original": "tencho_0015"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "true"
+    },
+    {
+      "original": "universal"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "wh"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        10
+      ]
+    },
+    {
+      "original": "「あ、あぁ……」",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "「あの、凛センパイに質問が」",
+      "lines": [
+        87
+      ]
+    },
+    {
+      "original": "「あれはライバル企業ですから！　うちも負けませんよー！」",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "「いいのいいの」",
+      "lines": [
+        115
+      ]
+    },
+    {
+      "original": "「いえ、どうでもよくないんですけど%D$vl1;今はとりあえず置いておきます！」"
+    },
+    {
+      "original": "「いえ、どうでもよくないんですけど今はとりあえず置いておきます！」",
+      "lines": [
+        117
+      ]
+    },
+    {
+      "original": "「いや、だから持ち帰らないって……」",
+      "lines": [
+        94
+      ]
+    },
+    {
+      "original": "「いや、流石にそんなことはしないって……」",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "「いらっしゃいませー！！　お弁当はいかがですかー！！」",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "「うますぎるっ……！」",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "「ええそりゃあもう！　今日は一段と楽しいです！」",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "「え？　いいの？」",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "「おいしいですか！？」",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "「おー！」",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "「お袋の懐かしい味がするって人気があるんですよー！」",
+      "lines": [
+        73
+      ]
+    },
+    {
+      "original": "「こ、これは……！？」",
+      "lines": [
+        89
+      ]
+    },
+    {
+      "original": "「こっちが一方的にそう思ってるだけですが！」",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "「この売れ行きがいい弁当は何弁当なの？」",
+      "lines": [
+        104
+      ]
+    },
+    {
+      "original": "「この時期は常に死にかけの状態なんです！」",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "「これは、うちの柴崎家で大人気のとり天丼です！」",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "「さぁ、さっそくですがお仕事をしましょー！」",
+      "lines": [
+        85
+      ]
+    },
+    {
+      "original": "「そうですよ！　うちのコンビニは、こういう厨房で作るお弁当にも力を入れてるんですから！」",
+      "lines": [
+        110
+      ]
+    },
+    {
+      "original": "「そうなの！？」",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "「それじゃ、後はもろもろよろしく！」",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "「それで凛ちゃんに質問があるんだけど」",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "「それとも凛って呼び捨てで呼んじゃったりしますか！？」",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "「それなら朝早くから仕込んで作った甲斐がありましたー！」",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "「それに、採用してあげないと凛ちゃんが可哀そうだから」",
+      "lines": [
+        91
+      ]
+    },
+    {
+      "original": "「それにしてもこのとり天丼マジでおいしいね」",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "「だって、いつも凛ちゃんからあなたの話を聞かされてたんだもの」",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "「ちょ、ちょっと店長！？　そんなこと蓮センパイに言わないでくださいよー！」",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "「て、店長ー！」",
+      "lines": [
+        103
+      ]
+    },
+    {
+      "original": "「でも、この時期は持ち帰ったお弁当以外でも死にかけてますから大丈夫ですよ！」",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "「というわけで、凛ちゃんには新人の指導を任せちゃうわね」",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "「なるほど」",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "「なんか、いつもよりも楽しそうだね」",
+      "lines": [
+        86
+      ]
+    },
+    {
+      "original": "「なんだかセコイーマートみたいだなぁ」",
+      "lines": [
+        127
+      ]
+    },
+    {
+      "original": "「はい！　頑張りましょー！」",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "「もー……！　店長ったらぁ……！」",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "「もー！　センパイだなんてやめてくださいよー！」",
+      "lines": [
+        126
+      ]
+    },
+    {
+      "original": "「んじゃ、そのためにもバイト頑張らないとな！」",
+      "lines": [
+        108
+      ]
+    },
+    {
+      "original": "「んんん？　どういうこと？」",
+      "lines": [
+        84
+      ]
+    },
+    {
+      "original": "「ん？　これ、凛ちゃんが作ってるの？」",
+      "lines": [
+        122
+      ]
+    },
+    {
+      "original": "「バイトが終わったら、手取り足取り教えますか……？」",
+      "lines": [
+        98
+      ]
+    },
+    {
+      "original": "「ボクがこっそり持ち帰ってたことがバレたせいで……！」",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "「ボクのことはこれまで通り普通に呼んでください！」",
+      "lines": [
+        114
+      ]
+    },
+    {
+      "original": "「ボクの発情期の話はどうでもいいんですよ！」",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "「ママの味を完全再現しているんです！」",
+      "lines": [
+        88
+      ]
+    },
+    {
+      "original": "「ライバルなのか……」",
+      "lines": [
+        121
+      ]
+    },
+    {
+      "original": "「レシピだったら、後で教えてあげますよ……？」",
+      "lines": [
+        109
+      ]
+    },
+    {
+      "original": "「人虎族の発情期は死にそうになるレベルですごいんですよ」",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "「作り立てですよー！！%D$vl1;　おいしーですよー！！」"
+    },
+    {
+      "original": "「作り立てですよー！！　おいしーですよー！！」",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "「凛ちゃん、いろいろと頑張りなさいよ！」",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "「分からないことがあればなんでも聞いてください！」",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "「同じ職場で働けるかも！　ってあんなに喜んでたものねー」",
+      "lines": [
+        116
+      ]
+    },
+    {
+      "original": "「問題なのは、ボクが持ち帰る予定の廃棄弁当を蓮センパイが持っていくかもしれないことです！」",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "「店長、おもしろい人だね」",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "「店長さん、そんな簡単に採用していいんですか……？」",
+      "lines": [
+        99
+      ]
+    },
+    {
+      "original": "「店長の許可が下りたやつだけにしときなよ……」",
+      "lines": [
+        97
+      ]
+    },
+    {
+      "original": "「廃棄……特に最近はその取り決めが厳しいんですよ！」",
+      "lines": [
+        93
+      ]
+    },
+    {
+      "original": "「廃棄弁当の持ち帰りは禁止ですよ！」",
+      "lines": [
+        120
+      ]
+    },
+    {
+      "original": "「廃棄弁当はボクが持ち帰るからダメですけど――」",
+      "lines": [
+        105
+      ]
+    },
+    {
+      "original": "「当たったくらいじゃヘコたれません！」",
+      "lines": [
+        102
+      ]
+    },
+    {
+      "original": "「当たったって食中毒？　大丈夫だったの？」",
+      "lines": [
+        92
+      ]
+    },
+    {
+      "original": "「持ち帰って寮のみんなにも食べさせてあげたいくらいだ」",
+      "lines": [
+        7
+      ]
+    },
+    {
+      "original": "「採用ッ！！」",
+      "lines": [
+        101
+      ]
+    },
+    {
+      "original": "「最近、お弁当が当たってしまったことでそのことが露見しまして……」",
+      "lines": [
+        100
+      ]
+    },
+    {
+      "original": "「欲に負け続け、こっそり廃棄弁当を持ち帰ってました……」",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "「無慈悲なスルー！」",
+      "lines": [
+        68
+      ]
+    },
+    {
+      "original": "「良かったら試食してみますか？」",
+      "lines": [
+        9
+      ]
+    },
+    {
+      "original": "「蓮センパイ、やりましたねっ！」",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "「蓮センパイ、よくぞ聞いてくれました！」",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "「蓮センパイ、今日からよろしくお願いします！」",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "あぁ……母さん、元気にしてるかな……？",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "あんまりジロジロ見るのはよくないけどつい、ね……。",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "あんまり味わった経験がないから分からないが――",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "いや、そんなことはないはずだけど……。",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "うわぁ、頑張ろう。",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "お袋の味、か。",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "こうして俺はコンビニ『ルォーソン』で働くことになった。",
+      "lines": [
+        106
+      ]
+    },
+    {
+      "original": "この時期は常に死にかけの状態。",
+      "lines": [
+        118
+      ]
+    },
+    {
+      "original": "そして、その悪びれず懲りない精神。",
+      "lines": [
+        74
+      ]
+    },
+    {
+      "original": "その味を簡潔に説明するなら、懐かしいという印象。",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "その声は、普段よりもいささか楽し気に聞こえる気がした。",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "それならお言葉に甘えて……と試食することに。",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "それに、自炊派なのでルォーソンに関することにも疎い。",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "それに、見ていて飽きないとう感じ。",
+      "lines": [
+        125
+      ]
+    },
+    {
+      "original": "だけど、レシピを教えてくれるのは純粋に嬉しい。",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "ちょっぴりお胸がホロリ。",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "でも、俺はこの味をどこかで食べたような気がする……。",
+      "lines": [
+        123
+      ]
+    },
+    {
+      "original": "と、凛ちゃんは顔を赤面させてそんなことを言う。",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "と、店長は去り際に凛ちゃんを優しく小突いていく。",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "どんな味がするんだろう……？",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "なんだか、ついつい凛ちゃんのこと見ちゃうな……。",
+      "lines": [
+        113
+      ]
+    },
+    {
+      "original": "みたいな感じなんだろうか……？",
+      "lines": [
+        119
+      ]
+    },
+    {
+      "original": "むしろいいと思います。",
+      "lines": [
+        72
+      ]
+    },
+    {
+      "original": "もぐもぐもぐ。",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "よく分からないけど、店長なりの考えがあるようで一安心。",
+      "lines": [
+        90
+      ]
+    },
+    {
+      "original": "ダメじゃん。",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "バイトってこんなに簡単に決まるものなんだろうか？",
+      "lines": [
+        0,
+        131
+      ]
+    },
+    {
+      "original": "バイトです！",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "ポロリじゃなくてホロリ。",
+      "lines": [
+        112
+      ]
+    },
+    {
+      "original": "ヤバイと思ったが性欲が抑えきれなかった。"
+    },
+    {
+      "original": "ラベル0",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "不思議と、そう思わせてくれる素朴な味わい。",
+      "lines": [
+        111
+      ]
+    },
+    {
+      "original": "人間には発情期ってないからよく分からないけども……。",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "俺たちは街頭で弁当の販売を始めた。",
+      "lines": [
+        71
+      ]
+    },
+    {
+      "original": "俺はとり天丼をパクリと一口。",
+      "lines": [
+        128
+      ]
+    },
+    {
+      "original": "俺は不慣れながらも凛ちゃんとバイトに勤しんだ。"
+    },
+    {
+      "original": "側面手上"
+    },
+    {
+      "original": "側面手下",
+      "lines": [
+        9,
+        17,
+        21,
+        29,
+        33,
+        34,
+        35,
+        37,
+        38,
+        43,
+        50,
+        51,
+        52,
+        54,
+        59,
+        60,
+        61,
+        62,
+        68,
+        82,
+        83,
+        85,
+        87,
+        89,
+        93,
+        97,
+        98,
+        100,
+        101,
+        103,
+        104,
+        105,
+        109,
+        114,
+        115,
+        116,
+        120,
+        121,
+        122,
+        127
+      ]
+    },
+    {
+      "original": "凛"
+    },
+    {
+      "original": "凛.stand",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "凛ちゃん、俺の何を話してたんだろう……？",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "凛ちゃんって、いつもニコニコしてるよなぁ。",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "凛ちゃんと一緒に働くことになった。",
+      "lines": [
+        75
+      ]
+    },
+    {
+      "original": "別に俺の母親のとり天丼を食べたことはない。",
+      "lines": [
+        95
+      ]
+    },
+    {
+      "original": "別に廃棄弁当にあり付こうとは思ってない。",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "少なくとも適当に採用をしているわけじゃなさそうだ。",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "展開の速さについていけねぇ……。",
+      "lines": [
+        8
+      ]
+    },
+    {
+      "original": "幕、開けました。",
+      "lines": [
+        7,
+        15,
+        16,
+        19,
+        20,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "original": "店長",
+      "lines": [
+        107
+      ]
+    },
+    {
+      "original": "意味がさっぱり分からん。"
+    },
+    {
+      "original": "手上"
+    },
+    {
+      "original": "手下",
+      "lines": [
+        124
+      ]
+    },
+    {
+      "original": "手取り足取りという単語が気になるけど……。",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "料理をする身としては少し気になるなぁ。"
+    },
+    {
+      "original": "斜右上",
+      "lines": [
+        96
+      ]
+    },
+    {
+      "original": "晩飯用に人数分を買って帰ろうかなぁって。"
+    },
+    {
+      "original": "正面手上"
+    },
+    {
+      "original": "正面手下",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "気になることは、捨てるほどある。"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉ギャグ泣:目ギャグ泣:口ギャグ泣:汗無::頬２:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ怒１:口怒１:汗無::頬２:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ悲２:口怒１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬２:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ笑２:口ギャグ笑:汗無::頬３:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ笑２:口ギャグ驚:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒１:目Ａ笑２:口笑１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉怒２:目Ａ怒２:口怒２:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口笑１:汗無::頬２:漫符無"
+    },
+    {
+      "original": "眉悲１:目Ａ悲２:口笑１:汗有::頬１:漫符無"
+    },
+    {
+      "original": "眉悲１:目Ａ悲２:口笑１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉悲１:目Ａ照２:口笑１:汗無::頬２:漫符無"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口笑１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉悲２:目Ａ悲２:口悲２:汗有::頬１:漫符無"
+    },
+    {
+      "original": "眉照１:目Ａ照１:口照１:汗照１::頬２:漫符無"
+    },
+    {
+      "original": "眉照２:目Ａ悲１:口ギャグ笑:汗無::頬２:漫符無"
+    },
+    {
+      "original": "眉照２:目Ａ悲１:口照２:汗無::頬３:漫符無"
+    },
+    {
+      "original": "眉笑１:目Ａ悲２:口笑１:汗無::頬２:漫符無"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬１:漫符無"
+    },
+    {
+      "original": "眉笑２:目Ａ笑２:口笑２:汗無::頬２:漫符無"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口驚１:汗無::頬２:漫符無"
+    },
+    {
+      "original": "私服",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "自慢じゃないが俺はバイトの経験がない。",
+      "lines": [
+        10,
+        14,
+        30,
+        36,
+        42,
+        49,
+        53,
+        58,
+        63,
+        69,
+        73,
+        81,
+        84,
+        86,
+        88,
+        91,
+        92,
+        94,
+        99,
+        102,
+        108,
+        110,
+        117,
+        126
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "街中に凛ちゃんの元気ハツラツな声が響き渡る。",
+      "lines": [
+        45
+      ]
+    },
+    {
+      "original": "見ているこっちまで元気がもらえる。"
+    },
+    {
+      "original": "近距離"
+    },
+    {
+      "original": "顔"
+    }
+  ],
+  "name": 46,
+  "lines": [
+    {
+      "type": 3,
+      "title": 227
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 248,
+      "type": 2
+    },
+    {
+      "name": 238,
+      "type": 2
+    },
+    {
+      "name": 287,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 5,
+      "type": 6
+    },
+    {
+      "name": 248,
+      "text": 192,
+      "type": 1
+    },
+    {
+      "text": 247,
+      "type": 0
+    },
+    {
+      "name": 238,
+      "text": 197,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 126,
+      "type": 1
+    },
+    {
+      "text": 246,
+      "type": 0
+    },
+    {
+      "text": 226,
+      "type": 0
+    },
+    {
+      "text": 203,
+      "type": 0
+    },
+    {
+      "name": 287,
+      "text": 184,
+      "type": 1
+    },
+    {
+      "name": 248,
+      "text": 129,
+      "type": 1
+    },
+    {
+      "name": 248,
+      "text": 155,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 156,
+      "type": 1
+    },
+    {
+      "text": 240,
+      "type": 0
+    },
+    {
+      "name": 248,
+      "text": 153,
+      "type": 1
+    },
+    {
+      "name": 248,
+      "text": 181,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 157,
+      "type": 1
+    },
+    {
+      "text": 224,
+      "type": 0
+    },
+    {
+      "text": 245,
+      "type": 0
+    },
+    {
+      "text": 204,
+      "type": 0
+    },
+    {
+      "name": 248,
+      "text": 159,
+      "type": 1
+    },
+    {
+      "name": 248,
+      "text": 149,
+      "type": 1
+    },
+    {
+      "name": 248,
+      "text": 179,
+      "type": 1
+    },
+    {
+      "text": 218,
+      "type": 0
+    },
+    {
+      "name": 238,
+      "text": 164,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 183,
+      "type": 1
+    },
+    {
+      "text": 206,
+      "type": 0
+    },
+    {
+      "text": 242,
+      "type": 0
+    },
+    {
+      "name": 238,
+      "text": 199,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 180,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 146,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 139,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 134,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 177,
+      "type": 1
+    },
+    {
+      "text": 233,
+      "type": 0
+    },
+    {
+      "text": 288,
+      "type": 0
+    },
+    {
+      "text": 210,
+      "type": 0
+    },
+    {
+      "name": 287,
+      "text": 161,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 136,
+      "type": 1
+    },
+    {
+      "text": 241,
+      "type": 0
+    },
+    {
+      "text": 289,
+      "type": 0
+    },
+    {
+      "text": 213,
+      "type": 0
+    },
+    {
+      "text": 220,
+      "type": 0
+    },
+    {
+      "text": 201,
+      "type": 0
+    },
+    {
+      "name": 287,
+      "text": 127,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 165,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 171,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 151,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 150,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 195,
+      "type": 1
+    },
+    {
+      "text": 286,
+      "type": 0
+    },
+    {
+      "text": 212,
+      "type": 0
+    },
+    {
+      "text": 258,
+      "type": 0
+    },
+    {
+      "name": 287,
+      "text": 143,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 198,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 145,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 140,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 173,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 160,
+      "type": 1
+    },
+    {
+      "text": 205,
+      "type": 0
+    },
+    {
+      "text": 202,
+      "type": 0
+    },
+    {
+      "text": 219,
+      "type": 0
+    },
+    {
+      "text": 253,
+      "type": 0
+    },
+    {
+      "name": 238,
+      "text": 196,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 137,
+      "type": 1
+    },
+    {
+      "text": 211,
+      "type": 0
+    },
+    {
+      "text": 234,
+      "type": 0
+    },
+    {
+      "text": 223,
+      "type": 0
+    },
+    {
+      "name": 287,
+      "text": 141,
+      "type": 1
+    },
+    {
+      "text": 209,
+      "type": 0
+    },
+    {
+      "text": 243,
+      "type": 0
+    },
+    {
+      "text": 216,
+      "type": 0
+    },
+    {
+      "text": 231,
+      "type": 0
+    },
+    {
+      "text": 200,
+      "type": 0
+    },
+    {
+      "text": 215,
+      "type": 0
+    },
+    {
+      "text": 228,
+      "type": 0
+    },
+    {
+      "name": 287,
+      "text": 135,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 138,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 152,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 168,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 147,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 162,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 128,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 174,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 142,
+      "type": 1
+    },
+    {
+      "text": 225,
+      "type": 0
+    },
+    {
+      "name": 287,
+      "text": 154,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 191,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 187,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 133,
+      "type": 1
+    },
+    {
+      "text": 244,
+      "type": 0
+    },
+    {
+      "text": 255,
+      "type": 0
+    },
+    {
+      "name": 238,
+      "text": 186,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 170,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 185,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 194,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 193,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 190,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 158,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 144,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 189,
+      "type": 1
+    },
+    {
+      "text": 207,
+      "type": 0
+    },
+    {
+      "text": 249,
+      "type": 0
+    },
+    {
+      "name": 287,
+      "text": 167,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 176,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 148,
+      "type": 1
+    },
+    {
+      "text": 232,
+      "type": 0
+    },
+    {
+      "text": 229,
+      "type": 0
+    },
+    {
+      "text": 221,
+      "type": 0
+    },
+    {
+      "name": 238,
+      "text": 172,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 130,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 182,
+      "type": 1
+    },
+    {
+      "name": 287,
+      "text": 132,
+      "type": 1
+    },
+    {
+      "text": 208,
+      "type": 0
+    },
+    {
+      "text": 222,
+      "type": 0
+    },
+    {
+      "name": 238,
+      "text": 188,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 175,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "text": 217,
+      "type": 0
+    },
+    {
+      "text": 252,
+      "type": 0
+    },
+    {
+      "text": 214,
+      "type": 0
+    },
+    {
+      "name": 287,
+      "text": 166,
+      "type": 1
+    },
+    {
+      "name": 238,
+      "text": 163,
+      "type": 1
+    },
+    {
+      "text": 235,
+      "type": 0
+    },
+    {
+      "storage": 46,
+      "label": 3,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 227
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 3,
+      "type": 6
+    },
+    {
+      "storage": 47,
+      "label": 5,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "3": 133,
+    "5": 6
+  }
+}

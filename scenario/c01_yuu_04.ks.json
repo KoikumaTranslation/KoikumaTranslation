@@ -1,1 +1,4125 @@
-{"names":[411,517,3,521],"strings":[{"original":"$eye"},{"original":"$lip"},{"original":"$lip優","lines":[246]},{"original":"%153;わけないじゃないか！","lines":[213]},{"original":"%76;「ノーマルな本にすると変な趣味があるからあえてそれを選んだみたいに思われそうだだからここでの正解はアブノーマルなものを選ぶいやダメだそれだとそのまま受け取られてしまったらどうするそもそもこの問題に答えなんてぶつぶつ」"},{"original":"*gameend_scnsel"},{"original":"*start"},{"original":"*start2"},{"original":"0"},{"original":"1000"},{"original":"2000"},{"original":"300"},{"original":"3000"},{"original":"4000"},{"original":"500"},{"original":"MoveAction"},{"original":"RandomAction"},{"original":"RandomFlipAction"},{"original":"SinAction"},{"original":"bg"},{"original":"bg03a"},{"original":"bg04a"},{"original":"bg08a"},{"original":"bg15a"},{"original":"bgm"},{"original":"bgm03"},{"original":"bgm05"},{"original":"bgm06"},{"original":"bgm15"},{"original":"bgm_BGM03"},{"original":"bgm_BGM05"},{"original":"bgm_BGM06"},{"original":"bgm_BGM15"},{"original":"both"},{"original":"c01_yuu_04.ks"},{"original":"c01_yuu_06.ks"},{"original":"cg_優.stand"},{"original":"cg_集中線"},{"original":"character"},{"original":"crossfade"},{"original":"del"},{"original":"delayrun"},{"original":"doBoxBlur"},{"original":"e343f88444fa2a179f73464db1fec6a5"},{"original":"env"},{"original":"envupdate"},{"original":"ev"},{"original":"eval"},{"original":"event"},{"original":"exit"},{"original":"eye"},{"original":"eyeflipdisable"},{"original":"f.sceneview"},{"original":"facemask"},{"original":"init"},{"original":"layer"},{"original":"line"},{"original":"meswinload"},{"original":"msgoff"},{"original":"msgwin"},{"original":"new"},{"original":"order"},{"original":"originx"},{"original":"originy"},{"original":"page"},{"original":"pretrans"},{"original":"se"},{"original":"seベット１"},{"original":"se心音爆発"},{"original":"se雑誌捲り"},{"original":"stage"},{"original":"start.ks"},{"original":"stop"},{"original":"stopaction"},{"original":"storage"},{"original":"target"},{"original":"time"},{"original":"trans"},{"original":"universal"},{"original":"update"},{"original":"visvalue"},{"original":"wait"},{"original":"xpos"},{"original":"ypos"},{"original":"yu_0828"},{"original":"yu_0829"},{"original":"yu_0830"},{"original":"yu_0831"},{"original":"yu_0832"},{"original":"yu_0833"},{"original":"yu_0834"},{"original":"yu_0835"},{"original":"yu_0837"},{"original":"yu_0840"},{"original":"yu_0841"},{"original":"yu_0842"},{"original":"yu_0843"},{"original":"yu_0844"},{"original":"yu_0845"},{"original":"yu_0846"},{"original":"yu_0847"},{"original":"yu_0848"},{"original":"yu_0849"},{"original":"yu_0850"},{"original":"yu_0851"},{"original":"yu_0852"},{"original":"yu_0853"},{"original":"yu_0854"},{"original":"yu_0855"},{"original":"yu_0856"},{"original":"yu_0857"},{"original":"yu_0858"},{"original":"yu_0859"},{"original":"yu_0860"},{"original":"yu_0861"},{"original":"yu_0862"},{"original":"yu_0863"},{"original":"yu_0864"},{"original":"yu_0865"},{"original":"yu_0866"},{"original":"yu_0867"},{"original":"yu_0868"},{"original":"yu_0869"},{"original":"yu_0870"},{"original":"yu_0871"},{"original":"yu_0872"},{"original":"yu_0873"},{"original":"yu_0874"},{"original":"yu_0875"},{"original":"yu_0876"},{"original":"yu_0877"},{"original":"yu_0878"},{"original":"yu_0880"},{"original":"yu_0881"},{"original":"yu_0882"},{"original":"yu_0883"},{"original":"yu_0884"},{"original":"yu_0885"},{"original":"yu_0886"},{"original":"yu_0887"},{"original":"yu_0888"},{"original":"yu_0889"},{"original":"yu_0890"},{"original":"yu_0891"},{"original":"yu_0892"},{"original":"yu_0893"},{"original":"yu_0894"},{"original":"yu_0895"},{"original":"yu_0896"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[59]},{"original":"\u2026\u2026\u2026\u2026。","lines":[60]},{"original":"\u2026\u2026。","lines":[53]},{"original":"\u2026\u2026いや、うん\u2026\u2026でも\u2026\u2026。","lines":[195]},{"original":"\u2026\u2026うむ、こうして見ると多いな。","lines":[115]},{"original":"\u2026\u2026うん、俺もさっきから何回か来た道だと思ってたけどさ\u2026\u2026。","lines":[141]},{"original":"\u2026\u2026こりゃ何回か入ったことがあるっぽい。","lines":[138]},{"original":"\u2026\u2026こんなに緊張したのは初めて入った時以来だな。","lines":[162]},{"original":"\u2026\u2026そうか\u2026\u2026なるほど、そうか。","lines":[311]},{"original":"\u2026\u2026でもそれでいいのか？","lines":[207]},{"original":"\u2026\u2026でも俺の普通が優にとって普通じゃないかもしれないし。","lines":[181]},{"original":"\u2026\u2026というかそもそも童貞なんだよね、俺。","lines":[197]},{"original":"\u2026\u2026とか現実逃避してる場合じゃなくて\u2026\u2026。","lines":[21]},{"original":"\u2026\u2026と思ったら何も考えてなかったということももちろんあったけど。","lines":[202]},{"original":"\u2026\u2026どうしよう。これでもし変なの選んじゃったら\u2026\u2026。","lines":[279]},{"original":"\u2026\u2026なるほど。優がそこまで夢中になる内容なのか。","lines":[209]},{"original":"\u2026\u2026はっ！　もしかして優はそれを知るために連れてきたのか。","lines":[154]},{"original":"\u2026\u2026待てよ、でも優のことだからテキトーな冗談という可能性も\u2026\u2026。","lines":[104,126,234,278,296,299,308]},{"original":"「\u2026\u2026\u2026\u2026」","lines":[117]},{"original":"「\u2026\u2026\u2026\u2026アダルトショップ\u2026\u2026」","lines":[72]},{"original":"「\u2026\u2026」","lines":[94]},{"original":"「\u2026\u2026あぁ、分かった」","lines":[189]},{"original":"「\u2026\u2026おっけー。それじゃあ女王様のご命令通り選ばせてもらおう」","lines":[149]},{"original":"「\u2026\u2026で、優を知るってことなんだけど、どゆこと？」","lines":[249]},{"original":"「\u2026\u2026なるほど、優は奥様系で結果を出すタイプか\u2026\u2026」","lines":[281]},{"original":"「\u2026\u2026ふー\u2026\u2026」","lines":[271]},{"original":"「\u2026\u2026ほほぅ、玄関でバックからですか。%D$vl1;これはこれは。獣のような激しいえっちですね」"},{"original":"「\u2026\u2026ほほぅ、玄関でバックからですか。これはこれは。獣のような激しいえっちですね」","lines":[302]},{"original":"「\u2026\u2026優？」","lines":[212]},{"original":"「\u2026\u2026蓮、ちょっと悩みすぎ」","lines":[270]},{"original":"「あ、あの\u2026\u2026優さん\u2026\u2026？」","lines":[215]},{"original":"「あははははっ、ラップって、妄想で暴走って、ふふっ、あははっ♪」","lines":[225]},{"original":"「あれ？　俺が選ばなくていいの？　もう終わり？」","lines":[297]},{"original":"「あれ？　優？」","lines":[268]},{"original":"「あんッ！　もう、玄関でするなんて、エッチなんだから\u2026\u2026♪%D$vl1;　興奮しちゃうっ」"},{"original":"「あんッ！　もう、玄関でするなんて、エッチなんだから\u2026\u2026♪　興奮しちゃうっ」","lines":[321]},{"original":"「いや\u2026\u2026っあ、あの\u2026\u2026優、さん？」","lines":[203]},{"original":"「え\u2026\u2026なにそれ、ドン引き。蓮がそんな人だなんて知らなかった」","lines":[88]},{"original":"「え？　あ、あぁ\u2026\u2026いや、そうだけど\u2026\u2026」","lines":[317]},{"original":"「え？」","lines":[77]},{"original":"「お、俺も\u2026\u2026」","lines":[99]},{"original":"「きっと蓮も喜ぶ」","lines":[111]},{"original":"「ここ」","lines":[273]},{"original":"「このシーンは結構使える気がする。とてもえっち」","lines":[168]},{"original":"「これが私の趣味。好きなもの」","lines":[214]},{"original":"「これは蓮が妄想で暴走してるパターン。%D$vl1;ぷぷっ、ちょっとラップみたい」"},{"original":"「これは蓮が妄想で暴走してるパターン。ぷぷっ、ちょっとラップみたい」","lines":[269]},{"original":"「こんなところでしたら、ご近所様に声が聞こえちゃう\u2026\u2026%D$vl1;それもまた、興奮のスパイス\u2026\u2026」"},{"original":"「こんなところでしたら、ご近所様に声が聞こえちゃう\u2026\u2026それもまた、興奮のスパイス\u2026\u2026」","lines":[188]},{"original":"「さあ選ぶがいい勇者よ。%D$vl1;今こそ冒険の時は来た！」"},{"original":"「さあ選ぶがいい勇者よ。今こそ冒険の時は来た！」","lines":[256]},{"original":"「さて、じゃあさっそく読んでみましょうー」","lines":[62]},{"original":"「じ、じゃあ、好きな食べ物は？」","lines":[57]},{"original":"「じゃあこういう時の定番っぽく、ご趣味は？」","lines":[248]},{"original":"「じゃあ教えてあげましょう。その名も『奥様は突然に』です」","lines":[54]},{"original":"「じゃあ次は蓮が私に質問してみて。なんでも答える」","lines":[132]},{"original":"「そ、そうだな」","lines":[226]},{"original":"「そう。あとで何を買ったか見せてあげる」","lines":[34]},{"original":"「そう。私はもっと蓮のことが知りたい」","lines":[92]},{"original":"「そう」","lines":[9]},{"original":"「そうねー」","lines":[27]},{"original":"「そこが問題。私なりにいろいろ考えてみた」","lines":[40]},{"original":"「そこでお互いの情報交換をしようと思う。まずは私から質問するから答えて」","lines":[14]},{"original":"「そこでお互いを知ろうと思います」","lines":[227]},{"original":"「そっか」","lines":[22]},{"original":"「それで、今回はどんなことを？」","lines":[63]},{"original":"「それは蓮も知ってるはず。辛いものが好き。辛くないものは辛くする」","lines":[318]},{"original":"「そろそろチャージも終わった頃。しっかり溜まってるはず」","lines":[49]},{"original":"「そんなに変なこと聞いた？　一般的な質問だと思うけど」","lines":[159]},{"original":"「そんなマジマジマジな私は、自慰にもこだわる。だからここにもお世話になってる」","lines":[71]},{"original":"「だから、蓮にハマってる。%D$vl1;ぞっこんラブです。好き」"},{"original":"「だから、蓮にハマってる。ぞっこんラブです。好き」","lines":[247]},{"original":"「つまりめちゃくちゃ興味あります、是非見せて頂きたい」","lines":[103]},{"original":"「で、どこへ行くんだ？」","lines":[288]},{"original":"「では、失礼して」","lines":[87]},{"original":"「というか、なんでお見合いみたいになってるの？　私たち婚約者なのに、こんなことしてもしょうがない」","lines":[131]},{"original":"「というか、入らないと、みんなに見られるから」","lines":[165]},{"original":"「というわけで、どれがいい？」","lines":[26]},{"original":"「どんな風にお互いを知っていく感じ？」","lines":[177]},{"original":"「なにを？」","lines":[239]},{"original":"「にやにや」","lines":[144]},{"original":"「はい到着」","lines":[69]},{"original":"「ひゃ、ひゃい？」","lines":[219]},{"original":"「ふぅ\u2026\u2026ひとしき笑ったところで」","lines":[258]},{"original":"「ふむふむ。突然ですが、私は大好きな人と結婚しました。若奥さまってやつだぞ☆」","lines":[179]},{"original":"「ぶっ、ここでその質問か\u2026\u2026」","lines":[47]},{"original":"「ぶふっ！」","lines":[229]},{"original":"「ま、いっか。とりあえず帰ろう」","lines":[50]},{"original":"「まぁ一般的と言ったら一般的かもしれないけど\u2026\u2026」","lines":[46]},{"original":"「まず好きな体位から」","lines":[198]},{"original":"「むふーっ」","lines":[204]},{"original":"「もう別れましょう」","lines":[48]},{"original":"「ゆ、優さん？　何をいきなり\u2026\u2026」","lines":[167]},{"original":"「んもう、蓮は本当に私がいないと駄目ね」","lines":[67]},{"original":"「んー、なら最近ハマってるものとか」","lines":[316]},{"original":"「イチャラブえっち\u2026\u2026憧れる\u2026\u2026」","lines":[170]},{"original":"「エッチな本は、私にとっての[バイブル,1]聖書だったの。閉塞された田舎だと変な情報しか入ってこないから」"},{"original":"「エッチな本は、私にとってのバイブルだったの。閉塞された田舎だと変な情報しか入ってこないから」"},{"original":"「エッチな本は、私にとっての聖書だったの。閉塞された田舎だと変な情報しか入ってこないから」","lines":[319]},{"original":"「チャ、チャージって何が？」"},{"original":"「ノーマルな本にすると変な趣味があるからあえてそれを選んだみたいに思われそうだだからここでの正解はアブノーマルなものを選ぶいやダメだそれだとそのまま受け取られてしまったらどうするそもそもこの問題に答えなんてぶつぶつ」","lines":[64]},{"original":"「ポンコツ寮での唐辛子消費率第一位さんの言葉は響くし重いなぁ」","lines":[157]},{"original":"「マジマジかーなら仕方ないなー」","lines":[257]},{"original":"「マジマジで？」","lines":[91]},{"original":"「今から？」","lines":[265]},{"original":"「今日も旦那様のために美味しいご飯を作って、%D$vl1;かーらーのー」"},{"original":"「今日も旦那様のために美味しいご飯を作って、かーらーのー」","lines":[166]},{"original":"「何がというわけなのかまずは説明をプリーズ所望」","lines":[130]},{"original":"「何してるの、蓮。早く入って」","lines":[41]},{"original":"「分かった、なんでも答えるよ」","lines":[178]},{"original":"「好きな体位。ぶっちゃけると好きなえっち」","lines":[266]},{"original":"「帰ってきてから即質問！%D$vl1;　お帰りなさい、私にする？　あたしにする？%D$vl2;　それとも、あたい？」"},{"original":"「帰ってきてから即質問！　お帰りなさい、私にする？　あたしにする？　それとも、あたい？」","lines":[151]},{"original":"「恥じらいを。もっと恥じらいを」","lines":[15]},{"original":"「新しい企画を思いつきましたか優プロデューサー」","lines":[28]},{"original":"「梨々愛は幼なじみ。咲莉は妹。%D$vl1;アルルは後輩。みんなそれぞれ蓮のことを知ってる」"},{"original":"「梨々愛は幼なじみ。咲莉は妹。アルルは後輩。みんなそれぞれ蓮のことを知ってる」","lines":[224]},{"original":"「用事は終わった。じゃあ帰ろう」","lines":[169]},{"original":"「田舎と違って欲しい時に手に入る。本当に感動した。しかも品揃えも豊富」","lines":[171]},{"original":"「確かにその辺で交尾してる狸とか参考にならないしなぁ」","lines":[232]},{"original":"「私が何を買ったか気になる？」","lines":[29]},{"original":"「私だけ蓮の情報が少ない」","lines":[93]},{"original":"「私のことを知ってもらう。実際に見たほうが早いと思う。蓮、付き合って」","lines":[156]},{"original":"「私はいつだってマジ。本気と書いてマジマジ」","lines":[150]},{"original":"「私はエログッズが大好きです」","lines":[176]},{"original":"「私は自分のことを正直に話した。だから蓮も教えて」","lines":[58]},{"original":"「自慰を少々\u2026\u2026」","lines":[326]},{"original":"「蓮\u2026\u2026しよっ♪」","lines":[90]},{"original":"「蓮、買い物に付き合って」","lines":[8]},{"original":"「蓮。私はこう思うの。婚約者ってなんだろう、って」","lines":[68,175]},{"original":"「蓮」","lines":[221]},{"original":"「蓮が選ばないなら私が選ぶ。このままじゃ間に合わないし」","lines":[320]},{"original":"「蓮の精液」","lines":[155]},{"original":"「蓮はなにか勘違いしてる」","lines":[30]},{"original":"「言われてみれば\u2026\u2026？」","lines":[56]},{"original":"「質問。うーん、そうだなぁ」","lines":[222]},{"original":"「間に合わないって何が？」","lines":[292]},{"original":"『私、旦那様と一緒になれて幸せです♪』なんて台詞も見える。","lines":[101]},{"original":"あ、なんか良くないことを考えている顔だコレ。","lines":[172]},{"original":"ある意味健全で何より参考になるかもしれないけど。","lines":[152]},{"original":"いきなりのぶっちゃけトークだった。","lines":[123]},{"original":"いや前までなら小躍りでもしてたかもしれないけどね？","lines":[205]},{"original":"うぉおぉぉ\u2026\u2026！　想像だけでも心が痛い\u2026\u2026！","lines":[163]},{"original":"うん\u2026\u2026そう思うと、うん\u2026\u2026。","lines":[282]},{"original":"うん\u2026\u2026まぁ、ね？","lines":[39]},{"original":"うん、やっぱり嬉しい。","lines":[228]},{"original":"うーん\u2026\u2026安心したような残念なような\u2026\u2026。","lines":[291]},{"original":"えっちに楽しそうでえっちに幸せそうでえっち。","lines":[323]},{"original":"え？　なに？　この展開は？","lines":[118]},{"original":"え？　本当に？","lines":[187]},{"original":"お、ちょっと名言っぽい。","lines":[112]},{"original":"お店の前で立ち止まる。","lines":[220]},{"original":"お腹をぽんぽんと押さえながら姿勢を正す。","lines":[235]},{"original":"がさがさと紙袋も鳴らして存在をアピール。","lines":[210]},{"original":"くっ\u2026\u2026さすが先が読めない系女子\u2026\u2026。","lines":[251]},{"original":"けどなんとなく親近感を持っちゃうタイトルだな、『奥様は突然に』。","lines":[120]},{"original":"ここが優の目的地？　隣のおっしゃれーなカフェとかじゃなくて？","lines":[211]},{"original":"ここは慎重に\u2026\u2026慎重にことを選ばないと\u2026\u2026。","lines":[255]},{"original":"このチョイスはＧｏｏＤだ優！　ＶｅｒｙｙｙｙｙｙＧｏｏｏｏｏｏｏｏｏｏＤ！！","lines":[305]},{"original":"この前も、その前も。","lines":[147]},{"original":"この店はいろいろ取り揃えていて、ビデオからエロゲ、大人のおもちゃまでなんでもＯＫ。","lines":[314]},{"original":"こんなあやふやな感情を伝えたら失礼なんじゃないか？","lines":[83]},{"original":"こんな中途半端な関係じゃなく。","lines":[0]},{"original":"さぁ、奥様タイムだ","lines":[295]},{"original":"さすが優が夢中になる一品だ。","lines":[298]},{"original":"さっきからページがめくられてない、全く。","lines":[324]},{"original":"さっきまでのシリアスムードはいったいどこに？","lines":[153]},{"original":"さっき趣味は自慰とか言ってたけども\u2026\u2026。","lines":[160]},{"original":"さらにマジが増えてますよ優さん。","lines":[300]},{"original":"ずっとそのページを見ていた、そのシーンを見ていた。","lines":[116]},{"original":"そう、そのお店とは\u2026\u2026。","lines":[133]},{"original":"そうして上手い解決策を考える間もなく、優と一緒に中に入ることになった。","lines":[97]},{"original":"そこに惹かれてるのも事実だから仕方ないわけで。","lines":[161]},{"original":"そしてお世話になってるんですか優さん。","lines":[231]},{"original":"そして逃げるようにポンコツ寮へと帰った。","lines":[303]},{"original":"そっか\u2026\u2026普通そうだよな。","lines":[148]},{"original":"その中で優がセレクトしたのが、ここってことか。","lines":[238]},{"original":"その待ちきれない本というのはエロ本なんですがね！","lines":[45]},{"original":"その想いには出来るだけ応えたい。","lines":[184]},{"original":"そりゃ好きな体位はあるよ？","lines":[315]},{"original":"それに、いきなり言われたら優も混乱するだろうし\u2026\u2026。","lines":[284]},{"original":"それに優も『お互いのことを知った方がいい』って言ってたし。","lines":[173]},{"original":"それに正直エロ本だって変な情報あると思うし。","lines":[124]},{"original":"それも一人だったらだよ。一人だったら。","lines":[218]},{"original":"それを言うならエロ本コーナーを睨みながらずっといる俺も相当アレだけど。","lines":[277]},{"original":"そんな体勢なので横にいる俺にも中身が見えない。","lines":[264]},{"original":"そんな俺を気にせず優は読み進めて行く。","lines":[136]},{"original":"そんな場所に今、俺は女の子と一緒にいるんだ\u2026\u2026。","lines":[19]},{"original":"ただ、考えなしかと思えばそうでもなくて、しっかり思慮は働いてる。","lines":[20]},{"original":"だからこの行動にも何か意味があるんだろう。","lines":[245]},{"original":"だから優が選んだからと言ってそんな興味ない。","lines":[86]},{"original":"だけど、すんでのところまで出かかった言葉は。","lines":[114]},{"original":"だけども誰もが目を反らすお店。","lines":[158]},{"original":"だってマジマジだよ？　仕方ないよね？　ね？","lines":[174]},{"original":"だって生足へそ出し欲望丸出しじゃん。","lines":[261]},{"original":"だって自分の部屋で女の子がエロ本を読んでるんだよ？","lines":[12]},{"original":"ちなみに、みんなはもうとっくに食べ終えている。","lines":[65]},{"original":"ちなみに最近は俺への料理は手加減してくれてる。","lines":[42]},{"original":"ちょっと緩んでいる頬に力を込めながらソファに座る。","lines":[66]},{"original":"ちょっぴり辛い、旨辛味。","lines":[35]},{"original":"でも、そう口にしてくれたことが嬉しい。","lines":[185]},{"original":"でもそれって映像のみの話だし。","lines":[200]},{"original":"というか改めて思ったけどもしかして優が見てる前でエロ本選ぶの？","lines":[242]},{"original":"と言ってもなぁ。","lines":[33]},{"original":"と言っても俺はマ族でもなんでもないから改めて話すこともないんだけど。","lines":[223]},{"original":"と質問したものの優はすでに本棚から一冊とってレジへ支払いに。","lines":[191]},{"original":"と頷いてもどれを選べばいいのやら。","lines":[128]},{"original":"どうしよう、この状況\u2026\u2026。","lines":[262]},{"original":"どんな状況？　ってかどんなプレイ？","lines":[287]},{"original":"なのでちょっと行儀が悪いけど、","lines":[285]},{"original":"なら俺も、優がどんなえっちな内容に興味が深々なのか知るべきなのだ。","lines":[272]},{"original":"なんか感心してるし。","lines":[250]},{"original":"なんだ、自分で言っておいて結果出すタイプって。","lines":[102]},{"original":"なんだか釈然としないものを感じつつも二人、リビングを出た。","lines":[193]},{"original":"なんだろう\u2026\u2026ジャンルを選べばいいのか？","lines":[145]},{"original":"なんてどうでもいいことを考えてる間に到着したらしい。","lines":[109]},{"original":"ふむ、今日は夏野菜を使って何か作ろうかな？","lines":[96]},{"original":"ま、そういうところも魅力的で。","lines":[190]},{"original":"まぁここまで来て選べませんなんて言えないよなぁ。","lines":[82]},{"original":"まだ自分の気持ちはわからないけど。","lines":[276]},{"original":"もう前のめりになって読んでるし。","lines":[10]},{"original":"もぐもぐ。","lines":[180]},{"original":"もしかしてこの質問をしたかったから来たんじゃ\u2026\u2026。","lines":[309]},{"original":"やっぱり、言うべきなんだろうな。","lines":[246]},{"original":"わけないじゃないか！","lines":[52]},{"original":"ん？　それなら俺と優は婚約者（仮）だし、別に変なことでもないのか。","lines":[121]},{"original":"アダルトショップの横がカフェってのもツッコミどころ満載だけど。","lines":[280]},{"original":"エログッズが大好きな優が、そこまで\u2026\u2026。","lines":[243]},{"original":"エロ本を買ったのはわかってるし、俺も男だから何冊かは持ってる。","lines":[253]},{"original":"スタイルはむちむちとしていて肉感が最高に素晴らしい。","lines":[164]},{"original":"テンションが上がってくるような来ないような\u2026\u2026。","lines":[113]},{"original":"ピンクやら緑やら紫やらカラフルな色が目につくお店。","lines":[322]},{"original":"ベッドが振動でギシリと鳴る。","lines":[307]},{"original":"ホントはこういう風にちゃんと結ばれて、するのがいいはずなんだ。","lines":[105]},{"original":"ポンコツ寮を出てからというもの、この調子だった。"},{"original":"ラベル0"},{"original":"ラベル1"},{"original":"ラベル2"},{"original":"ラベル3"},{"original":"ラベル4","lines":[274]},{"original":"一人で頷いてもいる。"},{"original":"中距離","lines":[70]},{"original":"予想外の返答に思わず萌えキャラみたいな声を出してしまった。","lines":[135]},{"original":"二次元やら三次元の肌やらなんやらが、壁に敷き詰められている。","lines":[196]},{"original":"人間の欲、業というものは深い！","lines":[74]},{"original":"今の優はマジだ。","lines":[108]},{"original":"今日も商店街は賑わっていて、肉屋さんや八百屋さんが声高に叫んでいる。","lines":[107]},{"original":"仕方ないので優の隣であたりを軽く見ながら歩く。","lines":[325]},{"original":"何時の間にスウィートな空気に？","lines":[36]},{"original":"俺が優を知りたいと思ってるように。","lines":[216]},{"original":"俺が悩んでる間に何があったのか優は大ウケしていた。","lines":[23]},{"original":"俺だって優のことは知りたい。","lines":[283]},{"original":"俺だって男だし、中身が気になるのも当然じゃない？","lines":[236]},{"original":"俺に聞いてきたくせに、本人も早く出したくてうずうずしてるっぽい。","lines":[259]},{"original":"俺の『マジマジで』につっこむこともなく隣で朗読を始める優。","lines":[24]},{"original":"俺のこの気持ちを知るために。","lines":[55]},{"original":"俺の返事に満足したのか、それとも待つのに飽きたのか（多分正解）そう言ってきた。","lines":[143]},{"original":"俺は敬意を表する！"},{"original":"側面手上"},{"original":"側面手下","lines":[8,14,27,28,29,34,40,46,49,54,58,63,68,71,87,90,92,93,99,104,111,126,130,131,144,150,155,156,159,165,167,168,169,170,175,176,178,188,198,203,204,212,214,215,219,221,224,226,232,234,239,248,256,258,265,266,268,269,271,273,296,299,316,318,320,326]},{"original":"優"},{"original":"優.stand","lines":[100]},{"original":"優があやしげな笑みを浮かべる。","lines":[241]},{"original":"優が何を買ったか気になる、か。","lines":[13]},{"original":"優が寒い寒い言って起きなかったために、こんな時間になっていた。","lines":[44]},{"original":"優が自分から言ってくれたんだ。","lines":[304]},{"original":"優だって女の子だ。当然幸せなえっちに憧れるよな。","lines":[84]},{"original":"優ともっと一緒に居たい。知りたい。","lines":[313]},{"original":"優に告白してもいいのか？","lines":[25]},{"original":"優のことが本当に好きなのか知るために。","lines":[16]},{"original":"優の婚約者（仮）になってから数日。こんなやりとりにも慣れてきた。","lines":[79]},{"original":"優は俺のことを好きだと言ってくれてる。","lines":[37]},{"original":"優も俺を知りたいと思ってくれてるんだ。","lines":[76]},{"original":"冗談だったりツッコミ待ちだったりじゃなくて、本気で言ってる。","lines":[260]},{"original":"冷静に考えるとすごい画だ。","lines":[217]},{"original":"冷静に考えるとアダルトショップで笑う女の子ってちょっと怖いな。","lines":[252]},{"original":"取り出された本の表紙には可愛らしい女の子がお尻を向けてこっちを挑発するポーズ。","lines":[230]},{"original":"周りからの『彼女連れでアダルトショップに来るな！』ってオーラにそろそろ耐えられなくなるところだったし。","lines":[18]},{"original":"唐突に思いついては行動を起こす。そういう娘だった。","lines":[134]},{"original":"外がカラフルなら中もカラフル。それがアダルトショップ。","lines":[301]},{"original":"奥さんと旦那さんが愛を語り合っている場面を。","lines":[125]},{"original":"女の子と一緒に入るのはハードル高くない？　さすがに。","lines":[310]},{"original":"好きだって。","lines":[192]},{"original":"好きなえっち、か\u2026\u2026。","lines":[110]},{"original":"完全に主夫の考えだった。","lines":[139]},{"original":"対して当の本人は\u2026\u2026。","lines":[38]},{"original":"少し照れくさいけど。","lines":[51]},{"original":"少なくとも恋人同士なら一般的、かな？","lines":[233]},{"original":"帰る前に見せてくれると言ったのに焦らすようにそう聞いてきた。","lines":[237]},{"original":"待ちきれないという気持ちを隠すことない様子がこれまた可愛い。","lines":[206]},{"original":"待て\u2026\u2026俺はそんなドン引きされるような性癖はないはず。","lines":[289]},{"original":"後ろに回り覗いてみる。","lines":[85]},{"original":"心からそう思い始めてる。","lines":[208]},{"original":"想像した展開みたくなる可能性は十二分に有りうる\u2026\u2026？","lines":[80]},{"original":"故郷に帰ってしまわないように、引き止めるために始めた、この奇妙な関係。","lines":[32]},{"original":"昔から知っている梨々愛たちよりも俺のことを知らないかもしれない。","lines":[17]},{"original":"最初に会った時からそうだけど優という女の子は予想がつかない。","lines":[81]},{"original":"最初はただ必死だったから提案してみただけだったけど\u2026\u2026。","lines":[75]},{"original":"最近ちょっとした変化が分かってきていた。","lines":[182]},{"original":"最近優はもちろん梨々愛たちにいろいろされたけどさぁ\u2026\u2026。","lines":[11]},{"original":"朝、二人で遅い朝食を食べていると、そんなふうに切り出してきた。","lines":[119]},{"original":"本が当たるって書いて本当？","lines":[290]},{"original":"本の中では若奥さま？　と旦那さんがイチャイチャしていた。","lines":[95]},{"original":"本当にマイペースすぎるなぁ、この女の子は。","lines":[137]},{"original":"正直すっごい恥ずかしい、いろいろと。","lines":[244]},{"original":"正直言おう、エロ本はエロ本だ。"},{"original":"正面手上"},{"original":"正面手下"},{"original":"波紋","lines":[306]},{"original":"流れとか雰囲気でしちゃったけど。"},{"original":"消","lines":[43]},{"original":"準備万端。どんな質問が来ても大丈夫。","lines":[267]},{"original":"玄関開けたら二秒で奥様か。尽くされてる感じがしていいね。","lines":[263]},{"original":"疑問やら青い感情やらがふつふつと浮かんでくる。","lines":[194]},{"original":"痴漢もの？　家庭教師？　ナンパスペシャル？　海の家シリーズ？　時間停止？","lines":[73]},{"original":"目をそらしたりせず俺を見ていた。","lines":[240]},{"original":"目線でまた聞いてくる。"},{"original":"眉ギャグ泣:目閉:口ギャグ笑:汗無::頬３"},{"original":"眉怒１:目笑１:口笑２:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉怒１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉悲１:目閉:口悲１:汗無::頬１"},{"original":"眉悲１:目閉:口笑２:汗無::頬２"},{"original":"眉悲１:目Ａ悲１:口悲１:汗無::頬１"},{"original":"眉悲１:目Ａ悲１:口泣１:汗無::頬２"},{"original":"眉悲１:目Ａ笑１:口照２:汗無::頬１"},{"original":"眉悲１:目Ａ笑１:口笑１:汗無::頬２"},{"original":"眉悲２:目悲２:口悲２:汗無::頬１"},{"original":"眉笑１:目笑１:口悲１:汗無::頬１"},{"original":"眉笑１:目笑１:口照２:汗無::頬１"},{"original":"眉笑１:目笑２:口笑１:汗無::頬１"},{"original":"眉笑１:目笑２:口笑１:汗無::頬２"},{"original":"眉笑１:目笑２:口笑２:汗無::頬１"},{"original":"眉笑１:目閉:口悲１:汗無::頬１"},{"original":"眉笑１:目閉:口悲２:汗無::頬１"},{"original":"眉笑１:目閉:口笑１:汗無::頬１"},{"original":"眉笑１:目閉:口笑２:汗無::頬１"},{"original":"眉笑１:目Ａ怒１:口悲２:汗無::頬２"},{"original":"眉笑１:目Ａ笑１:口悲１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口悲２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑１:汗無::頬２"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬１"},{"original":"眉笑１:目Ａ笑１:口笑２:汗無::頬２"},{"original":"眉笑２:目笑２:口笑１:汗無::頬１"},{"original":"眉笑２:目笑２:口笑２:汗無::頬１"},{"original":"眉笑２:目笑２:口笑２:汗無::頬２"},{"original":"眉笑２:目閉:口笑１:汗無::頬１"},{"original":"眉笑２:目Ａ悲１:口笑２:汗無::頬１"},{"original":"眉笑２:目Ａ笑１:口笑１:汗無::頬１"},{"original":"眉笑２:目Ａ笑１:口笑２:汗無::頬２"},{"original":"眉驚１:目Ａ悲１:口笑１:汗無::頬２"},{"original":"眉驚１:目Ａ悲１:口笑２:汗無::頬２"},{"original":"眉驚１:目Ａ驚１:口悲１:汗無::頬１"},{"original":"眉驚１:目Ａ驚１:口悲２:汗無::頬１","lines":[146]},{"original":"着いたところはエロ本コーナー。","lines":[122]},{"original":"確かに優は『俺も喜ぶ』と言っていた。","lines":[31]},{"original":"確かに優はクラスメイトだけど転校生だ。"},{"original":"私服","lines":[183]},{"original":"童貞なんだよ！","lines":[186]},{"original":"経験したことないのに好きだなんて本当に好きかどうかわからないじゃない。","lines":[293]},{"original":"総合すると、えろい。","lines":[129]},{"original":"考えろ、考えるんだ藤真蓮！","lines":[61]},{"original":"聞かなかったことにしよう。","lines":[312]},{"original":"自分の気持ちが分からないまま、固まらないまま。","lines":[98]},{"original":"苦笑いしつつ立ち上がる。","lines":[9,15,22,26,30,41,47,48,50,56,57,62,64,67,69,72,77,88,91,94,103,117,132,149,151,157,166,171,177,179,189,213,222,225,227,229,247,249,257,270,278,281,288,297,302,308,317,319,321]},{"original":"蓮","lines":[254]},{"original":"表情も恥ずかしがりつつ自分からやっているという背徳感が抜群に出ている。","lines":[294]},{"original":"要するに、えろい。","lines":[89]},{"original":"言い出した本人からのダメ出しで途切れた。","lines":[286]},{"original":"言い訳完了。当方に[とうげき,1]盗撃の用意あり。","lines":[286]},{"original":"言い訳完了。当方にとうげきの用意あり。"},{"original":"言い訳完了。当方に盗撃の用意あり。","lines":[78]},{"original":"言ってしまっていいのか？","lines":[127]},{"original":"足踏みしている俺とは裏腹に、優はさっさと中へ入っていく。","lines":[142]},{"original":"転校してきて、しかも女の子なのにその猛者っぷり。","lines":[199]},{"original":"近い、近いよ！"},{"original":"近距離","lines":[140]},{"original":"迷うことなく平然と歩いていく。"},{"original":"集中線","lines":[201]},{"original":"難易度高すぎない？　ヨーロピアンエクストリームじゃない？"},{"original":"零距離"},{"original":"顔","lines":[275]},{"original":"食い入るように見るっていうのはこういうことなんだろうなぁ。","lines":[106]},{"original":"黙って付いて来いと言わんばかりで何も答えてくれない。"}],"name":34,"lines":[{"type":3,"title":314},{"subtype":0,"type":5},{"name":411,"type":2},{"name":517,"type":2},{"name":3,"type":2},{"name":521,"type":2},{"subtype":0,"type":5},{"label":6,"type":6},{"name":411,"text":280,"type":1},{"name":517,"text":211,"type":1},{"text":372,"type":0},{"text":451,"type":0},{"text":347,"type":0},{"text":415,"type":0},{"name":411,"text":214,"type":1},{"name":517,"text":265,"type":1},{"text":421,"type":0},{"text":447,"type":0},{"text":429,"type":0},{"text":339,"type":0},{"text":340,"type":0},{"text":164,"type":0},{"name":517,"text":216,"type":1},{"text":402,"type":0},{"text":406,"type":0},{"text":420,"type":0},{"name":517,"text":229,"type":1},{"name":411,"text":212,"type":1},{"name":411,"text":266,"type":1},{"name":411,"text":272,"type":1},{"name":517,"text":285,"type":1},{"text":508,"type":0},{"text":446,"type":0},{"text":355,"type":0},{"name":411,"text":209,"type":1},{"text":351,"type":0},{"text":400,"type":0},{"text":423,"type":0},{"text":437,"type":0},{"text":296,"type":0},{"name":411,"text":213,"type":1},{"name":517,"text":260,"type":1},{"text":349,"type":0},{"text":462,"type":0},{"text":416,"type":0},{"text":329,"type":0},{"name":411,"text":240,"type":1},{"name":517,"text":237,"type":1},{"name":517,"text":243,"type":1},{"name":411,"text":219,"type":1},{"name":517,"text":239,"type":1},{"text":438,"type":0},{"text":376,"type":0},{"text":154,"type":0},{"name":411,"text":206,"type":1},{"text":407,"type":0},{"name":517,"text":286,"type":1},{"name":517,"text":204,"type":1},{"name":411,"text":277,"type":1},{"text":152,"type":0},{"text":153,"type":0},{"text":514,"type":0},{"name":517,"text":203,"type":1},{"name":411,"text":217,"type":1},{"name":517,"text":252,"type":1},{"text":348,"type":0},{"text":350,"type":0},{"name":517,"text":245,"type":1},{"name":411,"text":281,"type":1},{"name":517,"text":233,"type":1},{"text":393,"type":0},{"name":411,"text":221,"type":1},{"name":517,"text":171,"type":1},{"text":466,"type":0},{"text":396,"type":0},{"text":449,"type":0},{"text":424,"type":0},{"name":517,"text":191,"type":1},{"text":524,"type":0},{"text":422,"type":0},{"text":445,"type":0},{"text":448,"type":0},{"text":370,"type":0},{"text":313,"type":0},{"text":418,"type":0},{"text":443,"type":0},{"text":342,"type":0},{"name":411,"text":226,"type":1},{"name":517,"text":189,"type":1},{"text":520,"type":0},{"name":411,"text":279,"type":1},{"name":517,"text":255,"type":1},{"name":411,"text":210,"type":1},{"name":411,"text":273,"type":1},{"name":517,"text":172,"type":1},{"text":454,"type":0},{"text":368,"type":0},{"text":323,"type":0},{"text":516,"type":0},{"name":411,"text":192,"type":1},{"text":413,"type":0},{"text":289,"type":0},{"text":364,"type":0},{"name":517,"text":224,"type":1},{"name":411,"text":169,"type":1},{"text":385,"type":0},{"text":535,"type":0},{"text":398,"type":0},{"text":397,"type":0},{"text":367,"type":0},{"text":435,"type":0},{"name":411,"text":193,"type":1},{"text":302,"type":0},{"text":382,"type":0},{"text":343,"type":0},{"text":156,"type":0},{"text":321,"type":0},{"name":517,"text":170,"type":1},{"text":300,"type":0},{"text":452,"type":0},{"text":307,"type":0},{"text":377,"type":0},{"text":507,"type":0},{"text":292,"type":0},{"text":334,"type":0},{"text":432,"type":0},{"name":411,"text":169,"type":1},{"text":525,"type":0},{"text":358,"type":0},{"text":513,"type":0},{"name":411,"text":259,"type":1},{"name":411,"text":227,"type":1},{"name":517,"text":207,"type":1},{"text":322,"type":0},{"text":430,"type":0},{"text":394,"type":0},{"text":338,"type":0},{"text":455,"type":0},{"text":158,"type":0},{"text":436,"type":0},{"text":529,"type":0},{"text":157,"type":0},{"text":526,"type":0},{"text":408,"type":0},{"name":411,"text":232,"type":1},{"text":366,"type":0},{"text":506,"type":0},{"text":311,"type":0},{"text":327,"type":0},{"name":517,"text":174,"type":1},{"name":411,"text":275,"type":1},{"name":517,"text":264,"type":1},{"text":291,"type":0},{"text":318,"type":0},{"text":168,"type":0},{"name":411,"text":284,"type":1},{"name":411,"text":274,"type":1},{"name":517,"text":253,"type":1},{"text":344,"type":0},{"name":411,"text":220,"type":1},{"text":319,"type":0},{"text":324,"type":0},{"text":159,"type":0},{"text":294,"type":0},{"text":381,"type":0},{"name":411,"text":228,"type":1},{"name":517,"text":258,"type":1},{"name":411,"text":244,"type":1},{"name":411,"text":195,"type":1},{"name":411,"text":269,"type":1},{"name":411,"text":247,"type":1},{"name":517,"text":270,"type":1},{"text":290,"type":0},{"text":333,"type":0},{"text":345,"type":0},{"name":411,"text":281,"type":1},{"name":411,"text":276,"type":1},{"name":517,"text":230,"type":1},{"name":411,"text":261,"type":1},{"name":517,"text":236,"type":1},{"text":373,"type":0},{"text":162,"type":0},{"text":450,"type":0},{"text":510,"type":0},{"text":330,"type":0},{"text":352,"type":0},{"text":511,"type":0},{"text":301,"type":0},{"name":411,"text":200,"type":1},{"name":517,"text":173,"type":1},{"text":369,"type":0},{"text":357,"type":0},{"text":434,"type":0},{"text":365,"type":0},{"text":465,"type":0},{"text":155,"type":0},{"text":395,"type":0},{"text":163,"type":0},{"name":411,"text":241,"type":1},{"text":527,"type":0},{"text":353,"type":0},{"text":531,"type":0},{"text":165,"type":0},{"name":411,"text":188,"type":1},{"name":411,"text":242,"type":1},{"text":293,"type":0},{"text":441,"type":0},{"text":161,"type":0},{"text":444,"type":0},{"text":167,"type":0},{"text":305,"type":0},{"text":308,"type":0},{"name":411,"text":180,"type":1},{"name":517,"text":4,"type":1},{"name":411,"text":196,"type":1},{"name":411,"text":182,"type":1},{"text":401,"type":0},{"text":426,"type":0},{"text":335,"type":0},{"name":411,"text":234,"type":1},{"text":303,"type":0},{"name":411,"text":282,"type":1},{"name":517,"text":287,"type":1},{"text":356,"type":0},{"name":411,"text":268,"type":1},{"name":517,"text":183,"type":1},{"name":411,"text":208,"type":1},{"name":517,"text":215,"type":1},{"text":297,"type":0},{"name":517,"text":238,"type":1},{"text":428,"type":0},{"text":325,"type":0},{"name":411,"text":271,"type":1},{"text":439,"type":0},{"name":411,"text":169,"type":1},{"text":304,"type":0},{"text":404,"type":0},{"text":440,"type":0},{"text":328,"type":0},{"name":411,"text":231,"type":1},{"text":467,"type":0},{"text":414,"type":0},{"text":354,"type":0},{"text":379,"type":0},{"text":456,"type":0},{"text":341,"type":0},{"name":3,"text":375,"type":1},{"name":517,"text":223,"type":1},{"name":411,"text":205,"type":1},{"name":517,"text":175,"type":1},{"text":363,"type":0},{"text":306,"type":0},{"text":427,"type":0},{"text":380,"type":0},{"text":518,"type":0},{"text":309,"type":0},{"name":411,"text":202,"type":1},{"name":517,"text":254,"type":1},{"name":411,"text":235,"type":1},{"text":405,"type":0},{"text":425,"type":0},{"text":346,"type":0},{"text":359,"type":0},{"text":464,"type":0},{"text":337,"type":0},{"name":411,"text":256,"type":1},{"name":411,"text":262,"type":1},{"text":463,"type":0},{"name":411,"text":185,"type":1},{"name":411,"text":198,"type":1},{"name":517,"text":181,"type":1},{"name":411,"text":177,"type":1},{"text":362,"type":0},{"name":411,"text":194,"type":1},{"text":391,"type":0},{"text":534,"type":0},{"text":371,"type":0},{"text":336,"type":0},{"name":517,"text":169,"type":1},{"text":166,"type":0},{"text":378,"type":0},{"name":517,"text":176,"type":1},{"text":295,"type":0},{"text":403,"type":0},{"text":332,"type":0},{"text":361,"type":0},{"name":521,"text":522,"type":1},{"text":360,"type":0},{"name":517,"text":225,"type":1},{"text":442,"type":0},{"text":453,"type":0},{"text":298,"type":0},{"text":288,"type":0},{"text":512,"type":0},{"text":519,"type":0},{"text":315,"type":0},{"name":411,"text":169,"type":1},{"name":517,"text":184,"type":1},{"text":316,"type":0},{"name":411,"text":169,"type":1},{"text":320,"type":0},{"text":431,"type":0},{"name":517,"text":179,"type":1},{"text":326,"type":0},{"text":417,"type":0},{"text":310,"type":0},{"text":460,"type":0},{"text":384,"type":0},{"name":517,"text":169,"type":1},{"text":374,"type":0},{"text":433,"type":0},{"text":160,"type":0},{"text":515,"type":0},{"text":419,"type":0},{"text":312,"type":0},{"text":331,"type":0},{"name":411,"text":246,"type":1},{"name":517,"text":190,"type":1},{"name":411,"text":218,"type":1},{"name":517,"text":250,"type":1},{"name":411,"text":283,"type":1},{"name":517,"text":187,"type":1},{"text":383,"type":0},{"text":299,"type":0},{"text":317,"type":0},{"text":399,"type":0},{"name":411,"text":278,"type":1},{"storage":35,"label":7,"type":7}],"labels":{"6":7}}
+{
+  "names": [
+    411,
+    517,
+    3,
+    521
+  ],
+  "strings": [
+    {
+      "original": "$eye"
+    },
+    {
+      "original": "$lip"
+    },
+    {
+      "original": "$lip優",
+      "lines": [
+        246
+      ]
+    },
+    {
+      "original": "%153;わけないじゃないか！",
+      "lines": [
+        213
+      ]
+    },
+    {
+      "original": "%76;「ノーマルな本にすると変な趣味があるからあえてそれを選んだみたいに思われそうだだからここでの正解はアブノーマルなものを選ぶいやダメだそれだとそのまま受け取られてしまったらどうするそもそもこの問題に答えなんてぶつぶつ」"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "*start2"
+    },
+    {
+      "original": "0"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "2000"
+    },
+    {
+      "original": "300"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "4000"
+    },
+    {
+      "original": "500"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "RandomAction"
+    },
+    {
+      "original": "RandomFlipAction"
+    },
+    {
+      "original": "SinAction"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg03a"
+    },
+    {
+      "original": "bg04a"
+    },
+    {
+      "original": "bg08a"
+    },
+    {
+      "original": "bg15a"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm03"
+    },
+    {
+      "original": "bgm05"
+    },
+    {
+      "original": "bgm06"
+    },
+    {
+      "original": "bgm15"
+    },
+    {
+      "original": "bgm_BGM03"
+    },
+    {
+      "original": "bgm_BGM05"
+    },
+    {
+      "original": "bgm_BGM06"
+    },
+    {
+      "original": "bgm_BGM15"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "c01_yuu_04.ks"
+    },
+    {
+      "original": "c01_yuu_06.ks"
+    },
+    {
+      "original": "cg_優.stand"
+    },
+    {
+      "original": "cg_集中線"
+    },
+    {
+      "original": "character"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "delayrun"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "e343f88444fa2a179f73464db1fec6a5"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "ev"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "event"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "eye"
+    },
+    {
+      "original": "eyeflipdisable"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "facemask"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "layer"
+    },
+    {
+      "original": "line"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "msgwin"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "originx"
+    },
+    {
+      "original": "originy"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "pretrans"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "seベット１"
+    },
+    {
+      "original": "se心音爆発"
+    },
+    {
+      "original": "se雑誌捲り"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "stop"
+    },
+    {
+      "original": "stopaction"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "universal"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "yu_0828"
+    },
+    {
+      "original": "yu_0829"
+    },
+    {
+      "original": "yu_0830"
+    },
+    {
+      "original": "yu_0831"
+    },
+    {
+      "original": "yu_0832"
+    },
+    {
+      "original": "yu_0833"
+    },
+    {
+      "original": "yu_0834"
+    },
+    {
+      "original": "yu_0835"
+    },
+    {
+      "original": "yu_0837"
+    },
+    {
+      "original": "yu_0840"
+    },
+    {
+      "original": "yu_0841"
+    },
+    {
+      "original": "yu_0842"
+    },
+    {
+      "original": "yu_0843"
+    },
+    {
+      "original": "yu_0844"
+    },
+    {
+      "original": "yu_0845"
+    },
+    {
+      "original": "yu_0846"
+    },
+    {
+      "original": "yu_0847"
+    },
+    {
+      "original": "yu_0848"
+    },
+    {
+      "original": "yu_0849"
+    },
+    {
+      "original": "yu_0850"
+    },
+    {
+      "original": "yu_0851"
+    },
+    {
+      "original": "yu_0852"
+    },
+    {
+      "original": "yu_0853"
+    },
+    {
+      "original": "yu_0854"
+    },
+    {
+      "original": "yu_0855"
+    },
+    {
+      "original": "yu_0856"
+    },
+    {
+      "original": "yu_0857"
+    },
+    {
+      "original": "yu_0858"
+    },
+    {
+      "original": "yu_0859"
+    },
+    {
+      "original": "yu_0860"
+    },
+    {
+      "original": "yu_0861"
+    },
+    {
+      "original": "yu_0862"
+    },
+    {
+      "original": "yu_0863"
+    },
+    {
+      "original": "yu_0864"
+    },
+    {
+      "original": "yu_0865"
+    },
+    {
+      "original": "yu_0866"
+    },
+    {
+      "original": "yu_0867"
+    },
+    {
+      "original": "yu_0868"
+    },
+    {
+      "original": "yu_0869"
+    },
+    {
+      "original": "yu_0870"
+    },
+    {
+      "original": "yu_0871"
+    },
+    {
+      "original": "yu_0872"
+    },
+    {
+      "original": "yu_0873"
+    },
+    {
+      "original": "yu_0874"
+    },
+    {
+      "original": "yu_0875"
+    },
+    {
+      "original": "yu_0876"
+    },
+    {
+      "original": "yu_0877"
+    },
+    {
+      "original": "yu_0878"
+    },
+    {
+      "original": "yu_0880"
+    },
+    {
+      "original": "yu_0881"
+    },
+    {
+      "original": "yu_0882"
+    },
+    {
+      "original": "yu_0883"
+    },
+    {
+      "original": "yu_0884"
+    },
+    {
+      "original": "yu_0885"
+    },
+    {
+      "original": "yu_0886"
+    },
+    {
+      "original": "yu_0887"
+    },
+    {
+      "original": "yu_0888"
+    },
+    {
+      "original": "yu_0889"
+    },
+    {
+      "original": "yu_0890"
+    },
+    {
+      "original": "yu_0891"
+    },
+    {
+      "original": "yu_0892"
+    },
+    {
+      "original": "yu_0893"
+    },
+    {
+      "original": "yu_0894"
+    },
+    {
+      "original": "yu_0895"
+    },
+    {
+      "original": "yu_0896"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "…………。",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "……。",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "……いや、うん……でも……。",
+      "lines": [
+        195
+      ]
+    },
+    {
+      "original": "……うむ、こうして見ると多いな。",
+      "lines": [
+        115
+      ]
+    },
+    {
+      "original": "……うん、俺もさっきから何回か来た道だと思ってたけどさ……。",
+      "lines": [
+        141
+      ]
+    },
+    {
+      "original": "……こりゃ何回か入ったことがあるっぽい。",
+      "lines": [
+        138
+      ]
+    },
+    {
+      "original": "……こんなに緊張したのは初めて入った時以来だな。",
+      "lines": [
+        162
+      ]
+    },
+    {
+      "original": "……そうか……なるほど、そうか。",
+      "lines": [
+        311
+      ]
+    },
+    {
+      "original": "……でもそれでいいのか？",
+      "lines": [
+        207
+      ]
+    },
+    {
+      "original": "……でも俺の普通が優にとって普通じゃないかもしれないし。",
+      "lines": [
+        181
+      ]
+    },
+    {
+      "original": "……というかそもそも童貞なんだよね、俺。",
+      "lines": [
+        197
+      ]
+    },
+    {
+      "original": "……とか現実逃避してる場合じゃなくて……。",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "……と思ったら何も考えてなかったということももちろんあったけど。",
+      "lines": [
+        202
+      ]
+    },
+    {
+      "original": "……どうしよう。これでもし変なの選んじゃったら……。",
+      "lines": [
+        279
+      ]
+    },
+    {
+      "original": "……なるほど。優がそこまで夢中になる内容なのか。",
+      "lines": [
+        209
+      ]
+    },
+    {
+      "original": "……はっ！　もしかして優はそれを知るために連れてきたのか。",
+      "lines": [
+        154
+      ]
+    },
+    {
+      "original": "……待てよ、でも優のことだからテキトーな冗談という可能性も……。",
+      "lines": [
+        104,
+        126,
+        234,
+        278,
+        296,
+        299,
+        308
+      ]
+    },
+    {
+      "original": "「…………」",
+      "lines": [
+        117
+      ]
+    },
+    {
+      "original": "「…………アダルトショップ……」",
+      "lines": [
+        72
+      ]
+    },
+    {
+      "original": "「……」",
+      "lines": [
+        94
+      ]
+    },
+    {
+      "original": "「……あぁ、分かった」",
+      "lines": [
+        189
+      ]
+    },
+    {
+      "original": "「……おっけー。それじゃあ女王様のご命令通り選ばせてもらおう」",
+      "lines": [
+        149
+      ]
+    },
+    {
+      "original": "「……で、優を知るってことなんだけど、どゆこと？」",
+      "lines": [
+        249
+      ]
+    },
+    {
+      "original": "「……なるほど、優は奥様系で結果を出すタイプか……」",
+      "lines": [
+        281
+      ]
+    },
+    {
+      "original": "「……ふー……」",
+      "lines": [
+        271
+      ]
+    },
+    {
+      "original": "「……ほほぅ、玄関でバックからですか。%D$vl1;これはこれは。獣のような激しいえっちですね」"
+    },
+    {
+      "original": "「……ほほぅ、玄関でバックからですか。これはこれは。獣のような激しいえっちですね」",
+      "lines": [
+        302
+      ]
+    },
+    {
+      "original": "「……優？」",
+      "lines": [
+        212
+      ]
+    },
+    {
+      "original": "「……蓮、ちょっと悩みすぎ」",
+      "lines": [
+        270
+      ]
+    },
+    {
+      "original": "「あ、あの……優さん……？」",
+      "lines": [
+        215
+      ]
+    },
+    {
+      "original": "「あははははっ、ラップって、妄想で暴走って、ふふっ、あははっ♪」",
+      "lines": [
+        225
+      ]
+    },
+    {
+      "original": "「あれ？　俺が選ばなくていいの？　もう終わり？」",
+      "lines": [
+        297
+      ]
+    },
+    {
+      "original": "「あれ？　優？」",
+      "lines": [
+        268
+      ]
+    },
+    {
+      "original": "「あんッ！　もう、玄関でするなんて、エッチなんだから……♪%D$vl1;　興奮しちゃうっ」"
+    },
+    {
+      "original": "「あんッ！　もう、玄関でするなんて、エッチなんだから……♪　興奮しちゃうっ」",
+      "lines": [
+        321
+      ]
+    },
+    {
+      "original": "「いや……っあ、あの……優、さん？」",
+      "lines": [
+        203
+      ]
+    },
+    {
+      "original": "「え……なにそれ、ドン引き。蓮がそんな人だなんて知らなかった」",
+      "lines": [
+        88
+      ]
+    },
+    {
+      "original": "「え？　あ、あぁ……いや、そうだけど……」",
+      "lines": [
+        317
+      ]
+    },
+    {
+      "original": "「え？」",
+      "lines": [
+        77
+      ]
+    },
+    {
+      "original": "「お、俺も……」",
+      "lines": [
+        99
+      ]
+    },
+    {
+      "original": "「きっと蓮も喜ぶ」",
+      "lines": [
+        111
+      ]
+    },
+    {
+      "original": "「ここ」",
+      "lines": [
+        273
+      ]
+    },
+    {
+      "original": "「このシーンは結構使える気がする。とてもえっち」",
+      "lines": [
+        168
+      ]
+    },
+    {
+      "original": "「これが私の趣味。好きなもの」",
+      "lines": [
+        214
+      ]
+    },
+    {
+      "original": "「これは蓮が妄想で暴走してるパターン。%D$vl1;ぷぷっ、ちょっとラップみたい」"
+    },
+    {
+      "original": "「これは蓮が妄想で暴走してるパターン。ぷぷっ、ちょっとラップみたい」",
+      "lines": [
+        269
+      ]
+    },
+    {
+      "original": "「こんなところでしたら、ご近所様に声が聞こえちゃう……%D$vl1;それもまた、興奮のスパイス……」"
+    },
+    {
+      "original": "「こんなところでしたら、ご近所様に声が聞こえちゃう……それもまた、興奮のスパイス……」",
+      "lines": [
+        188
+      ]
+    },
+    {
+      "original": "「さあ選ぶがいい勇者よ。%D$vl1;今こそ冒険の時は来た！」"
+    },
+    {
+      "original": "「さあ選ぶがいい勇者よ。今こそ冒険の時は来た！」",
+      "lines": [
+        256
+      ]
+    },
+    {
+      "original": "「さて、じゃあさっそく読んでみましょうー」",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "「じ、じゃあ、好きな食べ物は？」",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "「じゃあこういう時の定番っぽく、ご趣味は？」",
+      "lines": [
+        248
+      ]
+    },
+    {
+      "original": "「じゃあ教えてあげましょう。その名も『奥様は突然に』です」",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "「じゃあ次は蓮が私に質問してみて。なんでも答える」",
+      "lines": [
+        132
+      ]
+    },
+    {
+      "original": "「そ、そうだな」",
+      "lines": [
+        226
+      ]
+    },
+    {
+      "original": "「そう。あとで何を買ったか見せてあげる」",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "「そう。私はもっと蓮のことが知りたい」",
+      "lines": [
+        92
+      ]
+    },
+    {
+      "original": "「そう」",
+      "lines": [
+        9
+      ]
+    },
+    {
+      "original": "「そうねー」",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "「そこが問題。私なりにいろいろ考えてみた」",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "「そこでお互いの情報交換をしようと思う。まずは私から質問するから答えて」",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "「そこでお互いを知ろうと思います」",
+      "lines": [
+        227
+      ]
+    },
+    {
+      "original": "「そっか」",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "「それで、今回はどんなことを？」",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "「それは蓮も知ってるはず。辛いものが好き。辛くないものは辛くする」",
+      "lines": [
+        318
+      ]
+    },
+    {
+      "original": "「そろそろチャージも終わった頃。しっかり溜まってるはず」",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "「そんなに変なこと聞いた？　一般的な質問だと思うけど」",
+      "lines": [
+        159
+      ]
+    },
+    {
+      "original": "「そんなマジマジマジな私は、自慰にもこだわる。だからここにもお世話になってる」",
+      "lines": [
+        71
+      ]
+    },
+    {
+      "original": "「だから、蓮にハマってる。%D$vl1;ぞっこんラブです。好き」"
+    },
+    {
+      "original": "「だから、蓮にハマってる。ぞっこんラブです。好き」",
+      "lines": [
+        247
+      ]
+    },
+    {
+      "original": "「つまりめちゃくちゃ興味あります、是非見せて頂きたい」",
+      "lines": [
+        103
+      ]
+    },
+    {
+      "original": "「で、どこへ行くんだ？」",
+      "lines": [
+        288
+      ]
+    },
+    {
+      "original": "「では、失礼して」",
+      "lines": [
+        87
+      ]
+    },
+    {
+      "original": "「というか、なんでお見合いみたいになってるの？　私たち婚約者なのに、こんなことしてもしょうがない」",
+      "lines": [
+        131
+      ]
+    },
+    {
+      "original": "「というか、入らないと、みんなに見られるから」",
+      "lines": [
+        165
+      ]
+    },
+    {
+      "original": "「というわけで、どれがいい？」",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "「どんな風にお互いを知っていく感じ？」",
+      "lines": [
+        177
+      ]
+    },
+    {
+      "original": "「なにを？」",
+      "lines": [
+        239
+      ]
+    },
+    {
+      "original": "「にやにや」",
+      "lines": [
+        144
+      ]
+    },
+    {
+      "original": "「はい到着」",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "「ひゃ、ひゃい？」",
+      "lines": [
+        219
+      ]
+    },
+    {
+      "original": "「ふぅ……ひとしき笑ったところで」",
+      "lines": [
+        258
+      ]
+    },
+    {
+      "original": "「ふむふむ。突然ですが、私は大好きな人と結婚しました。若奥さまってやつだぞ☆」",
+      "lines": [
+        179
+      ]
+    },
+    {
+      "original": "「ぶっ、ここでその質問か……」",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "「ぶふっ！」",
+      "lines": [
+        229
+      ]
+    },
+    {
+      "original": "「ま、いっか。とりあえず帰ろう」",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "「まぁ一般的と言ったら一般的かもしれないけど……」",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "「まず好きな体位から」",
+      "lines": [
+        198
+      ]
+    },
+    {
+      "original": "「むふーっ」",
+      "lines": [
+        204
+      ]
+    },
+    {
+      "original": "「もう別れましょう」",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "「ゆ、優さん？　何をいきなり……」",
+      "lines": [
+        167
+      ]
+    },
+    {
+      "original": "「んもう、蓮は本当に私がいないと駄目ね」",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "「んー、なら最近ハマってるものとか」",
+      "lines": [
+        316
+      ]
+    },
+    {
+      "original": "「イチャラブえっち……憧れる……」",
+      "lines": [
+        170
+      ]
+    },
+    {
+      "original": "「エッチな本は、私にとっての[バイブル,1]聖書だったの。閉塞された田舎だと変な情報しか入ってこないから」"
+    },
+    {
+      "original": "「エッチな本は、私にとってのバイブルだったの。閉塞された田舎だと変な情報しか入ってこないから」"
+    },
+    {
+      "original": "「エッチな本は、私にとっての聖書だったの。閉塞された田舎だと変な情報しか入ってこないから」",
+      "lines": [
+        319
+      ]
+    },
+    {
+      "original": "「チャ、チャージって何が？」"
+    },
+    {
+      "original": "「ノーマルな本にすると変な趣味があるからあえてそれを選んだみたいに思われそうだだからここでの正解はアブノーマルなものを選ぶいやダメだそれだとそのまま受け取られてしまったらどうするそもそもこの問題に答えなんてぶつぶつ」",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "「ポンコツ寮での唐辛子消費率第一位さんの言葉は響くし重いなぁ」",
+      "lines": [
+        157
+      ]
+    },
+    {
+      "original": "「マジマジかーなら仕方ないなー」",
+      "lines": [
+        257
+      ]
+    },
+    {
+      "original": "「マジマジで？」",
+      "lines": [
+        91
+      ]
+    },
+    {
+      "original": "「今から？」",
+      "lines": [
+        265
+      ]
+    },
+    {
+      "original": "「今日も旦那様のために美味しいご飯を作って、%D$vl1;かーらーのー」"
+    },
+    {
+      "original": "「今日も旦那様のために美味しいご飯を作って、かーらーのー」",
+      "lines": [
+        166
+      ]
+    },
+    {
+      "original": "「何がというわけなのかまずは説明をプリーズ所望」",
+      "lines": [
+        130
+      ]
+    },
+    {
+      "original": "「何してるの、蓮。早く入って」",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "「分かった、なんでも答えるよ」",
+      "lines": [
+        178
+      ]
+    },
+    {
+      "original": "「好きな体位。ぶっちゃけると好きなえっち」",
+      "lines": [
+        266
+      ]
+    },
+    {
+      "original": "「帰ってきてから即質問！%D$vl1;　お帰りなさい、私にする？　あたしにする？%D$vl2;　それとも、あたい？」"
+    },
+    {
+      "original": "「帰ってきてから即質問！　お帰りなさい、私にする？　あたしにする？　それとも、あたい？」",
+      "lines": [
+        151
+      ]
+    },
+    {
+      "original": "「恥じらいを。もっと恥じらいを」",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "「新しい企画を思いつきましたか優プロデューサー」",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "「梨々愛は幼なじみ。咲莉は妹。%D$vl1;アルルは後輩。みんなそれぞれ蓮のことを知ってる」"
+    },
+    {
+      "original": "「梨々愛は幼なじみ。咲莉は妹。アルルは後輩。みんなそれぞれ蓮のことを知ってる」",
+      "lines": [
+        224
+      ]
+    },
+    {
+      "original": "「用事は終わった。じゃあ帰ろう」",
+      "lines": [
+        169
+      ]
+    },
+    {
+      "original": "「田舎と違って欲しい時に手に入る。本当に感動した。しかも品揃えも豊富」",
+      "lines": [
+        171
+      ]
+    },
+    {
+      "original": "「確かにその辺で交尾してる狸とか参考にならないしなぁ」",
+      "lines": [
+        232
+      ]
+    },
+    {
+      "original": "「私が何を買ったか気になる？」",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "「私だけ蓮の情報が少ない」",
+      "lines": [
+        93
+      ]
+    },
+    {
+      "original": "「私のことを知ってもらう。実際に見たほうが早いと思う。蓮、付き合って」",
+      "lines": [
+        156
+      ]
+    },
+    {
+      "original": "「私はいつだってマジ。本気と書いてマジマジ」",
+      "lines": [
+        150
+      ]
+    },
+    {
+      "original": "「私はエログッズが大好きです」",
+      "lines": [
+        176
+      ]
+    },
+    {
+      "original": "「私は自分のことを正直に話した。だから蓮も教えて」",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "「自慰を少々……」",
+      "lines": [
+        326
+      ]
+    },
+    {
+      "original": "「蓮……しよっ♪」",
+      "lines": [
+        90
+      ]
+    },
+    {
+      "original": "「蓮、買い物に付き合って」",
+      "lines": [
+        8
+      ]
+    },
+    {
+      "original": "「蓮。私はこう思うの。婚約者ってなんだろう、って」",
+      "lines": [
+        68,
+        175
+      ]
+    },
+    {
+      "original": "「蓮」",
+      "lines": [
+        221
+      ]
+    },
+    {
+      "original": "「蓮が選ばないなら私が選ぶ。このままじゃ間に合わないし」",
+      "lines": [
+        320
+      ]
+    },
+    {
+      "original": "「蓮の精液」",
+      "lines": [
+        155
+      ]
+    },
+    {
+      "original": "「蓮はなにか勘違いしてる」",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "「言われてみれば……？」",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "「質問。うーん、そうだなぁ」",
+      "lines": [
+        222
+      ]
+    },
+    {
+      "original": "「間に合わないって何が？」",
+      "lines": [
+        292
+      ]
+    },
+    {
+      "original": "『私、旦那様と一緒になれて幸せです♪』なんて台詞も見える。",
+      "lines": [
+        101
+      ]
+    },
+    {
+      "original": "あ、なんか良くないことを考えている顔だコレ。",
+      "lines": [
+        172
+      ]
+    },
+    {
+      "original": "ある意味健全で何より参考になるかもしれないけど。",
+      "lines": [
+        152
+      ]
+    },
+    {
+      "original": "いきなりのぶっちゃけトークだった。",
+      "lines": [
+        123
+      ]
+    },
+    {
+      "original": "いや前までなら小躍りでもしてたかもしれないけどね？",
+      "lines": [
+        205
+      ]
+    },
+    {
+      "original": "うぉおぉぉ……！　想像だけでも心が痛い……！",
+      "lines": [
+        163
+      ]
+    },
+    {
+      "original": "うん……そう思うと、うん……。",
+      "lines": [
+        282
+      ]
+    },
+    {
+      "original": "うん……まぁ、ね？",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "うん、やっぱり嬉しい。",
+      "lines": [
+        228
+      ]
+    },
+    {
+      "original": "うーん……安心したような残念なような……。",
+      "lines": [
+        291
+      ]
+    },
+    {
+      "original": "えっちに楽しそうでえっちに幸せそうでえっち。",
+      "lines": [
+        323
+      ]
+    },
+    {
+      "original": "え？　なに？　この展開は？",
+      "lines": [
+        118
+      ]
+    },
+    {
+      "original": "え？　本当に？",
+      "lines": [
+        187
+      ]
+    },
+    {
+      "original": "お、ちょっと名言っぽい。",
+      "lines": [
+        112
+      ]
+    },
+    {
+      "original": "お店の前で立ち止まる。",
+      "lines": [
+        220
+      ]
+    },
+    {
+      "original": "お腹をぽんぽんと押さえながら姿勢を正す。",
+      "lines": [
+        235
+      ]
+    },
+    {
+      "original": "がさがさと紙袋も鳴らして存在をアピール。",
+      "lines": [
+        210
+      ]
+    },
+    {
+      "original": "くっ……さすが先が読めない系女子……。",
+      "lines": [
+        251
+      ]
+    },
+    {
+      "original": "けどなんとなく親近感を持っちゃうタイトルだな、『奥様は突然に』。",
+      "lines": [
+        120
+      ]
+    },
+    {
+      "original": "ここが優の目的地？　隣のおっしゃれーなカフェとかじゃなくて？",
+      "lines": [
+        211
+      ]
+    },
+    {
+      "original": "ここは慎重に……慎重にことを選ばないと……。",
+      "lines": [
+        255
+      ]
+    },
+    {
+      "original": "このチョイスはＧｏｏＤだ優！　ＶｅｒｙｙｙｙｙｙＧｏｏｏｏｏｏｏｏｏｏＤ！！",
+      "lines": [
+        305
+      ]
+    },
+    {
+      "original": "この前も、その前も。",
+      "lines": [
+        147
+      ]
+    },
+    {
+      "original": "この店はいろいろ取り揃えていて、ビデオからエロゲ、大人のおもちゃまでなんでもＯＫ。",
+      "lines": [
+        314
+      ]
+    },
+    {
+      "original": "こんなあやふやな感情を伝えたら失礼なんじゃないか？",
+      "lines": [
+        83
+      ]
+    },
+    {
+      "original": "こんな中途半端な関係じゃなく。",
+      "lines": [
+        0
+      ]
+    },
+    {
+      "original": "さぁ、奥様タイムだ",
+      "lines": [
+        295
+      ]
+    },
+    {
+      "original": "さすが優が夢中になる一品だ。",
+      "lines": [
+        298
+      ]
+    },
+    {
+      "original": "さっきからページがめくられてない、全く。",
+      "lines": [
+        324
+      ]
+    },
+    {
+      "original": "さっきまでのシリアスムードはいったいどこに？",
+      "lines": [
+        153
+      ]
+    },
+    {
+      "original": "さっき趣味は自慰とか言ってたけども……。",
+      "lines": [
+        160
+      ]
+    },
+    {
+      "original": "さらにマジが増えてますよ優さん。",
+      "lines": [
+        300
+      ]
+    },
+    {
+      "original": "ずっとそのページを見ていた、そのシーンを見ていた。",
+      "lines": [
+        116
+      ]
+    },
+    {
+      "original": "そう、そのお店とは……。",
+      "lines": [
+        133
+      ]
+    },
+    {
+      "original": "そうして上手い解決策を考える間もなく、優と一緒に中に入ることになった。",
+      "lines": [
+        97
+      ]
+    },
+    {
+      "original": "そこに惹かれてるのも事実だから仕方ないわけで。",
+      "lines": [
+        161
+      ]
+    },
+    {
+      "original": "そしてお世話になってるんですか優さん。",
+      "lines": [
+        231
+      ]
+    },
+    {
+      "original": "そして逃げるようにポンコツ寮へと帰った。",
+      "lines": [
+        303
+      ]
+    },
+    {
+      "original": "そっか……普通そうだよな。",
+      "lines": [
+        148
+      ]
+    },
+    {
+      "original": "その中で優がセレクトしたのが、ここってことか。",
+      "lines": [
+        238
+      ]
+    },
+    {
+      "original": "その待ちきれない本というのはエロ本なんですがね！",
+      "lines": [
+        45
+      ]
+    },
+    {
+      "original": "その想いには出来るだけ応えたい。",
+      "lines": [
+        184
+      ]
+    },
+    {
+      "original": "そりゃ好きな体位はあるよ？",
+      "lines": [
+        315
+      ]
+    },
+    {
+      "original": "それに、いきなり言われたら優も混乱するだろうし……。",
+      "lines": [
+        284
+      ]
+    },
+    {
+      "original": "それに優も『お互いのことを知った方がいい』って言ってたし。",
+      "lines": [
+        173
+      ]
+    },
+    {
+      "original": "それに正直エロ本だって変な情報あると思うし。",
+      "lines": [
+        124
+      ]
+    },
+    {
+      "original": "それも一人だったらだよ。一人だったら。",
+      "lines": [
+        218
+      ]
+    },
+    {
+      "original": "それを言うならエロ本コーナーを睨みながらずっといる俺も相当アレだけど。",
+      "lines": [
+        277
+      ]
+    },
+    {
+      "original": "そんな体勢なので横にいる俺にも中身が見えない。",
+      "lines": [
+        264
+      ]
+    },
+    {
+      "original": "そんな俺を気にせず優は読み進めて行く。",
+      "lines": [
+        136
+      ]
+    },
+    {
+      "original": "そんな場所に今、俺は女の子と一緒にいるんだ……。",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "ただ、考えなしかと思えばそうでもなくて、しっかり思慮は働いてる。",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "だからこの行動にも何か意味があるんだろう。",
+      "lines": [
+        245
+      ]
+    },
+    {
+      "original": "だから優が選んだからと言ってそんな興味ない。",
+      "lines": [
+        86
+      ]
+    },
+    {
+      "original": "だけど、すんでのところまで出かかった言葉は。",
+      "lines": [
+        114
+      ]
+    },
+    {
+      "original": "だけども誰もが目を反らすお店。",
+      "lines": [
+        158
+      ]
+    },
+    {
+      "original": "だってマジマジだよ？　仕方ないよね？　ね？",
+      "lines": [
+        174
+      ]
+    },
+    {
+      "original": "だって生足へそ出し欲望丸出しじゃん。",
+      "lines": [
+        261
+      ]
+    },
+    {
+      "original": "だって自分の部屋で女の子がエロ本を読んでるんだよ？",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "ちなみに、みんなはもうとっくに食べ終えている。",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "ちなみに最近は俺への料理は手加減してくれてる。",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "ちょっと緩んでいる頬に力を込めながらソファに座る。",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "ちょっぴり辛い、旨辛味。",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "でも、そう口にしてくれたことが嬉しい。",
+      "lines": [
+        185
+      ]
+    },
+    {
+      "original": "でもそれって映像のみの話だし。",
+      "lines": [
+        200
+      ]
+    },
+    {
+      "original": "というか改めて思ったけどもしかして優が見てる前でエロ本選ぶの？",
+      "lines": [
+        242
+      ]
+    },
+    {
+      "original": "と言ってもなぁ。",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "と言っても俺はマ族でもなんでもないから改めて話すこともないんだけど。",
+      "lines": [
+        223
+      ]
+    },
+    {
+      "original": "と質問したものの優はすでに本棚から一冊とってレジへ支払いに。",
+      "lines": [
+        191
+      ]
+    },
+    {
+      "original": "と頷いてもどれを選べばいいのやら。",
+      "lines": [
+        128
+      ]
+    },
+    {
+      "original": "どうしよう、この状況……。",
+      "lines": [
+        262
+      ]
+    },
+    {
+      "original": "どんな状況？　ってかどんなプレイ？",
+      "lines": [
+        287
+      ]
+    },
+    {
+      "original": "なのでちょっと行儀が悪いけど、",
+      "lines": [
+        285
+      ]
+    },
+    {
+      "original": "なら俺も、優がどんなえっちな内容に興味が深々なのか知るべきなのだ。",
+      "lines": [
+        272
+      ]
+    },
+    {
+      "original": "なんか感心してるし。",
+      "lines": [
+        250
+      ]
+    },
+    {
+      "original": "なんだ、自分で言っておいて結果出すタイプって。",
+      "lines": [
+        102
+      ]
+    },
+    {
+      "original": "なんだか釈然としないものを感じつつも二人、リビングを出た。",
+      "lines": [
+        193
+      ]
+    },
+    {
+      "original": "なんだろう……ジャンルを選べばいいのか？",
+      "lines": [
+        145
+      ]
+    },
+    {
+      "original": "なんてどうでもいいことを考えてる間に到着したらしい。",
+      "lines": [
+        109
+      ]
+    },
+    {
+      "original": "ふむ、今日は夏野菜を使って何か作ろうかな？",
+      "lines": [
+        96
+      ]
+    },
+    {
+      "original": "ま、そういうところも魅力的で。",
+      "lines": [
+        190
+      ]
+    },
+    {
+      "original": "まぁここまで来て選べませんなんて言えないよなぁ。",
+      "lines": [
+        82
+      ]
+    },
+    {
+      "original": "まだ自分の気持ちはわからないけど。",
+      "lines": [
+        276
+      ]
+    },
+    {
+      "original": "もう前のめりになって読んでるし。",
+      "lines": [
+        10
+      ]
+    },
+    {
+      "original": "もぐもぐ。",
+      "lines": [
+        180
+      ]
+    },
+    {
+      "original": "もしかしてこの質問をしたかったから来たんじゃ……。",
+      "lines": [
+        309
+      ]
+    },
+    {
+      "original": "やっぱり、言うべきなんだろうな。",
+      "lines": [
+        246
+      ]
+    },
+    {
+      "original": "わけないじゃないか！",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "ん？　それなら俺と優は婚約者（仮）だし、別に変なことでもないのか。",
+      "lines": [
+        121
+      ]
+    },
+    {
+      "original": "アダルトショップの横がカフェってのもツッコミどころ満載だけど。",
+      "lines": [
+        280
+      ]
+    },
+    {
+      "original": "エログッズが大好きな優が、そこまで……。",
+      "lines": [
+        243
+      ]
+    },
+    {
+      "original": "エロ本を買ったのはわかってるし、俺も男だから何冊かは持ってる。",
+      "lines": [
+        253
+      ]
+    },
+    {
+      "original": "スタイルはむちむちとしていて肉感が最高に素晴らしい。",
+      "lines": [
+        164
+      ]
+    },
+    {
+      "original": "テンションが上がってくるような来ないような……。",
+      "lines": [
+        113
+      ]
+    },
+    {
+      "original": "ピンクやら緑やら紫やらカラフルな色が目につくお店。",
+      "lines": [
+        322
+      ]
+    },
+    {
+      "original": "ベッドが振動でギシリと鳴る。",
+      "lines": [
+        307
+      ]
+    },
+    {
+      "original": "ホントはこういう風にちゃんと結ばれて、するのがいいはずなんだ。",
+      "lines": [
+        105
+      ]
+    },
+    {
+      "original": "ポンコツ寮を出てからというもの、この調子だった。"
+    },
+    {
+      "original": "ラベル0"
+    },
+    {
+      "original": "ラベル1"
+    },
+    {
+      "original": "ラベル2"
+    },
+    {
+      "original": "ラベル3"
+    },
+    {
+      "original": "ラベル4",
+      "lines": [
+        274
+      ]
+    },
+    {
+      "original": "一人で頷いてもいる。"
+    },
+    {
+      "original": "中距離",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "予想外の返答に思わず萌えキャラみたいな声を出してしまった。",
+      "lines": [
+        135
+      ]
+    },
+    {
+      "original": "二次元やら三次元の肌やらなんやらが、壁に敷き詰められている。",
+      "lines": [
+        196
+      ]
+    },
+    {
+      "original": "人間の欲、業というものは深い！",
+      "lines": [
+        74
+      ]
+    },
+    {
+      "original": "今の優はマジだ。",
+      "lines": [
+        108
+      ]
+    },
+    {
+      "original": "今日も商店街は賑わっていて、肉屋さんや八百屋さんが声高に叫んでいる。",
+      "lines": [
+        107
+      ]
+    },
+    {
+      "original": "仕方ないので優の隣であたりを軽く見ながら歩く。",
+      "lines": [
+        325
+      ]
+    },
+    {
+      "original": "何時の間にスウィートな空気に？",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "俺が優を知りたいと思ってるように。",
+      "lines": [
+        216
+      ]
+    },
+    {
+      "original": "俺が悩んでる間に何があったのか優は大ウケしていた。",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "俺だって優のことは知りたい。",
+      "lines": [
+        283
+      ]
+    },
+    {
+      "original": "俺だって男だし、中身が気になるのも当然じゃない？",
+      "lines": [
+        236
+      ]
+    },
+    {
+      "original": "俺に聞いてきたくせに、本人も早く出したくてうずうずしてるっぽい。",
+      "lines": [
+        259
+      ]
+    },
+    {
+      "original": "俺の『マジマジで』につっこむこともなく隣で朗読を始める優。",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "俺のこの気持ちを知るために。",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "俺の返事に満足したのか、それとも待つのに飽きたのか（多分正解）そう言ってきた。",
+      "lines": [
+        143
+      ]
+    },
+    {
+      "original": "俺は敬意を表する！"
+    },
+    {
+      "original": "側面手上"
+    },
+    {
+      "original": "側面手下",
+      "lines": [
+        8,
+        14,
+        27,
+        28,
+        29,
+        34,
+        40,
+        46,
+        49,
+        54,
+        58,
+        63,
+        68,
+        71,
+        87,
+        90,
+        92,
+        93,
+        99,
+        104,
+        111,
+        126,
+        130,
+        131,
+        144,
+        150,
+        155,
+        156,
+        159,
+        165,
+        167,
+        168,
+        169,
+        170,
+        175,
+        176,
+        178,
+        188,
+        198,
+        203,
+        204,
+        212,
+        214,
+        215,
+        219,
+        221,
+        224,
+        226,
+        232,
+        234,
+        239,
+        248,
+        256,
+        258,
+        265,
+        266,
+        268,
+        269,
+        271,
+        273,
+        296,
+        299,
+        316,
+        318,
+        320,
+        326
+      ]
+    },
+    {
+      "original": "優"
+    },
+    {
+      "original": "優.stand",
+      "lines": [
+        100
+      ]
+    },
+    {
+      "original": "優があやしげな笑みを浮かべる。",
+      "lines": [
+        241
+      ]
+    },
+    {
+      "original": "優が何を買ったか気になる、か。",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "優が寒い寒い言って起きなかったために、こんな時間になっていた。",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "優が自分から言ってくれたんだ。",
+      "lines": [
+        304
+      ]
+    },
+    {
+      "original": "優だって女の子だ。当然幸せなえっちに憧れるよな。",
+      "lines": [
+        84
+      ]
+    },
+    {
+      "original": "優ともっと一緒に居たい。知りたい。",
+      "lines": [
+        313
+      ]
+    },
+    {
+      "original": "優に告白してもいいのか？",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "優のことが本当に好きなのか知るために。",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "優の婚約者（仮）になってから数日。こんなやりとりにも慣れてきた。",
+      "lines": [
+        79
+      ]
+    },
+    {
+      "original": "優は俺のことを好きだと言ってくれてる。",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "優も俺を知りたいと思ってくれてるんだ。",
+      "lines": [
+        76
+      ]
+    },
+    {
+      "original": "冗談だったりツッコミ待ちだったりじゃなくて、本気で言ってる。",
+      "lines": [
+        260
+      ]
+    },
+    {
+      "original": "冷静に考えるとすごい画だ。",
+      "lines": [
+        217
+      ]
+    },
+    {
+      "original": "冷静に考えるとアダルトショップで笑う女の子ってちょっと怖いな。",
+      "lines": [
+        252
+      ]
+    },
+    {
+      "original": "取り出された本の表紙には可愛らしい女の子がお尻を向けてこっちを挑発するポーズ。",
+      "lines": [
+        230
+      ]
+    },
+    {
+      "original": "周りからの『彼女連れでアダルトショップに来るな！』ってオーラにそろそろ耐えられなくなるところだったし。",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "唐突に思いついては行動を起こす。そういう娘だった。",
+      "lines": [
+        134
+      ]
+    },
+    {
+      "original": "外がカラフルなら中もカラフル。それがアダルトショップ。",
+      "lines": [
+        301
+      ]
+    },
+    {
+      "original": "奥さんと旦那さんが愛を語り合っている場面を。",
+      "lines": [
+        125
+      ]
+    },
+    {
+      "original": "女の子と一緒に入るのはハードル高くない？　さすがに。",
+      "lines": [
+        310
+      ]
+    },
+    {
+      "original": "好きだって。",
+      "lines": [
+        192
+      ]
+    },
+    {
+      "original": "好きなえっち、か……。",
+      "lines": [
+        110
+      ]
+    },
+    {
+      "original": "完全に主夫の考えだった。",
+      "lines": [
+        139
+      ]
+    },
+    {
+      "original": "対して当の本人は……。",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "少し照れくさいけど。",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "少なくとも恋人同士なら一般的、かな？",
+      "lines": [
+        233
+      ]
+    },
+    {
+      "original": "帰る前に見せてくれると言ったのに焦らすようにそう聞いてきた。",
+      "lines": [
+        237
+      ]
+    },
+    {
+      "original": "待ちきれないという気持ちを隠すことない様子がこれまた可愛い。",
+      "lines": [
+        206
+      ]
+    },
+    {
+      "original": "待て……俺はそんなドン引きされるような性癖はないはず。",
+      "lines": [
+        289
+      ]
+    },
+    {
+      "original": "後ろに回り覗いてみる。",
+      "lines": [
+        85
+      ]
+    },
+    {
+      "original": "心からそう思い始めてる。",
+      "lines": [
+        208
+      ]
+    },
+    {
+      "original": "想像した展開みたくなる可能性は十二分に有りうる……？",
+      "lines": [
+        80
+      ]
+    },
+    {
+      "original": "故郷に帰ってしまわないように、引き止めるために始めた、この奇妙な関係。",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "昔から知っている梨々愛たちよりも俺のことを知らないかもしれない。",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "最初に会った時からそうだけど優という女の子は予想がつかない。",
+      "lines": [
+        81
+      ]
+    },
+    {
+      "original": "最初はただ必死だったから提案してみただけだったけど……。",
+      "lines": [
+        75
+      ]
+    },
+    {
+      "original": "最近ちょっとした変化が分かってきていた。",
+      "lines": [
+        182
+      ]
+    },
+    {
+      "original": "最近優はもちろん梨々愛たちにいろいろされたけどさぁ……。",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "朝、二人で遅い朝食を食べていると、そんなふうに切り出してきた。",
+      "lines": [
+        119
+      ]
+    },
+    {
+      "original": "本が当たるって書いて本当？",
+      "lines": [
+        290
+      ]
+    },
+    {
+      "original": "本の中では若奥さま？　と旦那さんがイチャイチャしていた。",
+      "lines": [
+        95
+      ]
+    },
+    {
+      "original": "本当にマイペースすぎるなぁ、この女の子は。",
+      "lines": [
+        137
+      ]
+    },
+    {
+      "original": "正直すっごい恥ずかしい、いろいろと。",
+      "lines": [
+        244
+      ]
+    },
+    {
+      "original": "正直言おう、エロ本はエロ本だ。"
+    },
+    {
+      "original": "正面手上"
+    },
+    {
+      "original": "正面手下"
+    },
+    {
+      "original": "波紋",
+      "lines": [
+        306
+      ]
+    },
+    {
+      "original": "流れとか雰囲気でしちゃったけど。"
+    },
+    {
+      "original": "消",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "準備万端。どんな質問が来ても大丈夫。",
+      "lines": [
+        267
+      ]
+    },
+    {
+      "original": "玄関開けたら二秒で奥様か。尽くされてる感じがしていいね。",
+      "lines": [
+        263
+      ]
+    },
+    {
+      "original": "疑問やら青い感情やらがふつふつと浮かんでくる。",
+      "lines": [
+        194
+      ]
+    },
+    {
+      "original": "痴漢もの？　家庭教師？　ナンパスペシャル？　海の家シリーズ？　時間停止？",
+      "lines": [
+        73
+      ]
+    },
+    {
+      "original": "目をそらしたりせず俺を見ていた。",
+      "lines": [
+        240
+      ]
+    },
+    {
+      "original": "目線でまた聞いてくる。"
+    },
+    {
+      "original": "眉ギャグ泣:目閉:口ギャグ笑:汗無::頬３"
+    },
+    {
+      "original": "眉怒１:目笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉怒１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目閉:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目閉:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ悲１:口泣１:汗無::頬２"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉悲１:目Ａ笑１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉悲２:目悲２:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目笑１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目笑１:口照２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目笑２:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目閉:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目閉:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目閉:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目閉:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ怒１:口悲２:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口悲２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑１:目Ａ笑１:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目笑２:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉笑２:目閉:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ悲１:口笑２:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑１:口笑１:汗無::頬１"
+    },
+    {
+      "original": "眉笑２:目Ａ笑１:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉驚１:目Ａ悲１:口笑１:汗無::頬２"
+    },
+    {
+      "original": "眉驚１:目Ａ悲１:口笑２:汗無::頬２"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲１:汗無::頬１"
+    },
+    {
+      "original": "眉驚１:目Ａ驚１:口悲２:汗無::頬１",
+      "lines": [
+        146
+      ]
+    },
+    {
+      "original": "着いたところはエロ本コーナー。",
+      "lines": [
+        122
+      ]
+    },
+    {
+      "original": "確かに優は『俺も喜ぶ』と言っていた。",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "確かに優はクラスメイトだけど転校生だ。"
+    },
+    {
+      "original": "私服",
+      "lines": [
+        183
+      ]
+    },
+    {
+      "original": "童貞なんだよ！",
+      "lines": [
+        186
+      ]
+    },
+    {
+      "original": "経験したことないのに好きだなんて本当に好きかどうかわからないじゃない。",
+      "lines": [
+        293
+      ]
+    },
+    {
+      "original": "総合すると、えろい。",
+      "lines": [
+        129
+      ]
+    },
+    {
+      "original": "考えろ、考えるんだ藤真蓮！",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "聞かなかったことにしよう。",
+      "lines": [
+        312
+      ]
+    },
+    {
+      "original": "自分の気持ちが分からないまま、固まらないまま。",
+      "lines": [
+        98
+      ]
+    },
+    {
+      "original": "苦笑いしつつ立ち上がる。",
+      "lines": [
+        9,
+        15,
+        22,
+        26,
+        30,
+        41,
+        47,
+        48,
+        50,
+        56,
+        57,
+        62,
+        64,
+        67,
+        69,
+        72,
+        77,
+        88,
+        91,
+        94,
+        103,
+        117,
+        132,
+        149,
+        151,
+        157,
+        166,
+        171,
+        177,
+        179,
+        189,
+        213,
+        222,
+        225,
+        227,
+        229,
+        247,
+        249,
+        257,
+        270,
+        278,
+        281,
+        288,
+        297,
+        302,
+        308,
+        317,
+        319,
+        321
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        254
+      ]
+    },
+    {
+      "original": "表情も恥ずかしがりつつ自分からやっているという背徳感が抜群に出ている。",
+      "lines": [
+        294
+      ]
+    },
+    {
+      "original": "要するに、えろい。",
+      "lines": [
+        89
+      ]
+    },
+    {
+      "original": "言い出した本人からのダメ出しで途切れた。",
+      "lines": [
+        286
+      ]
+    },
+    {
+      "original": "言い訳完了。当方に[とうげき,1]盗撃の用意あり。",
+      "lines": [
+        286
+      ]
+    },
+    {
+      "original": "言い訳完了。当方にとうげきの用意あり。"
+    },
+    {
+      "original": "言い訳完了。当方に盗撃の用意あり。",
+      "lines": [
+        78
+      ]
+    },
+    {
+      "original": "言ってしまっていいのか？",
+      "lines": [
+        127
+      ]
+    },
+    {
+      "original": "足踏みしている俺とは裏腹に、優はさっさと中へ入っていく。",
+      "lines": [
+        142
+      ]
+    },
+    {
+      "original": "転校してきて、しかも女の子なのにその猛者っぷり。",
+      "lines": [
+        199
+      ]
+    },
+    {
+      "original": "近い、近いよ！"
+    },
+    {
+      "original": "近距離",
+      "lines": [
+        140
+      ]
+    },
+    {
+      "original": "迷うことなく平然と歩いていく。"
+    },
+    {
+      "original": "集中線",
+      "lines": [
+        201
+      ]
+    },
+    {
+      "original": "難易度高すぎない？　ヨーロピアンエクストリームじゃない？"
+    },
+    {
+      "original": "零距離"
+    },
+    {
+      "original": "顔",
+      "lines": [
+        275
+      ]
+    },
+    {
+      "original": "食い入るように見るっていうのはこういうことなんだろうなぁ。",
+      "lines": [
+        106
+      ]
+    },
+    {
+      "original": "黙って付いて来いと言わんばかりで何も答えてくれない。"
+    }
+  ],
+  "name": 34,
+  "lines": [
+    {
+      "type": 3,
+      "title": 314
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 411,
+      "type": 2
+    },
+    {
+      "name": 517,
+      "type": 2
+    },
+    {
+      "name": 3,
+      "type": 2
+    },
+    {
+      "name": 521,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 6,
+      "type": 6
+    },
+    {
+      "name": 411,
+      "text": 280,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 211,
+      "type": 1
+    },
+    {
+      "text": 372,
+      "type": 0
+    },
+    {
+      "text": 451,
+      "type": 0
+    },
+    {
+      "text": 347,
+      "type": 0
+    },
+    {
+      "text": 415,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 214,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 265,
+      "type": 1
+    },
+    {
+      "text": 421,
+      "type": 0
+    },
+    {
+      "text": 447,
+      "type": 0
+    },
+    {
+      "text": 429,
+      "type": 0
+    },
+    {
+      "text": 339,
+      "type": 0
+    },
+    {
+      "text": 340,
+      "type": 0
+    },
+    {
+      "text": 164,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 216,
+      "type": 1
+    },
+    {
+      "text": 402,
+      "type": 0
+    },
+    {
+      "text": 406,
+      "type": 0
+    },
+    {
+      "text": 420,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 229,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 212,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 266,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 272,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 285,
+      "type": 1
+    },
+    {
+      "text": 508,
+      "type": 0
+    },
+    {
+      "text": 446,
+      "type": 0
+    },
+    {
+      "text": 355,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 209,
+      "type": 1
+    },
+    {
+      "text": 351,
+      "type": 0
+    },
+    {
+      "text": 400,
+      "type": 0
+    },
+    {
+      "text": 423,
+      "type": 0
+    },
+    {
+      "text": 437,
+      "type": 0
+    },
+    {
+      "text": 296,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 213,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 260,
+      "type": 1
+    },
+    {
+      "text": 349,
+      "type": 0
+    },
+    {
+      "text": 462,
+      "type": 0
+    },
+    {
+      "text": 416,
+      "type": 0
+    },
+    {
+      "text": 329,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 240,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 237,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 243,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 219,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 239,
+      "type": 1
+    },
+    {
+      "text": 438,
+      "type": 0
+    },
+    {
+      "text": 376,
+      "type": 0
+    },
+    {
+      "text": 154,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 206,
+      "type": 1
+    },
+    {
+      "text": 407,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 286,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 204,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 277,
+      "type": 1
+    },
+    {
+      "text": 152,
+      "type": 0
+    },
+    {
+      "text": 153,
+      "type": 0
+    },
+    {
+      "text": 514,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 203,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 217,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 252,
+      "type": 1
+    },
+    {
+      "text": 348,
+      "type": 0
+    },
+    {
+      "text": 350,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 245,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 281,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 233,
+      "type": 1
+    },
+    {
+      "text": 393,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 221,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 171,
+      "type": 1
+    },
+    {
+      "text": 466,
+      "type": 0
+    },
+    {
+      "text": 396,
+      "type": 0
+    },
+    {
+      "text": 449,
+      "type": 0
+    },
+    {
+      "text": 424,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 191,
+      "type": 1
+    },
+    {
+      "text": 524,
+      "type": 0
+    },
+    {
+      "text": 422,
+      "type": 0
+    },
+    {
+      "text": 445,
+      "type": 0
+    },
+    {
+      "text": 448,
+      "type": 0
+    },
+    {
+      "text": 370,
+      "type": 0
+    },
+    {
+      "text": 313,
+      "type": 0
+    },
+    {
+      "text": 418,
+      "type": 0
+    },
+    {
+      "text": 443,
+      "type": 0
+    },
+    {
+      "text": 342,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 226,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 189,
+      "type": 1
+    },
+    {
+      "text": 520,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 279,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 255,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 210,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 273,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 172,
+      "type": 1
+    },
+    {
+      "text": 454,
+      "type": 0
+    },
+    {
+      "text": 368,
+      "type": 0
+    },
+    {
+      "text": 323,
+      "type": 0
+    },
+    {
+      "text": 516,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 192,
+      "type": 1
+    },
+    {
+      "text": 413,
+      "type": 0
+    },
+    {
+      "text": 289,
+      "type": 0
+    },
+    {
+      "text": 364,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 224,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "text": 385,
+      "type": 0
+    },
+    {
+      "text": 535,
+      "type": 0
+    },
+    {
+      "text": 398,
+      "type": 0
+    },
+    {
+      "text": 397,
+      "type": 0
+    },
+    {
+      "text": 367,
+      "type": 0
+    },
+    {
+      "text": 435,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 193,
+      "type": 1
+    },
+    {
+      "text": 302,
+      "type": 0
+    },
+    {
+      "text": 382,
+      "type": 0
+    },
+    {
+      "text": 343,
+      "type": 0
+    },
+    {
+      "text": 156,
+      "type": 0
+    },
+    {
+      "text": 321,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 170,
+      "type": 1
+    },
+    {
+      "text": 300,
+      "type": 0
+    },
+    {
+      "text": 452,
+      "type": 0
+    },
+    {
+      "text": 307,
+      "type": 0
+    },
+    {
+      "text": 377,
+      "type": 0
+    },
+    {
+      "text": 507,
+      "type": 0
+    },
+    {
+      "text": 292,
+      "type": 0
+    },
+    {
+      "text": 334,
+      "type": 0
+    },
+    {
+      "text": 432,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "text": 525,
+      "type": 0
+    },
+    {
+      "text": 358,
+      "type": 0
+    },
+    {
+      "text": 513,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 259,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 227,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 207,
+      "type": 1
+    },
+    {
+      "text": 322,
+      "type": 0
+    },
+    {
+      "text": 430,
+      "type": 0
+    },
+    {
+      "text": 394,
+      "type": 0
+    },
+    {
+      "text": 338,
+      "type": 0
+    },
+    {
+      "text": 455,
+      "type": 0
+    },
+    {
+      "text": 158,
+      "type": 0
+    },
+    {
+      "text": 436,
+      "type": 0
+    },
+    {
+      "text": 529,
+      "type": 0
+    },
+    {
+      "text": 157,
+      "type": 0
+    },
+    {
+      "text": 526,
+      "type": 0
+    },
+    {
+      "text": 408,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 232,
+      "type": 1
+    },
+    {
+      "text": 366,
+      "type": 0
+    },
+    {
+      "text": 506,
+      "type": 0
+    },
+    {
+      "text": 311,
+      "type": 0
+    },
+    {
+      "text": 327,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 174,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 275,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 264,
+      "type": 1
+    },
+    {
+      "text": 291,
+      "type": 0
+    },
+    {
+      "text": 318,
+      "type": 0
+    },
+    {
+      "text": 168,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 284,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 274,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 253,
+      "type": 1
+    },
+    {
+      "text": 344,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 220,
+      "type": 1
+    },
+    {
+      "text": 319,
+      "type": 0
+    },
+    {
+      "text": 324,
+      "type": 0
+    },
+    {
+      "text": 159,
+      "type": 0
+    },
+    {
+      "text": 294,
+      "type": 0
+    },
+    {
+      "text": 381,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 228,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 258,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 244,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 195,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 269,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 247,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 270,
+      "type": 1
+    },
+    {
+      "text": 290,
+      "type": 0
+    },
+    {
+      "text": 333,
+      "type": 0
+    },
+    {
+      "text": 345,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 281,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 276,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 230,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 261,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 236,
+      "type": 1
+    },
+    {
+      "text": 373,
+      "type": 0
+    },
+    {
+      "text": 162,
+      "type": 0
+    },
+    {
+      "text": 450,
+      "type": 0
+    },
+    {
+      "text": 510,
+      "type": 0
+    },
+    {
+      "text": 330,
+      "type": 0
+    },
+    {
+      "text": 352,
+      "type": 0
+    },
+    {
+      "text": 511,
+      "type": 0
+    },
+    {
+      "text": 301,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 200,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 173,
+      "type": 1
+    },
+    {
+      "text": 369,
+      "type": 0
+    },
+    {
+      "text": 357,
+      "type": 0
+    },
+    {
+      "text": 434,
+      "type": 0
+    },
+    {
+      "text": 365,
+      "type": 0
+    },
+    {
+      "text": 465,
+      "type": 0
+    },
+    {
+      "text": 155,
+      "type": 0
+    },
+    {
+      "text": 395,
+      "type": 0
+    },
+    {
+      "text": 163,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 241,
+      "type": 1
+    },
+    {
+      "text": 527,
+      "type": 0
+    },
+    {
+      "text": 353,
+      "type": 0
+    },
+    {
+      "text": 531,
+      "type": 0
+    },
+    {
+      "text": 165,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 188,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 242,
+      "type": 1
+    },
+    {
+      "text": 293,
+      "type": 0
+    },
+    {
+      "text": 441,
+      "type": 0
+    },
+    {
+      "text": 161,
+      "type": 0
+    },
+    {
+      "text": 444,
+      "type": 0
+    },
+    {
+      "text": 167,
+      "type": 0
+    },
+    {
+      "text": 305,
+      "type": 0
+    },
+    {
+      "text": 308,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 180,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 4,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 196,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 182,
+      "type": 1
+    },
+    {
+      "text": 401,
+      "type": 0
+    },
+    {
+      "text": 426,
+      "type": 0
+    },
+    {
+      "text": 335,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 234,
+      "type": 1
+    },
+    {
+      "text": 303,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 282,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 287,
+      "type": 1
+    },
+    {
+      "text": 356,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 268,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 183,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 208,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 215,
+      "type": 1
+    },
+    {
+      "text": 297,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 238,
+      "type": 1
+    },
+    {
+      "text": 428,
+      "type": 0
+    },
+    {
+      "text": 325,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 271,
+      "type": 1
+    },
+    {
+      "text": 439,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "text": 304,
+      "type": 0
+    },
+    {
+      "text": 404,
+      "type": 0
+    },
+    {
+      "text": 440,
+      "type": 0
+    },
+    {
+      "text": 328,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 231,
+      "type": 1
+    },
+    {
+      "text": 467,
+      "type": 0
+    },
+    {
+      "text": 414,
+      "type": 0
+    },
+    {
+      "text": 354,
+      "type": 0
+    },
+    {
+      "text": 379,
+      "type": 0
+    },
+    {
+      "text": 456,
+      "type": 0
+    },
+    {
+      "text": 341,
+      "type": 0
+    },
+    {
+      "name": 3,
+      "text": 375,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 223,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 205,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 175,
+      "type": 1
+    },
+    {
+      "text": 363,
+      "type": 0
+    },
+    {
+      "text": 306,
+      "type": 0
+    },
+    {
+      "text": 427,
+      "type": 0
+    },
+    {
+      "text": 380,
+      "type": 0
+    },
+    {
+      "text": 518,
+      "type": 0
+    },
+    {
+      "text": 309,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 202,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 254,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 235,
+      "type": 1
+    },
+    {
+      "text": 405,
+      "type": 0
+    },
+    {
+      "text": 425,
+      "type": 0
+    },
+    {
+      "text": 346,
+      "type": 0
+    },
+    {
+      "text": 359,
+      "type": 0
+    },
+    {
+      "text": 464,
+      "type": 0
+    },
+    {
+      "text": 337,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 256,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 262,
+      "type": 1
+    },
+    {
+      "text": 463,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 185,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 198,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 181,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 177,
+      "type": 1
+    },
+    {
+      "text": 362,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 194,
+      "type": 1
+    },
+    {
+      "text": 391,
+      "type": 0
+    },
+    {
+      "text": 534,
+      "type": 0
+    },
+    {
+      "text": 371,
+      "type": 0
+    },
+    {
+      "text": 336,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "text": 166,
+      "type": 0
+    },
+    {
+      "text": 378,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 176,
+      "type": 1
+    },
+    {
+      "text": 295,
+      "type": 0
+    },
+    {
+      "text": 403,
+      "type": 0
+    },
+    {
+      "text": 332,
+      "type": 0
+    },
+    {
+      "text": 361,
+      "type": 0
+    },
+    {
+      "name": 521,
+      "text": 522,
+      "type": 1
+    },
+    {
+      "text": 360,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 225,
+      "type": 1
+    },
+    {
+      "text": 442,
+      "type": 0
+    },
+    {
+      "text": 453,
+      "type": 0
+    },
+    {
+      "text": 298,
+      "type": 0
+    },
+    {
+      "text": 288,
+      "type": 0
+    },
+    {
+      "text": 512,
+      "type": 0
+    },
+    {
+      "text": 519,
+      "type": 0
+    },
+    {
+      "text": 315,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 184,
+      "type": 1
+    },
+    {
+      "text": 316,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "text": 320,
+      "type": 0
+    },
+    {
+      "text": 431,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 179,
+      "type": 1
+    },
+    {
+      "text": 326,
+      "type": 0
+    },
+    {
+      "text": 417,
+      "type": 0
+    },
+    {
+      "text": 310,
+      "type": 0
+    },
+    {
+      "text": 460,
+      "type": 0
+    },
+    {
+      "text": 384,
+      "type": 0
+    },
+    {
+      "name": 517,
+      "text": 169,
+      "type": 1
+    },
+    {
+      "text": 374,
+      "type": 0
+    },
+    {
+      "text": 433,
+      "type": 0
+    },
+    {
+      "text": 160,
+      "type": 0
+    },
+    {
+      "text": 515,
+      "type": 0
+    },
+    {
+      "text": 419,
+      "type": 0
+    },
+    {
+      "text": 312,
+      "type": 0
+    },
+    {
+      "text": 331,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 246,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 190,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 218,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 250,
+      "type": 1
+    },
+    {
+      "name": 411,
+      "text": 283,
+      "type": 1
+    },
+    {
+      "name": 517,
+      "text": 187,
+      "type": 1
+    },
+    {
+      "text": 383,
+      "type": 0
+    },
+    {
+      "text": 299,
+      "type": 0
+    },
+    {
+      "text": 317,
+      "type": 0
+    },
+    {
+      "text": 399,
+      "type": 0
+    },
+    {
+      "name": 411,
+      "text": 278,
+      "type": 1
+    },
+    {
+      "storage": 35,
+      "label": 7,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "6": 7
+  }
+}

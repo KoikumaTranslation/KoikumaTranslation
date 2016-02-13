@@ -1,1 +1,1122 @@
-{"names":[160,143],"strings":[{"original":"*dummy1"},{"original":"*end"},{"original":"*endscene"},{"original":"*gameend_scnsel"},{"original":"*gameend_title"},{"original":"*start"},{"original":"*startscene"},{"original":"1"},{"original":"1000"},{"original":"175ea6936a9f3cf1b1bd8326db6cabb1"},{"original":"1800"},{"original":"3000"},{"original":"900"},{"original":"MoveAction"},{"original":"acdec"},{"original":"bg"},{"original":"bg10b"},{"original":"bg11b_v"},{"original":"bgm"},{"original":"bgm10"},{"original":"bgm_BGM10"},{"original":"both"},{"original":"cg_ev_tam03a"},{"original":"cg_ev_tam03b"},{"original":"cg_syo_13a"},{"original":"crossfade"},{"original":"del"},{"original":"doBoxBlur"},{"original":"endrecollection"},{"original":"env"},{"original":"envupdate"},{"original":"ev"},{"original":"ev_tam03a"},{"original":"ev_tam03b"},{"original":"eval"},{"original":"evcut"},{"original":"event"},{"original":"exit"},{"original":"f.sceneview"},{"original":"i01_tam_03.ks"},{"original":"init"},{"original":"meswinload"},{"original":"msgoff"},{"original":"new"},{"original":"order"},{"original":"page"},{"original":"se"},{"original":"se環境音部屋ドア閉"},{"original":"se環境音部屋ドア開"},{"original":"sf.clear_tam"},{"original":"sf.replay_tam_01"},{"original":"sf.subroute"},{"original":"stage"},{"original":"start.ks"},{"original":"stopaction"},{"original":"storage"},{"original":"syo_13a"},{"original":"tama_1077"},{"original":"tama_1078"},{"original":"tama_1079"},{"original":"tama_1080"},{"original":"tama_1081"},{"original":"tama_1082"},{"original":"tama_1083"},{"original":"tama_1084"},{"original":"tama_1085"},{"original":"tama_1086"},{"original":"tama_1087"},{"original":"tama_1088"},{"original":"tama_1089"},{"original":"tama_1090"},{"original":"tama_1091"},{"original":"tama_1092"},{"original":"tama_1093"},{"original":"tama_1094"},{"original":"tama_1095"},{"original":"tama_1096"},{"original":"tama_1097"},{"original":"tama_1098"},{"original":"tama_1099"},{"original":"target"},{"original":"thlabel_endscene"},{"original":"thlabel_startscene"},{"original":"time"},{"original":"trans"},{"original":"true"},{"original":"update"},{"original":"visvalue"},{"original":"wait"},{"original":"xpos"},{"original":"ypos"},{"original":"zoomx"},{"original":"zoomy"},{"original":"zpos","lines":[23]},{"original":"「\u2026\u2026ポンコツ寮の生活も悪くなかったとは思ってるのですけども」","lines":[6]},{"original":"「あ、タマちゃん。こんなとこにいた」","lines":[33]},{"original":"「うぅぅっ\u2026\u2026！　ひぐっ、うぅぅぅぅっ\u2026\u2026！！」","lines":[58]},{"original":"「うん、タマちゃんは笑顔がいちばん可愛い」","lines":[66]},{"original":"「うん、行くのですよ」","lines":[59]},{"original":"「くす、それは蓮ちゃんに愛されてる顔だからなのですよ」","lines":[45]},{"original":"「こんなの、笑って見送るなんて無理なのです\u2026\u2026！　ふぇぇぇ\u2026\u2026！」","lines":[65]},{"original":"「じゃあ、行こうか」","lines":[25]},{"original":"「じゃあこんな感じでどう？」","lines":[22]},{"original":"「ただただあっという間で\u2026\u2026」","lines":[49]},{"original":"「だから大丈夫だよ。泣かないの」","lines":[19]},{"original":"「ったく、タマちゃんはこんな日も素直じゃないんだから」","lines":[14]},{"original":"「はっ、タマはいつだって超素直なのですよ」","lines":[40]},{"original":"「ふぇぇ\u2026\u2026！　う、うるさいのです\u2026\u2026！」","lines":[44]},{"original":"「ふぇぇぇ\u2026\u2026！　ざびじい、ざびじいのでずよぉ゛\u2026\u2026！」","lines":[10]},{"original":"「べっつにー」","lines":[55]},{"original":"「ほら、一緒に行こう？」","lines":[12]},{"original":"「まーたそんなこと言って」","lines":[30]},{"original":"「みんな、みんなここからいなくなっちゃうのです\u2026\u2026！」","lines":[53]},{"original":"「みんな打ち上げでタマちゃんのこと待ってるよ」","lines":[47]},{"original":"「タマちゃん、ほんとにお疲れ様」","lines":[36]},{"original":"「タマちゃんがヤセ我慢してるのなんか、みんな知ってるよ」","lines":[48]},{"original":"「タマちゃんが実は頑張ってたのも、みんな分かってるから」","lines":[41]},{"original":"「バハムートの娘は、こんなことくらいでふええぇえぇぇぇ\u2026\u2026！！」","lines":[16]},{"original":"「ポンコツ寮の仲間入りした時はどうなることかと思いましたが」","lines":[11]},{"original":"「今日で腐ったみかんどもと、よーやくお別れだなーと思ってただけなのです」","lines":[7]},{"original":"「何してんの、携帯も出ないし返事もないし」","lines":[21]},{"original":"「別に卒業たって風情もクソもあったもんじゃなかったですしねー」","lines":[24]},{"original":"「卒業式の風情ねぇ」","lines":[31]},{"original":"「寂しくないわけ、ないじゃないのですか\u2026\u2026！」","lines":[32]},{"original":"「強がらなくちゃ、やってられないに決まってるじゃないのですか\u2026\u2026！」","lines":[20]},{"original":"「彼氏の卒業式の日くらい、感極まって泣いたりしたらどうなの？」","lines":[54]},{"original":"「教師として、最後の仕事だよ」","lines":[13]},{"original":"「最後くらい素直になればいいのに」","lines":[46]},{"original":"「真面目に教師やってたら、そんなことできるわけないのですよ\u2026\u2026ふぇえぇぇぇ～～\u2026\u2026！！」","lines":[27]},{"original":"「蓮ちゃん\u2026\u2026」","lines":[57]},{"original":"「蓮ちゃんじゃなかったら、涙なんか余裕で我慢できちゃうのですから」","lines":[56]},{"original":"「蓮ちゃんの前だから、メソメソしちゃってるだけなのです」","lines":[15]},{"original":"「蓮ちゃんも無事に卒業証書がもらえて良かったのですね」","lines":[37]},{"original":"「言ってもほぼ三年間、ずっと一緒だったんだから」","lines":[60]},{"original":"「誰にでも見せると思ったら大間違いなのです」","lines":[51]},{"original":"いじらしいそんな思いを噛み締めながら。","lines":[62]},{"original":"いつも通りの笑顔を浮かべて深呼吸をする。","lines":[39]},{"original":"ぎゅっと強く抱きしめてあげる。","lines":[69]},{"original":"ここで得たたくさんの大事なものを抱えながら。","lines":[50]},{"original":"この小さな体で頑張ってたんだよな。","lines":[68]},{"original":"これからの未来へと新しい一歩を踏み出した。","lines":[38]},{"original":"ぽんぽんと愛しい彼女の頭を撫でて。","lines":[0,73,78]},{"original":"センセイドラゴン","lines":[10,11,14,15,16,21,22,23,27,30,31,32,33,40,41,44,45,46,56,57,59,60,66]},{"original":"タマ","lines":[28]},{"original":"タマちゃんがホワイトボードに書いた俺の文字を見て。","lines":[9]},{"original":"一人立ってホワイトボードを見てる背中に声をかける。","lines":[26]},{"original":"一番前のホワイトボードに歩み寄って、マジックを手に取る。","lines":[67]},{"original":"二人で三年間お世話になった教室を後にして。","lines":[52]},{"original":"何度もタマちゃんの頬を優しく撫で続ける。","lines":[42]},{"original":"俺の胸におでこを押し付けながら。","lines":[63]},{"original":"俺もタマちゃんの小さな手を取って。","lines":[18]},{"original":"俺もタマちゃんの隣に立って教室を見渡す。","lines":[64]},{"original":"出来るだけそっと優しく握る。","lines":[34]},{"original":"大粒の涙をポロポロとこぼしながら。","lines":[35]},{"original":"小さな手をぎゅっと握って嗚咽を堪えている。","lines":[43]},{"original":"小さな肩を震わせて俺の制服をぎゅっと掴む。","lines":[29]},{"original":"強がっていた瞳に、みるみる涙が溢れ始める。","lines":[70]},{"original":"愛しい人と手を繋いだままで\u2015\u2015","lines":[61]},{"original":"泣き腫らした目をこすりながら。"},{"original":"消","lines":[6,7,12,13,19,20,24,25,36,37,47,48,49,53,54,55,58,65]},{"original":"蓮","lines":[8]},{"original":"誰もいない教室の真ん中で。","lines":[17]},{"original":"遠い昔を思い出すようにタマちゃんが窓の外に目を細める。"}],"name":39,"lines":[{"type":3,"title":142},{"subtype":0,"type":5},{"name":160,"type":2},{"name":143,"type":2},{"subtype":0,"type":5},{"label":5,"type":6},{"name":160,"text":95,"type":1},{"name":160,"text":120,"type":1},{"text":161,"type":0},{"text":145,"type":0},{"name":143,"text":109,"type":1},{"name":143,"text":119,"type":1},{"name":160,"text":111,"type":1},{"name":160,"text":127,"type":1},{"name":143,"text":106,"type":1},{"name":143,"text":132,"type":1},{"name":143,"text":118,"type":1},{"text":162,"type":0},{"text":151,"type":0},{"name":160,"text":105,"type":1},{"name":160,"text":125,"type":1},{"name":143,"text":121,"type":1},{"name":143,"text":103,"type":1},{"name":143,"text":94,"type":1},{"name":160,"text":122,"type":1},{"name":160,"text":102,"type":1},{"text":146,"type":0},{"name":143,"text":129,"type":1},{"text":144,"type":0},{"text":156,"type":0},{"name":143,"text":112,"type":1},{"name":143,"text":123,"type":1},{"name":143,"text":124,"type":1},{"name":143,"text":96,"type":1},{"text":153,"type":0},{"text":154,"type":0},{"name":160,"text":115,"type":1},{"name":160,"text":133,"type":1},{"text":141,"type":0},{"text":137,"type":0},{"name":143,"text":107,"type":1},{"name":143,"text":117,"type":1},{"text":149,"type":0},{"text":155,"type":0},{"name":143,"text":108,"type":1},{"name":143,"text":100,"type":1},{"name":143,"text":128,"type":1},{"name":160,"text":114,"type":1},{"name":160,"text":116,"type":1},{"name":160,"text":104,"type":1},{"text":139,"type":0},{"text":135,"type":0},{"text":148,"type":0},{"name":160,"text":113,"type":1},{"name":160,"text":126,"type":1},{"name":160,"text":110,"type":1},{"name":143,"text":131,"type":1},{"name":143,"text":130,"type":1},{"name":160,"text":97,"type":1},{"name":143,"text":99,"type":1},{"name":143,"text":134,"type":1},{"text":158,"type":0},{"text":136,"type":0},{"text":150,"type":0},{"text":152,"type":0},{"name":160,"text":101,"type":1},{"name":143,"text":98,"type":1},{"text":147,"type":0},{"text":140,"type":0},{"text":138,"type":0},{"text":157,"type":0},{"storage":39,"label":0,"type":7},{"subtype":0,"type":5},{"type":3,"title":142},{"subtype":0,"type":5},{"label":0,"type":6},{"storage":39,"label":1,"type":7},{"subtype":0,"type":5},{"type":3,"title":142},{"subtype":0,"type":5},{"label":1,"type":6},{"storage":53,"label":4,"type":7}],"labels":{"0":75,"1":80,"5":5}}
+{
+  "names": [
+    160,
+    143
+  ],
+  "strings": [
+    {
+      "original": "*dummy1"
+    },
+    {
+      "original": "*end"
+    },
+    {
+      "original": "*endscene"
+    },
+    {
+      "original": "*gameend_scnsel"
+    },
+    {
+      "original": "*gameend_title"
+    },
+    {
+      "original": "*start"
+    },
+    {
+      "original": "*startscene"
+    },
+    {
+      "original": "1"
+    },
+    {
+      "original": "1000"
+    },
+    {
+      "original": "175ea6936a9f3cf1b1bd8326db6cabb1"
+    },
+    {
+      "original": "1800"
+    },
+    {
+      "original": "3000"
+    },
+    {
+      "original": "900"
+    },
+    {
+      "original": "MoveAction"
+    },
+    {
+      "original": "acdec"
+    },
+    {
+      "original": "bg"
+    },
+    {
+      "original": "bg10b"
+    },
+    {
+      "original": "bg11b_v"
+    },
+    {
+      "original": "bgm"
+    },
+    {
+      "original": "bgm10"
+    },
+    {
+      "original": "bgm_BGM10"
+    },
+    {
+      "original": "both"
+    },
+    {
+      "original": "cg_ev_tam03a"
+    },
+    {
+      "original": "cg_ev_tam03b"
+    },
+    {
+      "original": "cg_syo_13a"
+    },
+    {
+      "original": "crossfade"
+    },
+    {
+      "original": "del"
+    },
+    {
+      "original": "doBoxBlur"
+    },
+    {
+      "original": "endrecollection"
+    },
+    {
+      "original": "env"
+    },
+    {
+      "original": "envupdate"
+    },
+    {
+      "original": "ev"
+    },
+    {
+      "original": "ev_tam03a"
+    },
+    {
+      "original": "ev_tam03b"
+    },
+    {
+      "original": "eval"
+    },
+    {
+      "original": "evcut"
+    },
+    {
+      "original": "event"
+    },
+    {
+      "original": "exit"
+    },
+    {
+      "original": "f.sceneview"
+    },
+    {
+      "original": "i01_tam_03.ks"
+    },
+    {
+      "original": "init"
+    },
+    {
+      "original": "meswinload"
+    },
+    {
+      "original": "msgoff"
+    },
+    {
+      "original": "new"
+    },
+    {
+      "original": "order"
+    },
+    {
+      "original": "page"
+    },
+    {
+      "original": "se"
+    },
+    {
+      "original": "se環境音部屋ドア閉"
+    },
+    {
+      "original": "se環境音部屋ドア開"
+    },
+    {
+      "original": "sf.clear_tam"
+    },
+    {
+      "original": "sf.replay_tam_01"
+    },
+    {
+      "original": "sf.subroute"
+    },
+    {
+      "original": "stage"
+    },
+    {
+      "original": "start.ks"
+    },
+    {
+      "original": "stopaction"
+    },
+    {
+      "original": "storage"
+    },
+    {
+      "original": "syo_13a"
+    },
+    {
+      "original": "tama_1077"
+    },
+    {
+      "original": "tama_1078"
+    },
+    {
+      "original": "tama_1079"
+    },
+    {
+      "original": "tama_1080"
+    },
+    {
+      "original": "tama_1081"
+    },
+    {
+      "original": "tama_1082"
+    },
+    {
+      "original": "tama_1083"
+    },
+    {
+      "original": "tama_1084"
+    },
+    {
+      "original": "tama_1085"
+    },
+    {
+      "original": "tama_1086"
+    },
+    {
+      "original": "tama_1087"
+    },
+    {
+      "original": "tama_1088"
+    },
+    {
+      "original": "tama_1089"
+    },
+    {
+      "original": "tama_1090"
+    },
+    {
+      "original": "tama_1091"
+    },
+    {
+      "original": "tama_1092"
+    },
+    {
+      "original": "tama_1093"
+    },
+    {
+      "original": "tama_1094"
+    },
+    {
+      "original": "tama_1095"
+    },
+    {
+      "original": "tama_1096"
+    },
+    {
+      "original": "tama_1097"
+    },
+    {
+      "original": "tama_1098"
+    },
+    {
+      "original": "tama_1099"
+    },
+    {
+      "original": "target"
+    },
+    {
+      "original": "thlabel_endscene"
+    },
+    {
+      "original": "thlabel_startscene"
+    },
+    {
+      "original": "time"
+    },
+    {
+      "original": "trans"
+    },
+    {
+      "original": "true"
+    },
+    {
+      "original": "update"
+    },
+    {
+      "original": "visvalue"
+    },
+    {
+      "original": "wait"
+    },
+    {
+      "original": "xpos"
+    },
+    {
+      "original": "ypos"
+    },
+    {
+      "original": "zoomx"
+    },
+    {
+      "original": "zoomy"
+    },
+    {
+      "original": "zpos",
+      "lines": [
+        23
+      ]
+    },
+    {
+      "original": "「……ポンコツ寮の生活も悪くなかったとは思ってるのですけども」",
+      "lines": [
+        6
+      ]
+    },
+    {
+      "original": "「あ、タマちゃん。こんなとこにいた」",
+      "lines": [
+        33
+      ]
+    },
+    {
+      "original": "「うぅぅっ……！　ひぐっ、うぅぅぅぅっ……！！」",
+      "lines": [
+        58
+      ]
+    },
+    {
+      "original": "「うん、タマちゃんは笑顔がいちばん可愛い」",
+      "lines": [
+        66
+      ]
+    },
+    {
+      "original": "「うん、行くのですよ」",
+      "lines": [
+        59
+      ]
+    },
+    {
+      "original": "「くす、それは蓮ちゃんに愛されてる顔だからなのですよ」",
+      "lines": [
+        45
+      ]
+    },
+    {
+      "original": "「こんなの、笑って見送るなんて無理なのです……！　ふぇぇぇ……！」",
+      "lines": [
+        65
+      ]
+    },
+    {
+      "original": "「じゃあ、行こうか」",
+      "lines": [
+        25
+      ]
+    },
+    {
+      "original": "「じゃあこんな感じでどう？」",
+      "lines": [
+        22
+      ]
+    },
+    {
+      "original": "「ただただあっという間で……」",
+      "lines": [
+        49
+      ]
+    },
+    {
+      "original": "「だから大丈夫だよ。泣かないの」",
+      "lines": [
+        19
+      ]
+    },
+    {
+      "original": "「ったく、タマちゃんはこんな日も素直じゃないんだから」",
+      "lines": [
+        14
+      ]
+    },
+    {
+      "original": "「はっ、タマはいつだって超素直なのですよ」",
+      "lines": [
+        40
+      ]
+    },
+    {
+      "original": "「ふぇぇ……！　う、うるさいのです……！」",
+      "lines": [
+        44
+      ]
+    },
+    {
+      "original": "「ふぇぇぇ……！　ざびじい、ざびじいのでずよぉ゛……！」",
+      "lines": [
+        10
+      ]
+    },
+    {
+      "original": "「べっつにー」",
+      "lines": [
+        55
+      ]
+    },
+    {
+      "original": "「ほら、一緒に行こう？」",
+      "lines": [
+        12
+      ]
+    },
+    {
+      "original": "「まーたそんなこと言って」",
+      "lines": [
+        30
+      ]
+    },
+    {
+      "original": "「みんな、みんなここからいなくなっちゃうのです……！」",
+      "lines": [
+        53
+      ]
+    },
+    {
+      "original": "「みんな打ち上げでタマちゃんのこと待ってるよ」",
+      "lines": [
+        47
+      ]
+    },
+    {
+      "original": "「タマちゃん、ほんとにお疲れ様」",
+      "lines": [
+        36
+      ]
+    },
+    {
+      "original": "「タマちゃんがヤセ我慢してるのなんか、みんな知ってるよ」",
+      "lines": [
+        48
+      ]
+    },
+    {
+      "original": "「タマちゃんが実は頑張ってたのも、みんな分かってるから」",
+      "lines": [
+        41
+      ]
+    },
+    {
+      "original": "「バハムートの娘は、こんなことくらいでふええぇえぇぇぇ……！！」",
+      "lines": [
+        16
+      ]
+    },
+    {
+      "original": "「ポンコツ寮の仲間入りした時はどうなることかと思いましたが」",
+      "lines": [
+        11
+      ]
+    },
+    {
+      "original": "「今日で腐ったみかんどもと、よーやくお別れだなーと思ってただけなのです」",
+      "lines": [
+        7
+      ]
+    },
+    {
+      "original": "「何してんの、携帯も出ないし返事もないし」",
+      "lines": [
+        21
+      ]
+    },
+    {
+      "original": "「別に卒業たって風情もクソもあったもんじゃなかったですしねー」",
+      "lines": [
+        24
+      ]
+    },
+    {
+      "original": "「卒業式の風情ねぇ」",
+      "lines": [
+        31
+      ]
+    },
+    {
+      "original": "「寂しくないわけ、ないじゃないのですか……！」",
+      "lines": [
+        32
+      ]
+    },
+    {
+      "original": "「強がらなくちゃ、やってられないに決まってるじゃないのですか……！」",
+      "lines": [
+        20
+      ]
+    },
+    {
+      "original": "「彼氏の卒業式の日くらい、感極まって泣いたりしたらどうなの？」",
+      "lines": [
+        54
+      ]
+    },
+    {
+      "original": "「教師として、最後の仕事だよ」",
+      "lines": [
+        13
+      ]
+    },
+    {
+      "original": "「最後くらい素直になればいいのに」",
+      "lines": [
+        46
+      ]
+    },
+    {
+      "original": "「真面目に教師やってたら、そんなことできるわけないのですよ……ふぇえぇぇぇ～～……！！」",
+      "lines": [
+        27
+      ]
+    },
+    {
+      "original": "「蓮ちゃん……」",
+      "lines": [
+        57
+      ]
+    },
+    {
+      "original": "「蓮ちゃんじゃなかったら、涙なんか余裕で我慢できちゃうのですから」",
+      "lines": [
+        56
+      ]
+    },
+    {
+      "original": "「蓮ちゃんの前だから、メソメソしちゃってるだけなのです」",
+      "lines": [
+        15
+      ]
+    },
+    {
+      "original": "「蓮ちゃんも無事に卒業証書がもらえて良かったのですね」",
+      "lines": [
+        37
+      ]
+    },
+    {
+      "original": "「言ってもほぼ三年間、ずっと一緒だったんだから」",
+      "lines": [
+        60
+      ]
+    },
+    {
+      "original": "「誰にでも見せると思ったら大間違いなのです」",
+      "lines": [
+        51
+      ]
+    },
+    {
+      "original": "いじらしいそんな思いを噛み締めながら。",
+      "lines": [
+        62
+      ]
+    },
+    {
+      "original": "いつも通りの笑顔を浮かべて深呼吸をする。",
+      "lines": [
+        39
+      ]
+    },
+    {
+      "original": "ぎゅっと強く抱きしめてあげる。",
+      "lines": [
+        69
+      ]
+    },
+    {
+      "original": "ここで得たたくさんの大事なものを抱えながら。",
+      "lines": [
+        50
+      ]
+    },
+    {
+      "original": "この小さな体で頑張ってたんだよな。",
+      "lines": [
+        68
+      ]
+    },
+    {
+      "original": "これからの未来へと新しい一歩を踏み出した。",
+      "lines": [
+        38
+      ]
+    },
+    {
+      "original": "ぽんぽんと愛しい彼女の頭を撫でて。",
+      "lines": [
+        0,
+        73,
+        78
+      ]
+    },
+    {
+      "original": "センセイドラゴン",
+      "lines": [
+        10,
+        11,
+        14,
+        15,
+        16,
+        21,
+        22,
+        23,
+        27,
+        30,
+        31,
+        32,
+        33,
+        40,
+        41,
+        44,
+        45,
+        46,
+        56,
+        57,
+        59,
+        60,
+        66
+      ]
+    },
+    {
+      "original": "タマ",
+      "lines": [
+        28
+      ]
+    },
+    {
+      "original": "タマちゃんがホワイトボードに書いた俺の文字を見て。",
+      "lines": [
+        9
+      ]
+    },
+    {
+      "original": "一人立ってホワイトボードを見てる背中に声をかける。",
+      "lines": [
+        26
+      ]
+    },
+    {
+      "original": "一番前のホワイトボードに歩み寄って、マジックを手に取る。",
+      "lines": [
+        67
+      ]
+    },
+    {
+      "original": "二人で三年間お世話になった教室を後にして。",
+      "lines": [
+        52
+      ]
+    },
+    {
+      "original": "何度もタマちゃんの頬を優しく撫で続ける。",
+      "lines": [
+        42
+      ]
+    },
+    {
+      "original": "俺の胸におでこを押し付けながら。",
+      "lines": [
+        63
+      ]
+    },
+    {
+      "original": "俺もタマちゃんの小さな手を取って。",
+      "lines": [
+        18
+      ]
+    },
+    {
+      "original": "俺もタマちゃんの隣に立って教室を見渡す。",
+      "lines": [
+        64
+      ]
+    },
+    {
+      "original": "出来るだけそっと優しく握る。",
+      "lines": [
+        34
+      ]
+    },
+    {
+      "original": "大粒の涙をポロポロとこぼしながら。",
+      "lines": [
+        35
+      ]
+    },
+    {
+      "original": "小さな手をぎゅっと握って嗚咽を堪えている。",
+      "lines": [
+        43
+      ]
+    },
+    {
+      "original": "小さな肩を震わせて俺の制服をぎゅっと掴む。",
+      "lines": [
+        29
+      ]
+    },
+    {
+      "original": "強がっていた瞳に、みるみる涙が溢れ始める。",
+      "lines": [
+        70
+      ]
+    },
+    {
+      "original": "愛しい人と手を繋いだままで――",
+      "lines": [
+        61
+      ]
+    },
+    {
+      "original": "泣き腫らした目をこすりながら。"
+    },
+    {
+      "original": "消",
+      "lines": [
+        6,
+        7,
+        12,
+        13,
+        19,
+        20,
+        24,
+        25,
+        36,
+        37,
+        47,
+        48,
+        49,
+        53,
+        54,
+        55,
+        58,
+        65
+      ]
+    },
+    {
+      "original": "蓮",
+      "lines": [
+        8
+      ]
+    },
+    {
+      "original": "誰もいない教室の真ん中で。",
+      "lines": [
+        17
+      ]
+    },
+    {
+      "original": "遠い昔を思い出すようにタマちゃんが窓の外に目を細める。"
+    }
+  ],
+  "name": 39,
+  "lines": [
+    {
+      "type": 3,
+      "title": 142
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "name": 160,
+      "type": 2
+    },
+    {
+      "name": 143,
+      "type": 2
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 5,
+      "type": 6
+    },
+    {
+      "name": 160,
+      "text": 95,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 120,
+      "type": 1
+    },
+    {
+      "text": 161,
+      "type": 0
+    },
+    {
+      "text": 145,
+      "type": 0
+    },
+    {
+      "name": 143,
+      "text": 109,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 119,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 111,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 127,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 106,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 132,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 118,
+      "type": 1
+    },
+    {
+      "text": 162,
+      "type": 0
+    },
+    {
+      "text": 151,
+      "type": 0
+    },
+    {
+      "name": 160,
+      "text": 105,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 125,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 121,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 103,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 94,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 122,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 102,
+      "type": 1
+    },
+    {
+      "text": 146,
+      "type": 0
+    },
+    {
+      "name": 143,
+      "text": 129,
+      "type": 1
+    },
+    {
+      "text": 144,
+      "type": 0
+    },
+    {
+      "text": 156,
+      "type": 0
+    },
+    {
+      "name": 143,
+      "text": 112,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 123,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 124,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 96,
+      "type": 1
+    },
+    {
+      "text": 153,
+      "type": 0
+    },
+    {
+      "text": 154,
+      "type": 0
+    },
+    {
+      "name": 160,
+      "text": 115,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 133,
+      "type": 1
+    },
+    {
+      "text": 141,
+      "type": 0
+    },
+    {
+      "text": 137,
+      "type": 0
+    },
+    {
+      "name": 143,
+      "text": 107,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 117,
+      "type": 1
+    },
+    {
+      "text": 149,
+      "type": 0
+    },
+    {
+      "text": 155,
+      "type": 0
+    },
+    {
+      "name": 143,
+      "text": 108,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 100,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 128,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 114,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 116,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 104,
+      "type": 1
+    },
+    {
+      "text": 139,
+      "type": 0
+    },
+    {
+      "text": 135,
+      "type": 0
+    },
+    {
+      "text": 148,
+      "type": 0
+    },
+    {
+      "name": 160,
+      "text": 113,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 126,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 110,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 131,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 130,
+      "type": 1
+    },
+    {
+      "name": 160,
+      "text": 97,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 99,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 134,
+      "type": 1
+    },
+    {
+      "text": 158,
+      "type": 0
+    },
+    {
+      "text": 136,
+      "type": 0
+    },
+    {
+      "text": 150,
+      "type": 0
+    },
+    {
+      "text": 152,
+      "type": 0
+    },
+    {
+      "name": 160,
+      "text": 101,
+      "type": 1
+    },
+    {
+      "name": 143,
+      "text": 98,
+      "type": 1
+    },
+    {
+      "text": 147,
+      "type": 0
+    },
+    {
+      "text": 140,
+      "type": 0
+    },
+    {
+      "text": 138,
+      "type": 0
+    },
+    {
+      "text": 157,
+      "type": 0
+    },
+    {
+      "storage": 39,
+      "label": 0,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 142
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 0,
+      "type": 6
+    },
+    {
+      "storage": 39,
+      "label": 1,
+      "type": 7
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "type": 3,
+      "title": 142
+    },
+    {
+      "subtype": 0,
+      "type": 5
+    },
+    {
+      "label": 1,
+      "type": 6
+    },
+    {
+      "storage": 53,
+      "label": 4,
+      "type": 7
+    }
+  ],
+  "labels": {
+    "0": 75,
+    "1": 80,
+    "5": 5
+  }
+}
