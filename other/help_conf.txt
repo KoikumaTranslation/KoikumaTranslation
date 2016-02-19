@@ -1,0 +1,230 @@
+# コンフィグ画面ヘルプテキスト
+
+#------------------------------------------------------------------------------
+# 共通
+
+page0	page1	page2	page3	page4
+	設定項目タブを変更します。
+
+init
+	設定を初期化します。
+title
+	タイトル画面に戻ります
+exit
+	ゲームを終了します。
+back
+	前の画面に戻ります。
+
+#------------------------------------------------------------------------------
+# システム
+
+window	fullscreen
+	画面表示サイズ設定を変更します。
+
+noeffect_off	noeffect_on
+	画面エフェクトの有無を切り替えます。
+
+bganim_on	bganim_off
+	Ｈシーンアニメーションの表示を切り替えます。
+
+rtextcol_on	rtextcol_off
+	既読文章の色変更設定を切り替えます。
+
+rselcol_on	rselcol_off
+	既読選択肢の色変更設定を切り替えます。
+
+curmove_on	curmove_off
+	選択肢や確認ダイアログでマウスカーソル自動移動を有効/無効にします。
+
+ezsave_on	ezsave_off
+	ゲーム画面右端に、簡易セーブロード機能の表示を有効/無効にします。
+
+cdown_on	cdown_off
+	射精までのカウントダウンガイド表示の設定を切り替えます。
+
+hsel_s_in	hsel_s_out	hsel_s_ask	hsel_f_in	hsel_f_out	hsel_f_ask
+	射精選択の選択肢を固定化する設定を切り替えます。
+
+danmen_on	danmen_off
+	断面図カットインの表示の設定を切り替えます。
+
+#------------------------------------------------------------------------------
+# メッセージ
+
+textspeed
+	通常時のメッセージ速度を設定します。
+
+atextspeed
+	オートモード時のメッセージ速度を設定します。
+
+autospeed
+	オートモード時の自動送り速度を設定します。
+
+winopac
+	メッセージ欄の背景画像の不透明度を設定します。
+
+fshadow_on	fshadow_off
+	メッセージのフォントの影を有効/無効にします。
+
+skipread	skipall
+	スキップモードの有効範囲の設定を切り替えます。
+
+voicecut_on	voicecut_off
+	メッセージ送り時のボイス再生の停止/維持を切り替えます。
+
+autovwait_on	autovwait_off
+	オートモード時にボイス再生を最後まで待つかどうかを設定します。
+
+sample_normal	sample_auto	sample_off
+	サンプルテキスト速度表示の状態を切り替えます。
+
+
+#------------------------------------------------------------------------------
+# サウンド
+
+bgmvolume
+	BGMの音量を設定します。
+bgm_on	bgm_off
+	BGMの再生を有効/無効にします。
+
+downvolume
+	ボイス再生時のBGM音量はBGM音量以下の範囲で設定できます。
+bgmdown_on	bgmdown_off
+	ボイス再生時のBGM音量変化を有効/無効にします。
+
+sevolume
+	効果音の音量を設定します。
+se_on	se_off
+	効果音の再生を有効/無効にします。
+setest
+	効果音をテスト再生します。
+
+hsevolume
+	Ｈシーンの特殊効果音の音量を設定します。
+hse_on	hse_off
+	Ｈシーンの特殊効果音の再生を有効/無効にします。
+hsetest
+	エロ効果音をテスト再生します。
+
+bgvvolume
+	Ｈシーンのバックグラウンドボイスの音量を設定します。
+bgv_on	bgv_off
+	Ｈシーンのバックグラウンドボイスの再生を有効/無効にします。
+bgvtest
+	BGVをテスト再生します。止める時は再度クリックします。
+
+voicevolume
+	音声全体の音量を設定します。
+voice_on	voice_off
+	音声の再生を有効/無効にします。
+
+#chvoicearea
+#	キャラクターにチェックを入れて個別音量の設定を行うことができます。
+
+#autostopse_on	autostopse_off
+#	スキップモード解除時の効果音の再生を設定します。
+
+#skipstopse_on	skipstopse_off
+#	オートモード解除時の効果音の再生を設定します。
+
+stopse_on	stopse_off
+	スキップ/オートモード解除時の効果音の再生を設定します。
+
+bgmtitle_on	bgmtitle_off
+	ゲーム中に再生されるＢＧＭのタイトル表示を設定します。
+
+
+ch0
+	${getVoiceTargetName(0)}の音声の設定に切り替えます。
+ch1
+	${getVoiceTargetName(1)}の音声の設定に切り替えます。
+ch2
+	${getVoiceTargetName(2)}の音声の設定に切り替えます。
+ch3
+	${getVoiceTargetName(3)}の音声の設定に切り替えます。
+ch4
+	${getVoiceTargetName(4)}の音声の設定に切り替えます。
+ch5
+	${getVoiceTargetName(5)}の音声の設定に切り替えます。
+ch6
+	${getVoiceTargetName(6)}の音声の設定に切り替えます。
+ch7
+	${getVoiceTargetName(7)}の音声の設定に切り替えます。
+ch8
+	${getVoiceTargetName(8)}の音声の設定に切り替えます。
+ch9
+	${getVoiceTargetName(9)}の音声の設定に切り替えます。
+ch10
+	${getVoiceTargetName(10)}の音声の設定に切り替えます。
+ch11
+	${getVoiceTargetName(11)}の音声の設定に切り替えます。
+ch12
+	${getVoiceTargetName(12)}の音声の設定に切り替えます。
+
+chv_on	chv_off
+	${getVoiceTargetName()!=""?getVoiceTargetName()+"の":""}音声再生のＯＮ・ＯＦＦを設定します。
+
+chvolume	chvolume_rail
+	${getVoiceTargetName()!=""?getVoiceTargetName()+"の":""}音声の音量を調整します。
+
+chvtest
+	サンプルボイスをテスト再生します。
+
+sysvoice_on	sysvoice_off
+	システムボイスの再生を有効/無効にします。
+
+sysvotarget	sysvo_up,	sysvo_down
+	システムボイスのキャラクターを変更します。
+
+sysvo_clrvo
+	${SystemVoice.chartype=='5人'?"クリアしたキャラのみクリア後のボイスパターンに変更します":"システムボイスをクリア後のボイスパターンに変更します"}。
+
+
+#------------------------------------------------------------------------------
+# ダイアログ
+
+cf_save_on	cf_save_off
+	セーブ時の確認ダイアログの表示設定を切り替えます。
+
+cf_overwrite_on	cf_overwrite_off
+	セーブ上書き時の確認ダイアログの表示設定を切り替えます。
+
+cf_load_on	cf_load_off
+	ロード時の確認ダイアログの表示設定を切り替えます。
+
+cf_qsave_on	cf_qsave_off
+	クイックセーブ時の確認ダイアログの表示設定を切り替えます。
+
+cf_qload_on	cf_qload_off
+	クイックロード時の確認ダイアログの表示設定を切り替えます。
+
+cf_jump_on	cf_jump_off
+	バックログジャンプ時の確認ダイアログの表示設定を切り替えます。
+
+cf_next_on	cf_next_off
+	次の選択肢へ進む時の確認ダイアログの表示設定を切り替えます。
+
+cf_backto_on	cf_backto_off
+	前の選択肢へ戻る時の確認ダイアログの表示設定を切り替えます。
+
+cf_title_on	cf_title_off
+	タイトルに戻る時の確認ダイアログの表示設定を切り替えます。
+
+cf_exit_on	cf_exit_off
+	終了時の確認ダイアログの表示設定を切り替えます。
+
+cf_init_on	cf_init_off
+	初期化時の確認ダイアログの表示設定を切り替えます。
+
+cf_quitreplay_on	cf_quitreplay_off
+	鑑賞画面へ戻る時の確認ダイアログの表示設定を切り替えます。
+
+cf_resetpos_on	cf_resetpos_off
+	初期位置に戻す時の確認ダイアログの表示設定を切り替えます。
+
+
+
+#------------------------------------------------------------------------------
+# ショートカット
+
+# ※設定項目無し
