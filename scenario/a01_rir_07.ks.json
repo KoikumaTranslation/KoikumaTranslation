@@ -100,9 +100,6 @@
       "original": "1800"
     },
     {
-      "original": "1d2520338f5c74a5b0122ece80e93fbf"
-    },
-    {
       "original": "2000"
     },
     {
@@ -586,7 +583,7 @@
       "original": "doBoxBlur"
     },
     {
-      "original": "ed"
+      "original": "ed_riria"
     },
     {
       "original": "emiri_0528"
@@ -788,6 +785,9 @@
     },
     {
       "original": "fade"
+    },
+    {
+      "original": "fb4650502433c9cb45bf8e1d613e1a11"
     },
     {
       "original": "file"
@@ -9206,7 +9206,7 @@
       "original": "頭が熱を帯びて、思考がふわふわする……。"
     }
   ],
-  "name": 59,
+  "name": 58,
   "lines": [
     {
       "type": 3,
@@ -10162,7 +10162,7 @@
       "type": 0
     },
     {
-      "storage": 59,
+      "storage": 58,
       "label": 9,
       "type": 7
     },
@@ -12901,7 +12901,7 @@
       "type": 0
     },
     {
-      "storage": 59,
+      "storage": 58,
       "label": 10,
       "type": 7
     },
@@ -13781,7 +13781,7 @@
       "type": 0
     },
     {
-      "storage": 59,
+      "storage": 58,
       "label": 11,
       "type": 7
     },
@@ -13802,7 +13802,7 @@
       "type": 6
     },
     {
-      "storage": 59,
+      "storage": 58,
       "label": 12,
       "type": 7
     },

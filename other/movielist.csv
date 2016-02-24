@@ -1,0 +1,22 @@
+# ●ムービーモード一覧
+#
+thum_mv_rir11,ev_rir11e,	moviemode.ks*rir11,@cg_MOV_RIR11Q
+thum_mv_rir12,ev_rir12c,	moviemode.ks*rir12,@cg_MOV_RIR12O
+thum_mv_emi12,ev_emi12c,	moviemode.ks*emi12,@cg_MOV_EMI12L
+thum_mv_emi14,ev_emi14a,	moviemode.ks*emi14,@cg_MOV_EMI14O
+#
+thum_mv_yuu10,ev_yuu10e,	moviemode.ks*yuu10,@cg_MOV_YUU10H
+thum_mv_yuu12,ev_yuu12g,	moviemode.ks*yuu12,@cg_MOV_YUU12N
+thum_mv_aru08,ev_aru08_2c,	moviemode.ks*aru08,@cg_MOV_ARU08_2H
+thum_mv_aru09,ev_aru09c,	moviemode.ks*aru09,@cg_MOV_ARU09I
+#
+thum_mv_miy13,ev_miy13a,	moviemode.ks*miy13,@cg_MOV_MIY13O
+thum_mv_miy14,ev_miy13a,	moviemode.ks*miy14,@cg_MOV_MIY14K
+#
+thum_mv_op,,			moviemode.ks*op,@
+thum_mv_ed,,			moviemode.ks*ed,@
+thum_mv_riria,,			moviemode.ks*ed_rir,@clear_rir
+thum_mv_emiri,,			moviemode.ks*ed_emi,@clear_emi
+thum_mv_yuu,,			moviemode.ks*ed_yuu,@clear_yuu
+thum_mv_aruru,,			moviemode.ks*ed_aru,@clear_aru
+thum_mv_miyabi,,		moviemode.ks*ed_miy,@clear_miy
